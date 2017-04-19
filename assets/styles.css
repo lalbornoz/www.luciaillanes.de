@@ -1,0 +1,80 @@
+/*
+ * {{{ Global styles
+ */
+a:link {
+  color:                #314E94;
+  text-decoration:      none;
+}
+a:visited {
+  color:                #382B3D;
+  text-decoration:      none;
+}
+a:hover {
+  text-decoration:      underline;
+}
+body {
+  background-image:     url("bg_final50.jpg");
+  font-family:          Palatino;
+  font-size:            1em;
+}
+/* }}} */
+/*
+ * {{{ Paragraph class styles, in order of appearance
+ */
+.p-legend {
+  background-color:     rgba(255,255,255,0.75);
+  margin:               auto;
+  padding:              3em;
+  text-align:           center;
+  width:                50%;
+}
+.p-content {
+  background-color:     rgba(255,255,255,0.75);
+  font-family:          'Asar', serif;
+  margin:               auto;
+  padding:              1em;
+  text-align:           left;
+  width:                50%;
+}
+.p-menu {
+  background-color:     rgba(255,255,255,0.75);
+  font-size:            0.8em;
+  font-weight:          bold;
+  margin:               auto;
+  padding:              0.5em;
+  text-align:           center;
+  font-variant:         small-caps;
+  width:                80%;
+}
+.p-copyright {
+  background-color:     rgba(255,255,255,0.75);
+  font-size:            0.6em;
+  margin:               auto;
+  padding:              1em;
+  text-align:           center;
+  width:                80%;
+}
+/* }}} */
+/*
+ * {{{ {DIV,SPAN} layout class styles, in order of appearance
+ */
+.div-empty1 {
+  height:               2.5em;
+}
+.div-empty2 {
+  height:               1em;
+}
+.div-empty3 {
+  height:               5em;
+}
+.span-heading1 {
+  font-size:            2em;
+}
+.span-heading2 {
+  font-size:            0.75em;
+}
+/* }}} */
+
+/*
+ * vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=0
+ */
