@@ -34,17 +34,19 @@
         Zu guter Letzt setzte der ursprüngliche Notifier sowohl Event notification als auch Inter-thread IPC durch einen eigenen Notifier Thread um. Multithreading, insbesondere sofern unberechtigt, bringt zusätzliche Komplexität mit sich und führt oft zu ebenso komplexen Probleme, wie z.B. Race conditions, Priority inversions, usw. usf. Daher rufen die neuen Notifier epoll(7)/kqueue(2) im Threadkontext des Aufrufers ohne dabei neue Threads selber beizusteuern. Die Inter-thread IPC-Frage wurde, nach einiger Debatte auf der Mailingliste und IRC, mit einer Trigger pipe(2) auf *BSD und eventfd(2) auf Linux pro Thread gelöst. Hierdurch fügt dies einen File descriptor pro Thread, insofern dieser mit dem Notifier interagiert, und zwei bzw. einen File descriptor für Inter-thread IPC auf *BSD bzw. Linux hinzu. Da dies zu einem bedeutenden Verlust an Codekomplexität aufgrund der Entfernung des Notifier threads führt, ist dies jedoch von geringer Konsequenz. Insbesondere werden keine File descriptors implizit zwischen Threads verteilt oder benutzt, insoweit der Notifier betroffen ist.
       </p>
 
-      <span style="font-size: 1em; font-variant: small-caps;">Links</span><br />
-      [1]  <a href="http://www.midipix.org/">midipix</a><br />
-      [2]  <a href="https://www.cygwin.com/">Cygwin</a><br />
-      [3]  <a href="https://technet.microsoft.com/en-us/library/bb463204.aspx">Windows Services for UNIX Version 3.0</a><br />
-      [4]  <a href="https://github.com/lalbornoz/midipix_build">GitHub - lalbornoz/midipix_build: Unified build Bourne shell script for midipix</a><br />
-      [5]  <a href="https://de.wikipedia.org/wiki/Tcl">Tcl – Wikipedia</a><br />
-      [6]  <a href="http://wiki.tcl.tk/983">Tcl Improvement Proposal</a><br />
-      [7]  <a href="https://github.com/flightaware/Tcl-bounties">GitHub - flightaware/Tcl-bounties: Bounty program for improvements to Tcl and certain Tcl packages</a><br />
-      [8]  <a href="https://www.flightaware.com/">FlightAware - Flug-Tracker / Flugstatus / Flugverfolgung</a><br />
-      [9]  <a href="https://github.com/flightaware/Tcl-bounties/issues/14">[TIP] Intent to implement epoll()/kqueue() support for sockets on Linux/FreeBSD · Issue #14 · flightaware/Tcl-bounties · GitHub</a><br />
-      [10] <a href="https://www.tcl.tk/cgi-bin/tct/tip/458.html">TIP #458: Add Support for epoll() and kqueue() in the Notifier</a><br />
+      <p style="font-size: 0.75em">
+        <span style="font-size: 1em; font-variant: small-caps;">Links</span><br />
+        [1] <a href="http://www.midipix.org/">midipix</a><br />
+        [2] <a href="https://www.cygwin.com/">Cygwin</a><br />
+        [3] <a href="https://technet.microsoft.com/en-us/library/bb463204.aspx">Windows Services for UNIX Version 3.0</a><br />
+        [4] <a href="https://github.com/lalbornoz/midipix_build">GitHub - lalbornoz/midipix_build: Unified build Bourne shell script for midipix</a><br />
+        [5] <a href="https://en.wikipedia.org/wiki/Tcl">Tcl – Wikipedia</a><br />
+        [6] <a href="http://wiki.tcl.tk/983">Tcl Improvement Proposal</a><br />
+        [7] <a href="https://github.com/flightaware/Tcl-bounties">GitHub - flightaware/Tcl-bounties: Bounty program for improvements to Tcl and certain Tcl packages</a><br />
+        [8] <a href="https://www.flightaware.com/">FlightAware - Flug-Tracker / Flugstatus / Flugverfolgung</a><br />
+        [9] <a href="https://github.com/flightaware/Tcl-bounties/issues/14">[TIP] Intent to implement epoll()/kqueue() support for sockets on Linux/FreeBSD · Issue #14 · flightaware/Tcl-bounties · GitHub</a><br />
+        [10] <a href="https://www.tcl.tk/cgi-bin/tct/tip/458.html">TIP #458: Add Support for epoll() and kqueue() in the Notifier</a><br />
+      </p>
     </div>
 
   <!--
