@@ -1,0 +1,283 @@
+%
+% Copyright (c) 2017 Lucía Andrea Illanes Albornoz <lucia@luciaillanes.de>
+%
+% {{{ Licence body
+% Permission is hereby granted, free of charge, to any person obtaining a copy
+% of this software and associated documentation files (the "Software"), to deal
+% in the Software without restriction, including without limitation the rights
+% to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+% copies of the Software, and to permit persons to whom the Software is
+% furnished to do so, subject to the following conditions:
+%
+% The above copyright notice and this permission notice shall be included in all
+% copies or substantial portions of the Software.
+%
+% THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+% IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+% FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+% AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+% LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+% OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+% SOFTWARE.
+% }}}
+%
+
+\documentclass{article}
+
+% {{{ Packages
+\usepackage{caption}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage{geometry}
+\usepackage{iflang}
+\usepackage{tabularx}
+\usepackage{url}
+\usepackage{xifthen}
+\usepackage[final]{pdfpages}
+\usepackage[ngerman,british]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+% }}}
+% {{{ Formats and types
+\captionsetup[table]{
+  aboveskip=7.5pt,
+  font={bf,small},
+  labelformat=empty,
+  singlelinecheck=false}
+\newcolumntype{b}{
+  p{150pt}|}
+\newcolumntype{s}{
+  *5{>{\arraybackslash}X}}
+\setenumerate{
+  itemsep=0pt,
+  parsep=0pt}
+% }}}
+% {{{ Page setup
+\geometry{
+  a4paper,
+  margin=0.5in,
+  top=0.75in}
+\makeatletter
+\setlength{\@fptop}{0pt}
+\makeatother
+\fancyhf{}
+\pagestyle{fancy}
+% }}}
+
+\begin{document}
+% {{{ Internationalisation
+\babeltags{de = ngerman}
+\babeltags{en = british}
+\expandafter\selectlanguage\expandafter{\varLang}
+% }}}
+% {{{ Header legend
+\ifthenelse{\equal{\varPrivate}{1}} {
+  \IfLanguageName{british}{
+    \chead{Last update: 27th May 2017 · Character references included on pages 2-3}
+  } {
+    \chead{Zuletzt geändert am: 27. Mai 2017 · Enthält Referenzen auf Seiten 2-3}
+  }
+} {
+  \IfLanguageName{british}{
+    \chead{Last update: 27th May 2017 · Public version, character references available on request}
+  } {
+    \chead{Zuletzt geändert am: 27. Mai 2017 · Öffentliche Version, Referenzen auf Anfrage verfügbar}
+  }
+}
+% }}}
+
+\begin{table}
+  \centering{\title*{\huge{Curriculum Vitae}}}
+  % {{{ Personal details
+  \IfLanguageName{british}{
+    % {{{ English
+    \caption{}
+    \begin{tabularx}{\linewidth}{bs}
+      \bf{Name} & Lucía Andrea Illanes Albornoz\\
+      Email address & \url{lucia@luciaillanes.de}\\
+      Mobile telephone number & +49 1623 714 810\\
+      Address & Nagelsweg 16, 20097 Hamburg, Germany\\
+      Date of Birth & 13 August 1987\\
+      Nationalities & Chilean, German\\
+      GitHub & \url{https://git.io/vS4CG}\\
+      Website & \url{https://www.luciaillanes.de/}
+    \end{tabularx}
+    % }}}
+  }{
+    % {{{ German
+    \caption{}
+    \begin{tabularx}{\linewidth}{bs}
+      \bf{Name} & Lucía Andrea Illanes Albornoz\\
+      E-Mail-Adresse & \url{lucia@luciaillanes.de}\\
+      Telefonnummer & +49 1623 714 810\\
+      Adresse & Nagelsweg 16, 20097 Hamburg, Deutschland\\
+      Geburtstag & 13. August 1987\\
+      Staatsangehörigkeit & Chilenisch, Deutsch\\
+      GitHub & \url{https://git.io/vS4CG}\\
+      Webseite & \url{https://www.luciaillanes.de/}
+    \end{tabularx}
+    % }}}
+  }
+  % }}}
+  % {{{ Software development
+  \IfLanguageName{british}{
+    % {{{ English
+    \caption{Software development}
+    \begin{tabularx}{\linewidth}{bs}
+      Programming areas & Systems \& network programming on Linux, *BSD \& Windows\\
+      Languages and tools & C, Tcl, BSD \& GNU development environments, gdb, Qemu; amd/x86 \& MIPS assembler, C++, Lua, Python \& WinDbg: some experience
+    \end{tabularx}
+    % }}}
+  }{
+    % {{{ German
+    \caption{Softwareentwicklung}
+    \begin{tabularx}{\linewidth}{bs}
+      Hauptfelder & System- \& Netzwerkprogramming auf Linux, *BSD \& Windows\\
+      Sprachen und Tools & C, Tcl, BSD- \& GNU-Entwicklungsumgebungen, gdb, Qemu; ferner amd/x86- \& MIPS-Assembler, C++, Lua, Python \& WinDbg
+    \end{tabularx}
+    % }}}
+  }
+  % }}}
+  % {{{ System administration
+  \IfLanguageName{british}{
+    % {{{ English
+    \caption{System administration}
+    \begin{tabularx}{\linewidth}{bs}
+      Platforms and servers & Debian/-derived Linux, Free/Net/OpenBSD, ircd-hybrid, nginx \\
+      Scripting and automation & Ansible, Bourne/Bash/Z shell, BSD rc, systemd, Perl, rsync\\
+      Roles and technologies & iptables \& pf-based firewalls, IPsec \& OpenVPN, LXC \& cgroups, ZFS
+    \end{tabularx}
+    % }}}
+  }{
+    % {{{ German
+    \caption{Systemsadministration}
+    \begin{tabularx}{\linewidth}{bs}
+      Systeme und Server & Debian/-deriviertes Linux, Free/Net/OpenBSD, ircd-hybrid, nginx\\
+      Scripting und Automatisierung & Ansible, Bourne/Bash/Z shell, BSD rc, systemd, Perl, rsync\\
+      Serverrollen und Technologien & iptables \& pf-basierte firewalls, IPsec \& OpenVPN, LXC \& cgroups, ZFS
+    \end{tabularx}
+    % }}}
+  }
+  % }}}
+  % {{{ Project involvement
+  \IfLanguageName{british}{
+    % {{{ English
+    \caption{Project involvement}
+    \begin{tabularx}{\linewidth}{bs}
+      February 2016-ongoing & \bf{midipix\_build: build/cross-compilation infrastructure for midipix, a POSIX/Linux-compatible development/runtime environment for Windows}
+    \end{tabularx}
+    \begin{enumerate}
+      \item Automatically cross-builds ca. 150 packages covering the toolchain, runtime components \& 3rd party software.
+      \item Written in reasonably portable Bourne shell, ca. 1500 SLOC, pragmatically modular.
+      \item Flexible \& lightweight infrastructure - has proven itself towards maturity over the course of ca. 1 year.
+    \end{enumerate}
+    \begin{tabularx}{\linewidth}{bs}
+      November 2016-December 2016 & \bf{Tcl TIP \#458: design and implementation of epoll/kqueue support in the Tcl notifier on Linux/*BSD, resp. for Tcl, a high-level, general-purpose, interpreted, dynamic programming language (FlightAware bounty programme)}
+    \end{tabularx}
+    \begin{enumerate}
+      \item Tcl's original event-based architecture based on select(2) had scalability and code complexity concerns.
+      \item On Linux/*BSD, epoll/kqueue is now used instead, which eliminates a major bottleneck in event-heavy code.
+      \item Code complexity was reduced as the code is no longer unnecessarily multi-threaded, without breaking multi-threaded Tcl or C code.
+    \end{enumerate}
+    % }}}
+  }{
+    % {{{ German
+    \caption{Projektbeteiligungen}
+    \begin{tabularx}{\linewidth}{bs}
+      Seit Februar 2016 & \bf{midipix\_build: build/cross-compilation-Infrastruktur für Midipix, eine POSIX/Linux-kompatible Entwicklungs/Endnutzerumgebung für Windows}
+    \end{tabularx}
+    \begin{enumerate}
+      \item Automatisierter Cross-build von ca. 150 Paketen wie der Toolchain, Runtime components \& Software dritter.
+      \item Umgesetzt als relativ portables Bourne-Skellskript, ca. 1500 SLOC, pragmatisch Modular.
+      \item Flexible \& lightweight Infrastruktur - hat sich über den Verlauf von ca. 1 Jahr als Zuverlässig bewährt.
+    \end{enumerate}
+    \begin{tabularx}{\linewidth}{bs}
+      November 2016-Dezember 2016 & \bf{Tcl TIP \#458: Entwurf und Umsetzung der epoll/kqueue-Unterstützung im Tcl notifier auf Linux bzw. *BSD (FlightAware bounty programme)}
+    \end{tabularx}
+    \begin{enumerate}
+      \item Tcl's ursprüngliche Event-basierte Architektur auf der Basis von select(2) hat Skalabilitäts- und Codekomplexitätsprobleme.
+      \item Auf Linux/*BSD wird nun epoll/kqueue benutzt, wodurch ein bedeutender Flaschenhals in I/O-gebundenem Code eliminiert wurde.
+      \item Codekomplexität wurde verringert, da der neue Code lediglich einen Thread benutzt, ohne dabei Tcl oder C code mit Multi-threading nicht mehr zu unterstützen.
+    \end{enumerate}
+    % }}}
+  }
+  % }}}
+  % {{{ Work experience
+  \IfLanguageName{british}{
+    % {{{ English
+    \caption{Work experience}
+    \begin{tabularx}{\linewidth}{bs}
+      2003 & \bf{Sasol Germany, Hamburg} (Internship)\\
+      Responsibilities/role & Internal help desk/support on Windows platforms\\
+      2002 & \bf{Compaq Computer Corporation, Hamburg} (Internship)\\
+      Responsibilities/role & Corporate customer support on OpenVMS platforms
+    \end{tabularx}
+    % }}}
+  }{
+    % {{{ German
+    \caption{Arbeitserfahrung}
+    \begin{tabularx}{\linewidth}{bs}
+      2003 & \bf{Sasol Germany, Hamburg} (Praktikum)\\
+      Verantwortungen/Aufgaben & Betriebsinternes Help desk/Support auf Windows-Systemen\\
+      2002 & \bf{Compaq Computer Corporation, Hamburg} (Praktikum)\\
+      Verantwortungen/Aufgaben & Firmenkundenbetreuung auf OpenVMS-Systemen
+    \end{tabularx}
+    % }}}
+  }
+  % }}}
+  % {{{ Languages (CEFR levels given are personal judgments unless specified otherwise)
+  \IfLanguageName{british}{
+    % {{{ English
+    \caption{Languages (CEFR levels given are personal judgments unless specified otherwise)}
+    \begin{tabularx}{\linewidth}{bs}
+      Paternal language & Spanish (CEFR: C1)\\
+      Maternal language & German (CEFR: C1)\\
+      1st foreign language & English (CEFR: C1; at Colón Language Center Hamburg: A)\\
+      2nd foreign language & Classical Arabic, some dialects (CEFR: A2)
+    \end{tabularx}
+    % }}}
+  }{
+    % {{{ German
+    \caption{Sprachen (GeR-Stufen nach persönlicher Beurteilung sofern nicht anders angegeben)}
+    \begin{tabularx}{\linewidth}{bs}
+      Vatersprache & Spanisch (GeR: C1)\\
+      Muttersprache & Deutsch (GeR: C1)\\
+      1ste Fremdsprache & Englisch (GeR: C1; Colón Language Center Hamburg: 1)\\
+      2te Fremdsprache & Klassisches Arabic, manche Dialekte (GeR: A2)
+    \end{tabularx}
+    % }}}
+  }
+  % }}}
+  % {{{ Educational career
+  \IfLanguageName{british}{
+    % {{{ English
+    \caption{Educational career}
+    \begin{tabularx}{\linewidth}{bs}
+      Degree(s) attained & \bf{Mittlere Reife/MSA, equivalent to GCSE in the UK}\\
+      Sep. 2015-Jan. 2017 & Deutsche Angestelltenakademie (MSA course)\\
+      Aug. 2001-Feb. 2004 & Integrierte Gesamtschule Walddörfer, Hamburg
+    \end{tabularx}
+    % }}}
+  }{
+    % {{{ German
+    \caption{Bildung}
+    \begin{tabularx}{\linewidth}{bs}
+      Schulabschluss & \bf{Mittlere Reife}\\
+      Sep. 2015-Jan 2017 & Deutsche Angestelltenakademie (MSA-Kurs)\\
+      Aug. 2001-Feb. 2004 & Integrierte Gesamtschule Walddörfer, Hamburg
+    \end{tabularx}
+    % }}}
+  }
+  % }}}
+\end{table}
+
+% {{{ Character references
+\ifthenelse{\equal{\varPrivate}{1}} {
+  \clearpage
+  \includepdf[pages=-, offset=5 -5]{Reference1.pdf}
+}
+% }}}
+
+\end{document}
+
+% vim:expandtab fenc=utf-8 sw=2 ts=2 tw=0
