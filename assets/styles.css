@@ -33,7 +33,7 @@ body {
   margin:               auto;
   padding:              1em;
   text-align:           left;
-  width:                50%;
+  width:                70%;
 }
 .p-menu {
   background-color:     rgba(255,255,255,0.75);
@@ -43,7 +43,7 @@ body {
   padding:              0.5em;
   text-align:           center;
   font-variant:         small-caps;
-  width:                80%;
+  width:                60%;
 }
 .p-copyright {
   background-color:     rgba(255,255,255,0.75);
