@@ -30,6 +30,7 @@
 \usepackage{fancyhdr}
 \usepackage{geometry}
 \usepackage{iflang}
+\usepackage{newcent}
 \usepackage{tabularx}
 \usepackage{url}
 \usepackage{xifthen}
@@ -45,7 +46,9 @@
   labelformat=empty,
   singlelinecheck=false}
 \newcolumntype{b}{
-  p{150pt}|}
+  p{130pt}|}
+\newcolumntype{c}{
+  p{130pt}}
 \newcolumntype{s}{
   *5{>{\arraybackslash}X}}
 \setenumerate{
@@ -79,7 +82,7 @@
   }
 } {
   \IfLanguageName{british}{
-    \chead{Last update: \today~· Public version, character references available on request}
+    \chead{Last update: \today~· Public version, character references available upon request}
   } {
     \chead{Zuletzt geändert am: \today~· Öffentliche Version, Referenzen auf Anfrage verfügbar}
   }
@@ -87,35 +90,34 @@
 % }}}
 
 \begin{table}
-  \centering{\title*{\huge{Curriculum Vitae}}}
   % {{{ Personal details
   \IfLanguageName{british}{
     % {{{ English
-    \caption{}
-    \begin{tabularx}{\linewidth}{bs}
-      \bf{Name} & Lucía Andrea Illanes Albornoz\\
-      Email address & \url{lucia@luciaillanes.de}\\
-      Mobile telephone number & +49 1623 714 810\\
-      Address & Nagelsweg 16, 20097 Hamburg, Germany\\
-      Date of Birth & 13 August 1987\\
-      Nationalities & Chilean, German\\
-      GitHub & \url{https://git.io/vS4CG}\\
-      Website & \url{https://www.luciaillanes.de/}
+    \captionsetup{justification=centering}
+    \caption{\huge{Lucía Andrea Illanes Albornoz}}
+    \captionsetup{justification=justified}
+    \footnotesize
+    \begin{tabularx}{\linewidth}{lllllll}
+      Email & Mobile phone number & Address & Nationality\\
+      \url{lucia@luciaillanes.de} & +49 1623 714 810 & Nagelsweg 16, 20097 Hamburg, Germany & Chilean, German\\
+      GitHub & Website\\
+      \url{https://git.io/vS4CG} & \url{https://www.luciaillanes.de/}
     \end{tabularx}
+    \normalsize
     % }}}
   }{
     % {{{ German
-    \caption{}
-    \begin{tabularx}{\linewidth}{bs}
-      \bf{Name} & Lucía Andrea Illanes Albornoz\\
-      E-Mail-Adresse & \url{lucia@luciaillanes.de}\\
-      Telefonnummer & +49 1623 714 810\\
-      Adresse & Nagelsweg 16, 20097 Hamburg, Deutschland\\
-      Geburtstag & 13. August 1987\\
-      Staatsangehörigkeit & Chilenisch, Deutsch\\
-      GitHub & \url{https://git.io/vS4CG}\\
-      Webseite & \url{https://www.luciaillanes.de/}
+    \captionsetup{justification=centering}
+    \caption{\huge{Lucía Andrea Illanes Albornoz}}
+    \captionsetup{justification=justified}
+    \footnotesize
+    \begin{tabularx}{\linewidth}{lllllll}
+      E-Mail-Adresse & Telefonnummer & Adresse & Staatsangehörigkeit\\
+      \url{lucia@luciaillanes.de} & +49 1623 714 810 & Nagelsweg 16, 20097 Hamburg & Deutsch. Chilenisch\\
+      GitHub & Webseite\\
+      \url{https://git.io/vS4CG} & \url{https://www.luciaillanes.de/}
     \end{tabularx}
+    \normalsize
     % }}}
   }
   % }}}
@@ -123,7 +125,7 @@
   \IfLanguageName{british}{
     % {{{ English
     \caption{Software development}
-    \begin{tabularx}{\linewidth}{bs}
+    \begin{tabularx}{\linewidth}{cs}
       Programming areas & Systems \& network programming on Linux, *BSD \& Windows\\
       Languages and tools & C, Tcl, BSD \& GNU development environments, gdb, Qemu; amd/x86 \& MIPS assembler, C++, Lua, Python \& WinDbg: some experience
     \end{tabularx}
@@ -131,7 +133,7 @@
   }{
     % {{{ German
     \caption{Softwareentwicklung}
-    \begin{tabularx}{\linewidth}{bs}
+    \begin{tabularx}{\linewidth}{cs}
       Hauptfelder & System- \& Netzwerkprogramming auf Linux, *BSD \& Windows\\
       Sprachen und Tools & C, Tcl, BSD- \& GNU-Entwicklungsumgebungen, gdb, Qemu; ferner amd/x86- \& MIPS-Assembler, C++, Lua, Python \& WinDbg
     \end{tabularx}
@@ -142,7 +144,7 @@
   \IfLanguageName{british}{
     % {{{ English
     \caption{Systems engineering \& system administration}
-    \begin{tabularx}{\linewidth}{bs}
+    \begin{tabularx}{\linewidth}{cs}
       Platforms and servers & Debian/-derived Linux, Free/Net/OpenBSD, ircd-hybrid, nginx \\
       Scripting and automation & Ansible, Bourne/Bash/Z shell, BSD rc, systemd, Perl, rsync\\
       Roles and technologies & iptables \& pf-based firewalls, IPsec \& OpenVPN, LXC \& cgroups, ZFS
@@ -151,9 +153,9 @@
   }{
     % {{{ German
     \caption{Systems engineering \& Systemadministration}
-    \begin{tabularx}{\linewidth}{bs}
+    \begin{tabularx}{\linewidth}{cs}
       Plattformen und Server & Debian/-deriviertes Linux, Free/Net/OpenBSD, ircd-hybrid, nginx\\
-      Scripting und Automatisierung & Ansible, Bourne/Bash/Z shell, BSD rc, systemd, Perl, rsync\\
+      Scripting, Automatisierung & Ansible, Bourne/Bash/Z shell, BSD rc, systemd, Perl, rsync\\
       Serverrollen und Technologien & iptables \& pf-basierte Firewalls, IPsec \& OpenVPN, LXC \& cgroups, ZFS
     \end{tabularx}
     % }}}
@@ -163,16 +165,16 @@
   \IfLanguageName{british}{
     % {{{ English
     \caption{Project involvement}
-    \begin{tabularx}{\linewidth}{bs}
-      February 2016-ongoing & \bf{midipix\_build: build/cross-compilation infrastructure for midipix, a POSIX/Linux-compatible development/runtime environment for Windows}
+    \begin{tabularx}{\linewidth}{cs}
+      Feb. 2016-ongoing & \bf{midipix\_build: build/cross-compilation infrastructure for midipix, a POSIX/Linux-compatible development/runtime environment for Windows}
     \end{tabularx}
     \begin{enumerate}
       \item Automatically cross-builds ca. 150 packages covering the toolchain, runtime components \& 3rd party software.
       \item Written in reasonably portable Bourne shell, ca. 1500 SLOC, pragmatically modular.
       \item Flexible \& lightweight infrastructure - has proved itself reliable over the course of ca. 1 year.
     \end{enumerate}
-    \begin{tabularx}{\linewidth}{bs}
-      November 2016-December 2016 & \bf{Tcl TIP \#458: design and implementation of epoll/kqueue support in the Tcl notifier on Linux/*BSD, resp. for Tcl, a high-level, general-purpose, interpreted, dynamic programming language (FlightAware bounty programme)}
+    \begin{tabularx}{\linewidth}{cs}
+      Nov. 2016-Dec. 2016 & \bf{Tcl TIP \#458: design and implementation of epoll/kqueue support in the Tcl notifier on Linux/*BSD, resp. for Tcl, a high-level, general-purpose, interpreted, dynamic programming language (FlightAware bounty programme)}
     \end{tabularx}
     \begin{enumerate}
       \item Tcl's original event-based architecture based on select(2) had scalability and code complexity concerns.
@@ -183,16 +185,16 @@
   }{
     % {{{ German
     \caption{Projektbeteiligungen}
-    \begin{tabularx}{\linewidth}{bs}
-      Seit Februar 2016 & \bf{midipix\_build: build/cross-compilation-Infrastruktur für Midipix, eine POSIX/Linux-kompatible Entwicklungs/Endnutzerumgebung für Windows}
+    \begin{tabularx}{\linewidth}{cs}
+      Seit Feb. 2016 & \bf{midipix\_build: build/cross-compilation-Infrastruktur für Midipix, eine POSIX/Linux-kompatible Entwicklungs/Endnutzerumgebung für Windows}
     \end{tabularx}
     \begin{enumerate}
       \item Automatisierter Cross-build von ca. 150 Paketen wie der Toolchain, Runtime components \& Software dritter.
       \item Umgesetzt als relativ portables Bourne-Skellskript, ca. 1500 SLOC, pragmatisch Modular.
       \item Flexible \& lightweight Infrastruktur - hat sich über den Verlauf von ca. 1 Jahr als Zuverlässig bewährt.
     \end{enumerate}
-    \begin{tabularx}{\linewidth}{bs}
-      November 2016-Dezember 2016 & \bf{Tcl TIP \#458: Entwurf und Umsetzung der epoll/kqueue-Unterstützung im Tcl notifier auf Linux bzw. *BSD (FlightAware bounty programme)}
+    \begin{tabularx}{\linewidth}{cs}
+      Nov. 2016-Dez. 2016 & \bf{Tcl TIP \#458: Entwurf und Umsetzung der epoll/kqueue-Unterstützung im Tcl notifier auf Linux bzw. *BSD (FlightAware bounty programme)}
     \end{tabularx}
     \begin{enumerate}
       \item Tcl's ursprüngliche Event-basierte Architektur auf der Basis von select(2) hat Skalabilitäts- und Codekomplexitätsprobleme.
@@ -202,34 +204,11 @@
     % }}}
   }
   % }}}
-  % {{{ Internships
+  % {{{ Languages (internally assessed unless otherwise noted)
   \IfLanguageName{british}{
     % {{{ English
-    \caption{Internships}
-    \begin{tabularx}{\linewidth}{bs}
-      2003 & \bf{Sasol Germany, Hamburg}\\
-      Responsibilities/role & Internal help desk/support on Windows platforms\\
-      2002 & \bf{Compaq Computer Corporation, Hamburg}\\
-      Responsibilities/role & Corporate customer support on OpenVMS platforms
-    \end{tabularx}
-    % }}}
-  }{
-    % {{{ German
-    \caption{Praktika}
-    \begin{tabularx}{\linewidth}{bs}
-      2003 & \bf{Sasol Germany, Hamburg}\\
-      Verantwortungen/Aufgaben & Betriebsinternes Help desk/Support auf Windows-Systemen\\
-      2002 & \bf{Compaq Computer Corporation, Hamburg}\\
-      Verantwortungen/Aufgaben & Firmenkundenbetreuung auf OpenVMS-Systemen
-    \end{tabularx}
-    % }}}
-  }
-  % }}}
-  % {{{ Languages (CEFR levels given are personal judgments unless specified otherwise)
-  \IfLanguageName{british}{
-    % {{{ English
-    \caption{Languages (according to personal judgment unless specified otherwise)}
-    \begin{tabularx}{\linewidth}{bs}
+    \caption{Languages (internally assessed unless otherwise noted)}
+    \begin{tabularx}{\linewidth}{cs}
       Paternal language & Spanish (CEFR: C1)\\
       Maternal language & German (CEFR: C1)\\
       1st foreign language & English (CEFR: C1; at Colón Language Center Hamburg: A)\\
@@ -238,8 +217,8 @@
     % }}}
   }{
     % {{{ German
-    \caption{Sprachen (Nach persönlicher Beurteilung sofern nicht anders angegeben)}
-    \begin{tabularx}{\linewidth}{bs}
+    \caption{Sprachen (nach persönlicher Beurteilung sofern nicht anders angegeben)}
+    \begin{tabularx}{\linewidth}{cs}
       Vatersprache & Spanisch (GeR: C1)\\
       Muttersprache & Deutsch (GeR: C1)\\
       1ste Fremdsprache & Englisch (GeR: C1; Colón Language Center Hamburg: 1)\\
@@ -248,24 +227,41 @@
     % }}}
   }
   % }}}
-  % {{{ Educational career
+  % {{{ Educational career and life abroad
   \IfLanguageName{british}{
     % {{{ English
-    \caption{Educational career}
-    \begin{tabularx}{\linewidth}{bs}
-      Degree(s) attained & \bf{Mittlere Reife/MSA, equivalent to GCSE in the UK}\\
-      Sep. 2015-Jan. 2017 & Deutsche Angestelltenakademie (MSA course)\\
-      Aug. 2001-Feb. 2004 & Integrierte Gesamtschule Walddörfer, Hamburg
+    \caption{Educational career and life abroad}
+    \begin{tabularx}{\linewidth}{cs}
+      2014-Jan. 2017 & Hamburg: in pursuit of secondary education\\
+      & Deutsche Angestelltenakademie: MSA \bf{(equiv. to GCSE in the UK)}\\
+      2013 & Northwestern Spain: Way of St. James\\
+      2011 & Viña del Mar, Chile: freelancing IT jobs\\
+      2005-2008 & Valparaíso \& Santiago, Chile\\
+      & Studied Arabic \& Spanish languages and cultures\\
+      2003 & \bf{Sasol Germany, Hamburg (Internship)}\\
+      & Internal help desk/support on Windows platforms\\
+      2002 & \bf{Compaq Computer Corporation, Hamburg (Internship)}\\
+      & Corporate customer support on OpenVMS platforms\\
+      2001-2004 & Integrierte Gesamtschule Walddörfer, Hamburg
     \end{tabularx}
     % }}}
   }{
     % {{{ German
-    \caption{Bildung}
-    \begin{tabularx}{\linewidth}{bs}
-      Schulabschluss & \bf{Mittlere Reife}\\
-      Sep. 2015-Jan 2017 & Deutsche Angestelltenakademie (MSA-Kurs)\\
-      Aug. 2001-Feb. 2004 & Integrierte Gesamtschule Walddörfer, Hamburg
+    \caption{Bildung und Auslandsaufenthalte}
+    \begin{tabularx}{\linewidth}{cs}
+      2014-Jan. 2017 & Hamburg: Vollendung der Sekundarbildung\\
+      & Deutsche Angestelltenakademie: \bf{MSA/Mittlere Reife}\\
+      2013 & Nordwestspanien: Jakobsweg\\
+      2011 & Viña del Mar, Chile: freiberuflich IT\\
+      2005-2008 & Valparaíso \& Santiago, Chile\\
+      & Studium der Arabischen \& Spanischen Sprachen und Kultur\\
+      2003 & \bf{Sasol Germany, Hamburg (Praktikum)}\\
+      & Betriebsinternes Help desk/Support auf Windows-Systemen\\
+      2002 & \bf{Compaq Computer Corporation, Hamburg (Praktikum)}\\
+      & Firmenkundenbetreuung auf OpenVMS-Systemen\\
+      2001-2004 & Integrierte Gesamtschule Walddörfer, Hamburg
     \end{tabularx}
+    % }}}
     % }}}
   }
   % }}}
