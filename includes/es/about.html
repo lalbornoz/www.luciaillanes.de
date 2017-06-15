@@ -1,40 +1,77 @@
     <div class="div-content">
-      <span style="font-size: 1.5em; font-variant: small-caps; font-weight: bold;">Acerca de mí</span>
+      <h1>Acerca de mí</h1>
 
-      <p style="text-indent: 1em;">
-        Nací y vivo al presente en la ciudad Hanseática de Hamburgo. Como desarrollador independiente de software cuento con 10 años de experiencia directa, aparte de conocimientos prácticos en campos de programación de sistemas tanto de redes, ingeniería de sistemas y administración de sistemas en Linux, como Free/Net/OpenBSD. He tenido la fortuna de haber visto la luz en un ambiente multicultural y salir de padres bilingües. Desde la infancia es que estoy hablando español y alemán, fuera de inglés británico de corrido, a juicio mío a nivel MCR C1, incluido el árabe clásico a nivel MCR A2. Además, tengo gran interés por la lengua árabe tocante a su valioso aporte a la identidad hispana &amp; latinoamericana y la filosofía de Ibn Rushd, al-Ghazali, Kant y Husserl, la psiquiatría & psicología particularmente Bleuler y Blankenburg. Actualmente busco trabajo en Hamburgo, Gran Mánchester o Leeds.
+      <p>
+        Nací y vivo al presente en la ciudad Hanseática de Hamburgo. Como desarrollador independiente de software cuento con 10 años de experiencia directa, aparte
+        de conocimientos prácticos en campos de programación de sistemas tanto de redes, ingeniería de sistemas y administración de sistemas en Linux, como Free/Net/OpenBSD.
+        He tenido la fortuna de haber visto la luz en un ambiente multicultural y salir de padres bilingües. Desde la infancia es que estoy hablando español y alemán,
+        fuera de inglés británico de corrido, a juicio mío a nivel MCR C1, incluido el árabe clásico a nivel MCR A2. Además, tengo gran interés por la lengua árabe
+        tocante a su valioso aporte a la identidad hispana &amp; latinoamericana y la filosofía de Ibn Rushd, al-Ghazali, Kant y Husserl, la psiquiatría &amp; psicología
+        particularmente Bleuler y Blankenburg. Actualmente busco trabajo en Hamburgo, Gran Mánchester o Leeds.
       </p>
 
-      <span style="font-size: 1.5em; font-variant: small-caps; font-weight: bold;">Participación en proyectos open source</span><br />
+      <h1>Participación en proyectos open source</h1>
 
-      <span style="font-size: 1em; font-variant: small-caps; font-weight: bold;">midipix_build: infraestructura de build/compilación cruzada para midipix, un ambiente de desarrollo/uso de usuario compatible con POSIX/Linux para Windows (Desde febrero de 2016)</span>
-      <p style="text-indent: 1em;">
-        Midipix<a href="http://www.midipix.org/">[1]</a> describe un ambiente compatible con POSIX/Linux para Windows XP/Server 2003 y versiones posteriores, facilitando de esta guisa la compilación cruzada y el uso de programas hechos a la medida del estándar POSIX/Linux sin sufrir pérdidas apreciables de rendimiento. Al contrario de Cygwin<a href="https://www.cygwin.com/">[2]</a>, Midipix no requiere interacción con el subsistema de ambiente Windows a fin de implementar sus llamadas al sistema (system calls), de igual forma de Interix<a href="https://technet.microsoft.com/en-us/library/bb463204.aspx">[3]</a>, debido a que Midipix no depende de un subsistema ambiente por sí mismo, por lo que tampoco se vale de su propio servidor ni de los DLL de cliente. Luego, no se requiere virtualización ni controladores tipo kernel a la hora de usar Midipix: en su lugar, basta una pequeña cantidad de “runtime components” para facilitar la comunicación entre Musl, la libc elegida por este proyecto y la ejecutiva Windows NT (NTOSKRNL.EXE).
-      </p>
-      <p style="text-indent: 1em;">
-        A comienzos del proyecto midipix_build<a href="https://github.com/lalbornoz/midipix_build">[4]</a> la compilación [cruzada] de la toolchain, los “runtime components” así como un número indeterminado de software por parte de terceros, fue manejada por script de Bourne shell escritos ad hoc, mecanismo que hasta no hace mucho demostró ser poco escalable y de fiabilidad. De ahí que, la necesidad de una infraestructura de compilación cruzada, lo suficientemente general y amplia, quedara manifiesta. Dado que el proyecto Midipix se encuentra en un proceso de cambio permanente, se ha creado un paradigma de desarrollo iterativo Consideraciones acerca de la arquitectura tuvieron poca importancia. La reestructuración de código tuvo lugar sólo dos veces y el concepto actual ha demostrado ser suficiente y adecuado cuando se trata de prestar servicio y cumplir los requisitos de Midipix. Metas y requisitos que se deducen de aquí:
+      <h2>midipix_build: infraestructura de build/compilación cruzada para midipix, un ambiente de desarrollo/uso de usuario compatible con POSIX/Linux para Windows (Desde febrero de 2016)</h2>
+      <p>
+        Midipix<a href="http://www.midipix.org/">[1]</a> describe un ambiente compatible con POSIX/Linux para Windows XP/Server 2003 y versiones posteriores, facilitando
+        de esta guisa la compilación cruzada y el uso de programas hechos a la medida del estándar POSIX/Linux sin sufrir pérdidas apreciables de rendimiento. Al contrario
+        de Cygwin<a href="https://www.cygwin.com/">[2]</a>, Midipix no requiere interacción con el subsistema de ambiente Windows a fin de implementar sus llamadas al sistema
+        (system calls), de igual forma de Interix<a href="https://technet.microsoft.com/en-us/library/bb463204.aspx">[3]</a>, debido a que Midipix no depende de un subsistema
+        ambiente por sí mismo, por lo que tampoco se vale de su propio servidor ni de los DLL de cliente. Luego, no se requiere virtualización ni controladores tipo kernel a
+        la hora de usar Midipix: en su lugar, basta una pequeña cantidad de “runtime components” para facilitar la comunicación entre Musl, la libc elegida por este proyecto
+        y la ejecutiva Windows NT (NTOSKRNL.EXE).<br />
+        <br />
+        A comienzos del proyecto midipix_build<a href="https://github.com/lalbornoz/midipix_build">[4]</a> la compilación [cruzada] de la toolchain, los “runtime components”
+        así como un número indeterminado de software por parte de terceros, fue manejada por script de Bourne shell escritos ad hoc, mecanismo que hasta no hace mucho demostró
+        ser poco escalable y de fiabilidad. De ahí que, la necesidad de una infraestructura de compilación cruzada, lo suficientemente general y amplia, quedara manifiesta.
+        Dado que el proyecto Midipix se encuentra en un proceso de cambio permanente, se ha creado un paradigma de desarrollo iterativo Consideraciones acerca de la arquitectura
+        tuvieron poca importancia. La reestructuración de código tuvo lugar sólo dos veces y el concepto actual ha demostrado ser suficiente y adecuado cuando se trata de prestar
+        servicio y cumplir los requisitos de Midipix. Metas y requisitos que se deducen de aquí:
       </p>
       <ol>
-        <li><b>Portabilidad</b>: 
-midipix_build, semejante a build.sh de NetBSD -salvo make(1)-, hasta cierto punto ha tenido- y todavía tiene- que facilitar la compilación cruzada de un gran número de programas, de igual forma de sistemas operativos, mientras que la compatibilidad de este último con el estándar de POSIX no es muy estricta. Ésta es pues la razón de haber elegido Bourne Shell como idioma de implementación, visto que precisa de un número reducido de trazos non-POSIX, como por ejemplo de variables de función local. Esto hace que el Build de Midipix es posible en Linux, Cygwin, así como el original, Midipix mismo, y la mayoría de los derivados de BSD.</li>
-        <li><b>Flexibilidad</b>: la arquitectura de midipix_build tiene que ser lo suficientemente simple y maleable para facilitar de este modo la adición y/o la eliminación de trazos a una velocidad alta de modo razonable, como flavours, archivos de distribución firmados, búsqueda automática de versiones más recientes para software de terceros, etc. Además, incluso hasta la inserción de software adicional puede volver necesaria la incorporación de abstracciones renovadas, o bien las alterar las presentes, de modo particular cuando esté involucrado GNU autotools o Cmake.</li>
-        <li><b>Comodidad y fiabilidad</b>: por regla general, midipix_build ofrece un puerto de entrada a los interesados en el proyecto, por parte baja a través de los archivos de distribución que genera. Tanto desarrolladores como usuarios quisieran disponer de la facilidad de introducir modelos o un número indeterminado de software. Es decir, componentes del tiempo de ejecución o el ambiente completo. Debido a esta razón, poco menos que todas las tareas se llevan a cabo gracias a una línea de comando “build.sh” automática.</li>
-        <li><b>Simplicidad</b>: por último, complejidad baja, tamaño de código bajo, de modo especial tocante a la flexibilidad, son las prioridades: al presente, el código con la excepción de funciones/variables particulares de software/componentes cubriendo alrededor de 1200 SLOC, con el código particular a software/componentes que añaden otros 1800 SLOC. Funciones reutilizables, realizadas como “build steps” (p. ej.: fetch, extract, build, install, ...) y “build steps” pre/post (p. ej.: setup_env, prereqs y sha256sums, tarballs, respectivamente) residen en sus propios módulos.</li>
+        <li><b>Portabilidad</b>: midipix_build, semejante a build.sh de NetBSD -salvo make(1)-, hasta cierto punto ha tenido- y todavía tiene- que facilitar la compilación cruzada
+          de un gran número de programas, de igual forma de sistemas operativos, mientras que la compatibilidad de este último con el estándar de POSIX no es muy estricta. Ésta es
+          pues la razón de haber elegido Bourne Shell como idioma de implementación, visto que precisa de un número reducido de trazos non-POSIX, como por ejemplo de variables de
+          función local. Esto hace que el Build de Midipix es posible en Linux, Cygwin, así como el original, Midipix mismo, y la mayoría de los derivados de BSD.</li>
+        <li><b>Flexibilidad</b>: la arquitectura de midipix_build tiene que ser lo suficientemente simple y maleable para facilitar de este modo la adición y/o la eliminación de
+          trazos a una velocidad alta de modo razonable, como flavours, archivos de distribución firmados, búsqueda automática de versiones más recientes para software de terceros,
+          etc. Además, incluso hasta la inserción de software adicional puede volver necesaria la incorporación de abstracciones renovadas, o bien las alterar las presentes, de modo
+          particular cuando esté involucrado GNU autotools o Cmake.</li>
+        <li><b>Comodidad y fiabilidad</b>: por regla general, midipix_build ofrece un puerto de entrada a los interesados en el proyecto, por parte baja a través de los archivos de
+          distribución que genera. Tanto desarrolladores como usuarios quisieran disponer de la facilidad de introducir modelos o un número indeterminado de software. Es decir,
+          componentes del tiempo de ejecución o el ambiente completo. Debido a esta razón, poco menos que todas las tareas se llevan a cabo gracias a una línea de comando “build.sh”
+          automática.</li>
+        <li><b>Simplicidad</b>: por último, complejidad baja, tamaño de código bajo, de modo especial tocante a la flexibilidad, son las prioridades: al presente, el código con la
+          excepción de funciones/variables particulares de software/componentes cubriendo alrededor de 1200 SLOC, con el código particular a software/componentes que añaden otros
+          1800 SLOC. Funciones reutilizables, realizadas como “build steps” (p. ej.: fetch, extract, build, install, ...) y “build steps” pre/post (p. ej.: setup_env, prereqs y
+          sha256sums, tarballs, respectivamente) residen en sus propios módulos.</li>
       </ol>
 
-      <span style="font-size: 1em; font-variant: small-caps; font-weight: bold;">Tcl TIP #458: concepción e implementación de apoyo epoll/kqueue en el notificador de Tcl en Linux/*BSD, respectivamente (<a href="https://github.com/flightaware/Tcl-bounties">FlightAware bounty programme</a>) (Noviembre hasta diciembre 2016)</span><br />
-      <p style="text-indent: 1em;">
-        Tcl (pronunciado /tí.quel/, originado del acrónimo en inglés "Tool Command Language" o "lenguaje de herramientas de comando", actualmente se escribe como "Tcl" en lugar de "TCL"), es un lenguaje de script creado por John Ousterhout, que ha sido concebido con una sintaxis sencilla para facilitarse su aprendizaje, sin detrimento de la funcionalidad y expresividad<a href="http://https://en.wikipedia.org/wiki/Tcl">[5]</a>.  Contribuciones a Tcl que alteran las interfaces publicas se ha de presentar a y se procesan a través del “Tcl Improvement Proposal (TIP)”<a href="http://wiki.tcl.tk/983">[6]</a>. A inicios de noviembre de 2016, un bounty programme “for improvements to Tcl and certain Tcl packages” fue publicado en GitHub<a href="https://github.com/flightaware/Tcl-bounties">[7]</a> por parte de FlightAware<a href="https://www.flightaware.com/">[8]</a>. Yo elegí a desarrollar el “[s]upport for epoll()/kqueue() to replace select() in socket handling,” tarea que termine a fines de diciembre 2016<a href="https://github.com/flightaware/Tcl-bounties/issues/14">[9]</a>. 
-      </p>
-      <p style="text-indent: 1em;">
-        Tcl implementa una arquitectura “event-based” respecto a I/O y en particular utiliza callbacks para la notificación de la finalización I/O y el procesamiento, ambas funciones se implementan en el notificador no específico a la plataforma. Antes, el único notificador existente utilizaba la llamadas al sistema (system call) select(2) para la multiplexación I/O, que resultó ser un gran obstáculo para escalabilidad. Las desventajas de select (2) son bien conocidas y han quedado profundizadas en mi TIP<a href="https://www.tcl.tk/cgi-bin/tct/tip/458.html">[10]</a>. A causa de tales razones no se examinan aquí, a no ser por el contingente impuesto mediante el uso de select (2) del número de file descriptors de 1024. Los nuevos notificadores para Linux, utilizando epoll (7), y *BSD, utilizando kqueue (2), están exentos de semejantes defectos.</li>
-      </p>
-      <p style="text-indent: 1em;">
-        En atención a esto, los nuevos notificadores utilizan epoll(7)/kqueue(2) recurriendo al thread context del solicitante en vez de introducir threads nuevos. La cuestión del IPC entre threads, después de cierto debate sobre el tema en la lista de correo e IRC, fue solucionada con la introducción de una trigger pipe(2) en *BSD y eventfd(2) en Linux para cada thread. Con esto, añade un file descriptor por cada thread, siempre que interactúe con el notificador y uno o dos file descriptors por IPC entre threads en *BSD/Linux, respectivamente.Si bien conduce a una pérdida sustancial de la complejidad merced a la eliminación del thread del notificador, Lo más importante del caso: ningún thread, por parte del notifier, comparte implícitamente con otro thread file descriptors o estado.</li>
+      <h2>Tcl TIP #458: concepción e implementación de apoyo epoll/kqueue en el notificador de Tcl en Linux/*BSD, respectivamente (<a href="https://github.com/flightaware/Tcl-bounties">FlightAware bounty programme</a>) (Noviembre hasta diciembre 2016)</h2>
+      <p>
+        Tcl (pronunciado /tí.quel/, originado del acrónimo en inglés "Tool Command Language" o "lenguaje de herramientas de comando", actualmente se escribe como "Tcl" en lugar de
+        "TCL"), es un lenguaje de script creado por John Ousterhout, que ha sido concebido con una sintaxis sencilla para facilitarse su aprendizaje, sin detrimento de la funcionalidad
+        y expresividad<a href="http://https://en.wikipedia.org/wiki/Tcl">[5]</a>.  Contribuciones a Tcl que alteran las interfaces publicas se ha de presentar a y se procesan a través
+        del “Tcl Improvement Proposal (TIP)”<a href="http://wiki.tcl.tk/983">[6]</a>. A inicios de noviembre de 2016, un bounty programme “for improvements to Tcl and certain Tcl packages”
+        fue publicado en GitHub<a href="https://github.com/flightaware/Tcl-bounties">[7]</a> por parte de FlightAware<a href="https://www.flightaware.com/">[8]</a>. Yo elegí a desarrollar
+        el “[s]upport for epoll()/kqueue() to replace select() in socket handling,” tarea que termine a fines de diciembre 2016<a href="https://github.com/flightaware/Tcl-bounties/issues/14">[9]</a>.<br />
+        <br />
+        Tcl implementa una arquitectura “event-based” respecto a I/O y en particular utiliza callbacks para la notificación de la finalización I/O y el procesamiento, ambas funciones se
+        implementan en el notificador no específico a la plataforma. Antes, el único notificador existente utilizaba la llamadas al sistema (system call) select(2) para la multiplexación I/O,
+        que resultó ser un gran obstáculo para escalabilidad. Las desventajas de select (2) son bien conocidas y han quedado profundizadas en mi TIP<a href="https://www.tcl.tk/cgi-bin/tct/tip/458.html">[10]</a>.
+        A causa de tales razones no se examinan aquí, a no ser por el contingente impuesto mediante el uso de select (2) del número de file descriptors de 1024. Los nuevos notificadores
+        para Linux, utilizando epoll (7), y *BSD, utilizando kqueue (2), están exentos de semejantes defectos.<br />
+        <br />
+        En atención a esto, los nuevos notificadores utilizan epoll(7)/kqueue(2) recurriendo al thread context del solicitante en vez de introducir threads nuevos. La cuestión del IPC
+        entre threads, después de cierto debate sobre el tema en la lista de correo e IRC, fue solucionada con la introducción de una trigger pipe(2) en *BSD y eventfd(2) en Linux para
+        cada thread. Con esto, añade un file descriptor por cada thread, siempre que interactúe con el notificador y uno o dos file descriptors por IPC entre threads en *BSD/Linux,
+        respectivamente.Si bien conduce a una pérdida sustancial de la complejidad merced a la eliminación del thread del notificador, Lo más importante del caso: ningún thread, por
+        parte del notifier, comparte implícitamente con otro thread file descriptors o estado.
       </p>
 
-      <p style="font-size: 0.75em">
-        <span style="font-size: 1em; font-variant: small-caps;">Enlaces</span><br />
+      <h3>Enlaces</h3>
+      <p class="p-references">
         [1] <a href="http://www.midipix.org/">midipix</a><br />
         [2] <a href="https://www.cygwin.com/">Cygwin</a><br />
         [3] <a href="https://technet.microsoft.com/en-us/library/bb463204.aspx">Windows Services for UNIX Version 3.0</a><br />
