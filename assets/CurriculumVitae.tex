@@ -29,6 +29,7 @@
 \usepackage{enumitem}
 \usepackage{fancyhdr}
 \usepackage{geometry}
+\usepackage{hyperref}
 \usepackage{iflang}
 \usepackage{newcent}
 \usepackage{tabularx}
@@ -45,6 +46,7 @@
   font={bf,small},
   labelformat=empty,
   singlelinecheck=false}
+\hypersetup{pdfborder={0 0 0 [3 3]}}
 \newcolumntype{b}{
   p{130pt}|}
 \newcolumntype{c}{
@@ -99,7 +101,7 @@
     \footnotesize
     \begin{tabularx}{\linewidth}{lllllll}
       Email & Mobile phone number & Address & Nationality\\
-      \url{lucia@luciaillanes.de} & +49 1623 714 810 & Nagelsweg 16, 20097 Hamburg, Germany & Chilean, German\\
+      \href{mailto:lucia@luciaillanes.de}{\nolinkurl{lucia@luciaillanes.de}} & +49 1623 714 810 & Nagelsweg 16, 20097 Hamburg, Germany & Chilean, German\\
       GitHub & Website\\
       \url{https://git.io/vS4CG} & \url{https://www.luciaillanes.de/}
     \end{tabularx}
@@ -113,7 +115,7 @@
     \footnotesize
     \begin{tabularx}{\linewidth}{lllllll}
       E-Mail-Adresse & Telefonnummer & Adresse & Staatsangehörigkeit\\
-      \url{lucia@luciaillanes.de} & +49 1623 714 810 & Nagelsweg 16, 20097 Hamburg & Deutsch, Chilenisch\\
+      \href{mailto:lucia@luciaillanes.de}{\nolinkurl{lucia@luciaillanes.de}} & +49 1623 714 810 & Nagelsweg 16, 20097 Hamburg & Deutsch, Chilenisch\\
       GitHub & Webseite\\
       \url{https://git.io/vS4CG} & \url{https://www.luciaillanes.de/}
     \end{tabularx}
