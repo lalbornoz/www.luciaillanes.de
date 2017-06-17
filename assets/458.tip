@@ -1,0 +1,83 @@
+TIP:            458
+Title:          Add Support for epoll() and kqueue() in the Notifier
+Version:        $Revision: 1.5 $
+Author:         Lucio Andrés Illanes Albornoz <l.illanes@gmx.de>
+Author:         Lucio Andrés Illanes Albornoz <lucia@luciaillanes.de>
+State:          Draft
+Type:           Project
+Vote:           Pending
+Created:        24-Nov-2016
+Post-History:   
+Keywords:       event loop,scalability
+Tcl-Version:    8.7
+
+~ Abstract
+
+This TIP proposes to replace ''select''(2) in the notifier implementation with ''epoll''(7) and ''kqueue''(2) on Linux and DragonFly-, Free-, Net-, and OpenBSD respectively. This is to remove a major bottleneck in the ability of Tcl to scale up to thousands and tens of thousands of sockets (aka '''C10K''').
+Furthermore, this should also provide sufficient infrastructure in order to permit adding support for other platform-specific event mechanisms in the future, such as IOCPs on Solaris and Windows.
+
+~ Rationale
+
+The drawbacks associated with ''poll''(2) and ''select''(2) and the tremendously improved ability to scale of ''epoll''(7) and ''kqueue''(2) are well-known [https://en.wikipedia.org/wiki/C10k_problem]; a previous attempt at implementing this feature elaborates on this subject and can be found at [https://sourceforge.net/p/tcl/mailman/tcl-core/?viewmonth=200909&viewday=10].
+
+Initially, the notifier thread was retained to provide for event notification and inter-thread IPC. This eventually proved unnecessary and thus the ''epoll''(7)/''kqueue''(2) source modules now no longer contain the notifier thread and its infrastructure, particularly as this also reduces code size and complexity.
+
+Threads that intend to wait on one or more file descriptors they own will now directly call ''epoll_wait''(2)/''kevent''(2) themselves during ''Tcl_WaitForEvent''().  Inter-thread IPC is provided for by a per-thread trigger pipe, analogous to the trigger pipe of the notifier thread. On Linux, an ''eventfd''(2) is used instead, which only requires one single fd. Furthermore, events for regular files are not processed via ''epoll''(7), as it does not support them at present. Instead, events for regular files are immediately returned by the notifier when waiting for events.
+
+The new implementation of the notifier only has two minor drawbacks:
+
+ 1. Each thread that has called ''Tcl_WaitForEvent''() at least once will create an ''epoll''(7)/''kqueue''(2) file descriptor.
+
+ 2. All threads create two ''pipe''(2) file descriptors for inter-thread IPC; on Linux, one single ''eventfd''(2) is created and used.
+
+Therefore, threads that have waited on events at least once now own an additional amount of three/two file descriptors. Whether this could prove to be a problem remains a point of contention that should be subject to further discussion.
+
+As far as the notifier implementation is concerned, threads do not share data structures or file descriptors; IPC is provided for explicitly. However, a thread may queue events to and then alert another thread in order to allow for less primitive forms of IPC. Therefore, the previously static mutex protecting the notifier list has become a per-thread mutex. Instead of protecting the notifier list, it protects per-thread event queues from event queue/unqueue race conditions. This only applies to the ''epoll''(7)/''kqueue''(2)-based notifier implementations.
+
+The majority of Tcl code should be unable to observe any difference at the script level.
+
+~ Specification
+
+At present, code changes are almost entirely constrained to either ''unix/tclEpollNotfy.c'' wherever ''epoll''(7) is supported or ''unix/tclKqueueNotfy.c'' wherever ''kqueue''(2) is supported. The original ''select''(2)-based notifier implementation now lives in ''unix/tclSelectNotfy.c''.
+
+Subroutines shared between ''unix/tcl{Epoll,Kqueue}Notfy.c'' have been moved to ''unix/tclUnixNotfy.c'', which is '''#include'''d by the former. As explained in the last section of this document, the previously static mutex in ''generic/tclNotify.c'' has become a per-thread mutex.
+
+The new code associates the newly introduced (but private) ''PlatformEventData'' structure with each file descriptor to wait on and its corresponding ''FileHandler'' struct. ''PlatformEventData'' contains:
+
+ 1. A pointer to the ''FileHandler'' the file descriptor belongs to. This specifically facilitates updating the platform-specific mask of new events for the file descriptor of a ''FileHandler'' after returning from ''epoll_wait''(2)/''kevent''(2) in ''NotifierThreadProc''().
+
+ 2. A pointer to the ''ThreadSpecificData'' of the thread to whom the ''FileHandler'' belongs. This specifically facilitates alerting threads waiting on one or more ''FileHandlers'' in ''NotifierThreadProc''().
+
+The core implementation is found in a set of six (6) newly introduced static subroutines in ''unix/tcl{Epoll,Kqueue}Notfy.c'':
+
+ 1. ''PlatformEventsControl''() - abstracts ''epoll_ctl''(2)/''kevent''(2). Called by ''Tcl_{Create,Delete}FileHandler''() to add/update event masks for a new or an old ''FileHandler'' and ''NotifierThreadProc''() in order to include the ''receivePipe'' fd when waiting for and processing events.
+
+ 2. ''PlatformEventsFinalize''() - abstracts ''close''(2) and ''ckfree''(). Called by ''Tcl_FinalizeNotifier''().
+
+ 3. ''PlatformEventsGet''() - abstracts iterating over an array of events. Called by ''NotifierThreadProc''().
+
+ 4. ''PlatformEventsInit''() - abstracts ''epoll_create''(2)/''kqueue''(2). Called by ''PlatformEvents{Control,Wait}''() and ''Tcl_WaitForEvent''().
+
+ 5. ''PlatformEventsTranslate''() - translates platform-specific event masks to '''TCL_{READABLE,WRITABLE,EXCEPTION}''' bits. Called by ''Tcl_WaitForEvent''().
+
+ 6. ''PlatformEventsWait''() - abstracts ''epoll_wait''(2)/''kevent''(2). Called by ''Tcl_WaitForEvent''() and ''NotifierThreadProc''(). 
+
+Two additional subroutine are used in all three code paths (''epoll'', ''kqueue'', ''select'') to reduce code redundancy:
+
+ 1. ''AlertSingleThread''() - notify a single thread that is waiting on I/O. Called by ''NotifierThreadProc''().
+
+ 2. ''TclUnixWaitForFile() - reimplemented via ''poll''(2) instead of ''select''(2), as ''poll''(2) does not suffer the '''FD_SETSIZE''' limit on file descriptors that can be passed to ''select''(2) and is available on a sufficiently large number of platforms. Most importantly, this code would not benefit from using ''epoll''(7) or ''kqueue''(2) as this subroutine only waits on one single file descriptor at a time.
+
+''PlatformEventsInit''() currently defaults to allocating space for 128 array members of ''struct epoll_event/kevent''. This could preferably be handled through e.g. ''fconfigure''.
+
+Originally, a mutex used to protect the ''epoll''(7)/''kqueue''(2) file descriptor and the above mentioned array. This proved to be redundant as ''epoll_ctl''(2) can be called whilst blocking on ''epoll_wait''(2) on Linux and as ''kevent''(2) can be called whilst blocking on ''kevent''(2) on FreeBSD.
+
+Lastly, the ''configure'' script is updated to define '''HAVE_EPOLL''' or '''HAVE_KQUEUE''' as appropriate.
+
+~ Reference implementation
+
+Please refer to the ''tip-458'' branch. The code is licensed under the BSD license.
+
+~ Copyright
+
+This document has been placed in the public domain. In legislations where this concept does not exist the BSD license applies.
