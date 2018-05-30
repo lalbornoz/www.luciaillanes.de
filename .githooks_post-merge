@@ -23,7 +23,7 @@ for CHOWN_MAP in ${CHOWN_MAP_LIST}; do
 	fi;
 done;
 if [ -n "${CHOWN_USER}" -a -n "${CHOWN_GROUP}" ]; then
-	for PNAME in $(git diff --name-only --diff-filter=AR --cached "HEAD^"); do
+	for PNAME in $(git diff --name-only --diff-filter=ACMRT --cached "HEAD^"); do
 		PNAME_DIR="$(dirname "${PNAME}")";
 		if [ "$(stat -c %U:%G "${PNAME_DIR}")"	\
 		!=   "${CHOWN_USER}:${CHOWN_GROUP}" ]; then
