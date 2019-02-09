@@ -78,15 +78,15 @@
 % {{{ Header legend
 \ifthenelse{\equal{\varPrivate}{1}} {
   \IfLanguageName{british}{
-    \chead{Last update: \today~· Character references included on pages 2-3}
+    \chead{Last update: \today}
   } {
-    \chead{Zuletzt geändert am: \today~· Enthält Referenzen auf Seiten 2-3}
+    \chead{Zuletzt geändert am: \today}
   }
 } {
   \IfLanguageName{british}{
-    \chead{Last update: \today~· Public version, character references available upon request}
+    \chead{Last update: \today}
   } {
-    \chead{Zuletzt geändert am: \today~· Öffentliche Version, Referenzen auf Anfrage verfügbar}
+    \chead{Zuletzt geändert am: \today}
   }
 }
 % }}}
@@ -158,7 +158,7 @@
     \begin{tabularx}{\linewidth}{cs}
       Plattformen und Server & Debian/-deriviertes Linux, Free/Net/OpenBSD, ircd-hybrid, nginx\\
       Scripting, Automatisierung & Ansible, Bourne/Bash/Z shell, BSD rc, systemd, Perl, rsync\\
-      Serverrollen und Technologien & iptables \& pf-basierte Firewalls, IPsec \& OpenVPN, LXC \& cgroups, ZFS
+      Serverrollen \& Technologie & iptables \& pf-basierte Firewalls, IPsec \& OpenVPN, LXC \& cgroups, ZFS
     \end{tabularx}
     % }}}
   }
@@ -171,9 +171,8 @@
       Feb. 2016-ongoing & \bf{midipix\_build: build/cross-compilation infrastructure for midipix, a POSIX/Linux-compatible development/runtime environment for Windows}
     \end{tabularx}
     \begin{enumerate}
-      \item Automatically cross-builds ca. 150 packages covering the toolchain, runtime components \& 3rd party software.
-      \item Written in reasonably portable Bourne shell, ca. 1500 SLOC, pragmatically modular.
-      \item Flexible \& lightweight infrastructure - has proved itself reliable over the course of ca. 1 year.
+      \item Automatically cross-builds ca. 300 packages covering the toolchain, runtime components \& 3rd party software.
+      \item Written in reasonably portable Bourne shell, ca. 1500 SLOC, pragmatically lightweight \& modular.
     \end{enumerate}
     \begin{tabularx}{\linewidth}{cs}
       Nov. 2016-Dec. 2016 & \bf{Tcl TIP \#458: design and implementation of epoll/kqueue support in the Tcl notifier on Linux/*BSD, resp. for Tcl, a high-level, general-purpose, interpreted, dynamic programming language (FlightAware bounty programme)}
@@ -191,9 +190,8 @@
       Seit Feb. 2016 & \bf{midipix\_build: build/cross-compilation-Infrastruktur für Midipix, eine POSIX/Linux-kompatible Entwicklungs/Endnutzerumgebung für Windows}
     \end{tabularx}
     \begin{enumerate}
-      \item Automatisierter Cross-build von ca. 150 Paketen wie der Toolchain, Runtime components \& Software dritter.
-      \item Umgesetzt als relativ portables Bourne-Skellskript, ca. 1500 SLOC, pragmatisch Modular.
-      \item Flexible \& lightweight Infrastruktur - hat sich über den Verlauf von ca. 1 Jahr als Zuverlässig bewährt.
+      \item Automatisierter Cross-build von ca. 300 Paketen wie der Toolchain, Runtime components \& Software dritter.
+      \item Umgesetzt als relativ portables Bourne-Skellskript, ca. 1500 SLOC, pragmatisch lightweight \& Modular.
     \end{enumerate}
     \begin{tabularx}{\linewidth}{cs}
       Nov. 2016-Dez. 2016 & \bf{Tcl TIP \#458: Entwurf und Umsetzung der epoll/kqueue-Unterstützung im Tcl notifier auf Linux bzw. *BSD (FlightAware bounty programme)}
@@ -264,17 +262,9 @@
       2001-2004 & Integrierte Gesamtschule Walddörfer, Hamburg
     \end{tabularx}
     % }}}
-    % }}}
   }
   % }}}
 \end{table}
-
-% {{{ Character references
-\ifthenelse{\equal{\varPrivate}{1}} {
-  \clearpage
-  \includepdf[pages=-, offset=5 -5]{private/Reference1.pdf}
-}
-% }}}
 
 \end{document}
 
