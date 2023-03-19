@@ -84,7 +84,10 @@ div {
   font-weight:          normal;
 }
 .div-legend > h2 {
-  font-size:            0.75em;
+  font-size:            1.25em;
+}
+.div-legend > h3 {
+  margin:               0;
 }
 
 .div-content > .p-references {
