@@ -97,6 +97,26 @@ div {
   font-variant:         small-caps;
 }
 /* }}} */
+/*
+ * {{{ DIV content /etc/ styles, in order of appearance */
+.div-etc-left {
+  transform:            translateY(25%);
+  background-color:     transparent;
+  float:                left;
+  width:                10%;
+}
+.div-etc-right {
+  transform:            translateY(10%);
+  background-color:     transparent;
+  float:                right;
+  width:                10%;
+}
+.div-etc-center {
+  background-color:     transparent;
+  margin:               0 auto;
+  width:                80%;
+}
+/* }}} */
 
 /*
  * vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=0
