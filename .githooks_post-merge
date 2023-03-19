@@ -12,7 +12,7 @@
 # for an example of how to do this.
 #
 
-CHOWN_MAP_LIST="abbad.lucioillanes.de:www-data:www-data";
+CHOWN_MAP_LIST="abbad.luciaillanes.de:www-data:www-data";
 HOST="$(hostname -f)";
 
 exec 1>&2; set -o noglob;
