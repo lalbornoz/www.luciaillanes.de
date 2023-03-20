@@ -105,16 +105,31 @@ div {
   float:                left;
   width:                10%;
 }
+@media (max-width: 1280px) {
+    .div-etc-left {
+        display:        none !important;
+    }
+}
 .div-etc-right {
   transform:            translateY(10%);
   background-color:     transparent;
   float:                right;
   width:                10%;
 }
+@media (max-width: 1280px) {
+    .div-etc-right {
+        display:        none !important;
+    }
+}
 .div-etc-center {
   background-color:     transparent;
   margin:               0 auto;
-  width:                80%;
+  width:                90%;
+}
+@media (max-width: 1280px) {
+    .div-etc-right {
+        width:          100%;
+    }
 }
 /* }}} */
 
