@@ -3,49 +3,74 @@
       <p>
         Yo soy una desarrolladora de software open source nacida y, al presente, viviendo en Hamburgo, Alemania.<br />
         <br />
-        Criado en un ambiente plurilingüe y -cultural, he cultivado una pasión ávida por mis idiomas nativos siendo el Castellano (dialecto chileno/andaluz) y alemán (dialecto norteño/Hamburgués) tanto como el inglés (inglés británico) a nivel CEFR C1 según propio juicio y Árabe clásico además de unos tantos dialectos a nivel CEFR A2-B1. Como las circunstancias me habían obligado, esto venía a incluir a los idiomas habitualmente exclusivamente hablados por y con los computadores dentro de los campos del systems programming e ingeniería en predominantemente plataformas tipo UNIX y, hasta cierto punto, Windows.<br />
+        Criado en un ambiente plurilingüe y -cultural, he cultivado una pasión ávida por mis idiomas nativos siendo el Castellano
+        (dialecto chileno/andaluz) y alemán (dialecto norteño/Hamburgués) tanto como el inglés (inglés británico) a nivel CEFR C1
+        según propio juicio y Árabe clásico además de unos tantos dialectos a nivel CEFR A2-B1. Como las circunstancias me habían
+        obligado, esto venía a incluir a los idiomas habitualmente exclusivamente hablados por y con los computadores dentro de los
+        campos del systems programming e ingeniería en predominantemente plataformas tipo UNIX y, hasta cierto punto, Windows.<br />
         <br />
-        Yo tengo un gran interés en las intersecciones de la creatividad, el lenguaje hablado, la poesía oral por un lado y, por el otro, expresividad y un énfasis en las cualidades estéticas en la programación e ingeniería a fin de diseñar e implementar software mantenible, componible y con buena documentación, preferiblemente evitando a la abstracción y código excesivamente complicado padeciendo de amplitud de modalidades expresivas.<br />
+        Yo tengo un gran interés en las intersecciones de la creatividad, el lenguaje hablado, la poesía oral por un lado y, por el
+        otro, expresividad y un énfasis en las cualidades estéticas en la programación e ingeniería a fin de diseñar e implementar
+        software mantenible, componible y con buena documentación, preferiblemente evitando a la abstracción y código excesivamente
+        complicado padeciendo de amplitud de modalidades expresivas.<br />
         <br />
-        En mi tiempo libre, de ocasión me gusta escribir <a href="/ES/etc/">cuentos cortos y poemas</a> y dibujar <a href="/ES/etc/">comics</a> describiendo las absurdidades fútiles de la condición humana y existencia en general, componer muros de textos gigantescos sobre la endocrinología aplicada transfeminina, dar paseos largos contemplando las implicaciones fenomenológicas de la sopa de letras, ofrecer sacrificios a Enki y Labata Ištar, <a href="/ES/etc/">cocinar</a> e imponer oraciones largas y extensas a <a href="https://github.com/lalbornoz/PuTTie/blob/master/PuTTie/README.md">documentos README de proyectos</a> o <a href="https://www.luciaillanes.de">páginas de web</a> debido a razones inespecíficas.<br />
+        En mi tiempo libre, de ocasión me gusta escribir <a href="/ES/etc/">cuentos cortos y poemas</a> y dibujar <a href="/ES/etc/">comics</a>
+        describiendo las absurdidades fútiles de la condición humana y existencia en general, componer muros de textos gigantescos
+        sobre la endocrinología aplicada transfeminina, dar paseos largos contemplando las implicaciones fenomenológicas de la
+        sopa de letras, ofrecer sacrificios a Enki y Labata Ištar, <a href="/ES/etc/">cocinar</a> e imponer oraciones largas y
+        extensas a <a href="https://github.com/lalbornoz/PuTTie/blob/master/PuTTie/README.md">documentos README de proyectos</a> o
+        <a href="https://www.luciaillanes.de">páginas de web</a> debido a razones inespecíficas.<br />
       </p>
 
       <h1>Participación en proyectos open source</h1>
 
       <h2>midipix_build: infraestructura de build/compilación cruzada para midipix, un ambiente de desarrollo/uso de usuario compatible con POSIX/Linux para Windows (Desde febrero de 2016)</h2>
       <p>
-        Midipix<a href="http://www.midipix.org/">[1]</a> describe un ambiente compatible con POSIX/Linux para Windows XP/Server 2003 y versiones posteriores, facilitando
-        de esta guisa la compilación cruzada y el uso de programas hechos a la medida del estándar POSIX/Linux sin sufrir pérdidas apreciables de rendimiento. Al contrario
-        de Cygwin<a href="https://www.cygwin.com/">[2]</a>, Midipix no requiere interacción con el subsistema de ambiente Windows a fin de implementar sus llamadas al sistema
-        (system calls), de igual forma de Interix<a href="https://technet.microsoft.com/en-us/library/bb463204.aspx">[3]</a>, debido a que Midipix no depende de un subsistema
-        ambiente por sí mismo, por lo que tampoco se vale de su propio servidor ni de los DLL de cliente. Luego, no se requiere virtualización ni controladores tipo kernel a
-        la hora de usar Midipix: en su lugar, basta una pequeña cantidad de “runtime components” para facilitar la comunicación entre Musl, la libc elegida por este proyecto
-        y la ejecutiva Windows NT (NTOSKRNL.EXE).<br />
+        Midipix<a href="http://www.midipix.org/">[1]</a> describe un ambiente compatible con POSIX/Linux para Windows XP/Server 2003 y versiones
+        posteriores, facilitando de esta guisa la compilación cruzada y el uso de programas hechos a la medida del estándar POSIX/Linux sin
+        sufrir pérdidas apreciables de rendimiento. Al contrario de Cygwin<a href="https://www.cygwin.com/">[2]</a>, Midipix no requiere
+        interacción con el subsistema de ambiente Windows a fin de implementar sus llamadas al sistema (system calls), de igual forma de
+        Interix<a href="https://technet.microsoft.com/en-us/library/bb463204.aspx">[3]</a>, debido a que Midipix no depende de un subsistema
+        ambiente por sí mismo, por lo que tampoco se vale de su propio servidor ni de los DLL de cliente. Luego, no se requiere virtualización ni
+        controladores tipo kernel a la hora de usar Midipix: en su lugar, basta una pequeña cantidad de “runtime components” para facilitar la
+        comunicación entre Musl, la libc elegida por este proyecto y la ejecutiva Windows NT (NTOSKRNL.EXE).<br />
         <br />
-        A comienzos del proyecto midipix_build<a href="https://github.com/lalbornoz/midipix_build">[4]</a> la compilación [cruzada] de la toolchain, los “runtime components”
-        así como un número indeterminado de software por parte de terceros, fue manejada por script de Bourne shell escritos ad hoc, mecanismo que hasta no hace mucho demostró
-        ser poco escalable y de fiabilidad. De ahí que, la necesidad de una infraestructura de compilación cruzada, lo suficientemente general y amplia, quedara manifiesta.
-        Dado que el proyecto Midipix se encuentra en un proceso de cambio permanente, se ha creado un paradigma de desarrollo iterativo Consideraciones acerca de la arquitectura
-        tuvieron poca importancia. La reestructuración de código tuvo lugar sólo dos veces y el concepto actual ha demostrado ser suficiente y adecuado cuando se trata de prestar
-        servicio y cumplir los requisitos de Midipix. Metas y requisitos que se deducen de aquí:
+        A comienzos del proyecto midipix_build<a href="https://github.com/lalbornoz/midipix_build">[4]</a> la compilación [cruzada] de la
+        toolchain, los “runtime components” así como un número indeterminado de software por parte de terceros, fue manejada por script de Bourne
+        shell escritos ad hoc, mecanismo que hasta no hace mucho demostró ser poco escalable y de fiabilidad. De ahí que, la necesidad de una
+        infraestructura de compilación cruzada, lo suficientemente general y amplia, quedara manifiesta. Dado que el proyecto Midipix se
+        encuentra en un proceso de cambio permanente, se ha creado un paradigma de desarrollo iterativo Consideraciones acerca de la arquitectura
+        tuvieron poca importancia. La reestructuración de código tuvo lugar sólo dos veces y el concepto actual ha demostrado ser suficiente y
+        adecuado cuando se trata de prestar servicio y cumplir los requisitos de Midipix. Metas y requisitos que se deducen de aquí:<br />
       </p>
       <ol>
-        <li><b>Portabilidad</b>: midipix_build, semejante a build.sh de NetBSD -salvo make(1)-, hasta cierto punto ha tenido- y todavía tiene- que facilitar la compilación cruzada
-          de un gran número de programas, de igual forma de sistemas operativos, mientras que la compatibilidad de este último con el estándar de POSIX no es muy estricta. Ésta es
-          pues la razón de haber elegido Bourne Shell como idioma de implementación, visto que precisa de un número reducido de trazos non-POSIX, como por ejemplo de variables de
-          función local. Esto hace que el Build de Midipix es posible en Linux, Cygwin, así como el original, Midipix mismo, y la mayoría de los derivados de BSD.</li>
-        <li><b>Flexibilidad</b>: la arquitectura de midipix_build tiene que ser lo suficientemente simple y maleable para facilitar de este modo la adición y/o la eliminación de
-          trazos a una velocidad alta de modo razonable, como flavours, archivos de distribución firmados, búsqueda automática de versiones más recientes para software de terceros,
-          etc. Además, incluso hasta la inserción de software adicional puede volver necesaria la incorporación de abstracciones renovadas, o bien las alterar las presentes, de modo
-          particular cuando esté involucrado GNU autotools o Cmake.</li>
-        <li><b>Comodidad y fiabilidad</b>: por regla general, midipix_build ofrece un puerto de entrada a los interesados en el proyecto, por parte baja a través de los archivos de
-          distribución que genera. Tanto desarrolladores como usuarios quisieran disponer de la facilidad de introducir modelos o un número indeterminado de software. Es decir,
-          componentes del tiempo de ejecución o el ambiente completo. Debido a esta razón, poco menos que todas las tareas se llevan a cabo gracias a una línea de comando “build.sh”
-          automática.</li>
-        <li><b>Simplicidad</b>: por último, complejidad baja, tamaño de código bajo, de modo especial tocante a la flexibilidad, son las prioridades: al presente, el código con la
-          excepción de funciones/variables particulares de software/componentes cubriendo alrededor de 1200 SLOC, con el código particular a software/componentes que añaden otros
-          1800 SLOC. Funciones reutilizables, realizadas como “build steps” (p. ej.: fetch, extract, build, install, ...) y “build steps” pre/post (p. ej.: setup_env, prereqs y
-          sha256sums, tarballs, respectivamente) residen en sus propios módulos.</li>
+        <li>
+          <b>Portabilidad</b>: midipix_build, semejante a build.sh de NetBSD -salvo make(1)-, hasta cierto punto ha tenido- y todavía tiene- que
+          facilitar la compilación cruzada de un gran número de programas, de igual forma de sistemas operativos, mientras que la compatibilidad
+          de este último con el estándar de POSIX no es muy estricta. Ésta es pues la razón de haber elegido Bourne Shell como idioma de
+          implementación, visto que precisa de un número reducido de trazos non-POSIX, como por ejemplo de variables de función local. Esto hace
+          que el Build de Midipix es posible en Linux, Cygwin, así como el original, Midipix mismo, y la mayoría de los derivados de BSD.
+        </li>
+        <li>
+          <b>Flexibilidad</b>: la arquitectura de midipix_build tiene que ser lo suficientemente simple y maleable para facilitar de este modo la
+          adición y/o la eliminación de trazos a una velocidad alta de modo razonable, como flavours, archivos de distribución firmados, búsqueda
+          automática de versiones más recientes para software de terceros, etc. Además, incluso hasta la inserción de software adicional puede
+          volver necesaria la incorporación de abstracciones renovadas, o bien las alterar las presentes, de modo particular cuando esté
+          involucrado GNU autotools o Cmake.
+        </li>
+        <li>
+          <b>Comodidad y fiabilidad</b>: por regla general, midipix_build ofrece un puerto de entrada a los interesados en el proyecto, por parte
+          baja a través de los archivos de distribución que genera. Tanto desarrolladores como usuarios quisieran disponer de la facilidad de
+          introducir modelos o un número indeterminado de software. Es decir, componentes del tiempo de ejecución o el ambiente completo. Debido
+          a esta razón, poco menos que todas las tareas se llevan a cabo gracias a una línea de comando “build.sh” automática.
+        </li>
+        <li>
+          <b>Simplicidad</b>: por último, complejidad baja, tamaño de código bajo, de modo especial tocante a la flexibilidad, son las
+          prioridades: al presente, el código con la excepción de funciones/variables particulares de software/componentes cubriendo alrededor de
+          6700 SLOC, con el código particular a software/componentes que añaden otros 4100 SLOC. Funciones reutilizables, realizadas como “build
+          steps” (p. ej.: fetch, extract, build, install, ...) y “build steps” pre/post (p. ej.: setup_env, prereqs y sha256sums, tarballs,
+          respectivamente) residen en sus propios módulos.
+        </li>
       </ol>
 
       <h2>Tcl TIP #458: concepción e implementación de apoyo epoll/kqueue en el notificador de Tcl en Linux/*BSD, respectivamente (<a href="https://github.com/flightaware/Tcl-bounties">FlightAware bounty programme</a>) (Noviembre hasta diciembre 2016)</h2>
@@ -86,5 +111,5 @@
     </div>
 
   <!--
-    vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=0
+    vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=145
     -->
