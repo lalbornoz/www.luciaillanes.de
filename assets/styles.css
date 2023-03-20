@@ -98,37 +98,26 @@ div {
 }
 /* }}} */
 /*
- * {{{ DIV content /etc/ styles, in order of appearance */
+ * {{{ DIV {content-etc,etc-*} styles, in order of appearance */
+.div-content-etc {
+  display:              flex;
+  justify-content:      space-around;
+}
 .div-etc-left {
-  transform:            translateY(25%);
-  background-color:     transparent;
-  float:                left;
-  width:                10%;
+  background:           transparent;
+}
+.div-etc-center {
+  background:           transparent;
+}
+.div-etc-right {
+  background:           transparent;
 }
 @media (max-width: 1280px) {
     .div-etc-left {
         display:        none !important;
     }
-}
-.div-etc-right {
-  transform:            translateY(10%);
-  background-color:     transparent;
-  float:                right;
-  width:                10%;
-}
-@media (max-width: 1280px) {
     .div-etc-right {
         display:        none !important;
-    }
-}
-.div-etc-center {
-  background-color:     transparent;
-  margin:               0 auto;
-  width:                90%;
-}
-@media (max-width: 1280px) {
-    .div-etc-right {
-        width:          100%;
     }
 }
 /* }}} */
