@@ -28,6 +28,12 @@ h2 {
   font-size:            1em;
 }
 
+hr {
+  border:               none;
+  border-bottom:        1px solid silver;
+  width:                25%;
+}
+
 p {
   text-align:           justify;
   text-indent:          1em;
