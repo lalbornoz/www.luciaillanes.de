@@ -1,7 +1,12 @@
     <div class="div-content">
       <h1>Open Source Projektbeteiligung</h1>
 
-      <h2>midipix_build: build/cross-compilation-Infrastruktur für Midipix, eine POSIX/Linux-kompatible Entwicklungs/Endnutzerumgebung für Windows (Seit Februar 2016)</h2>
+      <h2>
+        <a href="https://github.com/lalbornoz/midipix_build">
+          midipix_build: build/cross-compilation-Infrastruktur für Midipix, eine POSIX/Linux-kompatible Entwicklungs/Endnutzerumgebung für Windows
+          (Seit Februar 2016)
+        </a>
+      </h2>
       <p>
         Midipix<a href="http://www.midipix.org/">[1]</a> ist eine POSIX/Linux-kompatible Umgebung für Windows XP/Server 2003 oder später, die
         sowohl Cross-compilation als auch Benutzung von Anwendungen ermöglicht, die nach dem bzw. für POSIX-Standard bzw. Linux programmiert
@@ -31,17 +36,21 @@
         </li>
         <li>
           <b>Flexibilität</b>: die Architektur von midipix_build muss ebenso Einfachheit wie Veränderbarkeit kennen, um der Hinzufügung
-          und/oder Entfernung von Funktionen mit einer relativ hohen Geschwindigkeit nicht im Wege zu stehen, wie z.B. flavours, signierte
-          Distributionsarchive, automatisierte Suche nach neuen Softwareversionen, usw. Desweiteren kann selbst die ledigliche Hinzufügung
-          weiterer Software vernotwendigen, neue Abstraktionen einzuführen bzw. bestehende zu verändern, insbesondere insoweit sich
-          diese auf GNU autotools- und Cmake-basierte Buildsysteme beziehen.
+          und/oder Entfernung von Funktionen mit einer relativ hohen Geschwindigkeit nicht im Wege zu stehen, wie z.B. Abhängigkeitsauflösung,
+          Parallelisierung, signierte Distributionsarchive, automatisierte Suche nach neuen Softwareversionen, usw. Desweiteren kann selbst die
+          ledigliche Hinzufügung weiterer Software vernotwendigen, neue Abstraktionen einzuführen bzw. bestehende zu verändern, insbesondere
+          insoweit sich diese auf GNU autotools- und Cmake-basierte Buildsysteme beziehen.
         </li>
         <li>
           <b>Komfort und Verlässlichkeit</b>: im Üblichen vermittelt midipix_build die Einführung und Benutzung von Midipix, allermindestens
           durch die Distributionsarchive, die es erstellt. Sowohl Entwickler als auch Endnutzer möchten über die Fähigkeit verfügen,
           den Build ein oder einer beliebig großen Menge von Software bzw. Komponenten wie den runtime components oder der vollständige
           Umgebung einzuleiten. Daher lassen sich praktisch alle Aufgaben durch eine kleine Kommandozeile, “build.sh” aufrufend,
-          vollständig Automatisiert durchführen.
+          vollständig Automatisiert durchführen.<br />
+          Hierüber hinaus wurden die höchst ineffizienten fork-exec-write/read, allzusehr häufig in Bourne/-kompatiblen Shellcode vorkommenden,
+          Codeparadigmen so gut wie vollständig eliminiert, außer dort wo diese tatsächlich durch den Aufruf externer Befehle vs. lediglich
+          interne Funktionen vernotwendigt sind, mit dem Resultat einer durchaus performanten Implementation mit geringen Latenzen, inkl. dem
+          Abhängigkeitsauflösungscode.
         </li>
         <li>
           <b>Einfachheit</b>: zu guter Letzt bleiben geringe Codekomplexität und -größe, insbesondere im Bezug auf Flexibilität,
@@ -52,7 +61,10 @@
         </li>
       </ol>
 
-      <h2>Tcl TIP #458: Entwurf und Umsetzung der epoll/kqueue-Unterstützung im Tcl notifier auf Linux bzw. *BSD (<a href="https://github.com/flightaware/Tcl-bounties">FlightAware bounty programme</a>) (November 2016-Dezember 2016)</h2>
+      <h2>
+        Tcl TIP #458: Entwurf und Umsetzung der epoll/kqueue-Unterstützung im Tcl notifier auf Linux bzw. *BSD
+        (<a href="https://github.com/flightaware/Tcl-bounties">FlightAware bounty programme</a>) (November 2016-Dezember 2016)
+      </h2>
       <p>
         Tcl (Aussprache englisch tickle oder auch als Abkürzung für Tool command language) ist eine Open-Source-Skriptsprache.
         <a href="https://de.wikipedia.org/wiki/Tcl">[5]</a>. Mitarbeit an dem Projekt, insoweit diese öffentliche Schnittstellen in ihrem
