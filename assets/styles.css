@@ -106,17 +106,20 @@ div {
 /*
  * {{{ DIV {content-etc,etc-*} styles, in order of appearance */
 .div-content-etc {
-  display:              flex;
-  justify-content:      space-around;
+  display:                grid;
+  grid-template-columns:  10% 80% 10%;
 }
 .div-etc-left {
   background:           transparent;
+  margin-left:          50%;
 }
 .div-etc-center {
   background:           transparent;
 }
 .div-etc-right {
   background:           transparent;
+  margin-left:          -250%;
+  margin-top:           150%;
 }
 @media (max-width: 1280px) {
     .div-etc-left {
