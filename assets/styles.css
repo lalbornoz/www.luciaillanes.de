@@ -1,5 +1,5 @@
-/*
- * {{{ Global styles */
+
+/* {{{ Global styles */
 body {
   background-image:     url("bg_final50.jpg");
   font-family:          Palatino;
@@ -39,8 +39,7 @@ p {
   text-indent:          1em;
 }
 /* }}} */
-/*
- * {{{ DIV styles, in order of appearance */
+/* {{{ DIV styles, in order of appearance */
 div {
   background-color:     rgba(255,255,255,0.75);
   margin:               auto;
@@ -74,8 +73,7 @@ div {
   width:                80%;
 }
 /* }}} */
-/*
- * {{{ DIV {legend,content} override styles, in order of appearance */
+/* {{{ DIV {legend,content} override styles, in order of appearance */
 .div-legend > .span-legend-colour-block {
   display:              inline-block;
   width:                2em;
@@ -103,25 +101,29 @@ div {
   font-variant:         small-caps;
 }
 /* }}} */
-/*
- * {{{ DIV {content-etc,etc-*} styles, in order of appearance */
+/* {{{ DIV {content-etc,etc-*} styles, in order of appearance */
 .div-content-etc {
   display:                grid;
   grid-template-columns:  10% 80% 10%;
 }
 .div-etc-left {
-  background:           transparent;
-  margin-left:          50%;
+  background:             transparent;
+  margin-left:            50%;
 }
 .div-etc-center {
-  background:           transparent;
+  background:             transparent;
 }
 .div-etc-right {
-  background:           transparent;
-  margin-left:          -250%;
-  margin-top:           150%;
+  background:             transparent;
+  margin-left:            -250%;
+  margin-top:             150%;
 }
+/* }}} */
+/* {{{ @media (max-width: 1280px) DIV {content-etc,etc-*} styles, in order of appearance */
 @media (max-width: 1280px) {
+    .div-content-etc {
+      display:         block;
+    }
     .div-etc-left {
         display:        none !important;
     }
