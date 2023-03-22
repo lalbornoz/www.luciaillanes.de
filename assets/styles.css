@@ -1,135 +1,141 @@
 
-/* {{{ Global styles */
-body {
-  background-image:     url("bg_final50.jpg");
-  font-family:          Palatino;
-  font-size:            1em;
-}
-
-a:link {
-  color:                #178AB6;
-  text-decoration:      none;
-}
-a:visited {
-  color:                #178AB6;
-  text-decoration:      none;
-}
-a:hover {
-  color:                #A05463;
-  text-decoration:      underline;
-}
-
-h1, h2 {
-  font-size:            1.5em;
-  font-variant:         small-caps;
-  font-weight:          bold;
-}
-h2 {
-  font-size:            1em;
-}
-
-hr {
-  border:               none;
-  border-bottom:        1px solid silver;
-  width:                25%;
-}
-
-p {
-  text-align:           justify;
-  text-indent:          1em;
+/* {{{ .div-box styles */
+.div-box {
+  background-color:       rgba(255,255,255,0.75);
+  margin:                 auto;
+  text-align:             center;
 }
 /* }}} */
-/* {{{ DIV styles, in order of appearance */
-div {
-  background-color:     rgba(255,255,255,0.75);
-  margin:               auto;
-  text-align:           center;
-}
+/* {{{ .div-empty* styles */
 .div-empty1, .div-empty2 {
-  background-color:     transparent;
-  height:               1em;
+  background-color:       transparent;
+  height:                 1em;
 }
 .div-empty2 {
-  height:               2.5em;
-}
-.div-legend {
-  padding:              3em;
-  width:                50%;
-}
-.div-menu {
-  font-size:            0.8em;
-  font-variant:         small-caps;
-  padding:              0.5em;
-  width:                60%;
-}
-.div-content {
-  padding:              1em;
-  text-align:           left;
-  width:                70%;
-}
-.div-copyright {
-  font-size:            0.6em;
-  padding:              1em;
-  width:                80%;
+  height:                 2.5em;
 }
 /* }}} */
-/* {{{ DIV {legend,content} override styles, in order of appearance */
+
+/* {{{ .div-legend styles */
+.div-legend {
+  padding:                3em;
+  width:                  50%;
+}
+
+@media (max-width: 1280px) {
+  .div-legend {
+    width:                85%;
+  }
+}
+
 .div-legend > .span-legend-colour-block {
-  display:              inline-block;
-  width:                2em;
+  display:                inline-block;
+  width:                  2em;
 }
 .div-legend > .span-legend-colour-block:after {
   content:              '.';
-  visibility:           hidden;
+  visibility:             hidden;
 }
+
 .div-legend > h1, .div-legend > h2 {
-  display:              inline;
-  font-size:            2em;
-  font-variant:         normal;
-  font-weight:          normal;
+  display:                inline;
+  font-size:              2em;
+  font-variant:           normal;
+  font-weight:            normal;
 }
 .div-legend > h2 {
-  font-size:            1.25em;
+  font-size:              1.25em;
 }
 .div-legend > h3 {
-  margin:               0;
+  margin:                 0;
+}
+/* }}} */
+/* {{{ .div-menu styles */
+.div-menu {
+  font-size:              0.8em;
+  font-variant:           small-caps;
+  padding:                0.5em;
+  width:                  60%;
+}
+
+@media (max-width: 1280px) {
+  .div-menu {
+    width:                90%;
+  }
+}
+/* }}} */
+
+/* {{{ .div-content styles */
+.div-content {
+  padding:                1em;
+  text-align:             left;
+  width:                  70%;
+}
+
+@media (max-width: 1280px) {
+  .div-content {
+    width:                95%;
+    }
 }
 
 .div-content > .p-references {
-  text-indent:          0em;
-  font-size:            1em;
-  font-variant:         small-caps;
+  text-indent:            0em;
+  font-size:              1em;
+  font-variant:           small-caps;
 }
 /* }}} */
-/* {{{ DIV {content-etc,etc-*} styles, in order of appearance */
+/* {{{ .div-content-etc styles */
 .div-content-etc {
+  padding:                1em;
+  width:                  70%;
+
   display:                grid;
-  grid-template-columns:  10% 80% 10%;
+  grid-template-areas:
+    "a a b b c c"
 }
-.div-etc-left {
-  background:             transparent;
-  margin-left:            50%;
-}
-.div-etc-center {
-  background:             transparent;
-}
-.div-etc-right {
-  background:             transparent;
-  margin-left:            -250%;
-  margin-top:             150%;
+
+@media (max-width: 1280px) {
+  .div-content-etc {
+    width:                95%;
+  }
 }
 /* }}} */
-/* {{{ @media (max-width: 1280px) DIV {content-etc,etc-*} styles, in order of appearance */
+/* {{{ .div-content-etc-img styles */
 @media (max-width: 1280px) {
-    .div-content-etc {
-      display:         block;
+    .div-content-etc-img {
+        display:          none !important;
     }
-    .div-etc-left {
-        display:        none !important;
-    }
-    .div-etc-right {
-        display:        none !important;
-    }
+}
+/* }}} */
+/* {{{ .div-content-etc* styles */
+.div-content-etc-stories {
+  background:             transparent;
+  grid-area:              a;
+  text-align:             center;
+}
+.div-content-etc-comics {
+  background:             transparent;
+  grid-area:              b;
+  text-align:             center;
+}
+.div-content-etc-recipes {
+  background:             transparent;
+  grid-area:              c;
+  text-align:             center;
+}
+/* }}} */
+
+/* {{{ .div-copyright styles */
+.div-copyright {
+  font-size:              0.6em;
+  padding:                1em;
+  width:                  80%;
+}
+
+@media (max-width: 1280px) {
+  .div-copyright {
+    width:                95%;
+  }
 }
 /* }}} */
 
