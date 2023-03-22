@@ -1,0 +1,45 @@
+
+body {
+  background-image:       url("bg_final50.jpg");
+  font-family:            Palatino;
+  font-size:              1em;
+}
+
+p {
+  text-align:             justify;
+  text-indent:            1em;
+}
+
+
+a:link {
+  color:                  #178AB6;
+  text-decoration:        none;
+}
+a:visited {
+  color:                  #178AB6;
+  text-decoration:        none;
+}
+a:hover {
+  color:                  #A05463;
+  text-decoration:        underline;
+}
+
+
+h1, h2 {
+  font-size:              1.5em;
+  font-variant:           small-caps;
+  font-weight:            bold;
+}
+h2 {
+  font-size:              1em;
+}
+
+hr {
+  border:                 none;
+  border-bottom:          1px solid silver;
+  width:                  25%;
+}
+
+/*
+ * vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=0
+ */
