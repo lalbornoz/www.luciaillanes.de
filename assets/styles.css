@@ -92,6 +92,7 @@
   display:                grid;
   grid-template-areas:
     "a a b b c c"
+    "d d d d d d"
 }
 
 @media (max-width: 1280px) {
@@ -121,6 +122,11 @@
 .div-content-etc-recipes {
   background:             transparent;
   grid-area:              c;
+  text-align:             center;
+}
+.div-content-etc-arabic-poems {
+  background:             transparent;
+  grid-area:              d;
   text-align:             center;
 }
 /* }}} */
