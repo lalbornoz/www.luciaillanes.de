@@ -124,6 +124,11 @@
   grid-area:              c;
   text-align:             center;
 }
+.div-content-etc-drawings  {
+  background:             transparent;
+  grid-area:              c;
+  text-align:             center;
+}
 .div-content-etc-recipes {
   background:             transparent;
   grid-area:              d;
