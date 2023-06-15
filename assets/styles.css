@@ -119,12 +119,7 @@
   grid-area:              b;
   text-align:             center;
 }
-.div-content-etc-comics {
-  background:             transparent;
-  grid-area:              c;
-  text-align:             center;
-}
-.div-content-etc-drawings  {
+.div-content-etc-comics-drawings {
   background:             transparent;
   grid-area:              c;
   text-align:             center;
