@@ -1,3 +1,28 @@
+      <!-- {{{ css -->
+      <style type="text/css">
+      @-webkit-keyframes hvv-s-1 {
+        0%  { color:  #009728; }
+        33% { color:  #ffffff; }
+        66% { color:  #b60c36; }
+        99% { color:  #531b6e; }
+      }
+
+      .hvv-s-1 {
+        -webkit-animation-name:             hvv-s-1;
+        -webkit-animation-iteration-count:  infinite;
+        -webkit-animation-duration:         1s;
+      }
+
+      .hvv {
+        border-radius:  1em;
+        border-style:   solid;
+        font-family:    monospace;
+        font-weight:    bold;
+        padding:        0.05em 0.75em 0.05em 0.75em;
+      }
+      </style>
+      <!-- }}} -->
+
       <div class="div-box div-content-etc">
         <div class="div-box div-content-etc-stories">
           <img alt="roarie" class="div-content-etc-img" src="/etc/roarie.png" />
@@ -27,6 +52,9 @@
             documents
           </h1>
           <a href="/<!--# echo var="inc_lang" default="EN" -->/stories/liebes_gedicht.html">Liebesgedicht eines anonymen deutschen Mannes ...</a><br />
+          <a href="/<!--# echo var="inc_lang" default="EN" -->/stories/s-1.html">
+            Anweisungen zum erfolgreichen Erreichen der HVV <span class="hvv hvv-s-1">S-1</span>
+          </a>
         </div>
 
         <div class="div-box div-content-etc-comics-drawings">
