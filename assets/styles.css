@@ -92,7 +92,7 @@
   display:                grid;
   grid-template-areas:
     "a a c c d d"
-    "e e - - b b"
+    "e e c c b b"
 }
 
 @media (max-width: 1280px) {
