@@ -15,15 +15,15 @@
         Interix<a href="https://technet.microsoft.com/en-us/library/bb463204.aspx">[3]</a>, debido a que Midipix no depende de un subsistema
         ambiente por sí mismo, por lo que tampoco se vale de su propio servidor ni de los DLL de cliente. Luego, no se requiere virtualización ni
         controladores tipo kernel a la hora de usar Midipix: en su lugar, basta una pequeña cantidad de “runtime components” para facilitar la
-        comunicación entre Musl, la libc elegida por este proyecto y la ejecutiva Windows NT (NTOSKRNL.EXE).<br />
-        <br />
+        comunicación entre Musl, la libc elegida por este proyecto y la ejecutiva Windows NT (NTOSKRNL.EXE).<br>
+        <br>
         A comienzos del proyecto midipix_build<a href="https://github.com/lalbornoz/midipix_build">[4]</a> la compilación [cruzada] de la
         toolchain, los “runtime components” así como un número indeterminado de software por parte de terceros, fue manejada por script de Bourne
         shell escritos ad hoc, mecanismo que hasta no hace mucho demostró ser poco escalable y de fiabilidad. De ahí que, la necesidad de una
         infraestructura de compilación cruzada, lo suficientemente general y amplia, quedara manifiesta. Dado que el proyecto Midipix se
         encuentra en un proceso de cambio permanente, se ha creado un paradigma de desarrollo iterativo Consideraciones acerca de la arquitectura
         tuvieron poca importancia. La reestructuración de código tuvo lugar sólo dos veces y el concepto actual ha demostrado ser suficiente y
-        adecuado cuando se trata de prestar servicio y cumplir los requisitos de Midipix. Metas y requisitos que se deducen de aquí:<br />
+        adecuado cuando se trata de prestar servicio y cumplir los requisitos de Midipix. Metas y requisitos que se deducen de aquí:<br>
       </p>
       <ol>
         <li>
@@ -44,7 +44,7 @@
           <b>Comodidad y fiabilidad</b>: por regla general, midipix_build ofrece un puerto de entrada a los interesados en el proyecto, por parte
           baja a través de los archivos de distribución que genera. Tanto desarrolladores como usuarios quisieran disponer de la facilidad de
           introducir modelos o un número indeterminado de software. Es decir, componentes del tiempo de ejecución o el ambiente completo. Debido
-          a esta razón, poco menos que todas las tareas se llevan a cabo gracias a una línea de comando “build.sh” automática.<br />
+          a esta razón, poco menos que todas las tareas se llevan a cabo gracias a una línea de comando “build.sh” automática.<br>
           Adicionalmente, los paradigmas de código tipo fork-exec-write/read tanto sumamente ineficientes como demasiadamente prevalentes en
           código de shell Bourne/-derivado fueron eliminados casi enteramente salvo cuando comandos verdaderamente externos vs. funciones
           internas son llamados, resultando en una implementación bastante rápida y con latencias bajas, incluyendo al código de la resolución de
@@ -72,16 +72,16 @@
         bounty programme “for improvements to Tcl and certain Tcl packages” fue publicado en GitHub
         <a href="https://github.com/flightaware/Tcl-bounties">[7]</a> por parte de FlightAware<a href="https://www.flightaware.com/">[8]</a>. Yo
         elegí a desarrollar el “[s]upport for epoll()/kqueue() to replace select() in socket handling,” tarea que termine a fines de diciembre 2016
-        <a href="https://github.com/flightaware/Tcl-bounties/issues/14">[9]</a>.<br />
-        <br />
+        <a href="https://github.com/flightaware/Tcl-bounties/issues/14">[9]</a>.<br>
+        <br>
         Tcl implementa una arquitectura “event-based” respecto a I/O y en particular utiliza callbacks para la notificación de la finalización
         I/O y el procesamiento, ambas funciones se implementan en el notificador no específico a la plataforma. Antes, el único notificador
         existente utilizaba la llamadas al sistema (system call) select(2) para la multiplexación I/O, que resultó ser un gran obstáculo para
         escalabilidad. Las desventajas de select (2) son bien conocidas y han quedado profundizadas en mi TIP
         <a href="https://www.tcl.tk/cgi-bin/tct/tip/458.html">[10]</a>. A causa de tales razones no se examinan aquí, a no ser por el contingente
         impuesto mediante el uso de select (2) del número de file descriptors de 1024. Los nuevos notificadores para Linux, utilizando epoll (7),
-        y *BSD, utilizando kqueue (2), están exentos de semejantes defectos.<br />
-        <br />
+        y *BSD, utilizando kqueue (2), están exentos de semejantes defectos.<br>
+        <br>
         En atención a esto, los nuevos notificadores utilizan epoll(7)/kqueue(2) recurriendo al thread context del solicitante en vez de
         introducir threads nuevos. La cuestión del IPC entre threads, después de cierto debate sobre el tema en la lista de correo e IRC, fue
         solucionada con la introducción de una trigger pipe(2) en *BSD y eventfd(2) en Linux para cada thread. Con esto, añade un file descriptor
@@ -92,16 +92,16 @@
 
       <h3>Enlaces</h3>
       <p class="p-references">
-        [1] <a href="http://www.midipix.org/">midipix</a><br />
-        [2] <a href="https://www.cygwin.com/">Cygwin</a><br />
-        [3] <a href="https://technet.microsoft.com/en-us/library/bb463204.aspx">Windows Services for UNIX Version 3.0</a><br />
-        [4] <a href="https://github.com/lalbornoz/midipix_build">GitHub - lalbornoz/midipix_build: Unified build Bourne shell script for midipix</a><br />
-        [5] <a href="https://en.wikipedia.org/wiki/Tcl">Tcl – Wikipedia</a><br />
-        [6] <a href="http://wiki.tcl.tk/983">Tcl Improvement Proposal</a><br />
-        [7] <a href="https://github.com/flightaware/Tcl-bounties">GitHub - flightaware/Tcl-bounties: Bounty program for improvements to Tcl and certain Tcl packages</a><br />
-        [8] <a href="https://www.flightaware.com/">FlightAware - Flug-Tracker / Flugstatus / Flugverfolgung</a><br />
-        [9] <a href="https://github.com/flightaware/Tcl-bounties/issues/14">[TIP] Intent to implement epoll()/kqueue() support for sockets on Linux/FreeBSD · Issue #14 · flightaware/Tcl-bounties · GitHub</a><br />
-        [10] <a href="https://www.tcl.tk/cgi-bin/tct/tip/458.html">TIP #458: Add Support for epoll() and kqueue() in the Notifier</a><br />
+        [1] <a href="http://www.midipix.org/">midipix</a><br>
+        [2] <a href="https://www.cygwin.com/">Cygwin</a><br>
+        [3] <a href="https://technet.microsoft.com/en-us/library/bb463204.aspx">Windows Services for UNIX Version 3.0</a><br>
+        [4] <a href="https://github.com/lalbornoz/midipix_build">GitHub - lalbornoz/midipix_build: Unified build Bourne shell script for midipix</a><br>
+        [5] <a href="https://en.wikipedia.org/wiki/Tcl">Tcl – Wikipedia</a><br>
+        [6] <a href="http://wiki.tcl.tk/983">Tcl Improvement Proposal</a><br>
+        [7] <a href="https://github.com/flightaware/Tcl-bounties">GitHub - flightaware/Tcl-bounties: Bounty program for improvements to Tcl and certain Tcl packages</a><br>
+        [8] <a href="https://www.flightaware.com/">FlightAware - Flug-Tracker / Flugstatus / Flugverfolgung</a><br>
+        [9] <a href="https://github.com/flightaware/Tcl-bounties/issues/14">[TIP] Intent to implement epoll()/kqueue() support for sockets on Linux/FreeBSD · Issue #14 · flightaware/Tcl-bounties · GitHub</a><br>
+        [10] <a href="https://www.tcl.tk/cgi-bin/tct/tip/458.html">TIP #458: Add Support for epoll() and kqueue() in the Notifier</a><br>
       </p>
     </div>
 
