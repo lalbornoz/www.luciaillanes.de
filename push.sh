@@ -1,7 +1,7 @@
 #!/bin/sh
 
 SYNC_USER="www-data";
-SYNC_HNAME="abbad.luciaillanes.de";
+SYNC_HNAME="abbad.lucioillanes.de";
 SYNC_DNAME="www.luciaillanes.de";
 
 git push "${@}" || exit 1;
