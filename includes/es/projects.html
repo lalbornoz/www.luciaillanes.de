@@ -84,7 +84,7 @@
         <br>
         En atención a esto, los nuevos notificadores utilizan epoll(7)/kqueue(2) recurriendo al thread context del solicitante en vez de
         introducir threads nuevos. La cuestión del IPC entre threads, después de cierto debate sobre el tema en la lista de correo e IRC, fue
-        solucionada con la introducción de una trigger pipe(2) en *BSD y eventfd(2) en Linux para cada thread. Con esto, añade un file descriptor
+        solucianada con la introducción de una trigger pipe(2) en *BSD y eventfd(2) en Linux para cada thread. Con esto, añade un file descriptor
         por cada thread, siempre que interactúe con el notificador y uno o dos file descriptors por IPC entre threads en *BSD/Linux,
         respectivamente.Si bien conduce a una pérdida sustancial de la complejidad merced a la eliminación del thread del notificador, Lo más
         importante del caso: ningún thread, por parte del notifier, comparte implícitamente con otro thread file descriptors o estado.
