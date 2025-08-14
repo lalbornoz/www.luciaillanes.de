@@ -110,9 +110,19 @@
 }
 /* }}} */
 /* {{{ .div-content-etc* styles */
-.div-content-etc-stories {
+.div-content-etc-stories1 {
+  background:             transparent;
+  grid-area:              a;
+  text-align:             center;
+}
+.div-content-etc-stories2 {
   background:             transparent;
   grid-area:              b;
+  text-align:             center;
+}
+.div-content-etc-stories3 {
+  background:             transparent;
+  grid-area:              c;
   text-align:             center;
 }
 .div-content-etc-arabic-poems1 {
