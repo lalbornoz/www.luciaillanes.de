@@ -92,8 +92,8 @@
   display:                grid;
   grid-template-areas:
     "a a b b c c"
-    "a a b b d d"
-    "a a b b e e"
+    "a a b b c c"
+    "a a b b c c"
 }
 
 @media (max-width: 1280px) {
@@ -112,7 +112,7 @@
 /* {{{ .div-content-etc* styles */
 .div-content-etc-stories {
   background:             transparent;
-  grid-area:              a;
+  grid-area:              b;
   text-align:             center;
 }
 .div-content-etc-arabic-poems {
@@ -122,17 +122,17 @@
 }
 .div-content-etc-recipes {
   background:             transparent;
-  grid-area:              c;
+  grid-area:              a;
   text-align:             center;
 }
 .div-content-etc-comics-drawings {
   background:             transparent;
-  grid-area:              d;
+  grid-area:              b;
   text-align:             center;
 }
 .div-content-etc-german {
   background:             transparent;
-  grid-area:              e;
+  grid-area:              c;
   text-align:             center;
 }
 /* }}} */
