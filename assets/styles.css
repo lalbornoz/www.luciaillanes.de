@@ -115,9 +115,19 @@
   grid-area:              b;
   text-align:             center;
 }
-.div-content-etc-arabic-poems {
+.div-content-etc-arabic-poems1 {
+  background:             transparent;
+  grid-area:              a;
+  text-align:             center;
+}
+.div-content-etc-arabic-poems2 {
   background:             transparent;
   grid-area:              b;
+  text-align:             center;
+}
+.div-content-etc-arabic-poems3 {
+  background:             transparent;
+  grid-area:              c;
   text-align:             center;
 }
 .div-content-etc-recipes {
