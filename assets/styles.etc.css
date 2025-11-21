@@ -134,6 +134,18 @@
   100% {transform: translateY(-100px) translateX(20px) scale(1); opacity: 0.8; }
 }
 /* }}} */
+/* {{{ .div-content-etc-projecttransspace */
+.div-content-etc-projecttransspace {
+  display:          flex;
+  justify-content:  center;
+  align-items:      center;
+  gap:              1em;
+}
+
+.div-content-etc-projecttransspace img {
+  display:          block;
+}
+/* }}} */
 
 /*
  * vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=0
