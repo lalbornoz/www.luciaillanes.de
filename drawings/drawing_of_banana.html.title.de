@@ -1,1 +1,0 @@
-drawing_of_banana.html.title.en
