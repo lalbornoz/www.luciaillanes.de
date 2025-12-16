@@ -19,6 +19,16 @@
     }
   }
 
+  function include_title($dir, $lang, $page) {
+    global $inc_lang, $inc_dir, $inc_page, $inc_page_sub, $inc_uri, $inc_uri_fname;
+
+    if (file_exists($_SERVER['DOCUMENT_ROOT'] . "/$dir/$lang/$page.php.title.$lang")) {
+      include $_SERVER['DOCUMENT_ROOT'] . "/$dir/$lang/$page.php.title.$lang";
+    } else {
+      include $_SERVER['DOCUMENT_ROOT'] . "/$dir/en/$page.php.title.$lang";
+    }
+  }
+
   if (!preg_match(
       '|^/+(?:([a-z][a-z])/*)?(?:([^/]+)/*(?:/+([^/]+)/*)?)?$|i',
       $_SERVER['REQUEST_URI'], $matches, PREG_UNMATCHED_AS_NULL))
@@ -82,7 +92,7 @@
     <link href="/assets/styles.etc.css" rel="stylesheet">
     <meta charset="utf-8">
     <script src="/assets/functions.js"></script>
-    <title><?php include $_SERVER['DOCUMENT_ROOT'] . $inc_uri . ".title." . $inc_lang ?></title>
+    <title><?php include_title ($inc_dir, $inc_lang, $inc_page) ?></title>
   </head>
   <body onload="kadeClick()">
     <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/" . $inc_lang . "/legend.php" ?>
