@@ -173,6 +173,21 @@ however much remains at trough will be very rapidly taken up in any case - as we
 stability after week two can usually be expected - are factors.
 </p>
 
+<h2 style="text-align: center">Transdermal Oestradiol gel: surface area</h2>
+
+<img
+	alt="Estradiol levels after the last dose with 1 mg/day transdermal estradiol gel applied to different amounts of skin area (200 cm2, 400 cm2, or as large as possible) in postmenopausal women."
+	src="https://upload.wikimedia.org/wikipedia/commons/1/19/Estradiol_levels_with_1_mg_per_day_transdermal_estradiol_gel_applied_to_different_amounts_of_area_in_postmenopausal_women.png"
+	style="display: block; margin-left: auto; margin-right: auto; width: 50%">
+<h3 style="text-align: center">
+	Estradiol levels after the last dose with 1 mg/day transdermal estradiol gel applied to different amounts of skin
+	area (200 cm2, 400 cm2, or as large as possible) in postmenopausal women.<a href="#r5" style="font-size: small">[5]</a>
+</h3>
+
+<p>
+Always use the smallest possible surface area when applying transdermal Oestradiol gel in order to maximise absorption.
+</p>
+
 <h2 style="text-align: center">References</h2>
 
 <span id="r0">
