@@ -5,6 +5,7 @@
   $inc_page_sub = NULL;
   $inc_uri = NULL;
   $inc_uri_fname = NULL;
+  $languages = ["en", "es", "de"];
 
   # FIXME TODO XXX error pages/handling
 
@@ -31,11 +32,19 @@
       } else {
         $inc_lang = "en";
       }
+      if (!in_array ($inc_lang, $languages)) {
+        $inc_lang = "en";
+      }
 
       header("Location: /$inc_lang" . $_SERVER['REQUEST_URI']);
       die();
     } else {
       $inc_lang = strtolower($inc_lang);
+      if (!in_array ($inc_lang, $languages)) {
+        $inc_lang = "en";
+        header("Location: /$inc_lang" . preg_replace('|^/[a-z][a-z]/*|i', '/', $_SERVER['REQUEST_URI']));
+        die();
+      }
     }
 
     $inc_page = $matches[2];
