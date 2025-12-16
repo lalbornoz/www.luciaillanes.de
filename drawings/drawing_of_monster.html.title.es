@@ -1,1 +1,0 @@
-drawing_of_monster.html.title.en

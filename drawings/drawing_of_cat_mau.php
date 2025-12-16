@@ -1,0 +1,7 @@
+<div class="div-box div-content" style="font-family: times new roman">
+	<img
+		alt=""
+		src="<?php echo $inc_uri_fname ?>.png"
+		style="display: block; margin-left: auto; margin-right: auto; max-height: 100%; max-width: 100%"
+	/>
+</div>
