@@ -12,7 +12,7 @@
       <hr>
       <span class="span-menu">
         <a href="/<?php echo $inc_lang ?>/about">About me</a> |
-        <a href="/assets/Curriculum%20Vitae%20(English).pdf">Public Curriculum Vitae (PDF)</a>
+        <a href="/assets/Curriculum%20Vitae%20(English).pdf">Curriculum Vitae (PDF)</a>
         <a href="/assets/CurriculumVitae.tex">(LaTeX)</a><br>
         <a href="/<?php echo $inc_lang ?>/projects">Open source projects involvement</a> |
         <a href="https://github.com/lalbornoz">GitHub</a><br>
