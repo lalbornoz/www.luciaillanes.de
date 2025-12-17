@@ -1,0 +1,256 @@
+      <div class="div-box div-content-visual-sundries">
+        <div class="div-box" style="background: transparent; text-align: center; grid-area: T">
+          <h1>
+            Digitale Kunst (aus #mIRCart)<br>
+            (nur auf Englisch)
+          </h1>
+          <h2>
+            ALLERGENHINWEIS: enthält Spuren von:
+            vulgärer Sprache, Schimpftiraden, Drogengebrauch, allgemeinen Wahnsinn, kade, unsinnigen Prämissen
+            und Handlungen, zuhöchst fraglichen Charaktären, quadratkūfischer Kalligraphie, Surrealismus,
+            Philosophie, Spiritualität, Religion, klinischer Psychologie im Endstadium, platonischen Horror,
+            Parodie. Alle Charaktäre und Ereignisse, die in diesen groben Brocken der digitalen Kunst dargestellt
+            sind, sind fiktiv und sollten aufgrund dessen Inhalten von niemandem betrachtet werden.
+        </div>
+
+        <div class="div-box" style="background: transparent; text-align: center; grid-area: a">
+          <h2>Pack 1</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack1/arab-azulejo">azulejo</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack1/arab-chronoirl">chrono, irl</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack1/arab-cloud">cloud</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack1/arab-kweenatnight">pic of kween at night</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack1/arab-kweenmagic">kween cursing vap0r with nocturnal death magic</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack1/arab-lion1">lion</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack1/arab-spoke">spoke</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack1/arab-zip">zip</a><br>
+        </div>
+        <div class="div-box" style="background: transparent; text-align: center; grid-area: b">
+          <h2>Pack 2</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack2/arab-chrono">happy birthday chrono</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack2/arab-puke">puke</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack2/arab-spokedream">spoke having a nightmare</a><br>
+          <br>
+
+          <h2>Pack 3</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack3/arab-lionhouse">lion house</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack3/arab-lions">lions</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack3/arab-picofak2">pic of ak</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack3/arab-yesod">Yesōd of Spliffs</a><br>
+        </div>
+        <div class="div-box" style="background: transparent; text-align: center; grid-area: c">
+          <h2>Pack 4</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack4/arab-python">pic of Python</a><br>
+          <br>
+
+          <h2>Pack 5</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack5/arab-asciimonster">The ASCII monster ate eraser</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack5/arab-hallofslp">hall of eternal slp</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack5/arab-itlives">it lives</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack5/arab-picoff1re">pic of f1re</a><br>
+        </div>
+        <div class="div-box" style="background: transparent; text-align: center; grid-area: d">
+          <h2>Pack 6</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack6/arab-alghazi">alghazi</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack6/arab-beanscornbread">beans &amp; cornbread had a fight</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack6/arab-kweencarpet">kween on her magic carpet</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack6/arab-kweentower">kween on top of her magic tower</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack6/arab-melp">melp?</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack6/arab-octospoke">octospoke</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack6/arab-pastpresentfut">The past, the present, the future</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack6/arab-ripchronomonitor">Here lie the mortal remains of chrono's curved monitor</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack6/arab-spokearabblog">spoke and arab blogging at each other</a><br>
+          <br>
+
+          <h2>Pack 7</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack7/arab-asciibutterfly">ascii butterfly</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack7/arab-fountain">mirc art fountain</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack7/arab-xianu">Xia nü</a><br>
+        </div>
+        <div class="div-box" style="background: transparent; text-align: center; grid-area: e">
+          <h2>Pack 8</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack8/arab-abulahab">Perish the hands of Abū Lahab</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack8/arab-asma">Names of God</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack8/arab-ayatulkursi">Throne verse</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack8/arab-ayatunnur">Verse of light</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack8/arab-burp">*burp*</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack8/arab-dreamcat">this ascii is about lara</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack8/arab-fatiha">Sūratu l-fātiḥah, 1-4</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack8/arab-hot">hot</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack8/arab-innallaha">God will not change the condition of ...</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack8/arab-kweensnake">kween's pet snake is angry</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack8/arab-mircartkillu">this mircart wants to murder you</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack8/arab-misbah">Mishkātun fīhā miṣbāḥ</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack8/arab-spokewalk">spoke walks to the hall of eternal slp</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack8/arab-stars">Stars</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack8/arab-towelie">Towelie smoked kween's loud</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack8/arab-trianglesong">the happy triangle song! (NSFW)</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack8/arab-vapvapcat">vap0r, from vapcat's perspective</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack8/arab-walaghaliba">There is no conqueror but God</a><br>
+        </div>
+        <div class="div-box" style="background: transparent; text-align: center; grid-area: f">
+          <h2>Pack 9</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack9/arab-f1regamesshop">f1re at the games shop</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack9/arab-kadedreams">kade dreams</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack9/arab-notfunny">this ascii is not funny</a><br>
+          <br>
+
+          <h2>Pack 10</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack10/arab-l0deatwork">l0de at work (NSFW)</a><br>
+          <br>
+
+          <h2>Pack 11</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack11/arab-alghazibm">alghazi in: a typical morning (NSFW)</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack11/arab-doom">doom</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack11/arab-inserttitle">[insert title here]</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack11/arab-knowyourkade">Know your Kade!</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack11/arab-magickade">magic kade</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack11/arab-onenewmsg">You have one (1) new message.</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack11/arab-spokestairs">spoke's stairs</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack11/arab-vap0rwales">vap0r visits Wales</a><br>
+        </div>
+        <div class="div-box" style="background: transparent; text-align: center; grid-area: g">
+          <h2>Pack 12</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack12/arab-looksatyou">IN #MIRCART MIRC ART LOOKS @ YOU</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack12/arab-nanas">caku 'nana attack</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack12/arab-pineapple">caku pineapple attack</a><br>
+          <br>
+
+          <h2>Pack 13</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack13/arab-eastircity">EAST IRCITY</a><br>
+          <br>
+
+          <h2>Pack 14</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack14/arab-expanse">The Expanse Season 1</a><br>
+          <br>
+
+          <h2>Pack 15</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack15/arab-petwave">me pet wave</a><br>
+          <br>
+        </div>
+        <div class="div-box" style="background: transparent; text-align: center; grid-area: h">
+          <h2>Pack 16</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack16/arab-asciipub">where do asciis go when nobodys looking at them</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack16/arab-spokearray">spoke learning 2d arrays</a><br>
+          <br>
+
+          <h2>Pack 17</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack17/arab-almutanabbi">In memory of Abu ṭ-Ṭayyib Aḥmad b. al-Ḥusayn al-Mutanabbī al-Kindī</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack17/arab-ibnarabi">b. ʕarabī</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack17/arab-kadenightmare">kade has a nightmare</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack17/arab-secretspoke">SECRET SPOKE V1.0 MISSION ONE</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack17/arab-staringcats">Heisenberg's Uncertainty cat stares at Planck length cat</a><br>
+          <br>
+
+          <h2>Pack 18</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack18/arab-wahuwama3akum">Sūratu l-Ḥadīd 57:4</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack18/arab-waqalarabbukum">Sūratu ġāfir 40:60</a><br>
+        </div>
+        <div class="div-box" style="background: transparent; text-align: center; grid-area: i">
+          <h2>Pack 19</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack19/arab-layazalu">Lā yazālu lisānuka raṭban min ḏikrillāh </a><br>
+          <br>
+
+          <h2>Pack 20</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack20/arab-spokecat">Secret Spoke delivers a cat to wr34k</a><br>
+          <br>
+
+          <h2>Pack 21</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack21/arab-nadiastamp">Nadia Stamps</a><br>
+          <br>
+
+          <h2>Pack 22</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack22/arab-alghazibm2">alghazi in: a typical morning, pt. II (NSFW)</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack22/arab-spoderoops">construction spoders accident</a><br>
+        </div>
+        <div class="div-box" style="background: transparent; text-align: center; grid-area: j">
+          <h2>Pack 23</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack23/arab-intaqarraba">And if he draws near to Me an arm's length...</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack23/arab-kadelost">kade is lost</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack23/arab-liqawmin">Qur'ān 13:3, sūratu r-Raʕd</a><br>
+          <br>
+
+          <h2>Pack 24</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack24/arab-kantalcohol">On the role of alcohol in the ... (NSFW)</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack24/arab-kantsomething">On the role of the neutrino in the ... (NSFW)</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack24/arab-meinong">alghazi in: did Alexius Meinong smoke loud? (NSFW)</a><br>
+        </div>
+        <div class="div-box" style="background: transparent; text-align: center; grid-area: k">
+          <h2>Pack 25</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack25/arab-dungeon">#irc-dungeon</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack25/arab-kadeacid">kade does a lot of acid</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack25/arab-kademonad">kade fell into a time monad</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack25/arab-spokemaze">OH NO! KADE PUT SPOKE'S COLOURS INSIDE A SCARY MAZE!</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack25/arab-spokemonad">spoke lifts herself into arab's mIRC art monad and ...</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack25/arab-zen">zen joins #MiRCART</a><br>
+          <br>
+
+          <h2>Pack 26</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack26/arab-colours">what do eyes look like when you're colours</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack26/arab-fishing">#arab goes fishing</a><br>
+        </div>
+        <div class="div-box" style="background: transparent; text-align: center; grid-area: l">
+          <h2>Pack 27</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack27/arab-kadles">Kadles</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack27/arab-mindfog">spoke navigates the mind fog sea</a><br>
+          <br>
+
+          <h2>Pack 28</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack28/arab-bdayspoke">Happy Birthday Spoke</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack28/arab-dontreadme">[PLEASE DON'T READ THIS TITLE] (NSFW)</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack28/arab-killkade">KILL KILL KILL KILL KILL KADE KADE KADE KADE KADE</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack28/arab-laddizle">Does dzl form a complemented lattice?</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack28/arab-mtarab">kade clims Mt. Arab</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack28/arab-staircase">Conversational Staircase</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack28/arab-triples">Do Kadely triples kadify the monokade ...</a><br>
+        </div>
+        <div class="div-box" style="background: transparent; text-align: center; grid-area: m">
+          <h2>Pack 30</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack30/arab-urnext">YOU'RE NEXT! (NSFW)</a><br>
+          <br>
+
+          <h2>Pack 34</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack34/arab-howdiget">howd i get here? (NSFW)</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack34/arab-kadelang">kade language</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack34/arab-portal">theres a portal to the 4th spatial dimension in alghazi's flat irl</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack34/arab-spokeplans">spoke plans something</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack34/arab-square">green square</a><br>
+        </div>
+        <div class="div-box" style="background: transparent; text-align: center; grid-area: n">
+          <h2>Pack 36</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack36/arab-vap0rs">Seven (7) vap0rs</a><br>
+          <br>
+
+          <h2>Pack 37</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack37/arab-samri">#arab sāmrī?</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack37/arab-stevoo">scratching post (NSFW)</a><br>
+        </div>
+        <div class="div-box" style="background: transparent; text-align: center; grid-area: o">
+          <h2>Pack 41</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack41/arab-healthcare">Reasons whie the US should be [CENSORED], pt. I: ... (NSFW)</a><br>
+        </div>
+
+        <div class="div-box" style="background: transparent; text-align: center; grid-area: B">
+          <h1>
+            Künstlerischer Mülleimer<br>
+            (nur auf Englisch)
+          </h1>
+
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_banana">Drawing of Banana</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_bee">Drawing of Bee</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_brain">Drawing of Brain</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_cat">Drawing of Cat</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_cat_foamie">Drawing of Cat, Foamie</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_cat_mau">Drawing of Cat, Mau</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_cat_photons">Drawing of Cat, parametric down-conversion scheme for generation of single photons</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_fish">Drawing of Fish</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_giraffe">Drawing of Giraffe</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_lion">Drawing of Lion</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_monster">Drawing of Monster (WARNING: SCARY)</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_spoders">Drawing of Spoders</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/self_portrait">Self portrait, 23 November 2012</a><br>
+        </div>
+      </div>
+
+  <!--
+    vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=0
+    -->
