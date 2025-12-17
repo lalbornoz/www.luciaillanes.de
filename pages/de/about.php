@@ -22,9 +22,9 @@
         und Engineering mit einem Blick auf den Entwurf und der Umsetzung von wartbarer, komponierbarer und ordentlich dokumentierter
         Software, vorzugsweise unter Ausschluss der Abstraktion und allzu komplizierten Code mit einer Armut in expressiven Modalitäten.<br>
         <br>
-        In meiner Freizeit schreibe ich manchmal gerne <a href="/<?php echo $inc_lang ?>/stories">Kurzgeschichten und
-        Gedichte</a>, zeichne <a href="/<?php echo $inc_lang ?>/etc">Comics</a>, welche die unergiebigen Absurditäten der
-        menschlichen Bedingung als auch Existenz im generellen darbilden, übersetze <a href="/<?php echo $inc_lang ?>/arabic_poems">arabische Gedichte</a>,
+        In meiner Freizeit schreibe ich manchmal gerne <a href="/<?php echo $inc_lang ?>/stories">Kurzgeschichten und Gedichte</a>,
+        zeichne <a href="/<?php echo $inc_lang ?>/visual_sundries">digitale Kunst</a>, welche die unergiebigen Absurditäten der menschlichen
+        Bedingung als auch Existenz im generellen darbilden, übersetze <a href="/<?php echo $inc_lang ?>/arabic_poems">arabische Gedichte</a>,
         verfasse kolossale Gebirge von Text über <a href="/<?php echo $inc_lang ?>/etc">experimentelle transfeminine Endokrinologie</a>,
         führe lange Spaziergänge während ich über die phänomenologischen Implikationen der Buchstabensuppe sinniere, bringe Opfergaben zu Enki
         und Labata Ištar, <a href="/<?php echo $inc_lang ?>/etc">koche</a> und verhänge lange, langgezogene Sätze über
