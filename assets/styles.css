@@ -81,6 +81,22 @@
   font-variant:           small-caps;
 }
 /* }}} */
+/* {{{ .div-content-visual-sundries styles */
+.div-content-visual-sundries {
+  padding:                1em;
+  width:                  70%;
+
+  display:                grid;
+  grid-template-areas:
+    "T T T"
+    "a b c"
+    "d e f"
+    "g h i"
+    "j k l"
+    "m n o"
+    "B B B"
+}
+/* }}} */
 /* {{{ .div-content-etc styles */
 .div-content-etc {
   padding:                1em;
@@ -142,7 +158,7 @@
   grid-area:              a;
   text-align:             center;
 }
-.div-content-etc-comics-drawings {
+.div-content-etc-kade {
   background:             transparent;
   grid-area:              b;
   text-align:             center;

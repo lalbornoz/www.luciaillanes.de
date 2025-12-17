@@ -16,35 +16,10 @@
           <a href="/<?php echo $inc_lang ?>/etc/hrtauccalc">HRT AUC calculator</a><br>
         </div>
 
-        <div class="div-box div-content-etc-comics-drawings">
+        <div class="div-box div-content-etc-kade">
           <img alt="kade" class="div-content-etc-img" id="kade" onclick="kadeClick();" src="/assets/kades/" title="Don't click me!"><br>
           <span id="kade-prev" onclick="kadePrevious();" style="cursor: pointer">⏪</span>
           <span id="kade-next" onclick="kadeNext();" style="cursor: pointer">⏩</span>
-          <br>
-          <h1>Comics</h1>
-          <a href="/<?php echo $inc_lang ?>/comics/staircase">Conversational Staircase</a><br>
-          <a href="/<?php echo $inc_lang ?>/comics/dontreadme">Don't read me :(</a><br>
-          <a href="/<?php echo $inc_lang ?>/comics/welfareoffice">At the welfare office (NSFW)</a><br>
-          <br>
-          <a href="/<?php echo $inc_lang ?>/comics/alghazibm">alghazi in: a typical morning (NSFW)</a><br>
-          <a href="/<?php echo $inc_lang ?>/comics/alghazibm2">alghazi in: a typical morning, pt. II (NSFW)</a><br>
-          <a href="/<?php echo $inc_lang ?>/comics/kantsomething">On the role of the neutrino in ... (NSFW)</a><br>
-          <a href="/<?php echo $inc_lang ?>/comics/kantalcohol">On the role of alcohol in ... (NSFW)</a><br>
-          <br>
-          <h1>Crude drawings</h1>
-          <a href="/<?php echo $inc_lang ?>/drawings/drawing_of_banana">Drawing of Banana</a><br>
-          <a href="/<?php echo $inc_lang ?>/drawings/drawing_of_bee">Drawing of Bee</a><br>
-          <a href="/<?php echo $inc_lang ?>/drawings/drawing_of_brain">Drawing of Brain</a><br>
-          <a href="/<?php echo $inc_lang ?>/drawings/drawing_of_cat">Drawing of Cat</a><br>
-          <a href="/<?php echo $inc_lang ?>/drawings/drawing_of_cat_foamie">Drawing of Cat, Foamie</a><br>
-          <a href="/<?php echo $inc_lang ?>/drawings/drawing_of_cat_mau">Drawing of Cat, Mau</a><br>
-          <a href="/<?php echo $inc_lang ?>/drawings/drawing_of_cat_photons">Drawing of Cat, parametric down-conversion scheme for generation of single photons</a><br>
-          <a href="/<?php echo $inc_lang ?>/drawings/drawing_of_fish">Drawing of Fish</a><br>
-          <a href="/<?php echo $inc_lang ?>/drawings/drawing_of_giraffe">Drawing of Giraffe</a><br>
-          <a href="/<?php echo $inc_lang ?>/drawings/drawing_of_lion">Drawing of Lion</a><br>
-          <a href="/<?php echo $inc_lang ?>/drawings/drawing_of_monster">Drawing of Monster (WARNING: SCARY)</a><br>
-          <a href="/<?php echo $inc_lang ?>/drawings/drawing_of_spoders">Drawing of Spoders</a><br>
-          <a href="/<?php echo $inc_lang ?>/drawings/self_portrait">Self portrait, 23 November 2012</a><br>
         </div>
 
         <div class="div-box div-content-etc-german">

@@ -30,7 +30,7 @@
   }
 
   if (!preg_match(
-      '|^/+(?:([a-z][a-z])/*)?(?:([^/]+)/*(?:/+([^/]+)/*)?)?$|i',
+      '|^/+(?:([a-z][a-z])/*)?(?:([^/]+)/*(?:/+(.+))?)?$|i',
       $_SERVER['REQUEST_URI'], $matches, PREG_UNMATCHED_AS_NULL))
   {
     http_response_code(500);
