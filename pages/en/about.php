@@ -1,7 +1,14 @@
     <div class="div-box div-content">
       <h1>About me</h1>
+
+      <img
+        alt="Portrait" src="/assets/portrait.png" title="Portrait"
+        style="float: right; margin: 0 0 1rem 1rem; width: 250px">
+
       <p>
-        I'm an independent open source software developer from &amp; presently residing in Hamburg, Germany.<br>
+        I'm a <span style="text-decoration: line-through">independent open source software developer</span>
+        <span style="text-decoration: line-through">tortured artist</span> mostly eukaryotic multicellular form of life from
+        &amp; presently residing in Hamburg, Germany.<br>
         <br>
         Having grown up in a multilingual and -cultural environment, I've cultivated an avid passion for my native Spanish
         (Chilean/Andalusian dialect) and German (Northern Germany/Hamburg dialect), as well as English (British English,) at

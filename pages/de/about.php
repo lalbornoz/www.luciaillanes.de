@@ -1,7 +1,14 @@
     <div class="div-box div-content">
       <h1>Über mich</h1>
+
+      <img
+        alt="Portrait" src="/assets/portrait.png" title="Portrait"
+        style="float: right; margin: 0 0 1rem 1rem; width: 250px">
+
       <p>
-        Ich bin eine freiberufliche Open Source Softwareentwicklerin aus &amp; derzeit lebend in Hamburg.<br>
+        Ich bin eine <span style="text-decoration: line-through">freiberufliche Open Source Softwareentwicklerin</span>
+        <span style="text-decoration: line-through">geplagte Künstlerin</span> mehrheitlich eukaryotische multizelluläre Lebensform
+        aus &amp; derzeit lebend in Hamburg.<br>
         <br>
         Durch die mehrsprachige und -kulturelle Umgebung in der ich aufgewachsen bin, habe ich eine tiefe Leidenschaft für sowohl
         meine Landessprachen des Spanischen (chilenischer/andalusischer Dialekt) und Deutsch (norddeutscher/Hamburgischer Dialekt)

@@ -1,7 +1,14 @@
     <div class="div-box div-content">
       <h1>Acerca de mí</h1>
+
+      <img
+        alt="Portrait" src="/assets/portrait.png" title="Portrait"
+        style="float: right; margin: 0 0 1rem 1rem; width: 250px">
+
       <p>
-        Yo soy una desarrolladora de software open source nacida y, al presente, viviendo en Hamburgo, Alemania.<br>
+        Yo soy una <span style="text-decoration: line-through">desarrolladora de software open source</span>
+        <span style="text-decoration: line-through">artista torturada</span> forma de vida pluricelular mayormente eucariota
+        nacida y, al presente, viviendo en Hamburgo, Alemania.<br>
         <br>
         Criado en un ambiente plurilingüe y -cultural, he cultivado una pasión ávida por mis idiomas nativos siendo el Castellano
         (dialecto chileno/andaluz) y alemán (dialecto norteño/Hamburgués) tanto como el inglés (inglés británico) a nivel CEFR C1
