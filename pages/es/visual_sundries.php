@@ -10,7 +10,7 @@
             premisas y tramas totalmentes al pedo, patos malos, caligrafía kūfica cuadrada, surrealismo,
             filosofia, espiritualidad, religion, psicología clinica en fase terminal, neutrinos, horrores platónicos,
             parodia. Todos los personajes y eventos representados en estes pedazos crudos del arte digital son
-            ficcionales y debido a sus contenidos rotos y pelados sería mejor que nadie lo vea.
+            ficcionales y debido a sus contenidos rotos y pelados sería mejor que nadie los vea.
         </div>
 
         <div class="div-box" style="background: transparent; text-align: center; grid-area: a">
