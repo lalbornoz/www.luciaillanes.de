@@ -223,6 +223,7 @@
           <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_lion">Drawing of Lion</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_monster">Drawing of Monster (WARNING: SCARY)</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_spoders">Drawing of Spoders</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_tree">Drawing of Tree of Many Questions</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/self_portrait">Self portrait, 23 November 2012</a><br>
         </div>
       </div>
