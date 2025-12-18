@@ -8,9 +8,9 @@
             AVISO DE ALÉRGENOS: puede que estas huevadas contengan trazos de:
             idioma vulgar, diatribas de profanidad, insultos, uso de drogas, locura en general, kade,
             premisas y tramas totalmentes al pedo, patos malos, caligrafía kūfica cuadrada, surrealismo,
-            filosofia, espiritualidad, religion, psicología clinica en fase terminal, horrores platónicos,
-            parodia. Todos los personajes y eventos representados en estes pedazos crudos del arte digital
-            son ficcionales y debido a sus contenidos rotos y pelados sería mejor que nadie lo vea.
+            filosofia, espiritualidad, religion, psicología clinica en fase terminal, neutrinos, horrores platónicos,
+            parodia. Todos los personajes y eventos representados en estes pedazos crudos del arte digital son
+            ficcionales y debido a sus contenidos rotos y pelados sería mejor que nadie lo vea.
         </div>
 
         <div class="div-box" style="background: transparent; text-align: center; grid-area: a">
