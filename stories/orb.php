@@ -4,13 +4,6 @@
 Expedition into the Pale
 </h1>
 
-<img
-	alt="Expedition into the Pale"
-	src="/stories/<?php echo $inc_lang ?>/orb.png"
-	style="display: block; margin-left: auto; margin-right: auto; width: 75%" />
-
-<br>
-
 <p style="color: #7f0000">
 ...of course, she was only distracting herself, with good reason. She had only just, for the lack
 of a more suitable term, concluded a, by and large, terminally inconclusive relationship. Much
