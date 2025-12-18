@@ -23,12 +23,12 @@
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack22/arab-alghazibm2">alghazi in: a typical morning, pt. II (NSFW)</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack24/arab-kantalcohol">On the role of alcohol in the ... (NSFW)</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack24/arab-kantsomething">On the role of the neutrino in the ... (NSFW)</a><br>
-          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack24/arab-meinong">alghazi in: did Alexius Meinong smoke loud? (NSFW)</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack24/arab-meinong">alghazi in: did Alexius Meinong ... (NSFW)</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack26/arab-colours">what do eyes look like when you're colours</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack28/arab-dontreadme">[PLEASE DON'T READ THIS TITLE] (NSFW)</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack30/arab-urnext">YOU'RE NEXT! (NSFW)</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack37/arab-stevoo">scratching post (NSFW)</a><br>
-          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack41/arab-healthcare">Reasons whie the US should be [CENSORED], pt. I: ... (NSFW)</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack41/arab-healthcare">Reasons whie the US should be ... (NSFW)</a><br>
         </div>
         <div class="div-box" style="background: transparent; text-align: center; grid-area: b">
           <h2>Kade</h2>
@@ -39,9 +39,9 @@
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack23/arab-kadelost">kade is lost</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack25/arab-kadeacid">kade does a lot of acid</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack25/arab-kademonad">kade fell into a time monad</a><br>
-          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack25/arab-spokemaze">OH NO! KADE PUT SPOKE'S COLOURS INSIDE A SCARY MAZE!</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack25/arab-spokemaze">OH NO! KADE PUT SPOKE'S COLOURS ...</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack27/arab-kadles">Kadles</a><br>
-          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack28/arab-killkade">KILL KILL KILL KILL KILL KADE KADE KADE KADE KADE</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack28/arab-killkade">KILL KILL KILL KILL KILL KADE ...</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack28/arab-mtarab">kade clims Mt. Arab</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack28/arab-triples">Do Kadely triples kadify the monokade ...</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack34/arab-kadelang">kade language</a><br>
@@ -64,10 +64,10 @@
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack8/arab-hot">hot</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack8/arab-trianglesong">the happy triangle song! (NSFW)</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack12/arab-looksatyou">IN #MIRCART MIRC ART LOOKS @ YOU</a><br>
-          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack17/arab-staringcats">Heisenberg's Uncertainty cat stares at Planck length cat</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack17/arab-staringcats">Heisenberg's Uncertainty cat stares at ...</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack27/arab-mindfog">spoke navigates the mind fog sea</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack25/arab-spokemonad">spoke lifts herself into arab's mIRC art monad and ...</a><br>
-          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack34/arab-portal">theres a portal to the 4th spatial dimension in alghazi's flat irl</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack34/arab-portal">theres a portal to the 4th spatial dimension ...</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack34/arab-spokeplans">spoke plans something</a><br>
         </div>
         <div class="div-box" style="background: transparent; text-align: center; grid-area: d">
@@ -81,7 +81,7 @@
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack8/arab-misbah">Mishkātun fīhā miṣbāḥ</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack8/arab-stars">Stars</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack8/arab-walaghaliba">There is no conqueror but God</a><br>
-          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack17/arab-almutanabbi">In memory of Abu ṭ-Ṭayyib Aḥmad b. al-Ḥusayn al-Mutanabbī al-Kindī</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack17/arab-almutanabbi">In memory of Abu ṭ-Ṭayyib Aḥmad ...</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack17/arab-ibnarabi">b. ʕarabī</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack18/arab-wahuwama3akum">Sūratu l-Ḥadīd 57:4</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack18/arab-waqalarabbukum">Sūratu ġāfir 40:60</a><br>
@@ -125,7 +125,7 @@
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack6/arab-beanscornbread">beans &amp; cornbread had a fight</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack6/arab-melp">melp?</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack6/arab-octospoke">octospoke</a><br>
-          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack6/arab-ripchronomonitor">Here lie the mortal remains of chrono's curved monitor</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack6/arab-ripchronomonitor">Here lie the mortal remains of chrono's ...</a><br>
         </div>
         <div class="div-box" style="background: transparent; text-align: center; grid-area: g">
           <h2>Pack 7</h2>
@@ -217,7 +217,7 @@
           <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_cat">Drawing of Cat</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_cat_foamie">Drawing of Cat, Foamie</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_cat_mau">Drawing of Cat, Mau</a><br>
-          <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_cat_photons">Drawing of Cat, parametric down-conversion scheme for generation of single photons</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_cat_photons">Drawing of Cat, parametric down-conversion ...</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_fish">Drawing of Fish</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_giraffe">Drawing of Giraffe</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_lion">Drawing of Lion</a><br>
