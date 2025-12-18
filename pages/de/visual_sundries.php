@@ -8,7 +8,7 @@
             ALLERGENHINWEIS: enthält Spuren von:
             vulgärer Sprache, Schimpftiraden, Drogengebrauch, allgemeinen Wahnsinn, kade, unsinnigen Prämissen
             und Handlungen, zuhöchst fraglichen Charaktären, quadratkūfischer Kalligraphie, Surrealismus,
-            Philosophie, Spiritualität, Religion, klinischer Psychologie im Endstadium, platonischen Horror,
+            Philosophie, Spiritualität, Religion, klinischer Psychologie im Endstadium, Neutrinos, platonischen Horror,
             Parodie. Alle Charaktäre und Ereignisse, die in diesen groben Brocken der digitalen Kunst dargestellt
             sind, sind fiktiv und sollten aufgrund dessen Inhalten von niemandem betrachtet werden.
         </div>
