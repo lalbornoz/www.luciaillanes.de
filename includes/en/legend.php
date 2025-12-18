@@ -22,7 +22,7 @@
       <hr>
       <span class="span-menu">
         <a href="/<?php echo $inc_lang ?>/arabic_poems">Arabic poetry</a> |
-        <a href="/<?php echo $inc_lang ?>/stories">Unfinished dreams</a> |
+        <a href="/<?php echo $inc_lang ?>/stories">Unfinished dreams</a><br>
         <a href="/<?php echo $inc_lang ?>/visual_sundries">Visual sundries</a> |
         <a href="/<?php echo $inc_lang ?>/etc">Et cetera</a>
       </span>
