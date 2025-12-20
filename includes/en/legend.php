@@ -2,7 +2,10 @@
       Welcome to the personal website of<br>
       <h1>Lucía Andrea Illanes Albornoz</h1><br>
       <h2>Systems programmer | Systems engineer</h2><br>
-      <h3 title="Nin me šara u dalla ea">🏳️‍⚧️ 𒊩𒌆 𒈨 𒄭 𒊏 𒌓 𒈦𒄘𒃼 𒌓𒁺 𒀀 🏳️‍⚧️</h3>
+      <h3
+          title="Nin me šara u dalla ea&#10;Lady of all cosmic powers, resplendent daylight&#10;(incipit of the Sumeroakkadian exaltation of Inanna-Ištar)">
+        🏳️‍⚧️ 𒊩𒌆 𒈨 𒄭 𒊏 𒌓 𒈦𒄘𒃼 𒌓𒁺 𒀀 🏳️‍⚧️
+      </h3>
 
       <span class="span-menu span-heading2">
         <a href="/en<?php echo $inc_uri_orig ?>">English</a> |
