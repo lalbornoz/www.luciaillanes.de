@@ -4,7 +4,8 @@
             Arte digital (de #mIRCart)<br>
             (solamente en inglés)
           </h1>
-          <span style="font-size: 1.5em; text-align: center" title="Ana kurnugi qaqqari lā tāri, Ištar mārat sīn uzunša iškun">
+          <span style="font-size: 1.5em; text-align: center"
+                title="Ana kurnugi qaqqari lā tāri,&#10;Ištar mārat sīn uzunša iškun &#10;To the netherworld, land of no return,&#10;Ištar, daughter of Sīn, set her mind&#10;(from the Mesopotamian myth Ištar's Descent to the Netherworld)">
             𒀭𒌋𒉡𒌦 𒆳𒆠𒊕 𒇷𒀀𒌓<br>
             𒀭𒈹𒀭 𒈠𒌓𒊏𒊬 𒌓𒍪𒈨𒊬 𒄑
           </span><br>

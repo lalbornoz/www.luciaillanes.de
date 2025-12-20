@@ -1,5 +1,8 @@
     <div class="div-box div-copyright">
-      <span style="font-size: 2em; text-align: center" title="Ul nūḫu lāšu illā ina lā mammāni">𒌨𒉡𒄩𒆷𒍑𒄿𒈪𒀭𒆷𒈾𒈾𒉌</span><br>
+      <span style="font-size: 2em; text-align: center"
+          title="Ul nūḫu lāšu illā ina lā mammāni&#10;There is no relief but in nothingness">
+        𒌨𒉡𒄩𒆷𒍑𒄿𒈪𒀭𒆷𒈾𒈾𒉌
+      </span><br>
       &copy; 2017, 2018, 2019, 2021, 2022, 2023, 2024, 2025 Lucía Andrea Illanes Albornoz | email: lucia@luciaillanes.de<br>
       Background stock photo copyright: <a href='https://www.123rf.com/profile_rixie'>rixie / 123RF Stock Photo</a><br>
       Created with <a href="https://github.com/lalbornoz/dotfiles_shared/tree/master/.vim">{,Neo}Vim</a>,

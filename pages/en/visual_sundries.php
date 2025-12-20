@@ -1,7 +1,8 @@
       <div class="div-box div-content-visual-sundries">
         <div class="div-box" style="background: transparent; text-align: center; grid-area: T">
           <h1 style="margin-bottom: 0">Digital Art (from #mIRCart)</h1>
-          <span style="font-size: 1.5em; text-align: center" title="Ana kurnugi qaqqari lā tāri, Ištar mārat sīn uzunša iškun">
+          <span style="font-size: 1.5em; text-align: center"
+                title="Ana kurnugi qaqqari lā tāri,&#10;Ištar mārat sīn uzunša iškun &#10;To the netherworld, land of no return,&#10;Ištar, daughter of Sīn, set her mind&#10;(from the Mesopotamian myth Ištar's Descent to the Netherworld)">
             𒀭𒌋𒉡𒌦 𒆳𒆠𒊕 𒇷𒀀𒌓<br>
             𒀭𒈹𒀭 𒈠𒌓𒊏𒊬 𒌓𒍪𒈨𒊬 𒄑
           </span><br>
