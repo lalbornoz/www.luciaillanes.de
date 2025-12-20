@@ -21,12 +21,15 @@
             alt="cats" class="div-content-etc-img"
             onclick="catsClick();" src="/arabic_poems/<?php echo $inc_lang ?>/cats.png"
             style="cursor: pointer" title="No le hinchas la pelota a los gatitos">
-          <h1>
+          <h1 style="margin-bottom: 0">
             Poemas árabes traducidas<br>
             (principalmente en inglés)
           </h1>
+          <span style="font-size: 1.5em; text-align: center" title="Kikkiš kikkiš igār igār kikkišu šimēma igāru ḫiṣaṣ">
+            𒆧𒆧 · 𒅆𒅆 · 𒆧𒆧𒌑 · 𒅆𒈦𒈠 · 𒅆 · 𒄩𒍪𒊓
+          </span><br>
 
-          <h2>Andalusian</h2>
+          <h2 style="margin-top: 0">Andalusian</h2>
           <a href="/<?php echo $inc_lang ?>/arabic_poems/ruh_lirrah">Rush to wine and early</a><br>
           <a href="/<?php echo $inc_lang ?>/arabic_poems/ghazaalun_samaa">A gazelle rose divinely ...</a><br>
           <a href="/<?php echo $inc_lang ?>/arabic_poems/qultu_lilayla">I said to Laylā ...</a><br>
