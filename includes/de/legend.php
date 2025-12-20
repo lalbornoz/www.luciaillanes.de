@@ -3,7 +3,7 @@
       <h1>Lucía Andrea Illanes Albornoz</h1><br>
       <h2>Systemprogrammiererin | Systems engineer</h2><br>
       <h3
-          title="Nin me šara u dalla ea&#10;Lady of all cosmic powers, resplendent daylight&#10;(incipit of the Sumeroakkadian exaltation of Inanna-Ištar)">
+          title="Nin me šara u dalla ea&#10;Lady of the innumerable cosmic powers, resplendent daylight&#10;(incipit of the Sumeroakkadian exaltation of Inanna-Ištar)">
         🏳️‍⚧️ 𒊩𒌆 𒈨 𒄭 𒊏 𒌓 𒈦𒄘𒃼 𒌓𒁺 𒀀 🏳️‍⚧️
       </h3>
 
