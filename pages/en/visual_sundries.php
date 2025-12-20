@@ -3,10 +3,10 @@
           <h1>Digital Art (from #mIRCart)</h1>
           <h2>
             VOLUNTARY INCIDENTAL TRACE ALLERGEN LABELLING: contains traces of:
-            crude language, long strings of profanity, abuse, drug use, general insanity, kade,
-            nonsensical premises and plots, highly questionable characters, square kūfic calligraphy,
-            surrealism, philosophy, spirituality, religion, terminal stage clinical psychology,
-            neutrinos, platonic horrors, parody. All characters and events depicted in these coarse
+            absurd and highly cynical dark humour, crude language, long strings of profanity, abuse,
+            drug use, general insanity, kade, nonsensical premises and plots, highly questionable characters,
+            square kūfic calligraphy, surrealism, philosophy, spirituality, religion, terminal stage clinical
+            psychology, neutrinos, platonic horrors, parody. All characters and events depicted in these coarse
             chunks of digital art are fictional and due to their content should not be viewed by anyone.
         </div>
 
