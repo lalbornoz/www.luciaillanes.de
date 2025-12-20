@@ -1,13 +1,18 @@
       <div class="div-box div-content-visual-sundries">
         <div class="div-box" style="background: transparent; text-align: center; grid-area: T">
-          <h1>Digital Art (from #mIRCart)</h1>
-          <h2>
+          <h1 style="margin-bottom: 0">Digital Art (from #mIRCart)</h1>
+          <span style="font-size: 1.5em; text-align: center" title="Ana kurnugi qaqqari lā tāri, Ištar mārat sīn uzunša iškun">
+            𒀭𒌋𒉡𒌦 𒆳𒆠𒊕 𒇷𒀀𒌓<br>
+            𒀭𒈹𒀭 𒈠𒌓𒊏𒊬 𒌓𒍪𒈨𒊬 𒄑
+          </span><br>
+          <h2 style="margin-top: 0">
             VOLUNTARY INCIDENTAL TRACE ALLERGEN LABELLING: contains traces of:
             absurd and highly cynical dark humour, crude language, long strings of profanity, abuse,
             drug use, general insanity, kade, nonsensical premises and plots, highly questionable characters,
             square kūfic calligraphy, surrealism, philosophy, spirituality, religion, terminal stage clinical
             psychology, neutrinos, platonic horrors, parody. All characters and events depicted in these coarse
             chunks of digital art are fictional and due to their content should not be viewed by anyone.
+          </h2>
         </div>
 
         <div class="div-box" style="background: transparent; text-align: center; grid-area: a">

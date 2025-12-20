@@ -1,10 +1,14 @@
       <div class="div-box div-content-visual-sundries">
         <div class="div-box" style="background: transparent; text-align: center; grid-area: T">
-          <h1>
+          <h1 style="margin-bottom: 0">
             Digitale Kunst (aus #mIRCart)<br>
             (nur auf Englisch)
           </h1>
-          <h2>
+          <span style="font-size: 1.5em; text-align: center" title="Ana kurnugi qaqqari lā tāri, Ištar mārat sīn uzunša iškun">
+            𒀭𒌋𒉡𒌦 𒆳𒆠𒊕 𒇷𒀀𒌓<br>
+            𒀭𒈹𒀭 𒈠𒌓𒊏𒊬 𒌓𒍪𒈨𒊬 𒄑
+          </span><br>
+          <h2 style="margin-top: 0">
             ALLERGENHINWEIS: enthält Spuren von:
             absurden und zuhöchst zynischen schwarzen Humor, vulgärer Sprache, Schimpftiraden, Drogengebrauch,
             allgemeinen Wahnsinn, kade, unsinnigen Prämissen und Handlungen, zuhöchst fraglichen Charaktären,
