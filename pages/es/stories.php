@@ -27,11 +27,14 @@
             <div class="roaries" id="roarie7">purr</div>
           </div>
 
-          <h1>
+          <h1 style="margin-bottom: 0">
             Sueños incompletos<br >
             (solamente en inglés)
           </h1>
-          <h2>She</h2>
+          <span style="font-size: 1.5em; text-align: center" title="Inūḫ ipšaḫ libbaša labata Ištar">
+            𒄿𒉡𒌑𒅆𒅆𒊭𒀀𒉿𒈗𒀭𒅆𒋫
+          </span><br>
+          <h2 style="margin-top: 0">She</h2>
           <a href="/<?php echo $inc_lang ?>/stories/she">I. She later departed, only to return</a><br>
           <a href="/<?php echo $inc_lang ?>/stories/gatenowhere">II. The Gate Nowhere</a><br>
           <a href="/<?php echo $inc_lang ?>/stories/bridgeeverywhere">III. The Bridge Everywhere</a><br>
