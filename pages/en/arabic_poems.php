@@ -25,7 +25,7 @@
             Translated Arabic poems
           </h1>
           <span style="font-size: 1.5em; text-align: center"
-              title="Kikkiš kikkiš igār igār kikkišu šimēma igāru ḫiṣaṣi&#10;Wall! Wall! Reed wall! Reed wall!&#10;Wall, listen to me! Reed wall, pay heed!&#10;(from the Mesopotamian Atraḫaṣīṣ flood myth)">
+              title="Kikkiš kikkiš igār igār kikkišu šimēma igāru ḫiṣaṣ&#10;Wall! Wall! Reed wall! Reed wall!&#10;Wall, listen to me! Reed wall, pay heed!&#10;(from the Mesopotamian Atraḫaṣīṣ flood myth)">
             𒆧𒆧 · 𒅆𒅆 · 𒆧𒆧𒌑 · 𒅆𒈦𒈠 · 𒅆 · 𒄩𒍪𒊓
           </span><br>
 
