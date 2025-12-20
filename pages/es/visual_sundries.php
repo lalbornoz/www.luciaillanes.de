@@ -98,18 +98,14 @@
           </h1>
 
           <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_banana">Drawing of Banana</a><br>
-          <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_bee">Drawing of Bee</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/bombs">Drawing of Bombs</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_brain">Drawing of Brain</a><br>
-          <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_cat">Drawing of Cat</a><br>
-          <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_cat_foamie">Drawing of Cat, Foamie</a><br>
-          <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_cat_mau">Drawing of Cat, Mau</a><br>
-          <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_cat_photons">Drawing of Cat, parametric down-conversion ...</a><br>
-          <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_fish">Drawing of Fish</a><br>
-          <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_giraffe">Drawing of Giraffe</a><br>
-          <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_lion">Drawing of Lion</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/thedesert">Drawing of Desert</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_questions">Drawing of Many Questions</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_monster">Drawing of Monster (WARNING: SCARY)</a><br>
-          <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_spoders">Drawing of Spoders</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/nadiasoul">Drawing of Nadia's Soul</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/intheocean">Drawing of Ocean of Many Questions</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/roaries">Drawing of Roaries</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_tree">Drawing of Tree of Many Questions</a><br>
         </div>
         <div class="div-box" style="background: transparent; text-align: center; grid-area: f">
@@ -120,15 +116,14 @@
 
           <a href="/<?php echo $inc_lang ?>/visual_sundries/self_portrait">Self portrait, 23 November 2012</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/becomeachicken">Become a Chicken!</a><br>
-          <a href="/<?php echo $inc_lang ?>/visual_sundries/bombs">Drawing of Bombs</a><br>
-          <a href="/<?php echo $inc_lang ?>/visual_sundries/cocodrilo">Drawing of Cocodrilo</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/genderidentity">Drawing of Gender Identity</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/hrtfeelings">Drawing of Feelings on HRT</a><br>
-          <a href="/<?php echo $inc_lang ?>/visual_sundries/intheocean">Drawing of Ocean of Many Questions</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/lifeofman">The Life of Man</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/monsterdodecahedron">Drawing of Monster, Dodecahedron</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/monsterquestionmark">Drawing of Monster, Question Mark</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/monstress">Drawing of Monster, Monstress</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/quantumkade">Drawing of Quantum Kade</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/tetrahydroestradiol">Drawing of Tetrahydroestradiol</a><br>
         </div>
         <div class="div-box" style="background: transparent; text-align: center; grid-area: g">
           <h1>
@@ -136,17 +131,22 @@
             (solamente en inglés)
           </h1>
 
-          <a href="/<?php echo $inc_lang ?>/visual_sundries/nadiasoul">Drawing of Nadia's Soul</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_bee">Drawing of Bee</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_cat">Drawing of Cat</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_cat_foamie">Drawing of Cat, Foamie</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_cat_mau">Drawing of Cat, Mau</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_cat_photons">Drawing of Cat, parametric down-conversion ...</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/cocodrilo">Drawing of Cocodrilo</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_fish">Drawing of Fish</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_giraffe">Drawing of Giraffe</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_lion">Drawing of Lion</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/ommamba">Drawing of Mamba</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/python">Drawing of Python</a><br>
-          <a href="/<?php echo $inc_lang ?>/visual_sundries/quantumkade">Drawing of Quantum Kade</a><br>
-          <a href="/<?php echo $inc_lang ?>/visual_sundries/roaries">Drawing of Roaries</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/spoder">Drawing of Spoder</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/spoderfish">Drawing of Spoder, Fish</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/spodermotivation">Drawing of Spoder, Motivational</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_spoders">Drawing of Spoders</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/spoders2">Drawing of More Spoders</a><br>
-          <a href="/<?php echo $inc_lang ?>/visual_sundries/tetrahydroestradiol">Drawing of Tetrahydroestradiol</a><br>
-          <a href="/<?php echo $inc_lang ?>/visual_sundries/thedesert">Drawing of Desert</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/zubkatz">Drawing of Zubkatz</a><br>
         </div>
 
