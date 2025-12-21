@@ -273,18 +273,63 @@
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack28/arab-laddizle">Does dzl form a complemented lattice?</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack28/arab-staircase">Conversational Staircase</a><br>
         </div>
-       <div class="div-box" style="background: transparent; text-align: center; grid-area: n">
+        <div class="div-box" style="background: transparent; text-align: center; grid-area: n">
           <h2>Pack 36</h2>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack36/arab-vap0rs">Seven (7) vap0rs</a><br>
-          <br>
-
+        </div>
+        <div class="div-box" style="background: transparent; text-align: center; grid-area: o">
           <h2>Unsorted</h2>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/arab-carriedaway">getting carried away</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/arab-carriedaway2">getting carried away, #2</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/arab-carriedaway3">getting carried away, #3</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/arab-carriedaway4">getting carried away, #4</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/arab-carriedaway5">getting carried away, #5</a><br>
-          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/arab-pastfuture">pastfuture</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/arab-pastfuture">past future</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/cathole1">cathole</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/cathole2">cathole, #2</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/cat">cat</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/eye">eye</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/meow">meow</a><br>
+        </div>
+        <div class="div-box" style="background: transparent; text-align: center; grid-area: p">
+          <h2>Unsorted (faces)</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/face">face</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/face2">face, #2</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/face3">face, #3</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/face4">face, #4</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/face5">face, #5</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/face6">face, #6</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/face7">face, #7</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/face8">face, #8</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/face9">face, #9</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/face10">face, #10</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/face11">face, #11</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/face12">face, #12</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/face13">face, #13</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/face14">face, #14</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/face15">face, #15</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/face16">face, #16</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/face17">face, #17</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/face18">face, #18</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/face19">face, #19</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/face20">face, #20</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/face21">face, #21</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/face22">face, #22</a><br>
+        </div>
+        <div class="div-box" style="background: transparent; text-align: center; grid-area: q">
+          <h2>Unsorted</h2>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/puke1">puke</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/puke2">puke, #2</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/puke3">puke, #3</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/scary">scary</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/scaryface1">scary face</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/scaryface2">scary face, #2</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/scaryghost">scary ghost</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/scarykirby">scary kirby</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/scarypuke">scary puke</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/scarypuke2">scary puke, #2</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/scarypuke3">scary puke, #3</a><br>
+          <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/scaryteeth">scary teeth</a><br>
         </div>
       </div>
 
