@@ -27,7 +27,7 @@
           <h1 style="margin-bottom: 0">Unfinished dreams</h1>
           <span style="font-size: 1.5em; text-align: center"
               title="Inūḫ ipšaḫ libbaša labata Ištar &#10;Ištar the Lioness calmed down, her heart became quiet&#10;(from the Old Babylonian Agušaya hymn)">
-            𒄿𒉡𒌑𒅆𒅆𒊭𒀀𒉿𒈗𒀭𒅆𒋫
+            𒄭𒌋𒄭𒅖𒊬𒂷𒁉𒊭𒊏𒊭𒌨𒀭𒌹
           </span><br>
           <h2 style="margin-top: 0">She</h2>
           <a href="/<?php echo $inc_lang ?>/stories/she">I. She later departed, only to return</a><br>
