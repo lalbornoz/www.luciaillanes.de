@@ -26,8 +26,9 @@
             (principalmente en inglés)
           </h1>
           <span style="font-size: 1.5em; text-align: center"
-              title="Kikkiš kikkiš igār igār kikkišu šimēma igāru ḫiṣaṣ&#10;Wall! Wall! Reed wall! Reed wall!&#10;Wall, listen to me! Reed wall, pay heed!&#10;(from the Mesopotamian Atraḫasīs flood myth)">
-            𒆧𒆧 · 𒅆𒅆 · 𒆧𒆧𒌑 · 𒅆𒈦𒈠 · 𒅆 · 𒄩𒍪𒊓
+              title="Kikkiš igār kikkiš igār&#10;Kikkišu šimēma igāru ḫissas&#10;Wall! Reed wall! Wall! Reed wall!&#10;Wall, listen to me! Reed wall, pay heed!&#10;(from the Mesopotamian Atraḫasīs flood myth)">
+            𒆪𒆪𒊭𒄀𒂵𒆪𒆪𒊭𒄀𒂵<br>
+            𒆪𒆪𒌑𒊭𒈨𒈠𒂵𒄀𒄩𒊕
           </span><br>
 
           <h2 style="margin-top: 0">Andalusian</h2>
