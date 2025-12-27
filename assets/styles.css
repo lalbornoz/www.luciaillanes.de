@@ -170,6 +170,11 @@
   grid-area:              c;
   text-align:             center;
 }
+.div-content-etc-movies {
+  background:             transparent;
+  grid-area:              b;
+  text-align:             center;
+}
 /* }}} */
 
 /* {{{ .div-copyright styles */
