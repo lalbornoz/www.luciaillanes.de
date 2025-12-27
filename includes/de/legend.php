@@ -27,6 +27,7 @@
         <a href="/<?php echo $inc_lang ?>/arabic_poems">Arabische Gedichte</a> |
         <a href="/<?php echo $inc_lang ?>/stories">Unvollendete Träume</a><br>
         <a href="/<?php echo $inc_lang ?>/movieslist">Filmbewertungen</a><br>
+        <a href="/<?php echo $inc_lang ?>/araboly">Araboly</a> |
         <a href="/<?php echo $inc_lang ?>/visual_sundries">Visuelle Grabbelkiste</a> |
         <a href="/<?php echo $inc_lang ?>/etc">Et cetera</a>
       </span>
