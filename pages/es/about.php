@@ -25,7 +25,8 @@
         <a href="/<?php echo $inc_lang ?>/visual_sundries">arte digital</a> describiendo las absurdidades fútiles de la condición humana
         y existencia en general, traducir <a href="/<?php echo $inc_lang ?>/arabic_poems">poemas árabes</a>, componer muros de textos
         gigantescos sobre la <a href="/<?php echo $inc_lang ?>/etc">endocrinología transfemenina experimental</a>, dar paseos largos
-        contemplando las implicaciones fenomenológicas de la sopa de letras, ofrecer sacrificios a Enki y Labata Ištar,
+        contemplando las implicaciones fenomenológicas de la sopa de letras,
+        <a href="/<?php echo $inc_lang ?>/movieslist">ver películas y series</a>,
         <a href="/<?php echo $inc_lang ?>/etc">cocinar</a> e imponer oraciones largas y extensas a
         <a href="https://github.com/lalbornoz/PuTTie/blob/master/PuTTie/README.md">documentos README de proyectos</a>
         o <a href="https://www.luciaillanes.de">páginas de web</a>.<br>

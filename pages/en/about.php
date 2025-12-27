@@ -25,9 +25,10 @@
         <a href="/<?php echo $inc_lang ?>/visual_sundries">digital art</a> depicting the futile absurdities of the human condition and
         existence in general, translate <a href="/<?php echo $inc_lang ?>/arabic_poems">Arabic poetry</a>, compose gargantuan walls of
         text on <a href="/<?php echo $inc_lang ?>/etc">experimental transfeminine endocrinology</a>, take long walks whilst pondering the
-        phenomenological implications of alphabet soup, offer sacrifices to Enki and Labata Ištar, <a href="/<?php echo $inc_lang ?>/etc">cook</a>,
-        and impose long, drawn-out sentences upon <a href="https://github.com/lalbornoz/PuTTie/blob/master/PuTTie/README.md">project README files</a>
-        or <a href="https://www.luciaillanes.de">websites</a>.<br>
+        phenomenological implications of alphabet soup, <a href="/<?php echo $inc_lang ?>/movieslist">watch films and series</a>,
+        <a href="/<?php echo $inc_lang ?>/etc">cook</a>, and impose long, drawn-out sentences upon
+        <a href="https://github.com/lalbornoz/PuTTie/blob/master/PuTTie/README.md">project README files</a> or
+        <a href="https://www.luciaillanes.de">websites</a>.<br>
         <br>
         I have participated in and continue to participate in open source projects. Please refer to
         <a href="/<?php echo $inc_lang ?>/projects">Open source projects involvement</a> on this website as well as

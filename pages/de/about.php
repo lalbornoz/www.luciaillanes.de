@@ -26,10 +26,10 @@
         zeichne <a href="/<?php echo $inc_lang ?>/visual_sundries">digitale Kunst</a>, welche die unergiebigen Absurditäten der menschlichen
         Bedingung als auch Existenz im generellen darbildet, übersetze <a href="/<?php echo $inc_lang ?>/arabic_poems">arabische Gedichte</a>,
         verfasse kolossale Gebirge von Text über <a href="/<?php echo $inc_lang ?>/etc">experimentelle transfeminine Endokrinologie</a>,
-        führe lange Spaziergänge während ich über die phänomenologischen Implikationen der Buchstabensuppe sinniere, bringe Opfergaben zu Enki
-        und Labata Ištar, <a href="/<?php echo $inc_lang ?>/etc">koche</a> und verhänge lange, langgezogene Sätze über
-        <a href="https://github.com/lalbornoz/PuTTie/blob/master/PuTTie/README.md">Projekt-README-Dateien</a> oder
-        <a href="https://www.luciaillanes.de">Webseiten</a>.<br>
+        führe lange Spaziergänge während ich über die phänomenologischen Implikationen der Buchstabensuppe sinniere,
+        <a href="/<?php echo $inc_lang ?>/movieslist">schaue Filme und Serien</a>, <a href="/<?php echo $inc_lang ?>/etc">koche</a>
+        und verhänge lange, langgezogene Sätze über <a href="https://github.com/lalbornoz/PuTTie/blob/master/PuTTie/README.md">Projekt-README-Dateien</a>
+        oder <a href="https://www.luciaillanes.de">Webseiten</a>.<br>
         <br>
         Ich habe mich an Open Source-Projekten beteiligt und tue dies auch weiterhin, siehe hierzu
         <a href="/<?php echo $inc_lang ?>/projects">Open Source Projektbeteiligung</a> auf dieser Webseite als auch
