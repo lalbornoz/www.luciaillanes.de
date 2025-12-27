@@ -27,7 +27,7 @@
   &&  (($ts - $data_cache_last) >= 3600))
   {
     file_put_contents(DATA_CACHE_LAST_FNAME, date("U"));
-    if (exec("env LC_ALL=C sh -c 'cd " . REPOSITORY_DNAME . " && if [ \"$(git log -n 1 --pretty=format:%H 2>/dev/null)\" != \"$(git ls-remote . refs/remotes/origin/HEAD 2>/dev/null | awk '\''{print $1}'\'')\" ]; then git pull; return 0; else return 1; fi'", $_, $git_result_code)
+    if (exec("env LC_ALL=C sh -c 'cd " . REPOSITORY_DNAME . " && if [ \"\$(git log -n 1 --pretty=format:%H 2>/dev/null)\" != \"\$(git ls-remote . refs/remotes/origin/HEAD 2>/dev/null | awk '\''{print \$1}'\'')\" ]; then git pull; return 0; else return 1; fi'", $_, $git_result_code)
     &&  ($git_result_code == 0))
     {
       if (file_exists(DATA_CACHE_FNAME)) {
