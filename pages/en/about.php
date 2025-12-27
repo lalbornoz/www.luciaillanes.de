@@ -12,9 +12,9 @@
         <br>
         Having grown up in a multilingual and -cultural environment, I've cultivated an avid passion for my native Spanish
         (Chilean/Andalusian dialect) and German (Northern Germany/Hamburg dialect), as well as English (British English,) at
-        CEFR level C1 according to personal judgment, and Classical Arabic plus an assortment of dialects at CEFR level A2-B1. As
-        circumstances would have it, this came to include languages habitually spoken solely by computers within the context of the
-        fields of systems programming and engineering on predominantly UNIX-like and, to some extent, Windows platforms.<br>
+        CEFR level C1 according to personal judgment, and Classical Arabic as classical language. As circumstances would have
+        it, this came to include languages habitually spoken solely by computers within the context of the fields of systems
+        programming and engineering on predominantly UNIX-like and, to some extent, Windows platforms.<br>
         <br>
         I have a strong interest in the intersection of creativity, spoken languages, oral poetry on one hand and, on the other,
         expressiveness and an emphasis on aesthetic qualities in programming and engineering with a view to design and implement

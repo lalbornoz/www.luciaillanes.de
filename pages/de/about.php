@@ -13,9 +13,9 @@
         Durch die mehrsprachige und -kulturelle Umgebung in der ich aufgewachsen bin, habe ich eine tiefe Leidenschaft für sowohl
         meine Landessprachen des Spanischen (chilenischer/andalusischer Dialekt) und Deutsch (norddeutscher/Hamburgischer Dialekt)
         als auch Englisch (Britisches Englisch) auf dem Sprachniveau GeR C1 nach persönlicher Einschätzung und klassischen Arabisch
-        sowie mehreren Dialekten auf Niveau GeR A2-B1 kultiviert. Wie die Umstände es wollten, beeinschließt dies auch Sprachen die
-        üblicherweise lediglich von und mit Computern gesprochen werden, in den Feldern des systems programming und engineering auf
-        hauptsächlich UNIX-artigen Umgebungen und, zu einem gewissen Maße, Windows Umgebungen.<br>
+        als klassische Sprache kultiviert. Wie die Umstände es wollten, beeinschließt dies auch Sprachen die üblicherweise lediglich
+        von und mit Computern gesprochen werden, in den Feldern des systems programming und engineering auf hauptsächlich UNIX-artigen
+        Umgebungen und, zu einem gewissen Maße, Windows Umgebungen.<br>
         <br>
         Ich habe ein großes Interesse in den Schnittpunkten zwischen der Kreativität, gesprochenen Sprachen, oraler Poesie auf der einen
         Seite und, auf der anderen, Expressivität und dem besonderen Schwerpunkt der ästhetischen Qualitäten innerhalb Programmierung
