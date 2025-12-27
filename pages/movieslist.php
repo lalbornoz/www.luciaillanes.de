@@ -1,8 +1,8 @@
 <?php
-  define("DATA_CACHE_FNAME", "/var/www/lists/movies.txt.data_cache");
-  define("DATA_CACHE_LAST_FNAME", "/var/www/lists/movies.txt.data_cache.last");
-  define("LIST_FNAME", "/var/www/lists/movies.txt");
-  define("REPOSITORY_DNAME", "/var/www/lists");
+  define("DATA_CACHE_FNAME", $_SERVER['DOCUMENT_ROOT'] . "/../lists/movies.txt.data_cache");
+  define("DATA_CACHE_LAST_FNAME", $_SERVER['DOCUMENT_ROOT'] . "/../lists/movies.txt.data_cache.last");
+  define("LIST_FNAME", $_SERVER['DOCUMENT_ROOT'] . "/../lists/movies.txt");
+  define("REPOSITORY_DNAME", $_SERVER['DOCUMENT_ROOT'] . "/../lists/");
 
   $data_cache = NULL;
   $data_cache_file = NULL;
