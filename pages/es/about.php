@@ -12,9 +12,9 @@
         <br>
         Criado en un ambiente plurilingüe y -cultural, he cultivado una pasión ávida por mis idiomas nativos siendo el Castellano
         (dialecto chileno/andaluz) y alemán (dialecto norteño/Hamburgués) tanto como el inglés (inglés británico) a nivel CEFR C1
-        según propio juicio y Árabe clásico además de unos tantos dialectos a nivel CEFR A2-B1. Como las circunstancias me habían
-        obligado, esto venía a incluir a los idiomas habitualmente exclusivamente hablados por y con los computadores dentro de los
-        campos del systems programming e ingeniería en predominantemente plataformas tipo UNIX y, hasta cierto punto, Windows.<br>
+        según propio juicio y Árabe clásico como lengua clásica. Como las circunstancias me habían obligado, esto venía a incluir
+        a los idiomas habitualmente exclusivamente hablados por y con los computadores dentro de los campos del systems programming
+        e ingeniería en predominantemente plataformas tipo UNIX y, hasta cierto punto, Windows.<br>
         <br>
         Yo tengo un gran interés en las intersecciones de la creatividad, el lenguaje hablado, la poesía oral por un lado y, por el
         otro, expresividad y un énfasis en las cualidades estéticas en la programación e ingeniería a fin de diseñar e implementar
