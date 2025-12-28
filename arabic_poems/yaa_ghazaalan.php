@@ -74,7 +74,7 @@ and I no longer know whom has taken my heart<br>
 </span>
 <br>
 <span id="r3">
-[3] <?php include $_SERVER['DOCUMENT_ROOT'] . "/arabic_poems/$inc_lang/_tayfulkhayyal.php" ?>
+[3] <?php include_page("arabic_poems", $inc_lang, "_tayfulkhayyal"); ?>
 </span>
 <br>
 <span id="r4">

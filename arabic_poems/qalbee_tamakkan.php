@@ -197,7 +197,7 @@ Era: 8th-15th century<br>
 [1] Moroccan dialectal poetry.<br>
 </span>
 <span id="r2">
-[2] <?php include $_SERVER['DOCUMENT_ROOT'] . "/arabic_poems/$inc_lang/_muwashshahah.php" ?>
+[2] <?php include_page("arabic_poems", $inc_lang, "_muwashshahah"); ?>
 </span>
 <!-- }}} -->
 
