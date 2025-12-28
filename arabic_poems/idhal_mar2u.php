@@ -120,7 +120,7 @@ even though b. ʕāmir and b. Salūl see it otherwise<br>
 <span id="r1">
 [1] as-Samawʔal b. ʕādiyāʔ, Šəmūʔēl (Samuel) b. ʕadiyyah (שמואל בן עדיה) in Hebrew, an Arabian tribal leader and warrior and, above all, preeminent poet of his day and age of Jewish background, along with his tribe, associated with the castle named al-Ablaq, the piebald<a href="#r8" style="font-size: small">[8]</a>.<br>
 <br>
-Famously epitomising loyalty in Arab culture since then in the saying: "more loyal/faithful than as-Samawʔal" (أوفى من السموأل, awfā mana s-Samawʔal(i),) he 
+Famously epitomising loyalty in Arab culture since then in the saying: "more loyal/faithful than as-Samawʔal" (أوفى من السموأل, awfā mana s-Samawʔal(i),) he
 </span>
 <br>
 <span id="r2">
