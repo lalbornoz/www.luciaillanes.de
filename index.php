@@ -73,10 +73,10 @@
     if (array_key_exists("geoip2_data_country_code", $_SERVER)) {
       $inc_lang = strtolower($_SERVER['geoip2_data_country_code']);
     } else {
-      $inc_lang = "en";
+      $inc_lang = $language_fallback;
     }
     if (!in_array($inc_lang, $languages)) {
-      $inc_lang = "en";
+      $inc_lang = $language_fallback;
     }
 
     header("Location: /$inc_lang" . $_SERVER['REQUEST_URI']);
@@ -84,7 +84,7 @@
   } else {
     $inc_lang = strtolower($inc_lang);
     if (!in_array($inc_lang, $languages)) {
-      $inc_lang = "en";
+      $inc_lang = $language_fallback;
       header("Location: /$inc_lang" . preg_replace('|^/[a-z][a-z]/*|i', '/', $_SERVER['REQUEST_URI']));
       die();
     }
