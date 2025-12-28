@@ -9,8 +9,6 @@
   $language_fallback = "en";
   $languages = ["en", "es", "de"];
 
-  # FIXME TODO XXX error pages/handling
-
   function include_include($lang, $include) {
     global $inc_lang, $inc_dir, $inc_page, $inc_page_sub, $inc_uri, $inc_uri_fname, $inc_uri_orig;
     global $language_fallback;
@@ -19,6 +17,8 @@
       include $_SERVER['DOCUMENT_ROOT'] . "/includes/$lang/$include.php";
     } else if (file_exists($_SERVER['DOCUMENT_ROOT'] . "/includes/$language_fallback/$include.php")) {
       include $_SERVER['DOCUMENT_ROOT'] . "/includes/$language_fallback/$include.php";
+    } else {
+      /* Internally generated, ignore. */
     }
   }
 
@@ -30,6 +30,12 @@
       include $_SERVER['DOCUMENT_ROOT'] . "/$dir/$lang/$page.php";
     } else if (file_exists($_SERVER['DOCUMENT_ROOT'] . "/$dir/$language_fallback/$page.php")) {
       include $_SERVER['DOCUMENT_ROOT'] . "/$dir/$language_fallback/$page.php";
+    } else if (file_exists($_SERVER['DOCUMENT_ROOT'] . "/_error_pages/$lang/404.php")) {
+      include $_SERVER['DOCUMENT_ROOT'] . "/_error_pages/$lang/404.php";
+      http_response_code(404);
+    } else if (file_exists($_SERVER['DOCUMENT_ROOT'] . "/_error_pages/$language_fallback/404.php")) {
+      include $_SERVER['DOCUMENT_ROOT'] . "/_error_pages/$language_fallback/404.php";
+      http_response_code(404);
     }
   }
 
@@ -41,6 +47,12 @@
       include $_SERVER['DOCUMENT_ROOT'] . "/$dir/$lang/$page.php.title.$lang";
     } else if (file_exists($_SERVER['DOCUMENT_ROOT'] . "/$dir/$language_fallback/$page.php.title.$language_fallback")) {
       include $_SERVER['DOCUMENT_ROOT'] . "/$dir/$language_fallback/$page.php.title.$language_fallback";
+    } else if (file_exists($_SERVER['DOCUMENT_ROOT'] . "/_error_pages/$lang/404.php.title.$lang")) {
+      include $_SERVER['DOCUMENT_ROOT'] . "/_error_pages/$lang/404.php.title.$lang";
+      http_response_code(404);
+    } else if (file_exists($_SERVER['DOCUMENT_ROOT'] . "/_error_pages/$language_fallback/404.php.title.$language_fallback")) {
+      include $_SERVER['DOCUMENT_ROOT'] . "/_error_pages/$language_fallback/404.php.title.$language_fallback";
+      http_response_code(404);
     }
   }
 

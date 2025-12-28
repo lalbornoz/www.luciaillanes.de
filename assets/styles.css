@@ -180,6 +180,11 @@
   grid-area:              b;
   text-align:             center;
 }
+.div-content-etc-http-status {
+  background:             transparent;
+  grid-area:              b;
+  text-align:             center;
+}
 /* }}} */
 
 /* {{{ .div-copyright styles */
