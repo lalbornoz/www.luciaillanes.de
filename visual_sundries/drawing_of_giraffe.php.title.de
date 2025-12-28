@@ -1,1 +1,0 @@
-drawing_of_giraffe.php.title.en

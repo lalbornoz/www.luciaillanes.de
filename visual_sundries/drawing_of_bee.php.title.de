@@ -1,1 +1,0 @@
-drawing_of_bee.php.title.en

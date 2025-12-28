@@ -1,1 +1,0 @@
-drawing_of_cat_photons.php.title.en
