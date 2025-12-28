@@ -48,7 +48,7 @@
       '%^/+(?:(' . implode("|", $languages) . ')/*)?(?:([^/]+)/*(?:/+(.+))?)?$%i',
       $_SERVER['REQUEST_URI'], $matches, PREG_UNMATCHED_AS_NULL))
   {
-    http_response_code(500);
+    http_response_code(404);
   } else {
     $inc_lang = $matches[1];
     if (is_null($inc_lang)) {
