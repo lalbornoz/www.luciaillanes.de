@@ -5,6 +5,7 @@
   $inc_page_sub = NULL;
   $inc_uri = NULL;
   $inc_uri_fname = NULL;
+  $language_fallback = "en";
   $languages = ["en", "es", "de"];
 
   # FIXME TODO XXX error pages/handling
@@ -21,11 +22,12 @@
 
   function include_title($dir, $lang, $page) {
     global $inc_lang, $inc_dir, $inc_page, $inc_page_sub, $inc_uri, $inc_uri_fname;
+    global $language_fallback;
 
     if (file_exists($_SERVER['DOCUMENT_ROOT'] . "/$dir/$lang/$page.php.title.$lang")) {
       include $_SERVER['DOCUMENT_ROOT'] . "/$dir/$lang/$page.php.title.$lang";
     } else {
-      include $_SERVER['DOCUMENT_ROOT'] . "/$dir/en/$page.php.title.$lang";
+      include $_SERVER['DOCUMENT_ROOT'] . "/$dir/$language_fallback/$page.php.title.$language_fallback";
     }
   }
 
