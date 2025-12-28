@@ -12,11 +12,12 @@
 
   function include_page($dir, $lang, $page) {
     global $inc_lang, $inc_dir, $inc_page, $inc_page_sub, $inc_uri, $inc_uri_fname;
+    global $language_fallback;
 
     if (file_exists($_SERVER['DOCUMENT_ROOT'] . "/$dir/$lang/$page.php")) {
       include $_SERVER['DOCUMENT_ROOT'] . "/$dir/$lang/$page.php";
-    } else {
-      include $_SERVER['DOCUMENT_ROOT'] . "/$dir/en/$page.php";
+    } else if (file_exists($_SERVER['DOCUMENT_ROOT'] . "/$dir/$language_fallback/$page.php")) {
+      include $_SERVER['DOCUMENT_ROOT'] . "/$dir/$language_fallback/$page.php";
     }
   }
 
