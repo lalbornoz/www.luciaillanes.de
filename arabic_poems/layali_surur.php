@@ -84,7 +84,7 @@
 <tr><td colspan="2"><br></td></tr>
 </table>
 <table style="direction: rtl; text-align: center; margin-left: auto; margin-right: auto">
-<tr style="font-weight: bold"> 
+<tr style="font-weight: bold">
 <td>الفَجْرُ زَيَّقْ</td>
 <td>قُمْ يَا نَدِيمْ</td>
 <td>دِيرَ الكُؤُوسْ</td>

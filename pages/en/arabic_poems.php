@@ -10,7 +10,7 @@
           <a href="/<?php echo $inc_lang ?>/arabic_poems/laa_talumnee">Do not blame me for blame scarcely touches me</a><br>
           <a href="/<?php echo $inc_lang ?>/arabic_poems/na3eebu_zamaaninaa">We blame our time but we are to blame</a><br>
           <a href="/<?php echo $inc_lang ?>/arabic_poems/wa_la3alla">May all that you fear not turn out to pass</a><br>
-          
+
           <h2>Post-ʕabbāsid era</h2>
           <a href="/<?php echo $inc_lang ?>/arabic_poems/ana_lladhee">I am he whose verses even the blind do see</a><br>
           <a href="/<?php echo $inc_lang ?>/arabic_poems/ureedu_min">I desire of my days ...</a><br>

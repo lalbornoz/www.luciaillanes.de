@@ -67,7 +67,7 @@ O Handsome, if we are not reunited<br>
 <!-- {{{ references -->
 <span id="r1">
 [1] The person addressed is being likened to and described in terms of the full moon - particularly with regard to their face - in a dark starless night, the seductive and obsessive power of the moon, the restlessness the full moon provokes, it running its course from East to West, both the alleviation inasmuch as the pain that seclusion and separation its setting and the time between its setting and nightfall produces, etc.<br>
-It bears mentioning that the sun, the moon, the stars, their setting, passing, etc. are very common tropes in Arabic poetry in general, metaphorically referring to a friend or beloved one and their departure, loss, longing for, etc.<br> 
+It bears mentioning that the sun, the moon, the stars, their setting, passing, etc. are very common tropes in Arabic poetry in general, metaphorically referring to a friend or beloved one and their departure, loss, longing for, etc.<br>
 </span>
 <br>
 <span id="r2">
