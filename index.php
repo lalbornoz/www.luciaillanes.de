@@ -5,13 +5,14 @@
   $inc_page_sub = NULL;
   $inc_uri = NULL;
   $inc_uri_fname = NULL;
+  $inc_uri_orig = NULL;
   $language_fallback = "en";
   $languages = ["en", "es", "de"];
 
   # FIXME TODO XXX error pages/handling
 
   function include_include($lang, $include) {
-    global $inc_lang, $inc_dir, $inc_page, $inc_page_sub, $inc_uri, $inc_uri_fname;
+    global $inc_lang, $inc_dir, $inc_page, $inc_page_sub, $inc_uri, $inc_uri_fname, $inc_uri_orig;
     global $language_fallback;
 
     if (file_exists($_SERVER['DOCUMENT_ROOT'] . "/includes/$lang/$include.php")) {
@@ -22,7 +23,7 @@
   }
 
   function include_page($dir, $lang, $page) {
-    global $inc_lang, $inc_dir, $inc_page, $inc_page_sub, $inc_uri, $inc_uri_fname;
+    global $inc_lang, $inc_dir, $inc_page, $inc_page_sub, $inc_uri, $inc_uri_fname, $inc_uri_orig;
     global $language_fallback;
 
     if (file_exists($_SERVER['DOCUMENT_ROOT'] . "/$dir/$lang/$page.php")) {
@@ -33,7 +34,7 @@
   }
 
   function include_title($dir, $lang, $page) {
-    global $inc_lang, $inc_dir, $inc_page, $inc_page_sub, $inc_uri, $inc_uri_fname;
+    global $inc_lang, $inc_dir, $inc_page, $inc_page_sub, $inc_uri, $inc_uri_fname, $inc_uri_orig;
     global $language_fallback;
 
     if (file_exists($_SERVER['DOCUMENT_ROOT'] . "/$dir/$lang/$page.php.title.$lang")) {
