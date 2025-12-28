@@ -44,9 +44,9 @@
     global $language_fallback;
 
     if (file_exists($_SERVER['DOCUMENT_ROOT'] . "/$dir/$lang/$page.php.title.$lang")) {
-      include $_SERVER['DOCUMENT_ROOT'] . "/$dir/$lang/$page.php.title.$lang";
+      echo rtrim(file_get_contents($_SERVER['DOCUMENT_ROOT'] . "/$dir/$lang/$page.php.title.$lang"));
     } else if (file_exists($_SERVER['DOCUMENT_ROOT'] . "/$dir/$language_fallback/$page.php.title.$language_fallback")) {
-      include $_SERVER['DOCUMENT_ROOT'] . "/$dir/$language_fallback/$page.php.title.$language_fallback";
+      echo rtrim(file_get_contents($_SERVER['DOCUMENT_ROOT'] . "/$dir/$language_fallback/$page.php.title.$language_fallback"));
     } else if (file_exists($_SERVER['DOCUMENT_ROOT'] . "/_error_pages/$lang/404.php.title.$lang")) {
       include $_SERVER['DOCUMENT_ROOT'] . "/_error_pages/$lang/404.php.title.$lang";
       http_response_code(404);
