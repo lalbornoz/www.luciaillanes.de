@@ -345,7 +345,7 @@ A rendition of these poems by the late al-Ḥājj Moḥammed aṭ-Ṭāhar al-Fe
 </span>
 <br>
 <span id="r2">
-[2] <?php include $_SERVER['DOCUMENT_ROOT'] . "/arabic_poems/$inc_lang/_muwashshahah.php" ?>
+[2] <?php include_page("arabic_poems", $inc_lang, "_muwashshahah"); ?>
 </span>
 <br>
 <span id="r3">

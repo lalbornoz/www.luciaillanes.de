@@ -169,7 +169,7 @@ Era: 8th-15th century<br>
 <div style="padding: 2em 0 2em 0"></div>
 <!-- {{{ references -->
 <span id="r1">
-[1] <?php include $_SERVER['DOCUMENT_ROOT'] . "/arabic_poems/$inc_lang/_muwashshahah.php" ?>
+[1] <?php include_page("arabic_poems", $inc_lang, "_muwashshahah"); ?>
 </span>
 <br>
 <!-- }}} -->
