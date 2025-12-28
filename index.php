@@ -26,7 +26,7 @@
 
     if (file_exists($_SERVER['DOCUMENT_ROOT'] . "/$dir/$lang/$page.php.title.$lang")) {
       include $_SERVER['DOCUMENT_ROOT'] . "/$dir/$lang/$page.php.title.$lang";
-    } else {
+    } else if (file_exists($_SERVER['DOCUMENT_ROOT'] . "/$dir/$language_fallback/$page.php.title.$language_fallback")) {
       include $_SERVER['DOCUMENT_ROOT'] . "/$dir/$language_fallback/$page.php.title.$language_fallback";
     }
   }
