@@ -96,9 +96,7 @@
   if (is_null($inc_page)) {
     header("Location: /$inc_lang/about");
     die();
-  }
-
-  if (is_null($inc_page_sub)) {
+  } else if (is_null($inc_page_sub)) {
     $inc_dir = "pages";
     $inc_page = $inc_page;
     $inc_page_sub = NULL;
