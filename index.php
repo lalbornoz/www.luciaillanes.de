@@ -50,13 +50,13 @@
     http_response_code(500);
   } else {
     $inc_lang = $matches[1];
-    if (is_null ($inc_lang)) {
-      if (array_key_exists ("geoip2_data_country_code", $_SERVER)) {
+    if (is_null($inc_lang)) {
+      if (array_key_exists("geoip2_data_country_code", $_SERVER)) {
         $inc_lang = strtolower($_SERVER['geoip2_data_country_code']);
       } else {
         $inc_lang = "en";
       }
-      if (!in_array ($inc_lang, $languages)) {
+      if (!in_array($inc_lang, $languages)) {
         $inc_lang = "en";
       }
 
@@ -64,7 +64,7 @@
       die();
     } else {
       $inc_lang = strtolower($inc_lang);
-      if (!in_array ($inc_lang, $languages)) {
+      if (!in_array($inc_lang, $languages)) {
         $inc_lang = "en";
         header("Location: /$inc_lang" . preg_replace('|^/[a-z][a-z]/*|i', '/', $_SERVER['REQUEST_URI']));
         die();
@@ -74,12 +74,12 @@
     $inc_page = $matches[2];
     $inc_page_sub = $matches[3];
 
-    if (is_null ($inc_page)) {
+    if (is_null($inc_page)) {
       header("Location: /$inc_lang/about");
       die();
     }
 
-    if (is_null ($inc_page_sub)) {
+    if (is_null($inc_page_sub)) {
       $inc_dir = "pages";
       $inc_page = $inc_page;
       $inc_page_sub = NULL;
@@ -106,14 +106,14 @@
     <link href="/assets/styles.etc.css" rel="stylesheet">
     <meta charset="utf-8">
     <script src="/assets/functions.js"></script>
-    <title><?php include_title ($inc_dir, $inc_lang, $inc_page) ?></title>
+    <title><?php include_title($inc_dir, $inc_lang, $inc_page) ?></title>
   </head>
   <body onload="kadeClick()">
-    <?php include_include ($inc_lang, "legend"); ?>
+    <?php include_include($inc_lang, "legend"); ?>
     <div class="div-empty"></div>
-    <?php include_page ($inc_dir, $inc_lang, $inc_page); ?>
+    <?php include_page($inc_dir, $inc_lang, $inc_page); ?>
     <div class="div-empty"></div>
-    <?php include_include ($inc_lang, "copyright"); ?>
+    <?php include_include($inc_lang, "copyright"); ?>
   </body>
 </html>
 
