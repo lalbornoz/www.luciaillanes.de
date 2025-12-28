@@ -1,1 +1,0 @@
-drawing_of_lion.php.title.en
