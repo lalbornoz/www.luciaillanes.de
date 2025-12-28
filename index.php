@@ -10,6 +10,17 @@
 
   # FIXME TODO XXX error pages/handling
 
+  function include_include($lang, $include) {
+    global $inc_lang, $inc_dir, $inc_page, $inc_page_sub, $inc_uri, $inc_uri_fname;
+    global $language_fallback;
+
+    if (file_exists($_SERVER['DOCUMENT_ROOT'] . "/includes/$lang/$include.php")) {
+      include $_SERVER['DOCUMENT_ROOT'] . "/includes/$lang/$include.php";
+    } else if (file_exists($_SERVER['DOCUMENT_ROOT'] . "/includes/$language_fallback/$include.php")) {
+      include $_SERVER['DOCUMENT_ROOT'] . "/includes/$language_fallback/$include.php";
+    }
+  }
+
   function include_page($dir, $lang, $page) {
     global $inc_lang, $inc_dir, $inc_page, $inc_page_sub, $inc_uri, $inc_uri_fname;
     global $language_fallback;
@@ -98,11 +109,11 @@
     <title><?php include_title ($inc_dir, $inc_lang, $inc_page) ?></title>
   </head>
   <body onload="kadeClick()">
-    <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/" . $inc_lang . "/legend.php" ?>
+    <?php include_include ($inc_lang, "legend"); ?>
     <div class="div-empty"></div>
     <?php include_page ($inc_dir, $inc_lang, $inc_page); ?>
     <div class="div-empty"></div>
-    <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/" . $inc_lang . "/copyright.php" ?>
+    <?php include_include ($inc_lang, "copyright"); ?>
   </body>
 </html>
 
