@@ -74,7 +74,7 @@
   $segment = array_filter(
     explode("/", $_SERVER['REQUEST_URI']),
     function($var) {
-      return $var !== "";
+      return ($var !== "") && ($var !== ".") && ($var !== "..");
     });
 
   $inc_lang = (count($segment) >= 1) ? $segment[1] : NULL;
