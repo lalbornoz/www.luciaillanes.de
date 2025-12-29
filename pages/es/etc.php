@@ -23,7 +23,11 @@
         </div>
 
         <div class="div-box div-content-etc-kade">
-          <img alt="kade" class="div-content-img" id="kade" onclick="kadeClick();" src="/assets/kades/kade13.png" title="No me hagas clic!"><br>
+          <img
+            alt="kade" class="div-content-img" id="kade"
+            onclick="kadeClick();" src=""
+            style="visibility: hidden"
+            title="No me hagas clic!"><br>
           <span class="div-content-img" id="kade-prev" onclick="kadePrevious();" style="cursor: pointer">⏪</span>
           <span class="div-content-img" id="kade-next" onclick="kadeNext();" style="cursor: pointer">⏩</span><br>
           <span style="font-size: 1em; text-align: center"

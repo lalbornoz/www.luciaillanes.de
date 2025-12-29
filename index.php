@@ -45,6 +45,14 @@
     }
   }
 
+  function include_scripts($page) {
+    if (file_exists($_SERVER['DOCUMENT_ROOT'] . "/assets/functions.$page.js")) {
+      echo "<script src=\"/assets/functions.$page.js\"></script>\n";
+    } else {
+      echo "\n";
+    }
+  }
+
   function include_title($dir, $lang, $page) {
     global $inc_lang, $inc_dir, $inc_page, $inc_uri_fname, $inc_uri_orig;
     global $language_fallback;
@@ -119,11 +127,11 @@
     <link href="/assets/styles.css" rel="stylesheet">
     <link href="/assets/styles.includes.css" rel="stylesheet">
     <?php include_styles($inc_page) ?>
+    <?php include_scripts($inc_page) ?>
     <meta charset="utf-8">
-    <script src="/assets/functions.js"></script>
     <title><?php include_title($inc_dir, $inc_lang, $inc_page) ?></title>
   </head>
-  <body onload="kadeClick()">
+  <body>
     <?php include_include($inc_lang, "legend"); ?>
     <div class="div-empty"></div>
     <?php include_page($inc_dir, $inc_lang, $inc_page); ?>
