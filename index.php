@@ -109,7 +109,15 @@
     <link href="/assets/favicon.ico" rel="icon">
     <link href="/assets/styles.global.css" rel="stylesheet">
     <link href="/assets/styles.css" rel="stylesheet">
+    <link href="/assets/styles.arabic_poems.css" rel="stylesheet">
+    <link href="/assets/styles.araboly.css" rel="stylesheet">
+    <link href="/assets/styles.copyright.css" rel="stylesheet">
+    <link href="/assets/styles.error_page.css" rel="stylesheet">
     <link href="/assets/styles.etc.css" rel="stylesheet">
+    <link href="/assets/styles.legend.css" rel="stylesheet">
+    <link href="/assets/styles.movieslist.css" rel="stylesheet">
+    <link href="/assets/styles.stories.css" rel="stylesheet">
+    <link href="/assets/styles.visual_sundries.css" rel="stylesheet">
     <meta charset="utf-8">
     <script src="/assets/functions.js"></script>
     <title><?php include_title($inc_dir, $inc_lang, $inc_page) ?></title>

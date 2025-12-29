@@ -1,68 +1,15 @@
 
-/* {{{ .div-box styles */
 .div-box {
   background-color:       rgba(255,255,255,0.75);
   margin:                 auto;
   text-align:             center;
 }
-/* }}} */
-/* {{{ .div-empty styles */
+
 .div-empty {
   background-color:       transparent;
   height:                 1em;
 }
-/* }}} */
 
-/* {{{ .div-legend styles */
-.div-legend {
-  padding:                1.5em;
-  width:                  50%;
-}
-
-@media (max-width: 1280px) {
-  .div-legend {
-    width:                85%;
-  }
-}
-
-.div-legend > .span-legend-colour-block {
-  display:                inline-block;
-  width:                  2em;
-}
-.div-legend > .span-legend-colour-block:after {
-  content:              '.';
-  visibility:             hidden;
-}
-
-.div-legend > h1, .div-legend > h2 {
-  display:                inline;
-  font-size:              2em;
-  font-variant:           normal;
-  font-weight:            normal;
-}
-.div-legend > h2 {
-  font-size:              1.25em;
-}
-.div-legend > h3 {
-  margin:                 0;
-}
-/* }}} */
-/* {{{ .span-menu styles */
-.span-menu {
-  font-size:              0.8em;
-  font-variant:           small-caps;
-  padding:                0.5em;
-  width:                  60%;
-}
-
-@media (max-width: 1280px) {
-  .div-menu {
-    width:                90%;
-  }
-}
-/* }}} */
-
-/* {{{ .div-content styles */
 .div-content {
   padding:                1em;
   text-align:             left;
@@ -80,27 +27,8 @@
   font-size:              1em;
   font-variant:           small-caps;
 }
-/* }}} */
-/* {{{ .div-content-visual-sundries styles */
-.div-content-visual-sundries {
-  padding:                1em;
-  width:                  70%;
 
-  display:                grid;
-  grid-template-areas:
-    "T T T"
-    "a b ."
-    ". c d"
-    "e f g"
-    "M M M"
-    "h i j"
-    "k l m"
-    ". n ."
-    "o p q"
-}
-/* }}} */
-/* {{{ .div-content-etc styles */
-.div-content-etc {
+.div-content-grid {
   padding:                1em;
   width:                  70%;
 
@@ -112,94 +40,16 @@
 }
 
 @media (max-width: 1280px) {
-  .div-content-etc {
+  .div-content-grid {
     width:                95%;
   }
 }
-/* }}} */
-/* {{{ .div-content-etc-img styles */
+
 @media (max-width: 1280px) {
-    .div-content-etc-img {
+    .div-content-img {
         display:          none !important;
     }
 }
-/* }}} */
-/* {{{ .div-content-etc* styles */
-.div-content-etc-stories1 {
-  background:             transparent;
-  grid-area:              a;
-  text-align:             center;
-}
-.div-content-etc-stories2 {
-  background:             transparent;
-  grid-area:              b;
-  text-align:             center;
-}
-.div-content-etc-stories3 {
-  background:             transparent;
-  grid-area:              c;
-  text-align:             center;
-}
-.div-content-etc-arabic-poems1 {
-  background:             transparent;
-  grid-area:              a;
-  text-align:             center;
-}
-.div-content-etc-arabic-poems2 {
-  background:             transparent;
-  grid-area:              b;
-  text-align:             center;
-}
-.div-content-etc-arabic-poems3 {
-  background:             transparent;
-  grid-area:              c;
-  text-align:             center;
-}
-.div-content-etc-recipes-endocrinology {
-  background:             transparent;
-  grid-area:              a;
-  text-align:             center;
-}
-.div-content-etc-kade {
-  background:             transparent;
-  grid-area:              b;
-  text-align:             center;
-}
-.div-content-etc-german {
-  background:             transparent;
-  grid-area:              c;
-  text-align:             center;
-}
-.div-content-etc-movies {
-  background:             transparent;
-  grid-area:              b;
-  text-align:             center;
-}
-.div-content-etc-araboly {
-  background:             transparent;
-  grid-area:              b;
-  text-align:             center;
-}
-.div-content-etc-http-status {
-  background:             transparent;
-  grid-area:              b;
-  text-align:             center;
-}
-/* }}} */
-
-/* {{{ .div-copyright styles */
-.div-copyright {
-  font-size:              0.6em;
-  padding:                1em;
-  width:                  80%;
-}
-
-@media (max-width: 1280px) {
-  .div-copyright {
-    width:                95%;
-  }
-}
-/* }}} */
 
 /*
  * vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=0

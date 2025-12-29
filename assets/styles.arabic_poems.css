@@ -1,0 +1,22 @@
+
+.div-content-arabic-poems1 {
+  background:             transparent;
+  grid-area:              a;
+  text-align:             center;
+}
+
+.div-content-arabic-poems2 {
+  background:             transparent;
+  grid-area:              b;
+  text-align:             center;
+}
+
+.div-content-arabic-poems3 {
+  background:             transparent;
+  grid-area:              c;
+  text-align:             center;
+}
+
+/*
+ * vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=0
+ */

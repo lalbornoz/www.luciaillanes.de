@@ -3,8 +3,8 @@
       <link rel="stylesheet" href="/assets/jspreadsheet/jspreadsheet.css" type="text/css">
       <link rel="stylesheet" href="/assets/jsuites/jsuites.css" type="text/css">
 
-      <div class="div-box div-content-etc">
-        <div class="div-box div-content-etc-movies">
+      <div class="div-box div-content-grid">
+        <div class="div-box div-content-movies">
           <h1 style="margin-bottom: 0">Films and series I've watched</h1>
           <span style="font-size: 1.5em; text-align: center"
               title="Lā qibiti, lā amāru, lā ṭēmi, lā šēmi, ṣilittu&#10;No voices, no sight, no senses, no sound, silence">

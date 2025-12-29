@@ -1,5 +1,5 @@
     <div class="div-box div-content">
-      <div class="div-box div-content-etc-http-status">
+      <div class="div-box div-content-error-page">
         <h1>404 Not Found</h1>
         <h2>Esta página web no está disponible.</h2>
         <img alt="kade404" src="/_error_pages/kade404.png" title="kade404">

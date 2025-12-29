@@ -1,5 +1,5 @@
-      <div class="div-box div-content-etc">
-        <div class="div-box div-content-etc-araboly">
+      <div class="div-box div-content-grid">
+        <div class="div-box div-content-araboly">
           <h1 style="margin-bottom: 0">Araboly 2000 Advanced Server SP4</h1>
           <span style="font-size: 1.5em; text-align: center"
                 title="Ana kurnugi qaqqari lā tāri,&#10;Ištar mārat sīn uzunša iškun &#10;To the netherworld, land of no return,&#10;Ištar, daughter of Sīn, set her mind&#10;(from the Mesopotamian myth Ištar's Descent to the Netherworld)">
