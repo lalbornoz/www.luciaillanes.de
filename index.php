@@ -40,6 +40,8 @@
   function include_styles($page) {
     if (file_exists($_SERVER['DOCUMENT_ROOT'] . "/assets/styles.$page.css")) {
       echo "<link href=\"/assets/styles.$page.css\" rel=\"stylesheet\">\n";
+    } else {
+      echo "\n";
     }
   }
 
