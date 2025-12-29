@@ -2,15 +2,13 @@
   $inc_lang = NULL;
   $inc_dir = NULL;
   $inc_page = NULL;
-  $inc_page_sub = NULL;
-  $inc_uri = NULL;
   $inc_uri_fname = NULL;
   $inc_uri_orig = NULL;
   $language_fallback = "en";
   $languages = ["en", "es", "de"];
 
   function include_include($lang, $include) {
-    global $inc_lang, $inc_dir, $inc_page, $inc_page_sub, $inc_uri, $inc_uri_fname, $inc_uri_orig;
+    global $inc_lang, $inc_dir, $inc_page, $inc_uri_fname, $inc_uri_orig;
     global $language_fallback;
 
     if (file_exists($_SERVER['DOCUMENT_ROOT'] . "/includes/$lang/$include.php")) {
@@ -23,7 +21,7 @@
   }
 
   function include_page($dir, $lang, $page) {
-    global $inc_lang, $inc_dir, $inc_page, $inc_page_sub, $inc_uri, $inc_uri_fname, $inc_uri_orig;
+    global $inc_lang, $inc_dir, $inc_page, $inc_uri_fname, $inc_uri_orig;
     global $language_fallback;
 
     if (file_exists($_SERVER['DOCUMENT_ROOT'] . "/$dir/$lang/$page.php")) {
@@ -40,7 +38,7 @@
   }
 
   function include_title($dir, $lang, $page) {
-    global $inc_lang, $inc_dir, $inc_page, $inc_page_sub, $inc_uri, $inc_uri_fname, $inc_uri_orig;
+    global $inc_lang, $inc_dir, $inc_page, $inc_uri_fname, $inc_uri_orig;
     global $language_fallback;
 
     if (file_exists($_SERVER['DOCUMENT_ROOT'] . "/$dir/$lang/$page.php.title.$lang")) {
@@ -56,59 +54,53 @@
     }
   }
 
-  if (!preg_match(
-      '%^/+(?:(' . implode("|", $languages) . ')/*)?(?:([^/]+)/*(?:/+(.+))?)?$%i',
-      $_SERVER['REQUEST_URI'], $matches, PREG_UNMATCHED_AS_NULL))
+
+  $segment = array_filter(
+    explode("/", $_SERVER['REQUEST_URI']),
+    function($var) {
+      return $var !== "";
+    });
+
+  $inc_lang = (count($segment) >= 1) ? $segment[1] : NULL;
+  if (is_null($inc_lang)
+  ||  (strlen($inc_lang) != 2))
   {
     if (array_key_exists("geoip2_data_country_code", $_SERVER)) {
-      $matches = [NULL, strtolower($_SERVER['geoip2_data_country_code']), "404", NULL];
-    } else {
-      $matches = [NULL, $language_fallback, "404", NULL];
-    }
-    http_response_code(404);
-  }
-
-  $inc_lang = $matches[1];
-  if (is_null($inc_lang)) {
-    if (array_key_exists("geoip2_data_country_code", $_SERVER)) {
       $inc_lang = strtolower($_SERVER['geoip2_data_country_code']);
+      if (!in_array($inc_lang, $languages)) {
+        $inc_lang = $language_fallback;
+      }
     } else {
       $inc_lang = $language_fallback;
     }
-    if (!in_array($inc_lang, $languages)) {
-      $inc_lang = $language_fallback;
-    }
 
-    header("Location: /$inc_lang" . $_SERVER['REQUEST_URI']);
+    header("Location: /$inc_lang/" . implode("/", $segment));
     die();
   } else {
     $inc_lang = strtolower($inc_lang);
     if (!in_array($inc_lang, $languages)) {
       $inc_lang = $language_fallback;
-      header("Location: /$inc_lang" . preg_replace('|^/[a-z][a-z]/*|i', '/', $_SERVER['REQUEST_URI']));
+
+      header("Location: /$inc_lang/" . implode("/", array_slice($segment, 1)));
       die();
     }
   }
 
-  $inc_page = $matches[2];
-  $inc_page_sub = $matches[3];
-
-  if (is_null($inc_page)) {
+  if ($_SERVER['REQUEST_URI'] != ("/" . implode("/", $segment))) {
+    header("Location: " . ("/" . implode("/", $segment)));
+    die();
+  } else if ((count($segment) - 1) == 0) {
     header("Location: /$inc_lang/about");
     die();
-  } else if (is_null($inc_page_sub)) {
+  } else if ((count($segment) - 1) == 1) {
     $inc_dir = "pages";
-    $inc_page = $inc_page;
-    $inc_page_sub = NULL;
+    $inc_page = $segment[2];
     $inc_uri_fname = "/" . $inc_dir . "/" . $inc_lang . "/" . $inc_page;
-    $inc_uri = $inc_uri_fname . ".php";
     $inc_uri_orig = "/" . $inc_page;
-  } else {
-    $inc_dir = $inc_page;
-    $inc_page = $inc_page_sub;
-    $inc_page_sub = NULL;
+  } else if ((count($segment) - 1) >= 2) {
+    $inc_dir = $segment[2];
+    $inc_page = implode("/", array_slice($segment, 2));
     $inc_uri_fname = "/" . $inc_dir . "/" . $inc_lang . "/" . $inc_page;
-    $inc_uri = $inc_uri_fname . ".php";
     $inc_uri_orig = "/" . $inc_dir . "/" . $inc_page;
   }
 ?>
