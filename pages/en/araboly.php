@@ -45,7 +45,7 @@
             This project is licensed under the terms of the MIT licence.
           </p>
           <img alt="Araboly board (South)" src="/assets/ArabolyBoardSouth.png">
-          <h2>See <a href="https://github.com/lalbornoz/araboly">lalbornoz/araboly</a> for more information!<h2>
+          <h2>See <a href="https://github.com/lalbornoz/araboly">lalbornoz/araboly</a> for more information!</h2>
         </div>
       </div>
 
