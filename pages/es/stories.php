@@ -18,13 +18,13 @@
               class="div-content-img"
               onmouseover="roarieMouseOver();" onmouseout="roarieMouseOut();"
               src="/stories/<?php echo $inc_lang ?>/roarie.png" style="cursor: pointer">
-            <div class="roaries" id="roarie1">roar</div>
-            <div class="roaries" id="roarie2">meow</div>
-            <div class="roaries" id="roarie3">purr</div>
-            <div class="roaries" id="roarie4">meow</div>
-            <div class="roaries" id="roarie5">purr</div>
-            <div class="roaries" id="roarie6">roar</div>
-            <div class="roaries" id="roarie7">purr</div>
+            <div class="div-content-stories-roaries" id="div-content-stories-roarie1">roar</div>
+            <div class="div-content-stories-roaries" id="div-content-stories-roarie2">meow</div>
+            <div class="div-content-stories-roaries" id="div-content-stories-roarie3">purr</div>
+            <div class="div-content-stories-roaries" id="div-content-stories-roarie4">meow</div>
+            <div class="div-content-stories-roaries" id="div-content-stories-roarie5">purr</div>
+            <div class="div-content-stories-roaries" id="div-content-stories-roarie6">roar</div>
+            <div class="div-content-stories-roaries" id="div-content-stories-roarie7">purr</div>
           </div>
 
           <h1 style="margin-bottom: 0">
