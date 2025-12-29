@@ -1,19 +1,19 @@
 
-/* {{{ *hvv* */
-@-webkit-keyframes hvv-s-1e2 {
+/* {{{ div-content-etc-hvv* */
+@-webkit-keyframes div-content-etc-hvv-s-1e2 {
   0%  { color:  #009728; }
   33% { color:  #ffffff; }
   66% { color:  #b60c36; }
   99% { color:  #531b6e; }
 }
 
-.hvv-s-1e2 {
-  -webkit-animation-name:             hvv-s-1e2;
+.div-content-etc-hvv-s-1e2 {
+  -webkit-animation-name:             div-content-etc-hvv-s-1e2;
   -webkit-animation-iteration-count:  infinite;
   -webkit-animation-duration:         1s;
 }
 
-.hvv {
+.div-content-etc-hvv {
   border-radius:    1em;
   border-style:     solid;
   font-family:      monospace;
@@ -21,130 +21,42 @@
   padding:          0.05em 0.75em 0.05em 0.75em;
 }
 
-.hvv-s1 {
+.div-content-etc-hvv-s1 {
   background-color: #009278;
   border-color:     #009278;
   color:            #ffffff;
 }
 
-.hvv-s11 {
+.div-content-etc-hvv-s11 {
   background-color: #ffffff;
   border-color:     #009278;
   color:            #009278;
 }
 
-.hvv-s2 {
+.div-content-etc-hvv-s2 {
   background-color: #ffffff;
   border-color:     #b60c36;
   color:            #b60c36;
 }
 
-.hvv-s21 {
+.div-content-etc-hvv-s21 {
   background-color: #b60c36;
   border-color:     #b60c36;
   color:            #ffffff;
 }
 
-.hvv-s3 {
+.div-content-etc-hvv-s3 {
   background-color: #531b6e;
   border-color:     #531b6e;
   color:            #ffffff;
 }
 
-.hvv-s31 {
+.div-content-etc-hvv-s31 {
   background-color: #531b6e;
   border-color:     #531b6e;
   color:            #ffffff;
 }
 /* }}} */
-/* {{{ *roarie* */
-#roaries {
-  position:           relative;
-}
-
-.roaries {
-  position:           absolute;
-  left:               20%;
-  top:                10%;
-
-  font-size:          3em;
-  opacity:            0.8;
-  visibility:         hidden;
-}
-
-#roarie1 {
-  -webkit-animation:  roarie1 4s ease-out infinite;
-  animation:          roarie1 4s ease-out infinite;
-  color:              #00bbbb;
-}
-
-#roarie2 {
-  -webkit-animation:  roarie2 3s ease-out 0.5s infinite;
-  animation:          roarie2 3s ease-out 0.5s infinite;
-  color:              #bb00bb;
-}
-
-#roarie3 {
-  -webkit-animation:  roarie1 2s ease-out 0.25s infinite;
-  animation:          roarie1 2s ease-out 0.25s infinite;
-  color:              #5555ff;
-}
-
-#roarie4 {
-  -webkit-animation:  roarie2 1.5s ease-out infinite;
-  animation:          roarie2 1.5s ease-out infinite;
-  color:              #ffff55;
-}
-
-#roarie5 {
-  -webkit-animation:  roarie1 3s ease-out 0.75s infinite;
-  animation:          roarie1 3s ease-out 0.75s infinite;
-  color:              #ff55ff;
-}
-
-#roarie6 {
-  -webkit-animation:  roarie2 2.5s ease-out 0.45s infinite;
-  animation:          roarie2 2.5s ease-out 0.45s infinite;
-  color:              #bbbb00;
-}
-
-#roarie7 {
-  -webkit-animation:  roarie1 4.25s ease-out 0.6s infinite;
-  animation:          roarie1 4.25s ease-out 0.6s infinite;
-  color:              #000000;
-}
-
-@-webkit-keyframes roarie1 {
-  0%    { transform: translateY(0) translateX(0) scale(0.25); opacity: 0.8; }
-  100%  { transform: translateY(-100px) translateX(-20px) scale(1); opacity: 0.8; }
-}
-
-@keyframes roarie1 {
-  0%    { transform: translateY(0) translateX(0) scale(0.25); opacity: 0.8; }
-  100%  { transform: translateY(-100px) translateX(-20px) scale(1); opacity: 0.8; }
-}
-
-@-webkit-keyframes roarie2 {
-  0%    { transform: translateY(0) translateX(0) scale(0.25); opacity: 0.8; }
-  100%  { transform: translateY(-100px) translateX(20px) scale(1); opacity: 0.8; }
-}
-
-@keyframes roarie2 {
-  0% {transform: translateY(0) translateX(0) scale(0.25); opacity: 0.8; }
-  100% {transform: translateY(-100px) translateX(20px) scale(1); opacity: 0.8; }
-}
-/* }}} */
-
-.div-content-etc-projecttransspace {
-  display:          flex;
-  justify-content:  center;
-  align-items:      center;
-  gap:              1em;
-}
-
-.div-content-etc-projecttransspace img {
-  display:          block;
-}
 
 .div-content-etc-recipes-endocrinology {
   background:             transparent;
