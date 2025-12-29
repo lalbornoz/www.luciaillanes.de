@@ -1,4 +1,4 @@
-      <div class="div-box div-content-etc">
+      <div class="div-box div-content-grid">
         <div class="div-box div-content-etc-recipes-endocrinology">
           <h1>Lethal food recipes</h1>
           <a href="/recipes/<?php echo $inc_lang ?>/20%20empanadas%20(%E2%80%9Cbreaded%E2%80%9D).pdf">20 empanadas</a><br>
@@ -17,9 +17,9 @@
         </div>
 
         <div class="div-box div-content-etc-kade">
-          <img alt="kade" class="div-content-etc-img" id="kade" onclick="kadeClick();" src="/assets/kades/" title="Don't click me!"><br>
-          <span class="div-content-etc-img" id="kade-prev" onclick="kadePrevious();" style="cursor: pointer">⏪</span>
-          <span class="div-content-etc-img" id="kade-next" onclick="kadeNext();" style="cursor: pointer">⏩</span><br>
+          <img alt="kade" class="div-content-img" id="kade" onclick="kadeClick();" src="/assets/kades/" title="Don't click me!"><br>
+          <span class="div-content-img" id="kade-prev" onclick="kadePrevious();" style="cursor: pointer">⏪</span>
+          <span class="div-content-img" id="kade-next" onclick="kadeNext();" style="cursor: pointer">⏩</span><br>
           <span style="font-size: 1em; text-align: center"
                 title="Ana ešrā bēr iksupū kusāpa&#10;Ana šalāšā bēr iškunū nubatta&#10;Ikšudūnim-ma ana libbi Uruk supūri&#10;At twenty leagues they broke bread,&#10;at thirty leagues they pitched camp.&#10;They arrived in Uruk the Sheepfold.&#10;(from the Standard Babylonian text of The Epic of Gilgameš, Tablet XI)">
             𒀀𒈾𒂊𒊭𒊏𒀀𒁁𒂊𒊑𒅅𒅖𒌑𒅆𒆪𒋢𒀀𒉺

@@ -1,0 +1,22 @@
+
+.div-content-stories1 {
+  background:             transparent;
+  grid-area:              a;
+  text-align:             center;
+}
+
+.div-content-stories2 {
+  background:             transparent;
+  grid-area:              b;
+  text-align:             center;
+}
+
+.div-content-stories3 {
+  background:             transparent;
+  grid-area:              c;
+  text-align:             center;
+}
+
+/*
+ * vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=0
+ */

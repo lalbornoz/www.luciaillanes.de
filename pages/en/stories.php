@@ -1,5 +1,5 @@
-      <div class="div-box div-content-etc">
-        <div class="div-box div-content-etc-stories1">
+      <div class="div-box div-content-grid">
+        <div class="div-box div-content-stories1">
           <h2>BOOK.TXT</h2>
           <a href="/<?php echo $inc_lang ?>/stories/prefacepreface">BOOK.TXT - Second Edition<br>Preprefaceface</a><br>
           <a href="/<?php echo $inc_lang ?>/stories/questiontree">The Tree of Many Questions</a><br>
@@ -8,11 +8,11 @@
           <a href="/<?php echo $inc_lang ?>/stories/bees">Anatomy of a bee</a><br>
         </div>
 
-        <div class="div-box div-content-etc-stories2">
+        <div class="div-box div-content-stories2">
           <div id="roaries">
             <img
               alt="roarie"
-              class="div-content-etc-img"
+              class="div-content-img"
               onmouseover="roarieMouseOver();" onmouseout="roarieMouseOut();"
               src="/stories/<?php echo $inc_lang ?>/roarie.png" style="cursor: pointer">
             <div class="roaries" id="roarie1">roar</div>
@@ -39,7 +39,7 @@
           <a href="/<?php echo $inc_lang ?>/stories/orb">VII. Expedition into the Pale</a><br>
         </div>
 
-        <div class="div-box div-content-etc-stories3">
+        <div class="div-box div-content-stories3">
           <h2>Tašnītu lā šanān</h2>
           <a href="/<?php echo $inc_lang ?>/stories/zamar1">Zamār atarḥáyyim amurrim rāšim libbíšu, I</a><br>
           <a href="/<?php echo $inc_lang ?>/stories/zamar4">Zamār atarḥáyyim amurrim rāšim libbíšu, IV</a><br>

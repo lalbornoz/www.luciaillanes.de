@@ -1,0 +1,21 @@
+
+.div-content-visual-sundries {
+  padding:                1em;
+  width:                  70%;
+
+  display:                grid;
+  grid-template-areas:
+    "T T T"
+    "a b ."
+    ". c d"
+    "e f g"
+    "M M M"
+    "h i j"
+    "k l m"
+    ". n ."
+    "o p q"
+}
+
+/*
+ * vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=0
+ */
