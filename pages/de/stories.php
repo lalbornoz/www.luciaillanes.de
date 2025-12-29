@@ -12,7 +12,7 @@
         </div>
 
         <div class="div-box div-content-stories2">
-          <div id="roaries">
+          <div id="div-content-stories-roaries">
             <img
               alt="roarie"
               class="div-content-img"
