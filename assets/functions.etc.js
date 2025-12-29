@@ -1,4 +1,3 @@
-let catsClicked = false;
 let kadeIdxCurrent = 1;
 let kadeLast = null;
 let kadeList = ["kade11.png", "kade19.png", "kade23.png", "kade29.png", "kade33.png", "kade47.png", "kade66.png", "kade71.png", "kade76.png", "kade82.png", "kade87.png", "kade93.png", "kade12.png", "kade1.png", "kade24.png", "kade2.png", "kade35.png", "kade42.png", "kade55.png", "kade60.png", "kade67.png", "kade9.png", "kade13.png", "kade20.png", "kade25.png", "kade30.png", "kade38.png", "kade43.png", "kade4.png", "kade56.png", "kade61.png", "kade68.png", "kade73.png", "kade79.png", "kade84.png", "kade89.png", "kade.png", "kade14.png", "kade21.png", "kade27.png", "kade31.png", "kade39.png", "kade44.png", "kade50.png", "kade58.png", "kade6.png", "kade7.png", "kade8.png", "kade15.png", "kade28.png", "kade32.png", "kade3.png", "kade46.png", "kade52.png", "kade59.png", "kade65.png", "kade81.png"];
@@ -24,22 +23,15 @@ function shuffle(array) {
 };
 // }}}
 
-// {{{ function catsClick()
-function catsClick() {
-	if (catsClicked) {
-		document.body.style = '';
-		catsClicked = false;
-	} else {
-		document.body.style = 'transform: rotate(180deg)';
-		catsClicked = true;
-	};
-};
-// }}}
-
 // {{{ function kadeGetCurrent()
 function kadeGetCurrent() {
 	let kadeElement = document.getElementById("kade");
-	let kadeCurrent = kadeElement.src;
+	let kadeCurrent = "";
+	if (kadeElement.style.visibility === "hidden") {
+		kadeCurrent = "/assets/kades/kade.png";
+	} else {
+		kadeCurrent = kadeElement.src;
+	}
 	let kadeLastSepIdx = kadeCurrent.lastIndexOf("/");
 	let kadePathBase = kadeCurrent.substring(0, ((kadeLastSepIdx === -1) ? kadeCurrent.length : kadeLastSepIdx));
 	kadeCurrent = kadeCurrent.substring(((kadeLastSepIdx === -1) ? 0 : (kadeLastSepIdx + 1)));
@@ -85,26 +77,8 @@ function kadePrevious() {
 };
 // }}}
 
-// {{{ function roarieMouseOver()
-function roarieMouseOver() {
-	document.getElementById("div-content-stories-roarie1").style.visibility = 'visible';
-	document.getElementById("div-content-stories-roarie2").style.visibility = 'visible';
-	document.getElementById("div-content-stories-roarie3").style.visibility = 'visible';
-	document.getElementById("div-content-stories-roarie4").style.visibility = 'visible';
-	document.getElementById("div-content-stories-roarie5").style.visibility = 'visible';
-	document.getElementById("div-content-stories-roarie6").style.visibility = 'visible';
-	document.getElementById("div-content-stories-roarie7").style.visibility = 'visible';
-};
-// }}}
-// {{{ function roarieMouseOut()
-function roarieMouseOut() {
-	document.getElementById("div-content-stories-roarie1").style.visibility = 'hidden';
-	document.getElementById("div-content-stories-roarie2").style.visibility = 'hidden';
-	document.getElementById("div-content-stories-roarie3").style.visibility = 'hidden';
-	document.getElementById("div-content-stories-roarie4").style.visibility = 'hidden';
-	document.getElementById("div-content-stories-roarie5").style.visibility = 'hidden';
-	document.getElementById("div-content-stories-roarie6").style.visibility = 'hidden';
-	document.getElementById("div-content-stories-roarie7").style.visibility = 'hidden';
-};
-// }}}
+window.addEventListener("load", function() {
+	kadeClick();
+	document.getElementById("kade").style.visibility = "visible";
+});
 
