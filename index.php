@@ -103,9 +103,7 @@
     $inc_uri_fname = "/" . $inc_dir . "/" . $inc_lang . "/" . $inc_page;
     $inc_uri_orig = "/" . $inc_dir . "/" . $inc_page;
   }
-?>
-
-<!DOCTYPE html>
+?><!DOCTYPE html>
 <html lang="<?php echo $inc_lang ?>">
   <head>
     <link href="/assets/favicon.ico" rel="icon">
