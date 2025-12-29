@@ -25,7 +25,7 @@
         <div class="div-box div-content-etc-kade">
           <img
             alt="kade" class="div-content-img" id="kade"
-            onclick="kadeClick();" src=""
+            onclick="kadeClick();" src="data:,"
             style="visibility: hidden"
             title="No me hagas clic!"><br>
           <span class="div-content-img" id="kade-prev" onclick="kadePrevious();" style="cursor: pointer">⏪</span>
