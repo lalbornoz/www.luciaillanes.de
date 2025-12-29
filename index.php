@@ -117,9 +117,7 @@
     <link href="/assets/favicon.ico" rel="icon">
     <link href="/assets/styles.global.css" rel="stylesheet">
     <link href="/assets/styles.css" rel="stylesheet">
-    <link href="/assets/styles.copyright.css" rel="stylesheet">
-    <link href="/assets/styles.error_page.css" rel="stylesheet">
-    <link href="/assets/styles.legend.css" rel="stylesheet">
+    <link href="/assets/styles.includes.css" rel="stylesheet">
     <?php include_styles($inc_page) ?>
     <meta charset="utf-8">
     <script src="/assets/functions.js"></script>
