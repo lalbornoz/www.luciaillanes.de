@@ -23,7 +23,7 @@ sorrow and all was well. And yet, something was missing.
 
 <p style="color: #007f5d">
 Later, she was stood in the midst of a great, forbidding forest named al-Ḥawl where the strangest of
-creatures dwelt and sang long, drawn-out songs of mistifying sublimity. At the very heart of the
+creatures dwelt and sang long, drawn-out songs of mystifying sublimity. At the very heart of the
 forest, which was only accessible unto those that did not look to find it, a singular flower was
 stood offering a key. Idly and without forethought, she retrieved the key and lent dew to the
 flower. She then slept and dreamt.
@@ -49,7 +49,7 @@ she departed. And yet, something was missing.
 </p>
 
 <p style="color: #7f0000">
-Later, after she had passed through many more realms and demesnes and had born witness to much
+Later, after she had passed through many more realms and demesnes and had bore witness to much
 misfortune and joy, she came to notice that she was bearing a key. Slowly but surely it began to
 intrude upon her boundless consciousness. Eventually, she began to enquire with whomever whose
 judgment she deemed worthy of trust about her key but none knew of its provenance nor its progeny.
@@ -63,11 +63,11 @@ possession of the key but she found neither the one nor the other.
 </p>
 
 <p style="color: #7f0000">
-She stared into the unfathomable deep and became shrouded in the pale. Time beyond reckoning passed,
+She stared into the unfathomable deep and became shrouded in the Pale. Time beyond reckoning passed,
 but she remained there, where her very being began to fray and for the first time in all of
 eternity, her soul became worn by her days until there was no return for nowhere now lead nowhere.
 Beyond her awareness, all that had been and all that could have been had now ceased to be and came
-to be beyond the pale. All that she could remember was that once she had lent dew to a flower which
+to be beyond the Pale. All that she could remember was that once she had lent dew to a flower which
 had offered a key to her. The key was not there anymore, in its place there was a seed. She cast her
 fading countenance towards the nothingness and as darkness was upon the face of the deep, it began
 to rain.

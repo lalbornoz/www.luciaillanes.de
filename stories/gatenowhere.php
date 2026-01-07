@@ -32,7 +32,7 @@ fading. He had no notion of how he had come to be walking or if he had previousl
 long he had been walking for. The air was thick and stagnant and lay heavily upon him, as though the very
 destiny of all that preceded him had been, long ago, determined to wither and wane, eternally bound, and
 never to change. With every step that he took, the emptiness grew and the darkness grew nigh, and the
-all-consuming pale did advance.
+all-consuming Pale did advance.
 </p>
 
 <p style="color: #7f0000">
@@ -45,7 +45,7 @@ suddenly realised that he had been moving in circles recurring, ending up where 
 where he had ended, incessantly rewriting a narrative that had long ago been spelt out in entirety,
 merely changing a word here or there, oblivious to the conditions of possibility that had engendered it.
 The air was clear now, the terrifying storm that had previously lain by the horizon had faded, and the
-all-encompassing Pale was all that remained and he became at once at one with the pale. And yet, for a
+all-encompassing Pale was all that remained and he became at once at one with the Pale. And yet, for a
 momentous instant of a moment, words were cast in clarity upon the great Gate Nowhere that had unfolded
 and at the boundaries of which he had been stood without noticing, but his eyes did not see nor did his
 mind seize meaning from what appeared afore him:
