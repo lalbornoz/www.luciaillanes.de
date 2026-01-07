@@ -28,7 +28,7 @@ but he was not home. He undressed and with the night his refuge, he slept but di
 He awoke, arose, and all was the same to him, for when there is no now, there is no before and no after, and
 all that decreed once was to be, thus remained for time immemorial. He once more did hence and did such, left,
 passed by this and past that, the sky his sole witness unattainable, the looming nothingness vastly resounding
-with voices silent beyond the pale, as he slavishly strode across the distance of the world beneath to destinations
+with voices silent beyond the Pale, as he slavishly strode across the distance of the world beneath to destinations
 unknown, as his destiny decreed, in darkest trails of darkness. On the ground, there lay a Ẓāhir but he did not
 regard it. Suddenly, the world changed. Everything was different. He arrived. He could not tell if there was any
 difference at all between where he had, if at all, originated to then, were there a then, find himself in a
