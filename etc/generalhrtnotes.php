@@ -166,8 +166,10 @@
         <h2 style="text-align: center">Transdermal Oestradiol gel: temporary discontinuation </h2>
 
         <p>
-          When discontinuing, wait for about two weeks, respecting cycle boundaries, before resuming and be mindful of severely
-          hypogonadic menopausal Oestradiol levels - this implies hypothyroidism - as well as insufficient Testosterone suppression.
+          When discontinuing, wait for at least four weeks (neither about two nor three weeks are sufficient according to experimental
+          evidence,) respecting cycle boundaries, before resuming and be mindful of severely hypogonadic menopausal Oestradiol levels -
+          this will eventually - after at least four weeks - imply hypothyroidism - as well as insufficient Testosterone suppression,
+          though SHBG being slow to respond (five weeks max. to steady state) is helpful here.
           This is purely based on experience, though time to steady state of transdermal Oestradiol gel - e.g. three days, though
           however much remains at trough will be very rapidly taken up in any case - as well as SHBG - e.g. five weeks, though
           stability after week two can usually be expected - are factors.
