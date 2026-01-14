@@ -43,6 +43,7 @@
             Anweisungen zum erfolgreichen Erreichen der <span class="div-content-etc-hvv div-content-etc-hvv-s-1e2">S-1²</span>
           </a><br>
           <a href="/<?php echo $inc_lang ?>/stories/TAUBE.EXE">TAUBE.EXE</a><br>
+          <a href="/<?php echo $inc_lang ?>/etc/innenleben_katze">Innenleben einer Katze</a><br>
         </div>
       </div>
 
