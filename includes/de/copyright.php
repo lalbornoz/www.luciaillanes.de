@@ -3,7 +3,7 @@
           title="Ul nūḫu lāšu illā lā mammāni&#10;There is no relief but nothingness">
         𒌌𒉡𒌋𒄷𒌋𒆷𒀀𒋗𒅋𒌋𒈠𒈠𒉌
       </span><br>
-      &copy; 2017, 2018, 2019, 2021, 2022, 2023, 2024, 2025 Lucía Andrea Illanes Albornoz | email: lucia@luciaillanes.de<br>
+      &copy; 2017, 2018, 2019, 2021, 2022, 2023, 2024, 2025, 2026 Lucía Andrea Illanes Albornoz | email: lucia@luciaillanes.de<br>
 
       <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY 2.0</a>
       background photography <a href="https://www.flickr.com/photos/ajay_suresh/48040450686/in/photostream/">Sevilla-4-9</a>
