@@ -35,10 +35,21 @@
 
 
 .span-menu {
-  font-size:              0.8em;
   font-variant:           small-caps;
   padding:                0.5em;
   width:                  60%;
+}
+
+@supports (-webkit-appearance: none) and (not (-moz-appearance: none)) {
+  .span-menu {
+    font-size:            1.05em;
+  }
+}
+
+@supports (-moz-appearance: none) {
+  .span-menu {
+    font-size:            0.8em;
+  }
 }
 
 @media (max-width: 1280px) {
