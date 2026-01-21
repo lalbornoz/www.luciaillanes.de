@@ -4,7 +4,11 @@
         𒌌𒉡𒌋𒄷𒌋𒆷𒀀𒋗𒅋𒌋𒈠𒈠𒉌
       </span><br>
       &copy; 2017, 2018, 2019, 2021, 2022, 2023, 2024, 2025 Lucía Andrea Illanes Albornoz | email: lucia@luciaillanes.de<br>
-      Background stock photo copyright: <a href='https://www.123rf.com/profile_rixie'>rixie / 123RF Stock Photo</a><br>
+
+      <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY 2.0</a>
+      background photography <a href="https://www.flickr.com/photos/ajay_suresh/48040450686/in/photostream/">Sevilla-4-9</a>
+      courtesy of <a href="https://www.flickr.com/photos/ajay_suresh/">ajay_suresh</a> on Flickr<br>
+
       Created with <a href="https://github.com/lalbornoz/dotfiles_shared/tree/master/.vim">{,Neo}Vim</a>,
       hosted by OVH &amp; Hurricane Electric DNS, served by nginx &amp; PHP on Ubuntu.<br>
       HTML 5.0 badge taken from <a href="https://github.com/bradleytaunt/html5-valid-badge">
