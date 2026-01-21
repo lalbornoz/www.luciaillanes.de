@@ -132,11 +132,14 @@
     <title><?php include_title($inc_dir, $inc_lang, $inc_page) ?></title>
   </head>
   <body>
+    <div id="div-background"></div>
+    <main id="main-page">
     <?php include_include($inc_lang, "legend"); ?>
     <div class="div-empty"></div>
     <?php include_page($inc_dir, $inc_lang, $inc_page); ?>
     <div class="div-empty"></div>
     <?php include_include($inc_lang, "copyright"); ?>
+    </main>
   </body>
 </html>
 
