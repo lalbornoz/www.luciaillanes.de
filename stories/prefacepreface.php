@@ -1,4 +1,4 @@
-<div class="div-box div-content" style="font-family: times new roman">
+<div class="div-box div-content">
 
 <h1 style="text-align: center">BOOK.TXT</h1>
 <h2 style="text-align: center">Second Edition</h2>

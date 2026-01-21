@@ -1,4 +1,4 @@
-<div class="div-box div-content" style="font-family: times new roman">
+<div class="div-box div-content">
 
 <h1 style="text-align: center">My heart is nourished by your glance</h1>
 <h2 style="text-align: center">Qalbī tamakkan bin-Naẓrah</h2>

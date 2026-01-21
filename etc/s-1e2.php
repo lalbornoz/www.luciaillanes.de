@@ -1,4 +1,4 @@
-<div class="div-box div-content" style="font-family: times new roman">
+<div class="div-box div-content">
 
 <h1 style="text-align: center">Anweisungen zum erfolgreichen Erreichen der <span class="hvv hvv-s-1e2">S-1²</span></h1>
 

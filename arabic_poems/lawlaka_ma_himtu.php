@@ -1,4 +1,4 @@
-<div class="div-box div-content" style="font-family: times new roman">
+<div class="div-box div-content">
 
 <h1 style="text-align: center">Weren't it for you I'd not cry in passion</h1>
 <h2 style="text-align: center">Lawlāka mā himtu wajda</h2>

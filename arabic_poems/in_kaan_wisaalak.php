@@ -1,4 +1,4 @@
-<div class="div-box div-content" style="font-family: times new roman">
+<div class="div-box div-content">
 
 <h1 style="text-align: center">If your love should cost me dearly then take me and my wealth</h1>
 <h2 style="text-align: center">In kān wiṣālak ʕalayya ġāli ḫuḏnī wa-mālī</h2>

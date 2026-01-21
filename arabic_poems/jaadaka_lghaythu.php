@@ -1,4 +1,4 @@
-<div class="div-box div-content" style="font-family: times new roman">
+<div class="div-box div-content">
 
 <h1 style="text-align: center">Generous was the rain when it fell in vain</h1>
 <h2 style="text-align: center">Jādaka l-ġayṯu iḏa l-Ġayṯu hamā</h2>

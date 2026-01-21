@@ -1,4 +1,4 @@
-<div class="div-box div-content" style="font-family: times new roman">
+<div class="div-box div-content">
 
 <h1 style="text-align: center">I passed by the houses, the houses of Laylā</h1>
 <h2 style="text-align: center">Amurru ʕāla d-diyāri diyāri laylā</h2>

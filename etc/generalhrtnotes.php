@@ -1,4 +1,4 @@
-      <div class="div-box div-content" style="font-family: times new roman">
+      <div class="div-box div-content">
 
         <h1 style="text-align: center">General notes concerning HRT</h1>
 

@@ -1,4 +1,4 @@
-<div class="div-box div-content" style="font-family: times new roman">
+<div class="div-box div-content">
 
 <h1 style="text-align: center">A gazelle rose divinely in her beauty upon the sky</h1>
 <h2 style="text-align: center">Ġazālun samā bil-bahā ḫilqatan</h2>

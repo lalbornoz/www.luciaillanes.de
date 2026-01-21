@@ -1,4 +1,4 @@
-<div class="div-box div-content" style="font-family: times new roman">
+<div class="div-box div-content">
 
 <h1 style="text-align: center">Diligent conduct obtains the highest of aims</h1>
 <h2 style="text-align: center">Bi-qadri l-kaddi tuktasabu l-Maʕālī</h1>

@@ -1,4 +1,4 @@
-<div class="div-box div-content" style="font-family: times new roman">
+<div class="div-box div-content">
 
 <h1 style="text-align: center">I said to Laylā: what is the remedy for my sleeplessness?</h1>
 <h2 style="text-align: center">Qultu li-laylā mā dawāʔu s-sahr</h2>

@@ -7,7 +7,7 @@
 .table-cell { display: table-cell; padding: 0 1em 0 1em; text-align: center; }
 </style>
 
-<div class="div-box div-content" style="font-family: times new roman">
+<div class="div-box div-content">
 
 <h1 style="text-align: center">Rush to wine and early</h1>
 <h2 style="text-align: center">Ruḥ lir-rāḥ wa-bākir</h2>

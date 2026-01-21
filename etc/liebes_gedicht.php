@@ -1,4 +1,4 @@
-<div class="div-box div-content" style="font-family: times new roman">
+<div class="div-box div-content">
 
 <h1 style="text-align: center">Liebesgedicht eines anonymen deutschen Mannes an eine anonyme deutsche Frau</h1>
 

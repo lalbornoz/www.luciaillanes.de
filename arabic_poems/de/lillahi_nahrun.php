@@ -1,4 +1,4 @@
-<div class="div-box div-content" style="font-family: times new roman">
+<div class="div-box div-content">
 
 <h1 style="text-align: center">Bei Gott, welch ein Fluss, er fließt in dem Tal!</h1>
 <h2 style="text-align: center">Li-llāhi nahrun sāla fī baṭḥāʔi</h2>
