@@ -1,4 +1,4 @@
-E<div class="div-box div-content" style="font-family: times new roman">
+E<div class="div-box div-content">
 
 <h1 style="text-align: center">O Handsome, O face of full moon rising<a href="#r1" style="font-size: small">[1]</a></h1>
 <h2 style="text-align: center">Yā malīḥ yā ṭalʕata l-badri</h2>

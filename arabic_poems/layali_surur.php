@@ -1,4 +1,4 @@
-<div class="div-box div-content" style="font-family: times new roman">
+<div class="div-box div-content">
 
 <h1 style="text-align: center">My nights of delight spent in good times<a href="#r1" class="ref">[1]</a></h1>
 <h2 style="text-align: center">Layālī surūr fī ḥusni zamān</h2>

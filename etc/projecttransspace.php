@@ -1,4 +1,4 @@
-      <div class="div-box div-content" style="font-family: times new roman">
+      <div class="div-box div-content">
         <h1 style="text-align: center">Project "First Trans Person in Space"<a href="#r1" style="font-size: small">[1]</a>: on insufficient HRT titration</h1>
         <div class="div-content-projecttransspace">
           <img

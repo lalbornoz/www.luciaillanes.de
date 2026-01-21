@@ -1,4 +1,4 @@
-<div class="div-box div-content" style="font-family: times new roman">
+<div class="div-box div-content">
 
 <h1 style="text-align: center">May all that you fear not turn out to pass</h1>
 <h2 style="text-align: center">Wa-laʕalla mā taḫšāhu laysa bi-kāʔin</h2>

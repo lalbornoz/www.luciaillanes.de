@@ -1,4 +1,4 @@
-<div class="div-box div-content" style="font-family: times new roman">
+<div class="div-box div-content">
 
 <h1 style="text-align: center">We are the crows of ʕakk<a href="#r1" style="font-size: small">[1]</a>, ʕakk!</h1>
 <h2 style="text-align: center">Naḥnu ġurābā ʕakk ʕakk</h1>

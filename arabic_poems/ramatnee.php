@@ -1,4 +1,4 @@
-<div class="div-box div-content" style="font-family: times new roman">
+<div class="div-box div-content">
 
 <h1 style="text-align: center">The daughters of time have shot me, from where, I cannot see</h1>
 <h2 style="text-align: center">Ramatnī banātu d-dahri min ḥayṯu lā arā</h1>

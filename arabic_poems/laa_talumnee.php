@@ -1,4 +1,4 @@
-<div class="div-box div-content" style="font-family: times new roman">
+<div class="div-box div-content">
 
 <h1 style="text-align: center">
 Do not blame me for blame scarcely touches me<a href="#r2" style="font-size: small">[2]</a><a href="#r3" style="font-size: small">[3]</a></h1>

@@ -1,4 +1,4 @@
-<div class="div-box div-content" style="font-family: times new roman">
+<div class="div-box div-content">
 
 <h1 style="text-align: center">I desire of my days to reunite me with that</a></h1>
 <h2 style="text-align: center">Urīdu min zamanī ḏā anna yuballiġanī</h2>

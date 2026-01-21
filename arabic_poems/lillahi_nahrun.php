@@ -1,4 +1,4 @@
-<div class="div-box div-content" style="font-family: times new roman">
+<div class="div-box div-content">
 
 <h1 style="text-align: center">By God, what a river, it flows in the valley!</h1>
 <h2 style="text-align: center">Li-llāhi nahrun sāla fī baṭḥāʔi</h2>

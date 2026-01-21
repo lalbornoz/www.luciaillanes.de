@@ -1,4 +1,4 @@
-<div class="div-box div-content" style="font-family: times new roman">
+<div class="div-box div-content">
 
 <h1 style="text-align: center">If I died because of you while my heart would remain...</h1>
 <h2 style="text-align: center">In mittu minka wa-qalbī fīhi mā fīh</h2>

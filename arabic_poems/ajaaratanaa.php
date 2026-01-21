@@ -1,4 +1,4 @@
-<div class="div-box div-content" style="font-family: times new roman">
+<div class="div-box div-content">
 
 <h1 style="text-align: center">O neighbour of ours: calamities descend</h1>
 <h2 style="text-align: center">Ajāratanā inna l-ḫuṭūba tanūbu</h1>

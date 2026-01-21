@@ -1,4 +1,4 @@
-<div class="div-box div-content" style="font-family: times new roman">
+<div class="div-box div-content">
 
 <h1 style="text-align: center">I am he whose verses even the blind do see</a></h1>
 <h2 style="text-align: center">Ana llaḏī naẓara l-aʕmā ilā adabī</h2>

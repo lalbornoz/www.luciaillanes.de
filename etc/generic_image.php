@@ -1,4 +1,4 @@
-      <div class="div-box div-content" style="font-family: times new roman">
+      <div class="div-box div-content">
         <img
           alt="<?php echo $inc_uri_fname ?>"
           src="<?php echo $inc_uri_fname ?>.png"

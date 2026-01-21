@@ -1,4 +1,4 @@
-<div class="div-box div-content" style="font-family: times new roman">
+<div class="div-box div-content">
 
 <h1 style="text-align: center">My eyes are in endless sleeplessness extended</h1>
 <h2 style="text-align: center">Ana ʕaynī mṭāwilhā saharhā</h2>

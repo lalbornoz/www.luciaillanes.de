@@ -1,4 +1,4 @@
-<div class="div-box div-content" style="font-family: times new roman">
+<div class="div-box div-content">
 
 <h1 style="text-align: center">O gazelle that shelters me, how beautiful you are!</h1>
 <h2 style="text-align: center">Yā ġazālan bil-ḥimā mā ajmalak</h2>

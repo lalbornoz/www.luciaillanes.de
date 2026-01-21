@@ -1,4 +1,4 @@
-<div class="div-box div-content" style="font-family: times new roman">
+<div class="div-box div-content">
 
 <h1 style="text-align: center">Zamār atarḥáyyim amurrim rāšim libbíšu</h1>
 <h2 style="text-align: center">Lay of Atarḥáyyu the Amorite, the Hero</h2>

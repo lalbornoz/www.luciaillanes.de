@@ -1,4 +1,4 @@
-<div class="div-box div-content" style="font-family: times new roman">
+<div class="div-box div-content">
 
 <h1 style="text-align: center">We blame our time but we are to blame</h1>
 <h2 style="text-align: center">Naʕību zamāninā wal-ʕaybu fīnā</h1>
