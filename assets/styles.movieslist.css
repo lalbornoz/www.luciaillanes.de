@@ -1,8 +1,7 @@
 
-.div-content-movies {
+#div-content-movies {
   background:             transparent;
   grid-area:              b;
-  text-align:             center;
 }
 
 /*

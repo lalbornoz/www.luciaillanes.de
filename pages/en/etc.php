@@ -1,5 +1,5 @@
       <div class="div-box div-content-grid">
-        <div class="div-box div-content-etc-recipes-endocrinology">
+        <div class="div-box" id="div-content-etc-recipes-endocrinology">
           <h1>Lethal food recipes</h1>
           <a href="/recipes/<?php echo $inc_lang ?>/20%20empanadas%20(%E2%80%9Cbreaded%E2%80%9D).pdf">20 empanadas</a><br>
           <a href="/recipes/<?php echo $inc_lang ?>/30-40%20sopaipillas.pdf">30-40 sopaipillas </a><br>
@@ -16,7 +16,7 @@
           <a href="/<?php echo $inc_lang ?>/etc/hrtauccalc">HRT AUC calculator</a><br>
         </div>
 
-        <div class="div-box div-content-etc-kade">
+        <div class="div-box" id="div-content-etc-kade">
           <img
             alt="kade" class="div-content-img" id="kade"
             onclick="kadeClick();" src="data:,"
@@ -32,7 +32,7 @@
           </span><br>
         </div>
 
-        <div class="div-box div-content-etc-german">
+        <div class="div-box" id="div-content-etc-german">
           <h1>
             Questionable<br>
             German<br>
@@ -40,7 +40,7 @@
           </h1>
           <a href="/<?php echo $inc_lang ?>/etc/liebes_gedicht">Liebesgedicht eines anonymen deutschen Mannes ...</a><br>
           <a href="/<?php echo $inc_lang ?>/etc/s-1e2">
-            Anweisungen zum erfolgreichen Erreichen der <span class="div-content-etc-hvv div-content-etc-hvv-s-1e2">S-1²</span>
+            Anweisungen zum erfolgreichen Erreichen der <span class="div-content-etc-hvv-s-1e2" id="div-content-etc-hvv">S-1²</span>
           </a><br>
           <a href="/<?php echo $inc_lang ?>/etc/TAUBE.EXE">TAUBE.EXE</a><br>
           <a href="/<?php echo $inc_lang ?>/etc/innenleben_katze">Innenleben einer Katze</a><br>

@@ -1,5 +1,5 @@
       <div class="div-box div-content-grid">
-        <div class="div-box div-content-stories1">
+        <div class="div-box" id="div-content-stories1">
           <h2>
             BOOK.TXT<br>
             (solamente en inglés)
@@ -11,7 +11,7 @@
           <a href="/<?php echo $inc_lang ?>/stories/bees">Anatomy of a bee</a><br>
         </div>
 
-        <div class="div-box div-content-stories2">
+        <div class="div-box" id="div-content-stories2">
           <div id="div-content-stories-roaries">
             <img
               alt="roarie"
@@ -45,7 +45,7 @@
           <a href="/<?php echo $inc_lang ?>/stories/orb">VII. Expedition into the Pale</a><br>
         </div>
 
-        <div class="div-box div-content-stories3">
+        <div class="div-box" id="div-content-stories3">
           <h2>
             Tašnītu lā šanān<br>
             (solamente en inglés)

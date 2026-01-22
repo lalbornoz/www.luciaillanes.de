@@ -1,5 +1,5 @@
 
-.div-content-visual-sundries {
+#div-content-visual-sundries {
   padding:                1em;
   width:                  70%;
 
@@ -15,6 +15,26 @@
     ". n ."
     "o p q"
 }
+
+#div-content-visual-sundries-T { background: transparent; grid-area: T; }
+#div-content-visual-sundries-a { background: transparent; grid-area: a; }
+#div-content-visual-sundries-b { background: transparent; grid-area: b; }
+#div-content-visual-sundries-c { background: transparent; grid-area: c; }
+#div-content-visual-sundries-d { background: transparent; grid-area: d; }
+#div-content-visual-sundries-e { background: transparent; grid-area: e; }
+#div-content-visual-sundries-f { background: transparent; grid-area: f; }
+#div-content-visual-sundries-g { background: transparent; grid-area: g; }
+#div-content-visual-sundries-M { background: transparent; grid-area: M; }
+#div-content-visual-sundries-h { background: transparent; grid-area: h; }
+#div-content-visual-sundries-i { background: transparent; grid-area: i; }
+#div-content-visual-sundries-j { background: transparent; grid-area: j; }
+#div-content-visual-sundries-k { background: transparent; grid-area: k; }
+#div-content-visual-sundries-l { background: transparent; grid-area: l; }
+#div-content-visual-sundries-m { background: transparent; grid-area: m; }
+#div-content-visual-sundries-n { background: transparent; grid-area: n; }
+#div-content-visual-sundries-o { background: transparent; grid-area: o; }
+#div-content-visual-sundries-p { background: transparent; grid-area: p; }
+#div-content-visual-sundries-q { background: transparent; grid-area: q; }
 
 /*
  * vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=0

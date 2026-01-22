@@ -1,5 +1,5 @@
-      <div class="div-box div-content-visual-sundries">
-        <div class="div-box" style="background: transparent; text-align: center; grid-area: T">
+      <div class="div-box" id="div-content-visual-sundries">
+        <div class="div-box" id="div-content-visual-sundries-T">
           <h1 style="margin-bottom: 0">
             Arte digital (de #mIRCart)<br>
             (solamente en inglés)
@@ -18,7 +18,7 @@
             arte digital son ficcionales y debido a sus contenidos rotos y pelados sería mejor que nadie los vea.
         </div>
 
-        <div class="div-box" style="background: transparent; text-align: center; grid-area: a">
+        <div class="div-box" id="div-content-visual-sundries-a">
           <h2>Comics</h2>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack9/arab-f1regamesshop">f1re at the games shop</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack9/arab-notfunny">this ascii is not funny</a><br>
@@ -35,7 +35,7 @@
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack37/arab-stevoo">scratching post (NSFW)</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack41/arab-healthcare">Reasons whie the US should be ... (NSFW)</a><br>
         </div>
-        <div class="div-box" style="background: transparent; text-align: center; grid-area: b">
+        <div class="div-box" id="div-content-visual-sundries-b">
           <h2>Kade</h2>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack9/arab-kadedreams">kade dreams</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack11/arab-knowyourkade">Know your Kade!</a><br>
@@ -51,7 +51,7 @@
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack28/arab-triples">Do Kadely triples kadify the monokade ...</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack34/arab-kadelang">kade language</a><br>
         </div>
-        <div class="div-box" style="background: transparent; text-align: center; grid-area: c">
+        <div class="div-box" id="div-content-visual-sundries-c">
           <h2>Surreal art</h2>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack1/arab-kweenatnight">pic of kween at night</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack1/arab-kweenmagic">kween cursing vap0r with nocturnal death magic</a><br>
@@ -75,7 +75,7 @@
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack34/arab-portal">theres a portal to the 4th spatial dimension ...</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack34/arab-spokeplans">spoke plans something</a><br>
         </div>
-        <div class="div-box" style="background: transparent; text-align: center; grid-area: d">
+        <div class="div-box" id="div-content-visual-sundries-d">
           <h2>Arabic calligraphy</h2>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack8/arab-abulahab">Perish the hands of Abū Lahab</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack8/arab-asma">Names of God</a><br>
@@ -96,7 +96,7 @@
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack37/arab-samri">#arab sāmrī?</a><br>
         </div>
 
-        <div class="div-box" style="background: transparent; text-align: center; grid-area: e">
+        <div class="div-box" id="div-content-visual-sundries-e">
           <h1>
             Basurero artistico<br>
             (solamente en inglés)
@@ -113,7 +113,7 @@
           <a href="/<?php echo $inc_lang ?>/visual_sundries/roaries">Drawing of Roaries</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/drawing_of_tree">Drawing of Tree of Many Questions</a><br>
         </div>
-        <div class="div-box" style="background: transparent; text-align: center; grid-area: f">
+        <div class="div-box" id="div-content-visual-sundries-f">
           <h1>
             Vomitorio artistico<br>
             (solamente en inglés)
@@ -130,7 +130,7 @@
           <a href="/<?php echo $inc_lang ?>/visual_sundries/quantumkade">Drawing of Quantum Kade</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/tetrahydroestradiol">Drawing of Tetrahydroestradiol</a><br>
         </div>
-        <div class="div-box" style="background: transparent; text-align: center; grid-area: g">
+        <div class="div-box" id="div-content-visual-sundries-g">
           <h1>
             Zoológico artistico<br>
             (solamente en inglés)
@@ -155,14 +155,14 @@
           <a href="/<?php echo $inc_lang ?>/visual_sundries/zubkatz">Drawing of Zubkatz</a><br>
         </div>
 
-        <div class="div-box" style="background: transparent; text-align: center; grid-area: M">
+        <div class="div-box" id="div-content-visual-sundries-M">
           <h1>
             Más arte digital (de #mIRCart)<br>
             (solamente en inglés)
           </h1>
         </div>
 
-        <div class="div-box" style="background: transparent; text-align: center; grid-area: h">
+        <div class="div-box" id="div-content-visual-sundries-h">
           <h2>Pack 1</h2>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack1/arab-azulejo">azulejo</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack1/arab-chronoirl">chrono, irl</a><br>
@@ -182,7 +182,7 @@
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack3/arab-picofak2">pic of ak</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack3/arab-yesod">Yesōd of Spliffs</a><br>
         </div>
-        <div class="div-box" style="background: transparent; text-align: center; grid-area: i">
+        <div class="div-box" id="div-content-visual-sundries-i">
           <h2>Pack 4</h2>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack4/arab-python">pic of Python</a><br>
           <br>
@@ -198,7 +198,7 @@
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack6/arab-octospoke">octospoke</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack6/arab-ripchronomonitor">Here lie the mortal remains of chrono's ...</a><br>
         </div>
-        <div class="div-box" style="background: transparent; text-align: center; grid-area: j">
+        <div class="div-box" id="div-content-visual-sundries-j">
           <h2>Pack 7</h2>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack7/arab-asciibutterfly">ascii butterfly</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack7/arab-xianu">Xia nü</a><br>
@@ -219,7 +219,7 @@
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack11/arab-spokestairs">spoke's stairs</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack11/arab-vap0rwales">vap0r visits Wales</a><br>
         </div>
-        <div class="div-box" style="background: transparent; text-align: center; grid-area: k">
+        <div class="div-box" id="div-content-visual-sundries-k">
           <h2>Pack 12</h2>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack12/arab-nanas">caku 'nana attack</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack12/arab-pineapple">caku pineapple attack</a><br>
@@ -236,7 +236,7 @@
           <h2>Pack 15</h2>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack15/arab-petwave">me pet wave</a><br>
         </div>
-        <div class="div-box" style="background: transparent; text-align: center; grid-area: l">
+        <div class="div-box" id="div-content-visual-sundries-l">
           <h2>Pack 16</h2>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack16/arab-asciipub">where do asciis go when nobodys looking at them</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack16/arab-spokearray">spoke learning 2d arrays</a><br>
@@ -253,7 +253,7 @@
           <h2>Pack 21</h2>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack21/arab-nadiastamp">Nadia Stamps</a><br>
         </div>
-        <div class="div-box" style="background: transparent; text-align: center; grid-area: m">
+        <div class="div-box" id="div-content-visual-sundries-m">
           <h2>Pack 22</h2>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack22/arab-spoderoops">construction spoders accident</a><br>
           <br>
@@ -272,11 +272,11 @@
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack28/arab-laddizle">Does dzl form a complemented lattice?</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack28/arab-staircase">Conversational Staircase</a><br>
         </div>
-        <div class="div-box" style="background: transparent; text-align: center; grid-area: n">
+        <div class="div-box" id="div-content-visual-sundries-n">
           <h2>Pack 36</h2>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack36/arab-vap0rs">Seven (7) vap0rs</a><br>
         </div>
-        <div class="div-box" style="background: transparent; text-align: center; grid-area: o">
+        <div class="div-box" id="div-content-visual-sundries-o">
           <h2>Unsorted</h2>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/arab-carriedaway">getting carried away</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/arab-carriedaway2">getting carried away, #2</a><br>
@@ -290,7 +290,7 @@
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/eye">eye</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/meow">meow</a><br>
         </div>
-        <div class="div-box" style="background: transparent; text-align: center; grid-area: p">
+        <div class="div-box" id="div-content-visual-sundries-p">
           <h2>Unsorted (faces)</h2>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/face">face</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/face2">face, #2</a><br>
@@ -315,7 +315,7 @@
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/face21">face, #21</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/face22">face, #22</a><br>
         </div>
-        <div class="div-box" style="background: transparent; text-align: center; grid-area: q">
+        <div class="div-box" id="div-content-visual-sundries-q">
           <h2>Unsorted</h2>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/puke1">puke</a><br>
           <a href="/<?php echo $inc_lang ?>/visual_sundries/pack_unsorted/puke2">puke, #2</a><br>

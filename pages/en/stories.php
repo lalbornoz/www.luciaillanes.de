@@ -1,5 +1,5 @@
       <div class="div-box div-content-grid">
-        <div class="div-box div-content-stories1">
+        <div class="div-box" id="div-content-stories1">
           <h2>BOOK.TXT</h2>
           <a href="/<?php echo $inc_lang ?>/stories/prefacepreface">BOOK.TXT - Second Edition<br>Preprefaceface</a><br>
           <a href="/<?php echo $inc_lang ?>/stories/questiontree">The Tree of Many Questions</a><br>
@@ -8,7 +8,7 @@
           <a href="/<?php echo $inc_lang ?>/stories/bees">Anatomy of a bee</a><br>
         </div>
 
-        <div class="div-box div-content-stories2">
+        <div class="div-box" id="div-content-stories2">
           <div id="div-content-stories-roaries">
             <img
               alt="roarie"
@@ -39,7 +39,7 @@
           <a href="/<?php echo $inc_lang ?>/stories/orb">VII. Expedition into the Pale</a><br>
         </div>
 
-        <div class="div-box div-content-stories3">
+        <div class="div-box" id="div-content-stories3">
           <h2>Tašnītu lā šanān</h2>
           <a href="/<?php echo $inc_lang ?>/stories/zamar1">Zamār atarḥáyyim amurrim rāšim libbíšu, I</a><br>
           <a href="/<?php echo $inc_lang ?>/stories/zamar4">Zamār atarḥáyyim amurrim rāšim libbíšu, IV</a><br>

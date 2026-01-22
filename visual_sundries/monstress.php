@@ -1,1 +1,1 @@
-generic_image.php
+../generic_image.php
