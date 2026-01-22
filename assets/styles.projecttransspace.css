@@ -1,12 +1,12 @@
 
-.div-content-projecttransspace {
+#div-content-projecttransspace {
   display:          flex;
   justify-content:  center;
   align-items:      center;
   gap:              1em;
 }
 
-.div-content-projecttransspace img {
+#div-content-projecttransspace img {
   display:          block;
 }
 

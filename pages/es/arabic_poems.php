@@ -1,5 +1,5 @@
       <div class="div-box div-content-grid">
-        <div class="div-box div-content-arabic-poems1">
+        <div class="div-box" id="div-content-arabic-poems1">
           <h2>Umayyad era</h2>
           <a href="/<?php echo $inc_lang ?>/arabic_poems/amurru_3ala">I passed by the houses, the houses of Laylā</a><br>
 
@@ -16,7 +16,7 @@
           <a href="/<?php echo $inc_lang ?>/arabic_poems/ureedu_min">I desire of my days ...</a><br>
         </div>
 
-        <div class="div-box div-content-arabic-poems2">
+        <div class="div-box" id="div-content-arabic-poems2">
           <img
             alt="cats" class="div-content-img"
             onclick="catsClick();" src="/arabic_poems/<?php echo $inc_lang ?>/cats.png"
@@ -43,7 +43,7 @@
           <a href="/<?php echo $inc_lang ?>/arabic_poems/sara2iru_la3yan">Delights that please the eye</a><br>
         </div>
 
-        <div class="div-box div-content-arabic-poems3">
+        <div class="div-box" id="div-content-arabic-poems3">
           <h2>Jāhili (pre-Islāmic) era</h2>
           <a href="/<?php echo $inc_lang ?>/arabic_poems/ajaaratanaa">O neighbour of ours: calamities descend</a><br>
           <a href="/<?php echo $inc_lang ?>/arabic_poems/ramatnee">The daughters of time have shot me ...</a><br>

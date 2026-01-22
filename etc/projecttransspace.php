@@ -1,6 +1,6 @@
       <div class="div-box div-content">
         <h1 style="text-align: center">Project "First Trans Person in Space"<a href="#r1" style="font-size: small">[1]</a>: on insufficient HRT titration</h1>
-        <div class="div-content-projecttransspace">
+        <div id="div-content-projecttransspace">
           <img
             alt='Project "First Trans Person in Space"'
             src="/etc/<?php echo $inc_lang ?>/kade29l.png">

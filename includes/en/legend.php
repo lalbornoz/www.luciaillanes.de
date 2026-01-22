@@ -1,4 +1,4 @@
-    <div class="div-box div-legend">
+    <div class="div-box" id="div-legend">
       Welcome to the personal website of<br>
       <h1>Lucía Andrea Illanes Albornoz</h1><br>
       <h2>Mostly eukaryotic multicellular form of life</h2><br>
@@ -7,13 +7,13 @@
         🏳️‍⚧️ 𒊩 𒈨 𒊬𒊏 𒌓 𒁲𒆷 𒂊𒀀 🏳️‍⚧️
       </h3>
 
-      <span class="span-menu span-heading2">
+      <span class="span-legend-menu span-heading2">
         <a href="/en<?php echo $inc_uri_orig ?>">English</a> |
         <a href="/de<?php echo $inc_uri_orig ?>">German / Deutsch</a> |
         <a href="/es<?php echo $inc_uri_orig ?>">Spanish / Español</a>
       </span>
       <hr>
-      <span class="span-menu">
+      <span class="span-legend-menu">
         <a href="/<?php echo $inc_lang ?>/about">About me</a> |
         <a href="/assets/Curriculum%20Vitae%20(English).pdf">Curriculum Vitae (PDF)</a>
         <a href="/assets/CurriculumVitae.tex">(LaTeX)</a><br>
@@ -23,7 +23,7 @@
         <a href="https://github.com/lalbornoz/roarie.nvim">Neovim dotfiles</a>
       </span>
       <hr>
-      <span class="span-menu">
+      <span class="span-legend-menu">
         <a href="/<?php echo $inc_lang ?>/arabic_poems">Arabic poetry</a> |
         <a href="/<?php echo $inc_lang ?>/stories">Unfinished dreams</a><br>
         <a href="/<?php echo $inc_lang ?>/araboly">Araboly</a> |
@@ -32,7 +32,7 @@
         <a href="/<?php echo $inc_lang ?>/etc">Et cetera</a>
       </span>
       <hr>
-      <span class="span-menu">
+      <span class="span-legend-menu">
         <a href="https://www.linkedin.com/in/lucía-andrea-illanes-albornoz-9ba62a141">LinkedIn</a> |
         <a href="https://www.xing.com/profile/LucíaAndrea_IllanesAlbornoz">Xing</a><br>
         <a href="/<?php echo $inc_lang ?>/impressum">Contact me / Impressum</a>

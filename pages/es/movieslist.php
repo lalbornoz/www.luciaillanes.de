@@ -4,7 +4,7 @@
       <link rel="stylesheet" href="/assets/jsuites/jsuites.css" type="text/css">
 
       <div class="div-box div-content-grid">
-        <div class="div-box div-content-movies">
+        <div class="div-box" id="div-content-movies">
           <h1 style="margin-bottom: 0">Películas y series que he visto</h1>
           <span style="font-size: 1.5em; text-align: center"
               title="Lā qibiti, lā amāru, lā ṭēmi, lā šēmi, ṣilittu&#10;No voices, no sight, no senses, no sound, silence">

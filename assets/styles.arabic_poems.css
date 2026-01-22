@@ -1,20 +1,17 @@
 
-.div-content-arabic-poems1 {
+#div-content-arabic-poems1 {
   background:             transparent;
   grid-area:              a;
-  text-align:             center;
 }
 
-.div-content-arabic-poems2 {
+#div-content-arabic-poems2 {
   background:             transparent;
   grid-area:              b;
-  text-align:             center;
 }
 
-.div-content-arabic-poems3 {
+#div-content-arabic-poems3 {
   background:             transparent;
   grid-area:              c;
-  text-align:             center;
 }
 
 /*

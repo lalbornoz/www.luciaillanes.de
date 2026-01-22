@@ -1,10 +1,17 @@
 
-/* {{{ div-content-etc-hvv* */
-@-webkit-keyframes div-content-etc-hvv-s-1e2 {
-  0%  { color:  #009728; }
-  33% { color:  #ffffff; }
-  66% { color:  #b60c36; }
-  99% { color:  #531b6e; }
+#div-content-etc-recipes-endocrinology {
+  background:                         transparent;
+  grid-area:                          a;
+}
+
+#div-content-etc-kade {
+  background:                         transparent;
+  grid-area:                          b;
+}
+
+#div-content-etc-german {
+  background:                         transparent;
+  grid-area:                          c;
 }
 
 .div-content-etc-hvv-s-1e2 {
@@ -13,12 +20,20 @@
   -webkit-animation-duration:         1s;
 }
 
-.div-content-etc-hvv {
-  border-radius:    1em;
-  border-style:     solid;
-  font-family:      monospace;
-  font-weight:      bold;
-  padding:          0.05em 0.75em 0.05em 0.75em;
+#div-content-etc-hvv {
+  border-radius:                      1em;
+  border-style:                       solid;
+  font-family:                        monospace;
+  font-weight:                        bold;
+  padding:                            0.05em 0.75em 0.05em 0.75em;
+}
+
+/* {{{ div-content-etc-hvv* frames */
+@-webkit-keyframes div-content-etc-hvv-s-1e2 {
+  0%  { color:      #009728; }
+  33% { color:      #ffffff; }
+  66% { color:      #b60c36; }
+  99% { color:      #531b6e; }
 }
 
 .div-content-etc-hvv-s1 {
@@ -57,24 +72,6 @@
   color:            #ffffff;
 }
 /* }}} */
-
-.div-content-etc-recipes-endocrinology {
-  background:             transparent;
-  grid-area:              a;
-  text-align:             center;
-}
-
-.div-content-etc-kade {
-  background:             transparent;
-  grid-area:              b;
-  text-align:             center;
-}
-
-.div-content-etc-german {
-  background:             transparent;
-  grid-area:              c;
-  text-align:             center;
-}
 
 /*
  * vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=0
