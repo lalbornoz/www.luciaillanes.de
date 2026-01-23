@@ -11,8 +11,8 @@
         &amp; presently residing in Hamburg, Germany.<br>
         <br>
         Having grown up in a multilingual and -cultural environment, I've cultivated an avid passion for my native Spanish
-        (Chilean/Andalusian dialect) and German (Northern Germany/Hamburg dialect), as well as English (British English,) at
-        CEFR level C1 according to personal judgment, and Classical Arabic as classical language. As circumstances would have
+        (Chilean/Andalusian dialect) and German (Northern Germany/Hamburg dialect) as well as English (British English) at
+        CEFR level C1 according to personal judgment and Classical Arabic as classical language. As circumstances would have
         it, this came to include languages habitually spoken solely by computers within the context of the fields of systems
         programming and engineering on predominantly UNIX-like and, to some extent, Windows platforms.<br>
         <br>
