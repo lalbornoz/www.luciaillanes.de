@@ -4,151 +4,151 @@
     <h2 class="text-centre">Ruḥ lir-rāḥ wa-bākir</h2>
 
     <p class="text-centre text-italic">
-    ﻧﻮﻉ ﺍﻟﺸﻌﺮ: ﻣﻮﺷﺤﺔ<br>
-    ﺍﻟﺸﺎﻋﺮ: ﺍﺑﻦ ﻋﺒﺎﺩﺓ ﺍﻟﻘﺰﺍﺯ<br>
-    منطقته: ﺍﻷﻧﺪﻟﺲ<br>
-    (ﺍﻟﻘﺮﻥ ﺍﻟﺤﺎﺩﻱ ﻋﺸﺮ) ﻋﺼﺮ: ﺍﻟﻌﺼﻮﺭ ﺍﻟﻮﺳﻄﻰ<br>
+    نوع الشعر: موشحة<br>
+    الشاعر: ابن عبادة القزاز<br>
+    منطقه: الأندلس<br>
+    عصر: العصر الوسطى (القرن الحادي عشر)<br>
     </p>
 
     <table class="table-muwashshahah-ar-centred">
     <tbody class="tbody-muwashshahah-qufl">
     <tr>
-    <td>ﺭُﺡْ ﻟﻠﺮﺍﺡ ﻭﺑﺎﻛﺮ</td>
-    <td>بالمُعْلَم ﺍﻟﻤَﺸﻮﻑ</td>
+    <td>رُحْ للراح وباكر</td>
+    <td>بالمُعْلَم المَشوف</td>
     </tr>
     <tr>
-    <td>ﻏَﺒﻮﻗﺎ ﻭﺻُﺒﻮﺡ</td>
-    <td>ﻋﻠﻰ ﺍﻟﻮَﺗَﺮ ﺍﻟﻔﺼﻴﺢ</td>
-    </tr>
-    </tbody>
-
-    <tbody class="tbody-muwashshahah-bayt">
-    <tr>
-    <td>ﻟﻴﺲ ﺍﺳﻢ ﺍﻟﺨﻤﺮ ﻋﻨﺪﻱ</td>
-    <td>ﻣﺄﺧﻮﺫﺍ ﻓﺄﻋﻠﻢ</td>
-    </tr>
-    <tr>
-    <td>ﺍﻻ ﻣﻦ ﺧﺎء ﺍﻟﺨﺪ</td>
-    <td>ﻭﻣﻴﻢ ﺍﻟﻤﺒﺴﻢ</td>
-    </tr>
-    <tr>
-    <td>ﻭﺭﺍء ﺭﻳﻖ ﺍﻟﺸﻬﺪ</td>
-    <td>ﺍﻟﻌﺎﻃﺮ ﺍﻟﻔﻢ</td>
-    </tr>
-    </tbody>
-
-    <tbody class="tbody-muwashshahah-qufl">
-    <tr>
-    <td>ﻓﻜﻦْ ﻟﻠﻬﻢ ﻫﺎﺟﺮ</td>
-    <td>ﻭﺻﻞْ ﻫﺬﻱ ﺍﻟﺤﺮﻭﻑ</td>
-    </tr>
-    <tr>
-    <td>ﻛﻲ ﺗﻐﺪﻭ ﻭﺗﺮﻭﺡ</td>
-    <td>ﺑﺠﺴﻢ ﻟﻪ ﺭﻭﺡ</td>
+    <td>غَبوقا وصُبوح</td>
+    <td>على الوَتَر الفصيح</td>
     </tr>
     </tbody>
 
     <tbody class="tbody-muwashshahah-bayt">
     <tr>
-    <td>بالله سقِّنيها</td>
-    <td>ﻓﻲ ﻭﺩ ﺍﻟﻮﺍﺛﻖ</td>
+    <td>ليس اسم الخمر عندي</td>
+    <td>مأخوذا فأعلم</td>
     </tr>
     <tr>
-    <td>ﻓﺈﻥ ﻣﻨﻪ ﻓﻴﻬﺎ</td>
-    <td>ﺷِﺒْﻪَ ﺍﻟﺨﻼﺋﻖ</td>
+    <td>إلا من خاء الخد</td>
+    <td>وميم المبسم</td>
     </tr>
     <tr>
-    <td>ﻣﻦ ﺍﻋﺪﻡ ﺍﻟﺸﺒﻴﻬﺎ</td>
-    <td>ﻓﻲ ﺍﻟﻤﺠﺪ ﺍﻟﺒﺎﺳﻖ</td>
+    <td>وراء ريق الشهد</td>
+    <td>العاطر الفم</td>
     </tr>
     </tbody>
 
     <tbody class="tbody-muwashshahah-qufl">
     <tr>
-    <td>ﻟﻪ ﻣﻦ ﺍﻟﻤﻔﺎﺧﺮ</td>
-    <td>ﺗﻠﻴﺪ ﻭﻃﺮﻳﻒ</td>
+    <td>فكنْ للهم هاجر</td>
+    <td>وصلْ هذي الحروف</td>
     </tr>
     <tr>
-    <td>ﺩَﻭْﺡٌ ﻣﻦ ﻋﻬﺪ ﻧﻮﺡ</td>
-    <td>ﻭﺭﻭﺿﺔ ﺗﻔﻮﺡ</td>
+    <td>كي تغدو وتروح</td>
+    <td>بجسم له روح</td>
     </tr>
     </tbody>
 
     <tbody class="tbody-muwashshahah-bayt">
     <tr>
-    <td>ﻫﻞ ﺗﺤﺴﻦ ﺍﻟﻤﺪﺍﺋﺢ</td>
-    <td>ﻣﻦ ﻛﻞ ﻣﺎﺩﺡ</td>
+    <td>بالله سقِّنيها</td>
+    <td>في ود الواثق</td>
     </tr>
     <tr>
-    <td>ﺇﻻ ﻋﻠﻰ ﺍﻟﺠﺤﺎﺟﺢ</td>
-    <td>ﺑﻨﻲ ﺻﻤﺎﺩﺡ</td>
+    <td>فإن منه فيها</td>
+    <td>شِبْهَ الخلائق</td>
     </tr>
     <tr>
-    <td>ﻓﺄﻧﻬﻢ ﻣﺼﺎﺑﺢ</td>
-    <td>ﻋﻠﻰ ﺳﻮﺍﺑﺢ</td>
+    <td>من أعدم الشبيها</td>
+    <td>في المجد الباسق</td>
     </tr>
     </tbody>
 
     <tbody class="tbody-muwashshahah-qufl">
     <tr>
-    <td>ﺃﻛﺎﺭﻡ ﺃﻛﺎﺑﺮ</td>
-    <td>ﺻِﻴﺪٌ ﺷُﻢّ ﺍﻻﻧﻮﻑ</td>
+    <td>له من المفاخر</td>
+    <td>تليدٌ وطريف</td>
     </tr>
     <tr>
-    <td>ﺣﺎﺯﺭﻭﺍ ﺍﻟﻤﺠﺪ ﺍﻟﺼﺮﻳﺢ</td>
-    <td>فَخُصّو بالحميح</td>
+    <td>دَوْحٌ من عهد نوح</td>
+    <td>وروضةٌ تفوح</td>
     </tr>
     </tbody>
 
     <tbody class="tbody-muwashshahah-bayt">
     <tr>
-    <td>ﻣﺤﻤﺪ ﺑﻌﻴﺪ</td>
-    <td>ﻣﺮﺍﻣﻪ ﻗﺮﻳﺐ</td>
+    <td>هل تحسن المدائح</td>
+    <td>من كل مادح</td>
     </tr>
     <tr>
-    <td>ﻭﺣﻮﻟﻪ ﺟﻨﻮﺩ</td>
-    <td>ﻣﻦ ﺁﻟﻪ ﺗﺠﻴﺐ</td>
+    <td>إلا على الجحاجح</td>
+    <td>بني صمادح</td>
     </tr>
     <tr>
-    <td>ﻛﺄﻧﻬﻢ ﺍﺳﻮﺩ</td>
-    <td>ﻓﻲ ﺣﻮﻣﺔ ﺍﻟﺤﺮﻭﺏ</td>
+    <td>فأنهم مصابح</td>
+    <td>على سوابح</td>
     </tr>
     </tbody>
 
     <tbody class="tbody-muwashshahah-qufl">
     <tr>
-    <td>ﺇﺫﺍ ﺳﻠّﻮﺍ ﺍﻟﺒﻮﺍﺗﺮ</td>
-    <td>فالحين ﻭﺍﻟﺤﺘﻮﻑ</td>
+    <td>أكارم أكابر</td>
+    <td>صيدٌ شُمّ الأنوف</td>
     </tr>
     <tr>
-    <td>ﻭﺍﻟﻨﺼﺮ ﻭﺍﻟﻔﺘﻮﺡ</td>
-    <td>ﻭﺁﻳﺔ ﺗﻠﻮﺡ</td>
+    <td>حازروا المجد الصريح</td>
+    <td>فَخُصّوا بالمديح</td>
     </tr>
     </tbody>
 
     <tbody class="tbody-muwashshahah-bayt">
     <tr>
-    <td>ﻭﺇﺫﺍ ﻻﺡ ﺍﺑﻦ ﻣﻌﻦ</td>
-    <td>ﻓﻲ ﺟﻴﺸﻪ ﺍﻟﻠﺠﺐ</td>
+    <td>محمدٌ بعيد</td>
+    <td>مرامه قريب</td>
     </tr>
     <tr>
-    <td>ﻭﻧﺎﺩﻯ ﻛﻞ ﻗﺮﻥ</td>
-    <td>ﺑﺎﺳﻤﻪ ﻓﻲ ﺍﻟﻠﻌﺐ</td>
+    <td>وحوله جنود</td>
+    <td>من آله تُجيب</td>
     </tr>
     <tr>
-    <td>فالهيجاء ﺗﻐﻨﻲ</td>
-    <td>ﻭﺍﻟﺴﻴﻒ ﻗﺪ ﻃﺮﺏ</td>
+    <td>كأنهم أسود</td>
+    <td>في حومة الحروب</td>
     </tr>
     </tbody>
 
     <tbody class="tbody-muwashshahah-qufl">
     <tr>
-    <td>ﻣﺎ ﺃﻣﻠﺢ ﺍﻟﻌﺴﺎﻛﺮ</td>
-    <td>ﻭﺗﺮﺗﻴﺐ ﺍﻟﺼﻔﻮﻑ</td>
+    <td>إذا سلّوا البواتر</td>
+    <td>فالحين والحتوف</td>
     </tr>
     <tr>
-    <td>ﻭﺍﻻﺑﻄﺎﻝ ﺗُﺼﻴﺢ</td>
-    <td>ﺍﻟﻮﺍﺛﻖ ﻳﺎﻣﻠﻴﺢ</td>
+    <td>والنصر والفتوح</td>
+    <td>وآية تلوح</td>
+    </tr>
+    </tbody>
+
+    <tbody class="tbody-muwashshahah-bayt">
+    <tr>
+    <td>وإذا لاح ابن معن</td>
+    <td>في جيشه اللجب</td>
+    </tr>
+    <tr>
+    <td>ونادى كل قرن</td>
+    <td>باسمه في اللعب</td>
+    </tr>
+    <tr>
+    <td>فالهيجاء تغني</td>
+    <td>والسيف قد طرب</td>
+    </tr>
+    </tbody>
+
+    <tbody class="tbody-muwashshahah-qufl">
+    <tr>
+    <td>ما أملحَ العساكر</td>
+    <td>وترتيبَ الصفوف</td>
+    </tr>
+    <tr>
+    <td>واﻷبطال تُصيح</td>
+    <td>الواثق يا مليح</td?>
     </tr>
     </tbody>
     </table>
