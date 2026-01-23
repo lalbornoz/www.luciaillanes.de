@@ -1,8 +1,8 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center">The Pool</h1>
+<h1 class="text-centre">The Pool</h1>
 
-<p style="color: #7f0000">
+<p class="text-red">
 Her daily ritual called for the obligatory recording of the daily events in her
 journal. She was sat on the floor on a pile of comforting pillows. She seized her
 reed pen, the paper, the empty canvas she was to cast words upon, lay waiting in
@@ -102,7 +102,7 @@ wherever it was she was spoken of to later, in a week, arrive at her destination
 planet of Venus. Perhaps.
 </p>
 
-<p style="color: #007f5d">
+<p class="text-green">
 "After 777 days, I have, with supreme and utmost certainty, ascertained that this
 village does not exist. Nor, by all appearances, do I."
 </p>

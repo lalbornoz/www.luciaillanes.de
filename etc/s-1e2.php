@@ -1,41 +1,41 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center">Anweisungen zum erfolgreichen Erreichen der <span class="hvv hvv-s-1e2">S-1²</span></h1>
+<h1 class="text-centre">Anweisungen zum erfolgreichen Erreichen der <span class="hvv hvv-s-1e2">S-1²</span></h1>
 
 <ol>
 
-<li style="padding: 0.5em 0.5em 0.5em 0.5em">
+<li>
 Es sind zunächst alle S-Bahnlinien - <span class="hvv hvv-s1">S1</span>, <span class="hvv hvv-s11">S11</span>,
 <span class="hvv hvv-s2">S2</span>, <span class="hvv hvv-s21">S21</span>, <span class="hvv hvv-s3">S3</span>,
 <span class="hvv hvv-s31">S31</span>, in dieser exakten Reihenfolge - in Süd-West-Ost-Nord-Richtung
 zu befahren, dies insgesamt sieben mal (7x) hintereinander.
 </li>
 
-<li style="padding: 0.5em 0.5em 0.5em 0.5em">
+<li>
 Hierbei ist es von außerordentlicher Notwendigkeit, dass die Sitzmodalität innerhalb den
 jeweiligen Bahnen derer Beschaffenheit ist, dass durch diese das Gesicht zu jedem Zeitpunkt
 zur Fahrbank hin orientiert sei.
 </li>
 
-<li style="padding: 0.5em 0.5em 0.5em 0.5em">
+<li>
 Dies ist zwingend einzuhalten, wenngleich dies mit komischen Blicken der weiteren Fahrgäste
 und/oder des Bahnpersonals und/oder Bundespolizei und/oder BKA, BND, Verfassungsschutz, usw. usf.
 begegnet werden sollte.
 </li>
 
-<li style="padding: 0.5em 0.5em 0.5em 0.5em">
+<li>
 Es ist währenddessen, mit leidenschaftlich-grimmiger Intensität, im Kopfe aber auch in -
 den weiteren Fahrgästen hierbei bekömmlicher - Lautstärke zu wiederholen, es sei hierbei auf
 die Beförderungsbedingungen der S-Bahn Hamburg hingewiesen, insbesondere Punkt 0.0.0:
 </li>
 
-<p style="font-weight: bold; font-size: 1.5em; text-align: center">
-Ellil bēlum,<a href="#r1" style="font-size: small">[1]</a><br>
-mušīm šimātim,<a href="#r2" style="font-size: small">[2]</a><br>
-ša qibbisu lā uttakaru.<a href="#r3" style="font-size: small">[3]</a><br>
+<p class="text-incantation">
+Ellil bēlum,<a href="#r1" class="a-reference">[1]</a><br>
+mušīm šimātim,<a href="#r2" class="a-reference">[2]</a><br>
+ša qibbisu lā uttakaru.<a href="#r3" class="a-reference">[3]</a><br>
 </p>
 
-<li style="padding: 0.5em 0.5em 0.5em 0.5em">
+<li>
 Sofern alle Anweisungen ehrlichen Herzens und mit Präzision durchgeführt wurden, so wird
 nach der siebten (7.) Fahrt auffallen, dass die Stationssnamen eine paradigmatiche Verschiebung
 in die Dimensionen des Jenseits aufweisen werden, so wie z.B.:
@@ -59,18 +59,17 @@ Mümmelrübenbüttel,<br>
 Ištar Tor.<br>
 </span>
 
-<li style="padding: 0.5em 0.5em 0.5em 0.5em">
+<li>
 Sollte dies sich bestätigen, befindet sich der Fahrgast nunnehr in der <span class="hvv hvv-s-1e2">S-1²</span>.
 </li>
 
-<li style="padding: 0.5em 0.5em 0.5em 0.5em">
-Es wird <span style="font-weight: bold; text-decoration: underline">strengstens</span> davon abgeraten
+<li>
+Es wird <span class="text-bold text-underline">strengstens</span> davon abgeraten
 zu versuchen zurückzukehren.
 </li>
 
 </ol>
 
-<div style="padding: 2em 0 2em 0"></div>
 <span id="r1">
 [1] Ellil, Herr Wind, der Herr,<br>
 </span>

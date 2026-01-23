@@ -1,320 +1,320 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center">Delights that please the eye</h1>
-<h2 style="text-align: center">Sarāʔiru l-aʕyān</h2>
+<h1 class="text-centre">Delights that please the eye</h1>
+<h2 class="text-centre">Sarāʔiru l-aʕyān</h2>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 ﻧﻮﻉ ﺍﻟﺸﻌﺮ: موشحة عن التصوف<br>
 ﺍﻟﺸﺎﻋﺮ: محمد بن علي بن محمد بن عربي الحاتمي الطائي الأندلسي الشهير بمحيي الدين بن عربي<br>
 منطقته: ﺍﻷﻧﺪﻟﺲ<br>
 ﻋﺼﺮ: ﻗﺮﻥ ﺍلثاني-ﺍلثالث ﻋﺸﺮ<br>
 </p>
 
-<table style="direction: rtl; text-align: center; margin-left: auto; margin-right: auto">
-<tr style="font-weight: bold">
+<table class="table-muwashshahah-ar-centred">
+<tr class="tr-muwashshahah-qufl">
 <td>سرائر الأعيان</td>
 <td>لاحت على الأكوان</td>
 <td>للناظرين</td>
 </tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td>والعاشق الغيران</td>
 <td>من ذاك في حران</td>
 <td>يبدي الأنين</td>
 </tr>
 <tr><td colspan="3"><br></td></tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>يقول والوجد</td>
 <td>أضناه والبعد</td>
 <td>قد حيّره</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>لمّا دنا البعد</td>
 <td>لم أدر من بعد</td>
 <td>من غيّره</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>وهيّم العبد</td>
 <td>والواحد الفرد</td>
 <td>قد خيّره</td>
 </tr>
 <tr><td colspan="3"><br></td></tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td>في البوح والكتمان</td>
 <td>والسرّ والإعلان</td>
 <td>في العالمين</td>
 </tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td>أنا هو الديّان</td>
 <td>يا عابد الأوثان</td>
 <td>أنت الضّنين</td>
 </tr>
 <tr><td colspan="3"><br></td></tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>كلّ الهوى صعب</td>
 <td>على الذي يشكو</td>
 <td>ذلّ الحجاب</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>يا من له قلب</td>
 <td>لو أنّه يذكو</td>
 <td>عند الشباب</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>قرّبه الرّبّ</td>
 <td>لكنّه إفك</td>
 <td>فانو المتاب</td>
 </tr>
 <tr><td colspan="3"><br></td></tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td>وناد يا رحمن</td>
 <td>يا برّ يا منّان</td>
 <td>إنّي حزين</td>
 </tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td>أضناني الهجران</td>
 <td>ولا حبيب دان</td>
 <td>ولا معين</td>
 </tr>
 <tr><td colspan="3"><br></td></tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>فنيتُ بالله</td>
 <td>عمّا تراه العين</td>
 <td>من كونه</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>في موقف الجاه</td>
 <td>وصِحتُ أين الأين</td>
 <td>في بينه</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>فقال يا ساهي</td>
 <td>عاينتُ قطَّ عين</td>
 <td>بعينه</td>
 </tr>
 <tr><td colspan="3"><br></td></tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td>أما ترى غيلان</td>
 <td>وقيس أو من كان</td>
 <td>في الغابرين</td>
 </tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td>قالوا الهوى سلطان</td>
 <td>إن حلّ بالإنسان</td>
 <td>أفناه دين</td>
 </tr>
 <tr><td colspan="3"><br></td></tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>كم مرّةٍ قالا</td>
 <td>أنا الذي أهوى</td>
 <td>من هو أنا</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>فلا أرى حالا</td>
 <td>ولا أرى شكوى</td>
 <td>إلاّ الفنا</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>لستُ كمن مالا</td>
 <td>عن الّذي يهوى</td>
 <td>بعد الجنى</td>
 </tr>
 <tr><td colspan="3"><br></td></tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td>ودان بالسُّلوان</td>
 <td>هذا هو البهتان</td>
 <td>للعارفين</td>
 </tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td>سَلَوْهم ما كان</td>
 <td>عن حضرة الرحمن</td>
 <td>والآفِكين</td>
 </tr>
 <tr><td colspan="3"><br></td></tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>دخلتُ في بستان</td>
 <td>الأُنْسُ والقُرْبُ</td>
 <td>كمَكْنَسه</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>فقام لي الريحان</td>
 <td>يختال بالعُجْب</td>
 <td>في سُنْدُسه</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>أنا هو يا إنسان</td>
 <td>مطيِّبُ الصَّبِ</td>
 <td>في مجلسه</td>
 </tr>
 <tr><td colspan="3"><br></td></tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td>جِنّان يا جِنّان</td>
 <td>اِجْنِ من البستان</td>
 <td>الياسمين</td>
 </tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td>وحلّل الريحان</td>
 <td>بحرمة الرحمن</td>
 <td>للعاشقين</td>
 </tr>
 </table>
 
-<p style="text-align: center; font-style: italic">
-Type of poem: Muwaššaḥah<a href="#r1" class="ref">[1]</a> on Ṣufism/divine love<br>
+<p class="text-centre text-italic">
+Type of poem: Muwaššaḥah<a href="#r1" class="a-reference">[1]</a> on Ṣufism/divine love<br>
 Name of poet: Muḥammad b. ʕalī b. Muḥammad b. ʕarabī al-Ḥātimī aṭ-Ṭāʔī al-Andalusī, famously known as Muḥyi d-Dīn b. ʕarabī<br>
 Region of poet: al-Andalus<br>
 Era: 12th-13th century<br>
 </p>
 
-<table style="direction: ltr; text-align: center; margin-left: auto; margin-right: auto">
-<tr style="font-weight: bold">
+<table class="table-muwashshahah-en-centred">
+<tr class="tr-muwashshahah-qufl">
 <td>Delights that please the eye</td>
-<td>appear above all worlds<a href="#r2" class="ref">[2]</a></td>
+<td>appear above all worlds<a href="#r2" class="a-reference">[2]</a></td>
 <td>to eyes in staring eyes</td>
 </tr>
-<tr style="font-weight: bold">
-<td>But the lover that is jealous<a href="#r3" class="ref">[3]</a></td>
+<tr class="tr-muwashshahah-qufl">
+<td>But the lover that is jealous<a href="#r3" class="a-reference">[3]</a></td>
 <td>deprived, from this, in thirst</td>
 <td>pain begins to rise</td>
 </tr>
 <tr><td colspan="3"><br></td></tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>He says in burning passion</td>
-<td>wore him out and the thereafter<a href="#r4" class="ref">[4]</a></td>
+<td>wore him out and the thereafter<a href="#r4" class="a-reference">[4]</a></td>
 <td>has left him speechless</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>When the thereafter drew near</td>
 <td>and I can't tell far from</td>
 <td>whom has made him jealous</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>And the slave's in burning thirst</td>
-<td>while the singular, the one<a href="#r5" class="ref">[5]</a></td>
+<td>while the singular, the one<a href="#r5" class="a-reference">[5]</a></td>
 <td>has let him choose</td>
 </tr>
 <tr><td colspan="3"><br></td></tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td>In disclosing and concealing</td>
-<td>and secret and revealing<a href="#r6" class="ref">[6]</a></td>
+<td>and secret and revealing<a href="#r6" class="a-reference">[6]</a></td>
 <td>in all the worlds that be</td>
 </tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td>I am the only judge</td>
 <td>O worshipper of idols</td>
 <td>you are but greedy!</td>
 </tr>
 <tr><td colspan="3"><br></td></tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>All that's love is hard</td>
 <td>to whomever that complains:</td>
-<td>the humiliation by the barrier!<a href="#r7" class="ref">[7]</a></td>
+<td>the humiliation by the barrier!<a href="#r7" class="a-reference">[7]</a></td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>O you that has a heart</td>
 <td>if only you'd shone brightly</td>
 <td>in the eyes of your companion</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>The lord then brings him near</td>
 <td>but therein lies a lie:</td>
-<td>for return<a href="#r8" class="ref">[8]</a> is all but fleeting</td>
+<td>for return<a href="#r8" class="a-reference">[8]</a> is all but fleeting</td>
 </tr>
 <tr><td colspan="3"><br></td></tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td>And he cries out: O most Merciful!</td>
 <td>O benevolent, O giving!</td>
 <td>O how I am in sorrow!</td>
 </tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td>I languish in your absence</td>
 <td>and no friend have I near</td>
 <td>not a single soul</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <tr><td colspan="3"><br></td></tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>I passed from life to God</td>
 <td>from where my eye was met</td>
 <td>with his being</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>In the lofty state of dignity</td>
 <td>where I recovered from my pain</td>
 <td>in his union</td>
 </tr>
-<tr>
-<td>So he<a href="#r9" class="ref">[9]</a> said then: O neglectful!</td>
+<tr class="tr-muwashshahah-bayt">
+<td>So he<a href="#r9" class="a-reference">[9]</a> said then: O neglectful!</td>
 <td>Have I truly seen an eye</td>
-<td>with his eye?<a href="#r10" class="ref">[10]</a></td>
+<td>with his eye?<a href="#r10" class="a-reference">[10]</a></td>
 </tr>
 <tr><td colspan="3"><br></td></tr>
-<tr style="font-weight: bold">
-<td>As for when you see Ġaylān<a href="#r11" class="ref">[11]</a></td>
-<td>and Qays<a href="#r12" class="ref">[12]</a> or whom it be</td>
-<td>amongst the passing<a href="#r13" class="ref">[13]</a></td>
+<tr class="tr-muwashshahah-qufl">
+<td>As for when you see Ġaylān<a href="#r11" class="a-reference">[11]</a></td>
+<td>and Qays<a href="#r12" class="a-reference">[12]</a> or whom it be</td>
+<td>amongst the passing<a href="#r13" class="a-reference">[13]</a></td>
 </tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td>They said: love is a sovereign</td>
 <td>if it falls upon a person</td>
-<td>creed made him pass<a href="#r14" class="ref">[14]</a></td>
+<td>creed made him pass<a href="#r14" class="a-reference">[14]</a></td>
 </tr>
 <tr><td colspan="3"><br></td></tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>How many times they said:</td>
 <td>I am the one that loves</td>
 <td>the one whom that is I</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>And I did not see them deviate</td>
 <td>and I saw not one complaint</td>
 <td>that union was not theirs</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>I'm not like those that turned</td>
 <td>away from him that loves</td>
 <td>after reaping its harvest</td>
 </tr>
 <tr><td colspan="3"><br></td></tr>
-<tr style="font-weight: bold">
-<td>For he<a href="#r15" class="ref">[15]</a> submits to solace</td>
+<tr class="tr-muwashshahah-qufl">
+<td>For he<a href="#r15" class="a-reference">[15]</a> submits to solace</td>
 <td>this is but defamation</td>
 <td>to those that are familiar</td>
 </tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td>They have no thought, no more</td>
 <td>of the Majestic Merciful</td>
 <td>and the deceivers</td>
 </tr>
 <tr><td colspan="3"><br></td></tr>
-<tr>
-<td>I turned into the garden<a href="#r16" class="ref">[16]</a></td>
-<td>where solace and presence<a href="#r17" class="ref">[17]</a></td>
+<tr class="tr-muwashshahah-bayt">
+<td>I turned into the garden<a href="#r16" class="a-reference">[16]</a></td>
+<td>where solace and presence<a href="#r17" class="a-reference">[17]</a></td>
 <td>were its shelter</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>There rose for me the myrtle</td>
 <td>that's adorned with conceit</td>
-<td>in its silken garment<a href="#r18" class="ref">[18]</a></td>
+<td>in its silken garment<a href="#r18" class="a-reference">[18]</a></td>
 </tr>
-<tr>
-<td>I am He<a href="#r19" class="ref">[19]</a> O human</td>
+<tr class="tr-muwashshahah-bayt">
+<td>I am He<a href="#r19" class="a-reference">[19]</a> O human</td>
 <td>that soothes your passion</td>
 <td>in his company</td>
 </tr>
 <tr><td colspan="3"><br></td></tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td>Gardener, O gardener!</td>
 <td>gather from the garden some</td>
 <td>jasmine<td>
 </tr>
-<tr style="font-weight: bold">
-<td>And grant then the myrtle<a href="#r20" class="ref">[20]</a></td>
+<tr class="tr-muwashshahah-qufl">
+<td>And grant then the myrtle<a href="#r20" class="a-reference">[20]</a></td>
 <td>in the shelter of the merciful</td>
 <td>to the lovers</td>
 </tr>
 </table>
 
-<div style="padding: 2em 0 2em 0"></div>
+<div class="div-references">
 <!-- {{{ references -->
 <span id="r1">
 [1] <?php include_page("arabic_poems", $inc_lang, "_muwashshahah"); ?>
@@ -430,5 +430,6 @@ And some [of those gathered] asked as to the meaning [of the then-popular Zajal 
 </span>
 <br>
 <!-- }}} -->
+</div>
 
 </div>

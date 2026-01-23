@@ -1,8 +1,8 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center">The Gate Nowhere</h1>
+<h1 class="text-centre">The Gate Nowhere</h1>
 
-<p style="color: #000000">
+<p class="text-black">
 At the end, amidst a mire forbidding and bleak, the culmination of trails long forgotten that stretched
 forth into the endless Pale, there stood a great gate. All that was and was to be, led there and yet,
 none knew what lay past it, for but unto none it would open. Nor was there anyone that could remember it
@@ -22,7 +22,7 @@ reveal what it concealed, beginning would come to end, and ending become unknown
 And thus, it was called The Gate Nowhere, for it led none nowhere and but unto none it would open.
 </p>
 
-<p style="color: #7f0000">
+<p class="text-red">
 He wandered amidst the darkness of a mire forbidding and bleak, encircled by the endless Pale, the
 Nothing. He wandered without moving and he saw without sight, he heard but did not listen, as moment met
 moment that sought to attain what time of itself was not to obtain. He wandered amidst the darkness that
@@ -35,7 +35,7 @@ never to change. With every step that he took, the emptiness grew and the darkne
 all-consuming Pale did advance.
 </p>
 
-<p style="color: #7f0000">
+<p class="text-red">
 He recited words of fortitude that were sooner than said swallowed by the Pale and faded into
 indiscernible infinity. He cast curses and condemnation upon his destiny until the fraying vestiges of
 hope and faith turned upon him and in in their trails now lay seeds of the Pale. All was driven towards
@@ -51,14 +51,14 @@ and at the boundaries of which he had been stood without noticing, but his eyes 
 mind seize meaning from what appeared afore him:
 </p>
 
-<p style="color: #007f5d; text-align: center">
+<p class="text-green text-centre">
 Who seeks does not gain<br>
 Who surrenders attains<br>
 Abandon yourself<br>
 To emptiness turn<br>
 </p>
 
-<p style="color: #7f0000">
+<p class="text-red">
 He later departed, never to return.
 </p>
 

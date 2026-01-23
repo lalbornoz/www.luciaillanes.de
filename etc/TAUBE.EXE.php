@@ -1,6 +1,6 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center">TAUBE.EXE</h1>
+<h1 class="text-centre">TAUBE.EXE</h1>
 
 <p>
 Liebe TAUBE.EXE,<br>
@@ -35,7 +35,7 @@ deinem Kontextmenü, welches dein ästhetisch ansprechendes 256-farbiges Icon be
 begutachten und dich in der Systemsteuerung konfigurieren. Du und all deine Freunde haben einen ewigen Platz in meiner
 Systemablage verdient und deine Verknüpfungen füllen mein Autostart-Verzeichnis. Du beanspruchst meine Systemresourcen mit
 beträchtlicher Anspruchslosigkeit und bist der Grund für die zunehmende Zunahme an Entropie in meinem Leben.<br>
-COO, COO, COO. DIE TAUBE ZIEHT DURCH DAS LAND UND DAS LAND VERGEHT.<BR />
+COO, COO, COO. DIE TAUBE ZIEHT DURCH DAS LAND UND DAS LAND VERGEHT.<br>
 <br>
 Abschließend möchte ich dir, oh TAUBE.EXE, noch sagen:<br>
 <br>

@@ -1,16 +1,16 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center">My eyes are in endless sleeplessness extended</h1>
-<h2 style="text-align: center">Ana ʕaynī mṭāwilhā saharhā</h2>
+<h1 class="text-centre">My eyes are in endless sleeplessness extended</h1>
+<h2 class="text-centre">Ana ʕaynī mṭāwilhā saharhā</h2>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 ﻧﻮﻉ ﺍﻟﺸﻌﺮ: ﻧﺒﻄﻲ<br>
 ﺍﻟﺸﺎﻋﺮ: أحمد الناصر الشايع<br>
 منطقته: ﺍﻟﻨﺠﺪ<br>
 ﻋﺼﺮ: ﺍﻟﺤﺪﻳﺚ ﺃﻭ ﻣﺎ ﻗﺒﻞ ﺍﻟﺤﺪﺍﺛﺔ<br>
 </p>
 
-<p style="text-align: center">
+<p class="text-centre">
 ﺍﻧﺎ ﻋﻴﻨﻲ ﻣﻄﺎﻭﻟﻬﺎ ﺳﻬﺮﻫﺎ<br>
 ﻣﻦ ﺍﻟﻬﺠﺮﺍﻥ ﺟﺎﻧﻲ ﻣﺎ ﻛﻔﺎﻧﻲ<br>
 <br>
@@ -33,14 +33,14 @@
 ﺍﻃﻴﻌﻪ ﺍﻟﻰ ﺍﻣﺮ ﻭﺍﻻ ﻧﻬﺎﻧﻲ<br>
 </p>
 
-<p style="text-align: center; font-style: italic">
-Type of poem: Nabaṭī<a href="#r1" style="font-size: small">[1]</a><br>
+<p class="text-centre text-italic">
+Type of poem: Nabaṭī<a href="#r1" class="a-reference">[1]</a><br>
 Name of poet: Aḥmad an-Naṣir aš-Šāyiʕ<br>
 Region of poet: Najd<br>
 Era: modern or pre-modern<br>
 </p>
 
-<p style="text-align: center">
+<p class="text-centre">
 My eyes are in endless sleeplessness extended<br>
 from the pain of her departure and yet it does not suffice<br>
 <br>
@@ -50,8 +50,8 @@ that glance that belongs to her beloved, while my life passes by<br>
 My love, what is a castle bereft of pillars?<br>
 It is left behind and falls with the changes of time<br>
 <br>
-Her censorious sifting<a href="#r2" style="font-size: small">[2]</a> has cast me in her stream<br>
-while my eyes cry a eighteen<a href="#r3" style="font-size: small">[3]</a> tears<br>
+Her censorious sifting<a href="#r2" class="a-reference">[2]</a> has cast me in her stream<br>
+while my eyes cry a eighteen<a href="#r3" class="a-reference">[3]</a> tears<br>
 <br>
 What she has done to me none may understand<br>
 nor have her deeds an equal in modesty<br>
@@ -63,7 +63,7 @@ My love, were my very being to disobey your demands<br>
 I would submit it to them regardless<br>
 </p>
 
-<div style="padding: 2em 0 2em 0"></div>
+<div class="div-references">
 <!-- {{{ references -->
 <span id="r1">
 [1] <?php include_page("arabic_poems", $inc_lang, "_nabati"); ?>
@@ -78,5 +78,6 @@ I would submit it to them regardless<br>
 [3] in all likelihood purely to preserve the metre ending in "ﻧﻲ" (-nī)
 </span>
 <!-- }}} -->
+</div>
 
 </div>

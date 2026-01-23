@@ -1,16 +1,16 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center"></h1>
-<h2 style="text-align: center">Sarā laylū jā layl wnḥāti njūmah</h2>
+<h1 class="text-centre"></h1>
+<h2 class="text-centre">Sarā laylū jā layl wnḥāti njūmah</h2>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 ﻧﻮﻉ ﺍﻟﺸﻌﺮ: ﻧﺒﻄﻲ<br>
 ﺍﻟﺸﺎﻋﺮ: مجهول<br>
 منطقته: ﺍﻟﻨﺠﺪ<br>
 ﻋﺼﺮ: ﺍﻟﺤﺪﻳﺚ ﺃﻭ ﻣﺎ ﻗﺒﻞ ﺍﻟﺤﺪﺍﺛﺔ<br>
 </p>
 
-<p style="text-align: center">
+<p class="text-centre">
 سرى ليل وجا ليل ونحٌت نجومه<br>
 وعيني جزت عن لذيذ النعاسي<br>
 <br>
@@ -27,18 +27,18 @@
 على ملعب البيض زين اللباسي<br>
 </p>
 
-<p style="text-align: center; font-style: italic">
-Type of poem: Nabaṭī<a href="#r1" style="font-size: small">[1]</a><br>
+<p class="text-centre text-italic">
+Type of poem: Nabaṭī<a href="#r1" class="a-reference">[1]</a><br>
 Name of poet: unknown<br>
 Region of poet: Najd<br>
 Era: modern or pre-modern<br>
 </p>
 
-<p style="text-align: center">
+<p class="text-centre">
 ...
 </p>
 
-<div style="padding: 2em 0 2em 0"></div>
+<div class="div-references">
 <!-- {{{ references -->
 <span id="r1">
 [1] <?php include_page("arabic_poems", $inc_lang, "_nabati"); ?>
@@ -53,5 +53,6 @@ Era: modern or pre-modern<br>
 [3] in all likelihood purely to preserve the metre ending in "ﻧﻲ" (-nī)
 </span>
 <!-- }}} -->
+</div>
 
 </div>

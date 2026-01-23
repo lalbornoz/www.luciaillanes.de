@@ -90,6 +90,47 @@
   max-width:              100%;
 }
 
+.a-reference { font-size: small; }
+.div-references { padding: 2em 0 2em 0; }
+
+.element-hidden { visibility: hidden; }
+
+.img-centred { display: block; margin-left: auto; margin-right: auto; }
+.img-float-right { float: right; margin: 0 0 1rem 1rem; }
+.img-width-250px { width: 250px; }
+.img-width-45 { width: 45%; }
+
+.table-muwashshahah-ar { direction: rtl; }
+.table-muwashshahah-ar-centred { direction: rtl; text-align: center; margin-left: auto; margin-right: auto; }
+.table-muwashshahah-en { direction: ltr; }
+.table-muwashshahah-en-centred { direction: ltr; text-align: center; margin-left: auto; margin-right: auto; }
+.tr-muwashshahah-bayt { font-weight: normal; }
+.tr-muwashshahah-qufl { font-weight: bold; }
+
+.text-black { color: #000000; }
+.text-green { color: #007f5d; }
+.text-red { color: #7f0000; }
+
+.text-bold { font-weight: bold; }
+.text-centre { text-align: center; }
+.text-cursor-pointer { cursor: pointer; }
+.text-italic { font-style: italic; }
+.text-line-through { text-decoration: line-through; }
+.text-underline { text-decoration: underline; }
+
+.text-incantation { font-weight: bold; font-size: 1.5em; text-align: center; }
+
+.text-inscription-cuneiform { font-size: 1.5em; text-align: center; }
+.text-inscription-cuneiform-small { font-size: 1em; text-align: center; }
+.text-inscription-cuneiform-large { font-size: 2em; text-align: center; }
+
+.text-margin-bottom-none { margin-bottom: 0; }
+.text-margin-top-none { margin-top: 0; }
+.text-margin-top-1em { margin-top: 1em; }
+
+.text-warning-black { border: solid black 0.25em; padding: 0.5em; }
+.text-warning-red { border: dashed red 0.25em; padding: 0.5em; }
+
 /*
  * vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=0
  */

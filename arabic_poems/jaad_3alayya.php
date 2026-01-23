@@ -1,16 +1,16 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center"></h1>
-<h2 style="text-align: center">Jād ʕalayya ba-rḍāh</h2>
+<h1 class="text-centre"></h1>
+<h2 class="text-centre">Jād ʕalayya ba-rḍāh</h2>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 ﻧﻮﻉ ﺍﻟﺸﻌﺮ: برولة<br>
 ﺍﻟﺸﺎﻋﺮ: أبو عبد الله سيدي محمد بن محمد بن عبد الواحد بن يحيى بن عمر الحسني العلمي الموسوي المعروف بالشيخ الحراق; ﻣﻮﺟﻮﺩ ﻓﻲ ﻣﻴﺰﺍﻥ قدام ﻧﻮﺑﺔ الرصد<br>
 منطقته: ﺍلمغرب<br>
 ﻋﺼﺮ: ﻗﺮﻥ ﺍلثامن ﻋﺸﺮ-التاسع عشر<br>
 </p>
 
-<table style="direction: rtl; text-align: center; margin-left: auto; margin-right: auto">
+<table class="table-muwashshahah-ar-centred">
 <tr>
 <td colspan="2">جَادْ عَلَيَّ بَرْضَاهْ</td>
 </tr>
@@ -51,25 +51,26 @@
 </tr>
 </table>
 
-<p style="text-align: center; font-style: italic">
-Type of poem: Barwalah<a href="#r1" class="ref">[1]</a><br>
+<p class="text-centre text-italic">
+Type of poem: Barwalah<a href="#r1" class="a-reference">[1]</a><br>
 Name of poet: Abū ʕabdillāh Sayyidī Muḥammad b. Muḥammad b. ʕabdi l-Waḥid b. Yaḥyā b. ʕamr b. al-Ḥasanī al-ʕalamī al-Mūsawī, known as aš-Šayḫ al-Ḥarrāq; found in Mīzān Quddām of Nawbatu r-Raṣd<br>
 Region of poet: Morocco<br>
 Era: 18th-19th century<br>
 </p>
 
-<table style="direction: ltr; text-align: center; margin-left: auto; margin-right: auto">
+<table class="table-muwashshahah-en-centred">
 <tr>
 <td>...</td>
 <td>...</td>
 </tr>
 </table>
 
-<div style="padding: 2em 0 2em 0"></div>
+<div class="div-references">
 <!-- {{{ references -->
 <span id="r1">
 [1] Moroccan dialectal poetry.<br>
 </span>
 <!-- }}} -->
+</div>
 
 </div>

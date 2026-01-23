@@ -1,15 +1,15 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center">The Fading Forest</h1>
+<h1 class="text-centre">The Fading Forest</h1>
 
-<p style="text-align: center">
+<p class="text-centre">
 Seven that knew<br>
 nor longing nor name<br>
 abandoned their fate<br>
 to a forest far lain<br>
 </p>
 
-<p style="color: #7f0000">
+<p class="text-red">
 On the first day, after they had set out in flight from afar to seek refuge wherever
 it should find them, they found themselves in a great, forbidding forest. None could
 remember how they had come here, for in times of struggle and strife survival becomes
@@ -29,14 +29,14 @@ misfortunes they had to suffer but their recollections had grown increasingly ha
 and sooner than later, they ceased to do so. The forest began to awake.
 </p>
 
-<p style="text-align: center">
+<p class="text-centre">
 Seven that lay<br>
 in darkness awake<br>
 to the heart of the forest<br>
 a path were to make<br>
 </p>
 
-<p style="color: #7f0000">
+<p class="text-red">
 On the second day, exhaustion had grown, as last night had robbed them of sleep much
 needed. Strange, uncannily strange sounds and noises remote to the ears had begun to
 emerge from somewhere neither near nor far as soon as night had dawned. There was no
@@ -62,14 +62,14 @@ purpose.<br>
 They set out towards the very heart of the forest.
 </p>
 
-<p style="text-align: center">
+<p class="text-centre">
 Seven met seven<br>
 and seven once more<br>
 on their quest without fail<br>
 became lost in the Pale<br>
 </p>
 
-<p style="color: #7f0000">
+<p class="text-red">
 On the third day, disorder and delusion beset them. They had wisely chosen to spend
 most of the day gathering food for the journey ahead and then sleep. The animals,
 creatures, beings, of which they expected to find a great abundance of seemed to
@@ -112,7 +112,7 @@ human voices they clearly were. There was a group of crows surrounding another
 group gathered around a fire, seven in number they were.<br>
 </p>
 
-<p style="text-align: center">
+<p class="text-centre">
 In Sea Apsû Nisaba dwelt and dreamt<br>
 <br>
 She wove her dreams into a net<br>
@@ -144,7 +144,7 @@ unseen, in silence, unattained<br>
 forever bound to seek their name<br>
 </p>
 
-<p style="color: #7f0000">
+<p class="text-red">
 On the fifth day, although they were oblivious to its arrival, they had ceased to
 move. Not a single step backwards they were to go nor a single step forward and by
 all appearance, their journey was finished and complete and there they were stood,
@@ -155,7 +155,7 @@ hiding within something they now greatly desired to come into union with. They
 decided to walk towards the trees.
 </p>
 
-<p style="color: #7f0000">
+<p class="text-red">
 They were mesmerised by rows of trees dressed in the garb of changing seasons. There
 were birches bestowing the melancholy hues and shades of autumn upon the perceptive
 eye, pines perennially youthful reaching towards the sky starkly bearing snow, oaks
@@ -165,17 +165,17 @@ very top, the king of the birds. The birds were singing incessantly words that
 previously had been terrifying to them but that they now comprehended:
 </p>
 
-<p style="color: #007f5d; text-align: center">
+<p class="text-green text-centre">
 Awake and arise!<br>
 Let your heart be your eyes!
 </p>
 
-<p style="color: #7f0000">
+<p class="text-red">
 At the very centre of the clearing, there was a tall white fountain. They gathered
 around the fountain. They became one.
 </p>
 
-<p style="color: #007f5d; text-align: center; padding-top: 5em">
+<p class="text-green text-centre">
 In those days, in those distant days, in those times, in those faraway times, at the
 beginning and at the end, there lay the very heart of the forest.<br>
 Everything and everywhere sprang forth from there and nothing and nowhere led

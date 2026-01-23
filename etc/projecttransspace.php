@@ -1,5 +1,5 @@
       <div class="div-box div-content">
-        <h1 style="text-align: center">Project "First Trans Person in Space"<a href="#r1" style="font-size: small">[1]</a>: on insufficient HRT titration</h1>
+        <h1 class="text-centre">Project "First Trans Person in Space"<a href="#r1" class="a-reference">[1]</a>: on insufficient HRT titration</h1>
         <div id="div-content-projecttransspace">
           <img
             alt='Project "First Trans Person in Space"'
@@ -12,22 +12,22 @@
             src="/etc/<?php echo $inc_lang ?>/kade29r.png">
         </div>
 
-        <p style="border: dashed red 0.25em; padding: 0.5em">
+        <p class="text-warning-red">
           <strong>DISCLAIMER</strong>: The information provided on this page is offered as is for general educational purposes only. I
           am not a medical professional, and nothing here should be interpreted as medical advice, diagnosis, or treatment guidance.
           Endocrine care, hormone therapy, and any related decisions involve medical risk and should be discussed with a qualified
           healthcare provider. By using this information, you acknowledge that any actions you take are entirely your own
           responsibility, and you agree that I am not liable for any outcomes, consequences, or damages resulting from your use or
-          interpretation of this material.<a href="#r0" style="font-size: small">[0]</a>
+          interpretation of this material.<a href="#r0" class="a-reference">[0]</a>
         </p>
 
-        <h2 id="Problem" style="text-align: center">The problem: insufficient titration</h2>
+        <h2 id="Problem" class="text-centre">The problem: insufficient titration</h2>
 
         <p>
           This document proposes that all HRT protocols fail to account for the pattern of continuous change in (at least) Oestradiol
           serum levels observed in endogenous puberty and insufficiently titrate and overdose by severely violating physiological
-          constraints on titration of (at least) Oestradiol as present in endogenous puberty<a href="#r2" style="font-size:
-          small">[2]</a>, where changes in average concentrations are constrained to 1-3 pg/mL per each cycle<a href="#r2" style="font-size: small">[2]</a>,
+          constraints on titration of (at least) Oestradiol as present in endogenous puberty<a href="#r2" class="a-reference">[2]</a>,
+          where changes in average concentrations are constrained to 1-3 pg/mL per each cycle<a href="#r2" class="a-reference">[2]</a>,
           and hence result in:
           </p>
 
@@ -39,7 +39,7 @@
           <li>
             Lack of efficacy due to probable failure to effectively induce changes in methylation patterns additionally
             preventing a phenotypal shift, at the level of epigenetics.<br>
-            This phenomenon is documented in <a href="#r3" style="font-size: small">[3]</a>.
+            This phenomenon is documented in <a href="#r3" class="a-reference">[3]</a>.
           </li>
           <li>
             Needlessly adverse physiological inasmuch as mental side effect profile during at least an initial
@@ -49,7 +49,7 @@
           </li>
         </ol>
 
-        <h2 id="Solution" style="text-align: center">The solution: the puberty protocol</h2>
+        <h2 id="Solution" class="text-centre">The solution: the puberty protocol</h2>
 
         <p>
           As a potential solution, this document proposes a protocol of very slow titration mimicking endogenous puberty that intends
@@ -71,7 +71,7 @@
           <li>
             Stabilise on 50 pg/mL E2 (Cmean,) assuming sufficient T suppression at that level for 1-2 cycles.
           <li>
-            Apply steady increments of 0.01 mL/10 µL corresponding to increases of +5-10 pg/mL<a href="#r4" style="font-size: small">[4]</a>
+            Apply steady increments of 0.01 mL/10 µL corresponding to increases of +5-10 pg/mL<a href="#r4" class="a-reference">[4]</a>
             in average concentration every 1-2 cycle, subject to cycle length, taking into account the max. 6 weeks time
             to steady state of Oestradiol Cypionate and max. 5 weeks time to steady state of SHBG as well as potential
             thyroid response<br>
@@ -84,13 +84,13 @@
             <em>Caveat</em>: there may exist a highly favourable dose-response relationship in the 25-50 pg/mL range,
             being as +5 pg/mL relative to 25 pg/mL is 1/5th, whereas +5 pg/mL relative to 50 pg/mL is 1/10th, etc.
           </li>
-          <li style="text-decoration: line-through">
+          <li class="text-line-through">
             Going to SPAAAAAAAAAAAAAACE<br>
             <em>Caveat</em>: there is no air in space.
           </li>
         </ul>
 
-        <h2 id="Rationale" style="text-align: center">Rationale</h2>
+        <h2 id="Rationale" class="text-centre">Rationale</h2>
 
         <p>
           It is firstly to be observed that:
@@ -143,21 +143,21 @@
           sensitivity in target cells as well as the corresponding gradient ("how much Oestradiol across how much time with what kind
           of curve/gradient?"); the intricate dynamics of ERs with regard to down/upregulation of sensitivity and density by factors of
           up to 100x and 10,000x, among with other factors, in response to specific Oestradiol curves is documented in, inter alia,
-          <a href="#r5" style="font-size: small">[5]</a>.<br>
+          <a href="#r5" class="a-reference">[5]</a>.<br>
           <br>
           Though an at once entirely separate and yet also related matter, it bears mentioning that exogenously driven Oestradiol
           cycles exist, as observed by the author of this document and in the form of a pervasive pattern in a sufficiently large
           amount of anecdotal evidence on Reddit, etc. The mechanism behind this is unknown though it would appear likely that the
           culprit is to be found in the above mentioned ER dynamics as well as ER housekeeping within each cell, being as Oestradiol is
           responsible in conjunction with ERs for making more ERs, constituting a feedback loop internal to each cell, see, inter alia,
-          <a href="#r5" style="font-size: small">[5]</a>.<br>
+          <a href="#r5" class="a-reference">[5]</a>.<br>
           As observed by the author of this document, there exists a constraint on rate of change that is lower than 200% given any
           average concentration, e.g. an increase from 50 pg/mL to 100 pg/mL (e.g. +50 pg/mL) is excessive and will dangerously impact
           cycle structure; being as the constraint in endogenous puberty is +~1-3 pg/mL per cycle, it is likely to be significantly
           lower than 200%.
         </p>
 
-        <h2 id="References" style="text-align: center">References</h2>
+        <h2 id="References" class="text-centre">References</h2>
 
         <span id="r0">
           [0] (courtesy of ChatGPT)<br>
@@ -165,7 +165,7 @@
         <br>
 
         <span id="r1">
-          [1] <span style="text-decoration: line-through">suggested by</span> stolen from redlegion<br>
+          [1] <span class="text-line-through">suggested by</span> stolen from redlegion<br>
         </span>
         <br>
 

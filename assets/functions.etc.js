@@ -27,7 +27,7 @@ function shuffle(array) {
 function kadeGetCurrent() {
 	let kadeElement = document.getElementById("kade");
 	let kadeCurrent = "";
-	if (kadeElement.style.visibility === "hidden") {
+	if (kadeElement.src === "data:,") {
 		kadeCurrent = "/assets/kades/kade.png";
 	} else {
 		kadeCurrent = kadeElement.src;

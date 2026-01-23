@@ -1,5 +1,5 @@
     <div class="div-box" id="div-copyright">
-      <span style="font-size: 2em; text-align: center"
+      <span class="text-inscription-cuneiform-large"
           title="Ul nūḫu lāšu illā lā mammāni&#10;There is no relief but nothingness">
         𒌌𒉡𒌋𒄷𒌋𒆷𒀀𒋗𒅋𒌋𒈠𒈠𒉌
       </span><br>

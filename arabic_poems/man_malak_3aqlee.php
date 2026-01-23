@@ -1,126 +1,134 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center">You that took my mind hostage</h1>
-<h2 style="text-align: center">Man malak ʕaqlī rahīn</h2>
+<h1 class="text-centre">You that took my mind hostage</h1>
+<h2 class="text-centre">Man malak ʕaqlī rahīn</h2>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 ﻧﻮﻉ ﺍﻟﺸﻌﺮ: صنعة توشيح<br>
 ﺍﻟﺸﺎﻋﺮ: ﻣﺠﻬﻮﻝ؛ ﻣﻮﺟﻮﺩ ﻓﻲ ﻣﻴﺰﺍﻥ درج ﻧﻮﺑﺔ الرصد وميزان بسيط نوبة الإصبهان<br>
 منطقته: ﺍﻷﻧﺪﻟﺲ<br>
 ﻋﺼﺮ: ﻗﺮﻥ ﺍﻟﺜﺎﻣﻦ-ﺍﻟﺨﺎﻣﺲ ﻋﺸﺮ<br>
 </p>
 
-<table style="direction: rtl; text-align: center; margin-left: auto; margin-right: auto">
-<tr>
+<table class="table-muwashshahah-ar-centred">
+<tr class="tr-muwashshahah-qufl">
 <td>مَنْ مَلَكْ عَقْلِي رَهِينْ</td>
 <td>رِيتْ عَلَى خَدُّ اليَمِينْ</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-qufl">
 <td>الزَّهَرْ وَالوَرْدَ وَالسَّوْسَنْ</td>
 <td>وَاليَاسْمِينْ</td>
 </tr>
-<tr>
+<tr><td colspan="2"><br></td></tr>
+<tr class="tr-muwashshahah-bayt">
 <td>قُلْتُ لَهُ آشْ ذَاكْ عَلَى خَدَّكْ</td>
 <td>قَالَ لِي القَمَرْ</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>قُلْتُ لَهُ آشْ ذَاكْ عَلَى شَفْرَكْ</td>
 <td>قَالَ لِي الحَوَرْ</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>قُلْتُ لَهُ آشْ ذَاكْ عَلَى ثَغْرَكْ</td>
 <td>قَالَ لِي  الدُّرَرْ</td>
 </tr>
-<tr>
+<tr><td colspan="2"><br></td></tr>
+<tr class="tr-muwashshahah-qufl">
 <td>لَمَعُوا تَحْتَ الجَبِينْ</td>
 <td>حَاجِبَانِ مُعَرَّقِينْ</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-qufl">
 <td>الزَّهَرْ وَالوَرْدَ وَالسَّوْسَن</td>
 <td>وَاليَاسَمِينْ</td>
 </tr>
-<tr>
+<tr><td colspan="2"><br></td></tr>
+<tr class="tr-muwashshahah-bayt">
 <td>قُلْتُ لَهُ أنْتَ المَلِيح بِالحَق</td>
 <td>قَالَ لِي مَلِيحْ</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>قُلْتُ لَهُ أنْتَ كَحِيل الأحْدَاقِ</td>
 <td>قَالَ لِي وَقِيحْ</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>قُلْتُ لَهُ هَلْ بِالوِصَالِ تَشْفق</td>
 <td>قَالَ شَحِيح</td>
 </tr>
-<tr>
+<tr><td colspan="2"><br></td></tr>
+<tr class="tr-muwashshahah-qufl">
 <td>يَا مُجِيءَ العَاشِقِينَ مِنْ عُيُونْ</td>
 <td>النَّائِمِينْ</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-qufl">
 <td>الزَّهَرْ وَالوَرْدَ وَالسَّوْسَنْ</td>
 <td>وَاليَاسَمِين</td>
 </tr>
 <table>
 
-<p style="text-align: center; font-style: italic">
-Type of poem: piece of a Muwaššaḥah<a href="#r1" class="ref">[1]</a><br>
+<p class="text-centre text-italic">
+Type of poem: piece of a Muwaššaḥah<a href="#r1" class="a-reference">[1]</a><br>
 Name of poet: unknown; found in Mīzān Darj of Nawbatu r-Raṣd and Mīzān Basīṭ of Nawbatu l-Iṣbihān<br>
 Region of poet: al-Andalus<br>
 Era: 8th-15th century<br>
 </p>
 
-<td><table style="direction: ltr; text-align: center; margin-left: auto; margin-right: auto">
-<tr style="font-weight: bold">
+<td><table class="table-muwashshahah-en-centred">
+<tr class="tr-muwashshahah-qufl">
 <td>You that took my mind hostage</td>
-<td>I saw on your cheek in a dream<a href="#r2" style="font-size: small">[2]</a></td>
+<td>I saw on your cheek in a dream<a href="#r2" class="a-reference">[2]</a></td>
 </tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td>flowers and roses and lilies</td>
 <td>and jasmine</td>
 </tr>
-<tr>
+<tr><td colspan="2"><br></td></tr>
+<tr class="tr-muwashshahah-bayt">
 <td>I said to her: what is there on your cheek?</td>
-<td>She said to me: the moon<a href="#r3" style="font-size: small">[3]</a></td>
+<td>She said to me: the moon<a href="#r3" class="a-reference">[3]</a></td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>I said to her: what is there on your eyelids?</td>
-<td>She said to me: bright light<a href="#r4" style="font-size: small">[4]</a></td>
+<td>She said to me: bright light<a href="#r4" class="a-reference">[4]</a></td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>I said to her: what is there on your teeth?</td>
-<td>She said to me: many a pearl<a href="#r5" style="font-size: small">[5]</a></td>
+<td>She said to me: many a pearl<a href="#r5" class="a-reference">[5]</a></td>
 </tr>
-<tr style="font-weight: bold">
+<tr><td colspan="2"><br></td></tr>
+<tr class="tr-muwashshahah-qufl">
 <td>Shining below your forehead</td>
-<td>guarded by eyebrows like marble<a href="#r6" style="font-size: small">[6]</a></td>
+<td>guarded by eyebrows like marble<a href="#r6" class="a-reference">[6]</a></td>
 </tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td>are flowers and roses and lilies</td>
 <td>and jasmine</td>
 </tr>
-<tr>
+<tr><td colspan="2"><br></td></tr>
+<tr class="tr-muwashshahah-bayt">
 <td>I said to her: are you the most handsome in truth?</td>
 <td>She said to me: I am handsome</td>
 </tr>
-<tr>
-<td>I said to her: so are you but dark-eyed?<a href="#r7" style="font-size: small">[7]</a></td>
+<tr class="tr-muwashshahah-bayt">
+<td>I said to her: so are you but dark-eyed?<a href="#r7" class="a-reference">[7]</a></td>
 <td>She said to me: do not condescend!</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>I said to her: are you taken by our union?</td>
 <td>She said to me: only in greed</td>
 </tr>
-<tr style="font-weight: bold">
+<tr><td colspan="2"><br></td></tr>
+<tr class="tr-muwashshahah-qufl">
 <td>O you who arouses your lover's eyes</td>
 <td>from their dream</td>
 </tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td>to flowers and roses and lilies</td>
 <td>and jasmine</td>
 </tr>
 
 </table>
 
-<div style="padding: 2em 0 2em 0"></div>
+<div class="div-references">
 <!-- {{{ references -->
 <span id="r1">
 [1] <?php include_page("arabic_poems", $inc_lang, "_muwashshahah"); ?>
@@ -154,6 +162,7 @@ Era: 8th-15th century<br>
 The person being addressed responds to the charge of merely possessing the most prized physical attribute for their eyes to possess as they stated to be merely handsome as opposed to the most handsome, after the preceding Qufl wherein the eyes of the person addressed were already described as shining, beckoning flowers.<br>
 </span>
 <!-- }}} -->
+</div>
 </div>
 
 </div>

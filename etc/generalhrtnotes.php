@@ -1,22 +1,22 @@
       <div class="div-box div-content">
 
-        <h1 style="text-align: center">General notes concerning HRT</h1>
+        <h1 class="text-centre">General notes concerning HRT</h1>
 
-        <p style="border: dashed red 0.25em; padding: 0.5em">
+        <p class="text-warning-red">
           <strong>DISCLAIMER</strong>: The information provided on this page is offered as is for general educational purposes only. I
           am not a medical professional, and nothing here should be interpreted as medical advice, diagnosis, or treatment guidance.
           Endocrine care, hormone therapy, and any related decisions involve medical risk and should be discussed with a qualified
           healthcare provider. By using this information, you acknowledge that any actions you take are entirely your own
           responsibility, and you agree that I am not liable for any outcomes, consequences, or damages resulting from your use or
-          interpretation of this material.<a href="#r0" style="font-size: small">[0]</a>
+          interpretation of this material.<a href="#r0" class="a-reference">[0]</a>
         </p>
 
-        <p style="border: solid black 0.25em; padding: 0.5em">
+        <p class="text-warning-black">
           Unless otherwise specified, the information provided on this page is based on the experience of the author of this document.<br>
           Interindividual variability applies.
         </p>
 
-        <h2 style="text-align: center">General: counterindications/adverse interactions</h2>
+        <h2 class="text-centre">General: counterindications/adverse interactions</h2>
 
         <ul>
           <li>
@@ -33,43 +33,43 @@
             pg/mL vs. in the case of Quetiapine, ~1-10 µg/mL given dosages of 100-350 mg p/d and an oral bioavailability
             of 9%.<br>
             <br>
-            While this phenomenon is acknowledged and discussed in literature<a href="#r1" style="font-size: small">[1]</a>,
+            While this phenomenon is acknowledged and discussed in literature<a href="#r1" class="a-reference">[1]</a>,
             it is not sufficiently well-known and particularly so in conjunction with HRT.
           </li>
           <li>
             Any medication or substance in general which significantly increases SHBG, be it in the short, if acutely,
             mid, or long term, given habitual use, is to be ideally avoided entirely or at least treated with great care,
             particularly when stability in HRT has not been attained, as this will affect Free Oestradiol and constitute
-            significant endocrine disruption. This includes, most importantly, <strong>Alcohol</strong><a href="#r2" style="font-size: small">[2]</a>,
+            significant endocrine disruption. This includes, most importantly, <strong>Alcohol</strong><a href="#r2" class="a-reference">[2]</a>,
             especially if acutely, and, though to a much lesser degree and indirectly,
-            <strong><span style="text-decoration: line-through">Caffeine</span> Coffee</strong><a href="#r3" style="font-size: small">[3]</a>.
+            <strong><span class="text-line-through">Caffeine</span> Coffee</strong><a href="#r3" class="a-reference">[3]</a>.
             As Insulin increases SHBG also, there is an argument to be made that a healthy diet devoid in particular of
             "junk food", etc. is ideally to be preferred.
           </li>
         </ul>
 
-        <h2 style="text-align: center">General: Oestradiol cycles</h2>
+        <h2 class="text-centre">General: Oestradiol cycles</h2>
 
         <p>
           It bears mentioning that exogenously driven Oestradiol cycles exist, as observed by the author of this document and in the
           form of a pervasive pattern in a sufficiently large amount of anecdotal evidence on Reddit, etc. The mechanism behind this is
           unknown though it would appear likely that the culprit is to be found in the above mentioned ER dynamics as well as ER
           housekeeping within each cell, being as Oestradiol is responsible in conjunction with ERs for making more ERs, constituting a
-          feedback loop internal to each cell, see, inter alia, <a href="#r4" style="font-size: small">[4]</a>.<br>
+          feedback loop internal to each cell, see, inter alia, <a href="#r4" class="a-reference">[4]</a>.<br>
           As observed by the author of this document, there exists a constraint on rate of change that is lower than 200% given any
           average concentration, e.g. an increase from 50 pg/mL to 100 pg/mL (e.g. +50 pg/mL) is excessive and will dangerously impact
           cycle structure; being as the constraint in endogenous puberty is +~1-3 pg/mL per cycle, it is likely to be significantly
           lower than 200%.
         </p>
 
-        <h2 style="text-align: center">General: slow titration</h2>
+        <h2 class="text-centre">General: slow titration</h2>
 
         <p>
           Please refer to <a href="https://www.luciaillanes.de/de/etc/projecttransspace">Project "First Trans Person in Space": on insufficient HRT titration</a>
           for an in-depth discussion of this topic.
         </p>
 
-        <h2 style="text-align: center">General: bloodwork pre-HRT; normal total T and high SHBG pre-HRT</h2>
+        <h2 class="text-centre">General: bloodwork pre-HRT; normal total T and high SHBG pre-HRT</h2>
 
         <p>
           When starting HRT, it is very highly recommended - in general - that extensive blood testing be done in order to determine a
@@ -80,7 +80,7 @@
           of partial Androgen Receptor Insensitivity, as T is supposed to downregulate hepatic SHBG expression; this can be tested for.
         </p>
 
-        <h2 style="text-align: center">Transdermal Oestradiol gel: 1.28g pumps vs. 1.25g</h2>
+        <h2 class="text-centre">Transdermal Oestradiol gel: 1.28g pumps vs. 1.25g</h2>
 
         <p>
           An unnamed brand of transdermal Oestradiol gel is claimed by the manufacturer to produce 1.25g of gel upon pump activation.
@@ -92,7 +92,7 @@
           personal HRT protocol.
         </p>
 
-        <h2 style="text-align: center">Transdermal Oestradiol gel: use pump gently</h2>
+        <h2 class="text-centre">Transdermal Oestradiol gel: use pump gently</h2>
 
         <p>
           An unnamed brand of transdermal Oestradiol gel presents with an undocumented problem concerning its pump mechanism. If the
@@ -104,15 +104,15 @@
           personal HRT protocol.
         </p>
 
-        <h2 style="text-align: center">Transdermal Oestradiol gel: determining serum levels</h2>
+        <h2 class="text-centre">Transdermal Oestradiol gel: determining serum levels</h2>
 
         <img
           alt="Estradiol levels after the last dose with 1 mg/day transdermal estradiol gel applied to different amounts of skin area (200 cm2, 400 cm2, or as large as possible) in postmenopausal women."
           src="https://upload.wikimedia.org/wikipedia/commons/1/19/Estradiol_levels_with_1_mg_per_day_transdermal_estradiol_gel_applied_to_different_amounts_of_area_in_postmenopausal_women.png"
-          style="display: block; margin-left: auto; margin-right: auto; width: 50%">
-        <h3 style="text-align: center">
+          class="img-centred img-width-45">
+        <h3 class="text-centre">
           Estradiol levels after the last dose with 1 mg/day transdermal estradiol gel applied to different amounts of skin
-          area (200 cm2, 400 cm2, or as large as possible) in postmenopausal women.<a href="#r5" style="font-size: small">[5]</a>
+          area (200 cm2, 400 cm2, or as large as possible) in postmenopausal women.<a href="#r5" class="a-reference">[5]</a>
         </h3>
 
         <p>
@@ -133,7 +133,7 @@
           <li>
             Calculate <strong>Cmean</strong>, e.g. the average concentration, by, based on <strong>Cmax</strong>,
             <strong>Tmax</strong>, <strong>Cmin</strong>, <strong>Tmin</strong>, finding the Area Under the Curve
-            (AUC,)<a href="#r6" style="font-size: small">[6]</a> utilising the logarithmic method (((c1 - c2) /
+            (AUC,)<a href="#r6" class="a-reference">[6]</a> utilising the logarithmic method (((c1 - c2) /
             (LN(c1) - LN(c2))) * (t2 - t1)) during the absorption phase (rising levels) and the linear method (1/2 * (c1
             + c2) * (t2 - t1)) during the elimination phase (falling levels.) This yields the maximum total exposure
             during that time period which, when divided by that same time period, e.g. 24 hours, will yield the maximum
@@ -146,15 +146,15 @@
           </li>
         </ol>
 
-        <h2 style="text-align: center">Transdermal Oestradiol gel: suboptimal concentration curve</h2>
+        <h2 class="text-centre">Transdermal Oestradiol gel: suboptimal concentration curve</h2>
 
         <img
           alt="Estradiol levels after the last dose with 1 mg/day transdermal estradiol gel applied to different amounts of skin area (200 cm2, 400 cm2, or as large as possible) in postmenopausal women."
           src="https://upload.wikimedia.org/wikipedia/commons/1/19/Estradiol_levels_with_1_mg_per_day_transdermal_estradiol_gel_applied_to_different_amounts_of_area_in_postmenopausal_women.png"
-          style="display: block; margin-left: auto; margin-right: auto; width: 50%">
-        <h3 style="text-align: center">
+          class="img-centred img-width-45">
+        <h3 class="text-centre">
           Estradiol levels after the last dose with 1 mg/day transdermal estradiol gel applied to different amounts of skin
-          area (200 cm2, 400 cm2, or as large as possible) in postmenopausal women.<a href="#r5" style="font-size: small">[5]</a>
+          area (200 cm2, 400 cm2, or as large as possible) in postmenopausal women.<a href="#r5" class="a-reference">[5]</a>
         </h3>
 
         <p>
@@ -163,7 +163,7 @@
           suboptimal for the same reason as with the concentration curve of Oestradiol Valerate.
         </p>
 
-        <h2 style="text-align: center">Transdermal Oestradiol gel: temporary discontinuation </h2>
+        <h2 class="text-centre">Transdermal Oestradiol gel: temporary discontinuation </h2>
 
         <p>
           When discontinuing, wait for at least four weeks (neither about two nor three weeks are sufficient according to experimental
@@ -175,22 +175,22 @@
           stability after week two can usually be expected - are factors.
         </p>
 
-        <h2 style="text-align: center">Transdermal Oestradiol gel: surface area</h2>
+        <h2 class="text-centre">Transdermal Oestradiol gel: surface area</h2>
 
         <img
           alt="Estradiol levels after the last dose with 1 mg/day transdermal estradiol gel applied to different amounts of skin area (200 cm2, 400 cm2, or as large as possible) in postmenopausal women."
           src="https://upload.wikimedia.org/wikipedia/commons/1/19/Estradiol_levels_with_1_mg_per_day_transdermal_estradiol_gel_applied_to_different_amounts_of_area_in_postmenopausal_women.png"
-          style="display: block; margin-left: auto; margin-right: auto; width: 50%">
-        <h3 style="text-align: center">
+          class="img-centred img-width-45">
+        <h3 class="text-centre">
           Estradiol levels after the last dose with 1 mg/day transdermal estradiol gel applied to different amounts of skin
-          area (200 cm2, 400 cm2, or as large as possible) in postmenopausal women.<a href="#r5" style="font-size: small">[5]</a>
+          area (200 cm2, 400 cm2, or as large as possible) in postmenopausal women.<a href="#r5" class="a-reference">[5]</a>
         </h3>
 
         <p>
           Always use the smallest possible surface area when applying transdermal Oestradiol gel in order to maximise absorption.
         </p>
 
-        <h2 style="text-align: center">References</h2>
+        <h2 class="text-centre">References</h2>
 
         <span id="r0">
           [0] (courtesy of ChatGPT)<br>

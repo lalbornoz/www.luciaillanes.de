@@ -1,16 +1,16 @@
 E<div class="div-box div-content">
 
-<h1 style="text-align: center">O Handsome, O face of full moon rising<a href="#r1" style="font-size: small">[1]</a></h1>
-<h2 style="text-align: center">Yā malīḥ yā ṭalʕata l-badri</h2>
+<h1 class="text-centre">O Handsome, O face of full moon rising<a href="#r1" class="a-reference">[1]</a></h1>
+<h2 class="text-centre">Yā malīḥ yā ṭalʕata l-badri</h2>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 ﻧﻮﻉ ﺍﻟﺸﻌﺮ: غزل على بحر المديد أو الرمل<br>
 ﺍﻟﺸﺎﻋﺮ: ﻣﺠﻬﻮﻝ؛ ﻣﻮﺟﻮﺩ ﻓﻲ أداء ﻣﻴﺰﺍﻥ ﺩﺭﺝ ﻧﻮﺑﺔ الرصد لفرقة طنجة بإدارة أحمد الزيتوني الصحراوي, منسوخة يدويا<br>
 منطقته: ﺍﻷﻧﺪﻟﺲ<br>
 ﻋﺼﺮ: ﻗﺮﻥ ﺍﻟﺜﺎﻣﻦ-ﺍﻟﺨﺎﻣﺲ ﻋﺸﺮ<br>
 </p>
 
-<p style="text-align: center">
+<p class="text-centre">
 يَا مَلِيْحْ يَا طَلْعَةَ البَدْرِ<br>
 يَا ملِيْحْ فِي لَيْلَةِ الكَمَالْ<br>
 <br>
@@ -33,28 +33,28 @@ E<div class="div-box div-content">
 يَا مَلِيْحْ إِنْ لَمْ يَكُنْ وِصَالُ<br>
 </p>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 Type of poem: Ġazal (poetry on love) in al-Madīd or ar-Ramal metre<br>
 Name of poet: unknown; found in rendition of Mīzān Darj of Nawbatu r-Raṣd by the Orchestra of Tangier led by Aḥmad az-Zaytūnī aṣ-Ṣaḥrāwī, transcribed manually<br>
 Region of poet: al-Andalus<br>
 Era: 8th-15th century<br>
 </p>
 
-<p style="text-align: center">
-O Handsome, O face of full moon rising<a href="#r1" style="font-size: small">[1]</a><br>
+<p class="text-centre">
+O Handsome, O face of full moon rising<a href="#r1" class="a-reference">[1]</a><br>
 O Handsome, in a dark, starless night<br>
 <br>
 O Handsome, you burden who mourns<br>
-O Handsome, for your sinful saliva<a href="#r2" style="font-size: small">[2]</a><br>
+O Handsome, for your sinful saliva<a href="#r2" class="a-reference">[2]</a><br>
 <br>
 O Handsome, with your radiant cheeks<br>
 O Handsome, and your loveliest looks<br>
 <br>
-O Handsome, when by your size<a href="#r3" style="font-size: small">[3]</a> I am left restless<br>
-O Handsome, and your setting<a href="#r4" style="font-size: small">[4]</a> does soothe me<br>
+O Handsome, when by your size<a href="#r3" class="a-reference">[3]</a> I am left restless<br>
+O Handsome, and your setting<a href="#r4" class="a-reference">[4]</a> does soothe me<br>
 <br>
-O Handsome, be gentle in my seclusion<a href="#r5" style="font-size: small">[5]</a><br>
-O Handsome, for by nightfall you<a href="#r6" style="font-size: small">[6]</a> condemn me<br>
+O Handsome, be gentle in my seclusion<a href="#r5" class="a-reference">[5]</a><br>
+O Handsome, for by nightfall you<a href="#r6" class="a-reference">[6]</a> condemn me<br>
 <br>
 O Handsome, my companion out of severance<br>
 O Handsome, towards our consummation<br>
@@ -63,7 +63,7 @@ O Handsome, may my patience satisfy you<br>
 O Handsome, if we are not reunited<br>
 </p>
 
-<div style="padding: 2em 0 2em 0"></div>
+<div class="div-references">
 <!-- {{{ references -->
 <span id="r1">
 [1] The person addressed is being likened to and described in terms of the full moon - particularly with regard to their face - in a dark starless night, the seductive and obsessive power of the moon, the restlessness the full moon provokes, it running its course from East to West, both the alleviation inasmuch as the pain that seclusion and separation its setting and the time between its setting and nightfall produces, etc.<br>
@@ -92,6 +92,7 @@ The likeliest meaning would seem to run its course or to set; it bears observing
 [6] Both the masculine as well as the feminine personal pronoun 2nd pers. sg. are audible here.<br>
 </span>
 <!-- }}} -->
+</div>
 </div>
 
 </div>

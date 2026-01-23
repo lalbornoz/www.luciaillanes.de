@@ -1,16 +1,16 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center">We are the crows of ʕakk<a href="#r1" style="font-size: small">[1]</a>, ʕakk!</h1>
-<h2 style="text-align: center">Naḥnu ġurābā ʕakk ʕakk</h1>
+<h1 class="text-centre">We are the crows of ʕakk<a href="#r1" class="a-reference">[1]</a>, ʕakk!</h1>
+<h2 class="text-centre">Naḥnu ġurābā ʕakk ʕakk</h1>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 نوع الشعر: نشيد<br>
 الشاعر: مجهول<br>
 منطقته: يمن<br>
 عصر: جاهلي<br>
 </p>
 
-<p style="text-align: center">
+<p class="text-centre">
 نحن غرابا عك عك<br>
 نحن غرابا عك عك<br>
 <br>
@@ -30,15 +30,15 @@
 والكل لك نخضع لك<br>
 </p>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 Type of poem: Song/hymn<br>
 Name of poet: Unknown<br>
 Region of poet: Yaman<br>
 Era: Pre-Islāmic<br>
 </p>
 
-<p style="text-align: center">
-We are the crows<a href="#r2" style="font-size: small">[2]</a> of ʕakk<a href="#r1" style="font-size: small">[1]</a>, ʕakk!<br>
+<p class="text-centre">
+We are the crows<a href="#r2" class="a-reference">[2]</a> of ʕakk<a href="#r1" class="a-reference">[1]</a>, ʕakk!<br>
 We are the crows of ʕakk, ʕakk!<br>
 <br>
 ʕakk, to you we submit!<br>
@@ -57,10 +57,10 @@ Praise be to you and gratitude too!<br>
 And all the world and to you we submit!<br>
 </p>
 
-<div style="padding: 2em 0 2em 0"></div>
+<div class="div-references">
 <!-- {{{ references -->
 <span id="r1">
-[1] An ambiguous figure of Tribe ʕakk from the pre-Islāmic age (Jāhiliyyah, the age of "ignorance") bearing that same given name or title originating in the Yaman by the name of any of: ʕakk b. ʕadnān, brother of Maʕd b. ʕadnān, or al-Ḥariṯ b. ad-Dīṯ b. ʕadnān, or ʕakk b. al-Ġawṯ b. Badr b. Zayd b. Kahlān, or ʕakk b. ʕadnān b. Badr b. Zayd b. Kahlān, or ʕakk b. ʕadnān b. ʕabdi-llāh b. al-Azd, or ʕakk of Tribe Sabaʔ (e.g. Sabean, the biblical Sheba,) b. Yašjub b. Yaʕrub b. Qaḥṭān. <span style="text-decoration: line-through">(naturally, he may never have existed in that shape or form and Arab genealogies are mostly made up and genealogists are liars who should be ashamed of themselves for making up silly things that somehow evolved into a peculiarly fascinating subject of discussion not unlike British weather)</span><br>
+[1] An ambiguous figure of Tribe ʕakk from the pre-Islāmic age (Jāhiliyyah, the age of "ignorance") bearing that same given name or title originating in the Yaman by the name of any of: ʕakk b. ʕadnān, brother of Maʕd b. ʕadnān, or al-Ḥariṯ b. ad-Dīṯ b. ʕadnān, or ʕakk b. al-Ġawṯ b. Badr b. Zayd b. Kahlān, or ʕakk b. ʕadnān b. Badr b. Zayd b. Kahlān, or ʕakk b. ʕadnān b. ʕabdi-llāh b. al-Azd, or ʕakk of Tribe Sabaʔ (e.g. Sabean, the biblical Sheba,) b. Yašjub b. Yaʕrub b. Qaḥṭān. <span class="text-line-through">(naturally, he may never have existed in that shape or form and Arab genealogies are mostly made up and genealogists are liars who should be ashamed of themselves for making up silly things that somehow evolved into a peculiarly fascinating subject of discussion not unlike British weather)</span><br>
 This tribe, as many others, would perform an annual pilgrimage (Ḥajj) to Makkah whom would have said "crows" lead ahead of them, chanting the first of the two verse pairs ("We are the crows of ʕakk, ʕakk!", etc.) while circambulating the Kaʕbah, to which the other members of the tribe would respond with the second of the two verse pairs ("ʕakk, to you we submit!", etc.) on every second turn.<br>
 As evident from the subsequent verses, the tribe worshipped Hubal, an ancient Arabian deity or idol that may or may not have been of either Syrian or even Mesopotamian origin.<br>
 </span>
@@ -69,5 +69,6 @@ As evident from the subsequent verses, the tribe worshipped Hubal, an ancient Ar
 [2] The Arabs at the time referred to people of the darkest of complexions of (primarily East) African origin and beyond as crows, primarily slaves - although not entirely (cf. Aġribatu l-ʕarab, "crows or ravens of the Arabs", the name given to a group of Arabic poets who were of African origin or partly African parentage.)<br>
 </span>
 <!-- }}} -->
+</div>
 
 </div>

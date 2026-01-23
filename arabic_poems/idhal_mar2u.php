@@ -1,16 +1,16 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center"></h1>
-<h2 style="text-align: center">Iḏā l-Marʔu lam yudnas mina l-luʔmi ʕirḍuhu</h1>
+<h1 class="text-centre"></h1>
+<h2 class="text-centre">Iḏā l-Marʔu lam yudnas mina l-luʔmi ʕirḍuhu</h1>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 نوع الشعر: قصيدة على بحر الطويل<br>
 الشاعر: السموأل بن غريض بن عادياء الأزدي<br>
 منطقته: الحجاز<br>
 عصر: جاهلي - قرن السادس<br>
 </p>
 
-<p style="text-align: center">
+<p class="text-centre">
 
 إِذا المَرءُ لَم يُدنَس مِنَ اللُؤمِ عِرضُهُ<br>
 فَكُلُّ رِداءٍ يَرتَديهِ جَميلُ<br>
@@ -76,21 +76,21 @@
 فَلَيسَ سَواءً عالِمٌ وَجَهولُ<br>
 </p>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 Type of poem: Qaṣīdah in metre Ṭawīl<br>
-Name of poet: as-Samawʔal b. Ġarīḍ b. ʕādiyāʔ al-Azdī<a href="#r1" style="font-size: small">[1]</a><br>
+Name of poet: as-Samawʔal b. Ġarīḍ b. ʕādiyāʔ al-Azdī<a href="#r1" class="a-reference">[1]</a><br>
 Region of poet: Ḥijāz<br>
 Era: Pre-Islāmic - 6th century<br>
 </p>
 
-<p style="text-align: center">
-When a man does not stain with wickedness his honour<a href="#r2" style="font-size: small">[2]</a><br>
-then every robe that he dons upon him is pleasing<a href="#r3" style="font-size: small">[3]</a><br>
+<p class="text-centre">
+When a man does not stain with wickedness his honour<a href="#r2" class="a-reference">[2]</a><br>
+then every robe that he dons upon him is pleasing<a href="#r3" class="a-reference">[3]</a><br>
 <br>
-And if he cannot bear the injustice<a href="#r4" style="font-size: small">[4]</a> he suffers<br>
-no way is there for him to the benefit of praise<a href="#r5" style="font-size: small">[5]</a><br>
+And if he cannot bear the injustice<a href="#r4" class="a-reference">[4]</a> he suffers<br>
+no way is there for him to the benefit of praise<a href="#r5" class="a-reference">[5]</a><br>
 <br>
-She<a href="#r6" style="font-size: small">[6]</a> denounced us as so few we are in number<br>
+She<a href="#r6" class="a-reference">[6]</a> denounced us as so few we are in number<br>
 so I said to them: "The virtuous are always few in number<br>
 <br>
 not few are who remain to us equal in standing<br>
@@ -102,10 +102,10 @@ are strong, when those of most are servile."<br>
 Ours is the mountain, home to those whom we shelter,<br>
 strong and invincible, it repels the evil eye, even of the near-blind<br>
 <br>
-Its foundations are anchoured beneath the earth<a href="#r7" style="font-size: small">[7]</a>, it rises above them<br>
+Its foundations are anchoured beneath the earth<a href="#r7" class="a-reference">[7]</a>, it rises above them<br>
 towards the stars, its roots beyond reach, and grows tall<br>
 <br>
-It is al-Ablaq<a href="#r8" style="font-size: small">[8]</a>, the one and only, its reputation precedes it<br>
+It is al-Ablaq<a href="#r8" class="a-reference">[8]</a>, the one and only, its reputation precedes it<br>
 it is precious to whom seeks it and lofty and tall<br>
 <br>
 And we are a people who see in being slain no disgrace<br>
@@ -115,10 +115,10 @@ even though b. ʕāmir and b. Salūl see it otherwise<br>
 
 </p>
 
-<div style="padding: 2em 0 2em 0"></div>
+<div class="div-references">
 <!-- {{{ references -->
 <span id="r1">
-[1] as-Samawʔal b. ʕādiyāʔ, Šəmūʔēl (Samuel) b. ʕadiyyah (שמואל בן עדיה) in Hebrew, an Arabian tribal leader and warrior and, above all, preeminent poet of his day and age of Jewish background, along with his tribe, associated with the castle named al-Ablaq, the piebald<a href="#r8" style="font-size: small">[8]</a>.<br>
+[1] as-Samawʔal b. ʕādiyāʔ, Šəmūʔēl (Samuel) b. ʕadiyyah (שמואל בן עדיה) in Hebrew, an Arabian tribal leader and warrior and, above all, preeminent poet of his day and age of Jewish background, along with his tribe, associated with the castle named al-Ablaq, the piebald<a href="#r8" class="a-reference">[8]</a>.<br>
 <br>
 Famously epitomising loyalty in Arab culture since then in the saying: "more loyal/faithful than as-Samawʔal" (أوفى من السموأل, awfā mana s-Samawʔal(i),) he
 </span>
@@ -152,5 +152,6 @@ Famously epitomising loyalty in Arab culture since then in the saying: "more loy
 This refers to the castle of as-Samawʔal and his tribe, which was built in this manner.<br>
 </span>
 <!-- }}} -->
+</div>
 
 </div>

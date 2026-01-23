@@ -1,8 +1,8 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center">The Bridge Everywhere</h1>
+<h1 class="text-centre">The Bridge Everywhere</h1>
 
-<p style="color: #007f5d">
+<p class="text-green">
 At the beginning, she had descended down a stairway towards an obscure arrangement of alleys amidst
 a labyrinthine network of streets, roads, avenues, boulevards, cul-de-sacs, passages, corridors, and
 walkways that seemed to shift and switch according to their own volition. None of them were in the
@@ -16,7 +16,7 @@ anyone except for herself for longer than she could recall except for the occasi
 birds that seemed remarkably oddly out of place.
 </p>
 
-<p style="color: #007f5d">
+<p class="text-green">
 By midday, or so it would appear, she had begun assembling a loose recollection of places and names,
 starting with Nergal St., which, across an encumbering grid of narrow passages with illegible names,
 led to Ereškigal Canal, bordered by Apsû Boulevard, whence she walked towards Enki's District,
@@ -29,7 +29,7 @@ although it was, oddly, upside down. She decided to rest for a bit, fell asleep,
 offered hospitality at the humble house of a farmer near Eridu by the name of Gazimbi.
 </p>
 
-<p style="color: #007f5d">
+<p class="text-green">
 When she arose, it was midday, as it had been before. Enki's temple had been replaced with a very
 large stele that stretched up into the sky past the atmosphere of her sphere of dwelling, bearing
 inscriptions in Linear Elamite. She felt neither hungry nor thirsty and yet increasingly insatiable
@@ -41,7 +41,7 @@ tablets in Sumerian strewn all around, Nergal St., which, across a encumbering g
 passages with illegible names, led to Ereškigal Canal but then she stopped.
 </p>
 
-<p style="color: #007f5d">
+<p class="text-green">
 Suddenly she realised she had been here before! "What does that mean?" she thought to herself and as
 she reviewed the scene in front of her with a more discerning eye, she noticed that the very
 boundaries of the endless passages and pathways turned indeterminate the more she looked at them.
@@ -51,7 +51,7 @@ the path described by her journey to where she was now appeared in front of her 
 to be a large gate in the distance ahead, whence she must have come, as she then thought.
 </p>
 
-<p style="color: #007f5d">
+<p class="text-green">
 A solitary hudhud bird alighted amidst the scenery with the words "Ēyn sōf" written on his wings,
 turned around, and spoke unto her: "Ša šīmāta epšī."<br>
 She knew where she was.

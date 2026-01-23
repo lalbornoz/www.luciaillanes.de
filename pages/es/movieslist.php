@@ -5,8 +5,8 @@
 
       <div class="div-box div-content-grid">
         <div class="div-box" id="div-content-movies">
-          <h1 style="margin-bottom: 0">Películas y series que he visto</h1>
-          <span style="font-size: 1.5em; text-align: center"
+          <h1 class="text-margin-bottom-none">Películas y series que he visto</h1>
+          <span class="text-inscription-cuneiform"
               title="Lā qibiti, lā amāru, lā ṭēmi, lā šēmi, ṣilittu&#10;No voices, no sight, no senses, no sound, silence">
             𒆷 𒆠𒁉𒋾 𒆷 𒀀𒈠𒊑 𒆷 𒋼𒈪 𒆷 𒊺𒉿 𒍣𒇻𒌈
           </span><br>
@@ -15,7 +15,7 @@
             Por favor habilite JavaScript.
           </noscript>
 
-          <div id="spreadsheet" style="margin-top: 1em"></div>
+          <div id="spreadsheet" class="text-margin-top-1em"></div>
 
           <script>
             jspreadsheet(document.getElementById('spreadsheet'), {
@@ -32,7 +32,7 @@
             });
           </script>
 
-          <p style="font-style: italic; text-align: center">
+          <p class="text-centre text-italic">
             (generado con <a href="https://github.com/jspreadsheet/ce">jspreadsheet/ce</a>
             en base de <a href="https://github.com/lalbornoz/lists/blob/master/movies.txt">lalbornoz/lists/movies.txt</a>)
           </p>

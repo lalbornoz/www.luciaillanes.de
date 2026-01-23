@@ -1,16 +1,16 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center">Diligent conduct obtains the highest of aims</h1>
-<h2 style="text-align: center">Bi-qadri l-kaddi tuktasabu l-Maʕālī</h1>
+<h1 class="text-centre">Diligent conduct obtains the highest of aims</h1>
+<h2 class="text-centre">Bi-qadri l-kaddi tuktasabu l-Maʕālī</h1>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 نوع الشعر: قطغة على بحر الطويل<br>
 الشاعر: أبو عبد الله محمد بن إدريس الشافعيّ المطَّلِبيّ القرشيّ<br>
 منطقته: أساسا: مكة والمدينة, اليمن, بغداد ومصر<br>
 عصر: عباسي - قرن الثامن-التاسع<br>
 </p>
 
-<p style="text-align: center">
+<p class="text-centre">
 بِقَدرِ الكدِّ تُكتَسَبُ المَعالي<br>
 وَمَن طَلبَ العُلا سَهرَ اللَّيالي<br>
 <br>
@@ -21,14 +21,14 @@
 يَغوصُ البحر من طلبِ اللآلي<br>
 </p>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 Type of poem: Qiṭʕah in metre Ṭawīl<br>
 Name of poet: Abū ʕabdi-llāh Muḥammad b. Idrīs aš-Šāfiʕī al-Muṭṭalibī al-Qurašī<br>
 Region of poet: primarily: Makkah and al-Madīnah, the Yaman, Baġdād, and Egypt<br>
 Era: ʕabbāsid - 8th-9th century<br>
 </p>
 
-<p style="text-align: center">
+<p class="text-centre">
 Diligent conduct obtains the highest of aims<br>
 and whom seeks exaltation, strives through night after night<br>
 <br>
