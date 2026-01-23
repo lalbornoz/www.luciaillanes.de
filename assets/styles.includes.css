@@ -1,60 +1,60 @@
 
 /* {{{ #div-legend styles */
 #div-legend {
-  background-color:       rgba(255,255,255,0.85);
-  padding:                1.5em;
-  width:                  50%;
+  background-color: rgba(255,255,255,0.85);
+  padding:          1.5em;
+  width:            50%;
 }
 
 @media (max-width: 1280px) {
   #div-legend {
-    width:                85%;
+    width:          85%;
   }
 }
 
 #div-legend > h1,
 #div-legend > h2 {
-  display:                inline;
-  font-size:              2em;
-  font-variant:           normal;
-  font-weight:            normal;
+  display:          inline;
+  font-size:        2em;
+  font-variant:     normal;
+  font-weight:      normal;
 }
 #div-legend > h2 {
-  font-size:              1.25em;
+  font-size:        1.25em;
 }
 #div-legend > h3 {
-  margin:                 0;
+  margin:           0;
 }
 /* }}} */
 /* {{{ .span-legend-menu styles */
 .span-legend-menu {
-  font-variant:           small-caps;
-  padding:                0.5em;
-  width:                  60%;
+  font-variant:     small-caps;
+  padding:          0.5em;
+  width:            60%;
 }
 
 @supports (-webkit-appearance: none) and (not (-moz-appearance: none)) {
   .span-legend-menu {
-    font-size:            1.05em;
+    font-size:      1.05em;
   }
 }
 
 @supports (-moz-appearance: none) {
   .span-legend-menu {
-    font-size:            0.8em;
+    font-size:      0.8em;
   }
 }
 /* }}} */
 /* {{{ #div-copyright styles */
 #div-copyright {
-  font-size:              0.6em;
-  padding:                1em;
-  width:                  80%;
+  font-size:        0.6em;
+  padding:          1em;
+  width:            80%;
 }
 
 @media (max-width: 1280px) {
   #div-copyright {
-    width:                95%;
+    width:          95%;
   }
 }
 /* }}} */

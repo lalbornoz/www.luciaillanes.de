@@ -1,21 +1,21 @@
 
 #div-content-stories1 {
-  background:             transparent;
-  grid-area:              a;
+  background: transparent;
+  grid-area:  a;
 }
 
 .div-content-stories-roaries {
-  position:               absolute;
-  left:                   20%;
-  top:                    10%;
+  position:   absolute;
+  left:       20%;
+  top:        10%;
 
-  font-size:              3em;
-  opacity:                0.8;
-  visibility:             hidden;
+  font-size:  3em;
+  opacity:    0.8;
+  visibility: hidden;
 }
 
 #div-content-stories-roaries {
-  position:               relative;
+  position:   relative;
 }
 
 /* {{{ div-content-stories-roarie* frames */
@@ -83,13 +83,13 @@
 /* }}} */
 
 #div-content-stories2 {
-  background:             transparent;
-  grid-area:              b;
+  background: transparent;
+  grid-area:  b;
 }
 
 #div-content-stories3 {
-  background:             transparent;
-  grid-area:              c;
+  background: transparent;
+  grid-area:  c;
 }
 
 /*
