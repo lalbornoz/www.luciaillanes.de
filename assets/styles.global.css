@@ -5,17 +5,19 @@
 
 html, body {
   /* (required by #div-background) */
-  margin:         0;
-  height:         100%;
-  width:          100%;
-  font-family:    "Palatino", "Noto Naskh Arabic";
+  margin:           0;
+  height:           100%;
+  width:            100%;
+  font-family:      "Palatino", "Noto Naskh Arabic";
 }
 
 @font-face {
-  font-family:    "Noto Naskh Arabic";
-  size-adjust:    150%;
-  src:            url("NotoNaskhArabic.woff2") format("woff2");
-  unicode-range:  U+0600-06FF, U+0750-077F, U+08A0-08FF;  /* Arabic, Arabic Supplement, Arabic Extended-A */
+  font-family:      "Noto Naskh Arabic";
+  ascent-override:  60%;
+  descent-override: 60%;
+  size-adjust:      150%;
+  src:              url("NotoNaskhArabic.woff2") format("woff2");
+  unicode-range:    U+0600-06FF, U+0750-077F, U+08A0-08FF;  /* Arabic, Arabic Supplement, Arabic Extended-A */
 }
 
 body { font-size: 1em; }
