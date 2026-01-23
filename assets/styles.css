@@ -1,63 +1,63 @@
 
 #div-background {
-  background-image:       url(bg_final50.jpg);
-  background-position:    center;
-  background-repeat:      no-repeat;
-  background-size:        cover;
-  inset:                  0;
-  position:               fixed;
-  z-index:                -1;
+  background-image:     url(bg_final50.jpg);
+  background-position:  center;
+  background-repeat:    no-repeat;
+  background-size:      cover;
+  inset:                0;
+  position:             fixed;
+  z-index:              -1;
 }
 
 #div-background::before {
-  background-color:       rgba(255, 255, 255, 0.4);
-  content:                "";
-  inset:                  0;
-  mix-blend-mode:         lighten;
-  pointer-events:         none;
-  position:               absolute;
+  background-color:     rgba(255, 255, 255, 0.4);
+  content:              "";
+  inset:                0;
+  mix-blend-mode:       lighten;
+  pointer-events:       none;
+  position:             absolute;
 }
-
-#main-page {
-  margin:                 0 auto;
-  padding:                2rem;
-}
-
 
 .div-box {
-  background-color:       rgba(255,255,255,0.75);
-  margin:                 auto;
-  text-align:             center;
+  background-color:     rgba(255,255,255,0.75);
+  margin:               auto;
+  text-align:           center;
 }
 
 .div-empty {
-  background-color:       transparent;
-  height:                 1em;
+  background-color:     transparent;
+  height:               1em;
 }
 
 .div-content {
-  padding:                1em;
-  text-align:             left;
-  width:                  70%;
+  padding:              1em;
+  text-align:           left;
+  width:                70%;
 }
 
 @media (max-width: 1280px) {
   .div-content {
-    width:                95%;
+    width:              95%;
     }
 }
 
 .div-content > .p-references {
-  text-indent:            0em;
-  font-size:              1em;
-  font-variant:           small-caps;
+  text-indent:          0em;
+  font-size:            1em;
+  font-variant:         small-caps;
+}
+
+.div-content-error-page {
+  background:           transparent;
+  grid-area:            b;
+  text-align:           center;
 }
 
 .div-content-grid {
-  padding:                1em;
-  width:                  70%;
+  padding:              1em;
+  width:                70%;
 
-  display:                grid;
+  display:              grid;
   grid-template-areas:
     "a a b b c c"
     "a a b b c c"
@@ -66,83 +66,28 @@
 
 @media (max-width: 1280px) {
   .div-content-grid {
-    width:                95%;
+    width:              95%;
   }
 }
 
 @media (max-width: 1280px) {
     .div-content-img {
-        display:          none !important;
+        display:        none !important;
     }
 }
 
-.div-content-error-page {
-  background:             transparent;
-  grid-area:              b;
-  text-align:             center;
-}
-
 #img-generic-image {
-  display:                block;
-  margin-left:            auto;
-  margin-right:           auto;
-  max-height:             100%;
-  max-width:              100%;
+  display:              block;
+  margin-left:          auto;
+  margin-right:         auto;
+  max-height:           100%;
+  max-width:            100%;
 }
 
-.a-reference { font-size: small; }
-.div-references { padding: 2em 0 2em 0; }
-
-.element-hidden { visibility: hidden; }
-
-.img-centred { display: block; margin-left: auto; margin-right: auto; }
-.img-float-right { float: right; margin: 0 0 1rem 1rem; }
-.img-width-250px { width: 250px; }
-.img-width-45 { width: 45%; }
-
-.table-muwashshahah-ar { direction: rtl; }
-.table-muwashshahah-ar-centred { direction: rtl; text-align: center; margin-left: auto; margin-right: auto; }
-.table-muwashshahah-en { direction: ltr; }
-.table-muwashshahah-en-centred { direction: ltr; text-align: center; margin-left: auto; margin-right: auto; }
-
-:is(.table-muwashshahah-ar,
-    .table-muwashshahah-ar-centred,
-    .table-muwashshahah-en,
-    .table-muwashshahah-en-centred)
-tbody:not(:last-of-type) tr:last-child td { border-bottom: 1em solid transparent; }
-
-:is(.table-muwashshahah-ar,
-    .table-muwashshahah-ar-centred,
-    .table-muwashshahah-en,
-    .table-muwashshahah-en-centred) { margin-bottom: 1em; margin-top: 1em; }
-
-.tbody-muwashshahah-bayt { font-weight: normal; }
-.tbody-muwashshahah-heading { font-style: italic; font-weight: bold; }
-.tbody-muwashshahah-qufl { font-weight: bold; }
-
-.text-black { color: #000000; }
-.text-green { color: #007f5d; }
-.text-red { color: #7f0000; }
-
-.text-bold { font-weight: bold; }
-.text-centre { text-align: center; }
-.text-cursor-pointer { cursor: pointer; }
-.text-italic { font-style: italic; }
-.text-line-through { text-decoration: line-through; }
-.text-underline { text-decoration: underline; }
-
-.text-incantation { font-weight: bold; font-size: 1.5em; text-align: center; }
-
-.text-inscription-cuneiform { font-size: 1.5em; text-align: center; }
-.text-inscription-cuneiform-small { font-size: 1em; text-align: center; }
-.text-inscription-cuneiform-large { font-size: 2em; text-align: center; }
-
-.text-margin-bottom-none { margin-bottom: 0; }
-.text-margin-top-none { margin-top: 0; }
-.text-margin-top-1em { margin-top: 1em; }
-
-.text-warning-black { border: solid black 0.25em; padding: 0.5em; }
-.text-warning-red { border: dashed red 0.25em; padding: 0.5em; }
+#main-page {
+  margin:               0 auto;
+  padding:              2rem;
+}
 
 /*
  * vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=0
