@@ -1,48 +1,48 @@
-<div class="div-box div-content">
+    <div class="div-box div-content">
 
-<h1 class="text-centre">The Tree of Many Questions</h1>
+    <h1 class="text-centre">The Tree of Many Questions</h1>
 
-<img
-	alt="The tree of many questions"
-	src="/stories/<?php echo $inc_lang ?>/questiontree.png"
-	class="img-centred img-width-45">
+    <img
+    	alt="The tree of many questions"
+    	src="/stories/<?php echo $inc_lang ?>/questiontree.png"
+    	class="img-centred img-width-45">
 
-<p>
-Announcing the arrival of a calamitous morning, the owl of unasking quietly displaced the emptiness
-of the night and within its wake awoke the dawn of uncertainty. It knew neither whence it had come
-nor where its telos was to lie, merely that it possessed to each answer the question, for the eye
-that beholds the darkness of the night sleeps not. And thus, wherever it went, hence became and came
-to be. By the time the owl of unasking was no longer to be heard of or seen, a sprawling, wide
-forest of words had grown within the emptiness it had displaced. Entirely enclosed within itself,
-therein lingered by lettered ladders of letters, and held together by the spiders of myriad
-meanings, a square circle, a round triangle, a golden mountain, and the tree of many questions, each
-in its own possible world.
-</p>
+    <p>
+    Announcing the arrival of a calamitous morning, the owl of unasking quietly displaced the emptiness
+    of the night and within its wake awoke the dawn of uncertainty. It knew neither whence it had come
+    nor where its telos was to lie, merely that it possessed to each answer the question, for the eye
+    that beholds the darkness of the night sleeps not. And thus, wherever it went, hence became and came
+    to be. By the time the owl of unasking was no longer to be heard of or seen, a sprawling, wide
+    forest of words had grown within the emptiness it had displaced. Entirely enclosed within itself,
+    therein lingered by lettered ladders of letters, and held together by the spiders of myriad
+    meanings, a square circle, a round triangle, a golden mountain, and the tree of many questions, each
+    in its own possible world.
+    </p>
 
-<p>
-But there also were three that did not belong there, for those that did, could not tell beginning
-from end, and being was as remote to them as the distant boundlessness of the ineffable tranquility
-that surrounded them. Three that traversed a territory of the impossible, from the shores of nowhere
-to the abode of their destiny: a blind shadow, a silent lion, and a hudhud bird. Much, much later,
-when time itself became immemorial and rendered the unlikely inevitable, the owl of unasking
-returned and but briefly perceived the peculiar event and suddenly spoke, but noone was there to
-hear its marvellous speech. And hence, they were never heard of again, cast and banished into
-ephemeral eternality and impossible possibility.
-</p>
+    <p>
+    But there also were three that did not belong there, for those that did, could not tell beginning
+    from end, and being was as remote to them as the distant boundlessness of the ineffable tranquility
+    that surrounded them. Three that traversed a territory of the impossible, from the shores of nowhere
+    to the abode of their destiny: a blind shadow, a silent lion, and a hudhud bird. Much, much later,
+    when time itself became immemorial and rendered the unlikely inevitable, the owl of unasking
+    returned and but briefly perceived the peculiar event and suddenly spoke, but noone was there to
+    hear its marvellous speech. And hence, they were never heard of again, cast and banished into
+    ephemeral eternality and impossible possibility.
+    </p>
 
-<p>
-"...much time has passed since we last convened and much less do know now than we did then.", the
-blind shadow spoke and, shortly afterwards, continued: "They have not been seen anywhere."
-</p>
+    <p>
+    "...much time has passed since we last convened and much less do know now than we did then.", the
+    blind shadow spoke and, shortly afterwards, continued: "They have not been seen anywhere."
+    </p>
 
-<p>
-The silent lion did not respond.
-</p>
+    <p>
+    The silent lion did not respond.
+    </p>
 
-<p>
-As dawn finally arrived, the hudhud bird spoke: "They seem to have vanished without a trace...", it
-said, paused, then resumed in resignation: "...and along with them, the very reason that had
-compelled them to leave..
-</p>
+    <p>
+    As dawn finally arrived, the hudhud bird spoke: "They seem to have vanished without a trace...", it
+    said, paused, then resumed in resignation: "...and along with them, the very reason that had
+    compelled them to leave..
+    </p>
 
-</div>
+    </div>

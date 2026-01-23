@@ -1,92 +1,92 @@
-<div class="div-box div-content">
+    <div class="div-box div-content">
 
-<h1 class="text-centre">By God, what a river, it flows in the valley!</h1>
-<h2 class="text-centre">Li-llāhi nahrun sāla fī baṭḥāʔi</h2>
+    <h1 class="text-centre">By God, what a river, it flows in the valley!</h1>
+    <h2 class="text-centre">Li-llāhi nahrun sāla fī baṭḥāʔi</h2>
 
-<p class="text-centre text-italic">
-ﻧﻮﻉ ﺍﻟﺸﻌﺮ: شعر الطبيعة ﻋﻠﻰ ﺑﺤﺮ ﺍلكامل<br>
-ﺍﻟﺸﺎﻋﺮ: أبو إسحاق إبراهيم بن أبي الفتح بن عبد الله بن خفاجة الهواري<br>
-منطقته: ﺍﻷﻧﺪﻟﺲ<br>
-ﻋﺼﺮ: ﻗﺮﻥ ﺍلعاشر-ﺍلحادي ﻋﺸﺮ<br>
-</p>
+    <p class="text-centre text-italic">
+    ﻧﻮﻉ ﺍﻟﺸﻌﺮ: شعر الطبيعة ﻋﻠﻰ ﺑﺤﺮ ﺍلكامل<br>
+    ﺍﻟﺸﺎﻋﺮ: أبو إسحاق إبراهيم بن أبي الفتح بن عبد الله بن خفاجة الهواري<br>
+    منطقته: ﺍﻷﻧﺪﻟﺲ<br>
+    ﻋﺼﺮ: ﻗﺮﻥ ﺍلعاشر-ﺍلحادي ﻋﺸﺮ<br>
+    </p>
 
-<p class="text-centre">
-لِلَّهِ نَهرٌ سالَ في بَطحاءِ<br>
-أَشهى وُروداً مِن لِمى الحَسناءِ<br>
-<br>
-مُتَعَطِّفٌ مِثلَ السِوارِ كَأَنَّهُ<br>
-وَالزَهرُ يَكنُفُهُ مَجَرُّ سَماءِ<br>
-<br>
-قَد رَقَّ حَتّى ظُنَّ قُرصاً مُفرَغاً<br>
-مِن فَضَّةٍ في بُردَةٍ خَضراءِ<br>
-<br>
-وَغَدَت تَحُفُّ بِهِ الغُصونُ كَأَنَّها<br>
-هُدبٌ يَحُفُّ بِمُقلَةٍ زَرقاءِ<br>
-<br>
-وَلَطالَما عاطَيتُ فيهِ مُدامَةً<br>
-صَفراءَ تَخضِبُ أَيدِيَ النُدَماءِ<br>
-<br>
-وَالريحُ تَعبَثُ بِالغُصونِ وَقَد جَرى<br>
-ذَهَبُ الأَصيلِ عَلى لُجَينِ الماءِ<br>
-</p>
+    <p class="text-centre">
+    لِلَّهِ نَهرٌ سالَ في بَطحاءِ<br>
+    أَشهى وُروداً مِن لِمى الحَسناءِ<br>
+    <br>
+    مُتَعَطِّفٌ مِثلَ السِوارِ كَأَنَّهُ<br>
+    وَالزَهرُ يَكنُفُهُ مَجَرُّ سَماءِ<br>
+    <br>
+    قَد رَقَّ حَتّى ظُنَّ قُرصاً مُفرَغاً<br>
+    مِن فَضَّةٍ في بُردَةٍ خَضراءِ<br>
+    <br>
+    وَغَدَت تَحُفُّ بِهِ الغُصونُ كَأَنَّها<br>
+    هُدبٌ يَحُفُّ بِمُقلَةٍ زَرقاءِ<br>
+    <br>
+    وَلَطالَما عاطَيتُ فيهِ مُدامَةً<br>
+    صَفراءَ تَخضِبُ أَيدِيَ النُدَماءِ<br>
+    <br>
+    وَالريحُ تَعبَثُ بِالغُصونِ وَقَد جَرى<br>
+    ذَهَبُ الأَصيلِ عَلى لُجَينِ الماءِ<br>
+    </p>
 
-<p class="text-centre text-italic">
-Type of poem: Nature poem in Kāmil metre<br>
-Name of poet: Abū Ishāq Ibrāhīm b. Abī l-Fatḥ b. ʕabdi-llāh b. Ḫafājah al-Hawārī<br>
-Region of poet: al-Andalus<br>
-Era: 10th-11th century<br>
-</p>
+    <p class="text-centre text-italic">
+    Type of poem: Nature poem in Kāmil metre<br>
+    Name of poet: Abū Ishāq Ibrāhīm b. Abī l-Fatḥ b. ʕabdi-llāh b. Ḫafājah al-Hawārī<br>
+    Region of poet: al-Andalus<br>
+    Era: 10th-11th century<br>
+    </p>
 
-<p class="text-centre">
-By God, what a river, it flows in the valley!<br>
-Sweeter<a href="#r1" class="a-reference">[1]</a> its blossom<a href="#r2" class="ref">[2]</a> than the red lips of a girl<a href="#r3" class="ref">[3]</a><br>
-<br >
-It bends and it winds like a bracelet, as though,<br>
-guarded by flowers, like stars drawn from the sky<a href="#r4" class="a-reference">[4]</a><br>
-<br>
-So graceful and soft, like headdress<a href="#r5" class="a-reference">[5]</a> that's molten<br>
-of silver and dressed in a mantle of green<br>
-<br>
-It<a href="#r6" class="a-reference">[6]</a> is unto the branches that border the river<br>
-like long-lashed sprigs around a girl's blue wide eyes<br>
-<br>
-Often have I therein perished in long-lasting wine,<br>
-yellow-sweet wine, that dyes hands<a href="#r7" class="a-reference">[7]</a> like twigs become green<br>
-<br>
-The wind plays with the twigs and therein there flows<br>
-the gold-gleaming sunset on silver-bright water<br>
-</p>
+    <p class="text-centre">
+    By God, what a river, it flows in the valley!<br>
+    Sweeter<a href="#r1" class="a-reference">[1]</a> its blossom<a href="#r2" class="ref">[2]</a> than the red lips of a girl<a href="#r3" class="ref">[3]</a><br>
+    <br >
+    It bends and it winds like a bracelet, as though,<br>
+    guarded by flowers, like stars drawn from the sky<a href="#r4" class="a-reference">[4]</a><br>
+    <br>
+    So graceful and soft, like headdress<a href="#r5" class="a-reference">[5]</a> that's molten<br>
+    of silver and dressed in a mantle of green<br>
+    <br>
+    It<a href="#r6" class="a-reference">[6]</a> is unto the branches that border the river<br>
+    like long-lashed sprigs around a girl's blue wide eyes<br>
+    <br>
+    Often have I therein perished in long-lasting wine,<br>
+    yellow-sweet wine, that dyes hands<a href="#r7" class="a-reference">[7]</a> like twigs become green<br>
+    <br>
+    The wind plays with the twigs and therein there flows<br>
+    the gold-gleaming sunset on silver-bright water<br>
+    </p>
 
-<div class="div-references">
-<!-- {{{ references -->
-<span id="r1">
-[1] or: covetous; exciting desire<br>
-</span>
-<br>
-<span id="r2">
-[2] The appearance of the river springing forth is likened to the blossoming of a flower.<br>
-</span>
-<br>
-<span id="r3">
-[3] The poet, in this poem on nature, describes a river and nature in general in anthropomorphising terms, particularly likening it to a girl with red lips and blue eyes.<br>
-</span>
-<br>
-<span id="r4">
-[4] e.g. the river bends, winds, and curves like a bracelet wrapping around the wrist, it is surrounded on all sides by flowers, and the flowers are likened to the stars revolving around the planet in the sky - or the Milky Way galaxy.<br>
-</span>
-<br>
-<span id="r5">
-[5] Qurṣ: Disk of metal used as a head-ornament for women - suspended from a chain worn around the head, a headdress of Arabian origin worn by women.<br>
-</span>
-<br>
-<span id="r6">
-[6] The mantle.<br>
-</span>
-<br>
-<span id="r7">
-[7] The verb employed - taḫḍibu - means to dye as well as - specifically for twigs - to become green.<br>
-</span>
-<!-- }}} -->
-</div>
+    <div class="div-references">
+    <!-- {{{ references -->
+    <span id="r1">
+    [1] or: covetous; exciting desire<br>
+    </span>
+    <br>
+    <span id="r2">
+    [2] The appearance of the river springing forth is likened to the blossoming of a flower.<br>
+    </span>
+    <br>
+    <span id="r3">
+    [3] The poet, in this poem on nature, describes a river and nature in general in anthropomorphising terms, particularly likening it to a girl with red lips and blue eyes.<br>
+    </span>
+    <br>
+    <span id="r4">
+    [4] e.g. the river bends, winds, and curves like a bracelet wrapping around the wrist, it is surrounded on all sides by flowers, and the flowers are likened to the stars revolving around the planet in the sky - or the Milky Way galaxy.<br>
+    </span>
+    <br>
+    <span id="r5">
+    [5] Qurṣ: Disk of metal used as a head-ornament for women - suspended from a chain worn around the head, a headdress of Arabian origin worn by women.<br>
+    </span>
+    <br>
+    <span id="r6">
+    [6] The mantle.<br>
+    </span>
+    <br>
+    <span id="r7">
+    [7] The verb employed - taḫḍibu - means to dye as well as - specifically for twigs - to become green.<br>
+    </span>
+    <!-- }}} -->
+    </div>
 
-</div>
+    </div>

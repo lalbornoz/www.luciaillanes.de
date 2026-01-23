@@ -1,46 +1,46 @@
-Muwaššaḥah or Tawšīḥ, Moaxaja in Spanish - "girdled" poetry, named owing to its strophic structure and with
-reference to the fashionable girdle, double belt, or scarf worn by women of high status in al-Andalus at the time - is a
-form of Classical strophic poetry, e.g. composed in Classical as opposed to vernacular Arabic, that originated in
-al-Andalus, specifically attributed to either Muqaddam b. al-Muʕāfah al-Qabrī in the 10th century, el Ciego de Cabra,
-the Blind Man of Cabra, near Córdoba, then named Qabrah or b. ʕabd Rabbih in the 9th/10th century, also from near Córdoba,
-the famous author of the ʕiqdu l-Farīd, The Unique Necklace.<br>
-<br>
-A Muwaššaḥah is always composed of half-verse pairs - as in Arabic poetry in general - in the form of strophes of three or
-more Bayt ("verse" (etymologically related to "tent, house") pl. Abyāt,) or Ġuṣn ("branch, twig", pl. Aġṣān,) and, at the
-end, a Qufl ("lock, bolt", pl. Aqfāl) or Simṭ ("string, thread" (particularly of a necklace,) pl. Sumūṭ.) The first -
-optional - Qufl is named the Maṭlah ("overlook, vantage"; "remainder of water in a basin", pl. Maṭlāt.) The last - obligatory
-- Qufl is named the Ḫarjah ("departure, exit", pl. Ḫarajāt - Jarcha in Spanish) - the latter being the most important,
-refined, and renowned part of a Muwaššaḥah, establishing the ultimate intention and premise of the poet; some Ḫarjah were
-composed in Romance or Mozarabic - Hispanic Vulgar Latin of the day and age - or Hebrew. Often, a Ḫarjah is composed from the
-perspective of a beloved person, often women but not always, or even an abstract object or interceding person, etc. pp.<br>
-<br>
-In contrast to Classical poetry, a Muwaššaḥah may be composed in a much larger ranges of metres than those documented - and
-thereby arguably fixed - by al-Ḥalīl b. Aḥmad al-Farāhīdī in the 8th century. The Classical range of genres - Faḫr, Madīḥ, Hijāʔ,
-and Riṯāʔ (exaltation, panegyric, satire, and lamentation,) Waṣf (description,) Ġazal (love,) etc. - is more limited in that
-the genres of Ḥamriyyah, Rabīʕiyyah, Rawḍiyyah, and Nawriyyah (poetry on wine, spring, gardens, and the blossoming of
-flowers) as well as love predominate; homoerotic poetry is also just as strongly present as it was in Classical poetry where often
-it is unclear whether the beloved person being referred to is female or male. Stylistically speaking, a Muwaššaḥah tends to have
-very spontaneous, concise, and direct yet witty qualities.<br>
-<br>
-Andalusian language, culture, identity, and also, of course, poetry - arguably the genesis of the first, true autochthonous
-and quite pluralistic (yet certainly tumultously so) Hispanic identity with all it entailed - across the centuries decidely
-set itself apart from that of the - comparatively miniscule in number anyway - Yemenites, Syrians, and Umayyads present in
-the peninsula beginning in the 8th century, whilst maintaining very strong ties to and influence from the ʕabbasid era
-heartlands of the Islamic World at the time, viz. Mesopotamia, where, among others, Persian influence was much stronger than
-peninsular Arabian. This also affected poetry: Arabic or Arabian poetry, Classical poetry, was - eventually - viewed as
-little but poetry on "towering camels" - there were, of course, no camels and no desert culture in al-Andalus and while
-Andalusian language identity was of course primarily Arabic - and Romance or Mozarabic and then Hebrew - it was not Arabian -
-and hence, a more uniquely Andalusian form of poetry was born: the Muwaššaḥah, the counterpart to Classical poetry and,
-later, the Zajal ("shout",) the counterpart to vernacular poetry.<br>
-<br>
-Much of what has been preserved is due to the 11th/12th century Ayyūbid-era Egyptian poet b. Sanāʔ al-Mulk, known also as
-al-Qāḍī as-Saʕīd, of Cairo, in his Dār aṭ-Ṭirāz, The House of Brocade, containing the vast majority of the body of old
-Andalusian Muwaššaḥah along with a great deal of history and analysis thereof.<br>
-<br>
-In addition to this, the repertoire of Classical Andalusian Music (Ṭarabu l-Ālah) in the Maġrib encompasses a large number
-of Muwaššaḥāt, though only fragments thereof.<br>
-<br>
-Both the Muwaššaḥah and the Zajal, in altered form, have continued to enjoy a great deal of popularity, including in
-modernity and post-modernity, in the Arab world, such as in Lebanon in the form of extemporaneous poetic duels and have
-exerted considerable influence on the poetry of Western Europe from France to England, possibly including the poem of Sir
-Gawain and the Green Knight, as well as Hispanic poetry and song to this day and age.<br>
+    Muwaššaḥah or Tawšīḥ, Moaxaja in Spanish - "girdled" poetry, named owing to its strophic structure and with
+    reference to the fashionable girdle, double belt, or scarf worn by women of high status in al-Andalus at the time - is a
+    form of Classical strophic poetry, e.g. composed in Classical as opposed to vernacular Arabic, that originated in
+    al-Andalus, specifically attributed to either Muqaddam b. al-Muʕāfah al-Qabrī in the 10th century, el Ciego de Cabra,
+    the Blind Man of Cabra, near Córdoba, then named Qabrah or b. ʕabd Rabbih in the 9th/10th century, also from near Córdoba,
+    the famous author of the ʕiqdu l-Farīd, The Unique Necklace.<br>
+    <br>
+    A Muwaššaḥah is always composed of half-verse pairs - as in Arabic poetry in general - in the form of strophes of three or
+    more Bayt ("verse" (etymologically related to "tent, house") pl. Abyāt,) or Ġuṣn ("branch, twig", pl. Aġṣān,) and, at the
+    end, a Qufl ("lock, bolt", pl. Aqfāl) or Simṭ ("string, thread" (particularly of a necklace,) pl. Sumūṭ.) The first -
+    optional - Qufl is named the Maṭlah ("overlook, vantage"; "remainder of water in a basin", pl. Maṭlāt.) The last - obligatory
+    - Qufl is named the Ḫarjah ("departure, exit", pl. Ḫarajāt - Jarcha in Spanish) - the latter being the most important,
+    refined, and renowned part of a Muwaššaḥah, establishing the ultimate intention and premise of the poet; some Ḫarjah were
+    composed in Romance or Mozarabic - Hispanic Vulgar Latin of the day and age - or Hebrew. Often, a Ḫarjah is composed from the
+    perspective of a beloved person, often women but not always, or even an abstract object or interceding person, etc. pp.<br>
+    <br>
+    In contrast to Classical poetry, a Muwaššaḥah may be composed in a much larger ranges of metres than those documented - and
+    thereby arguably fixed - by al-Ḥalīl b. Aḥmad al-Farāhīdī in the 8th century. The Classical range of genres - Faḫr, Madīḥ, Hijāʔ,
+    and Riṯāʔ (exaltation, panegyric, satire, and lamentation,) Waṣf (description,) Ġazal (love,) etc. - is more limited in that
+    the genres of Ḥamriyyah, Rabīʕiyyah, Rawḍiyyah, and Nawriyyah (poetry on wine, spring, gardens, and the blossoming of
+    flowers) as well as love predominate; homoerotic poetry is also just as strongly present as it was in Classical poetry where often
+    it is unclear whether the beloved person being referred to is female or male. Stylistically speaking, a Muwaššaḥah tends to have
+    very spontaneous, concise, and direct yet witty qualities.<br>
+    <br>
+    Andalusian language, culture, identity, and also, of course, poetry - arguably the genesis of the first, true autochthonous
+    and quite pluralistic (yet certainly tumultously so) Hispanic identity with all it entailed - across the centuries decidely
+    set itself apart from that of the - comparatively miniscule in number anyway - Yemenites, Syrians, and Umayyads present in
+    the peninsula beginning in the 8th century, whilst maintaining very strong ties to and influence from the ʕabbasid era
+    heartlands of the Islamic World at the time, viz. Mesopotamia, where, among others, Persian influence was much stronger than
+    peninsular Arabian. This also affected poetry: Arabic or Arabian poetry, Classical poetry, was - eventually - viewed as
+    little but poetry on "towering camels" - there were, of course, no camels and no desert culture in al-Andalus and while
+    Andalusian language identity was of course primarily Arabic - and Romance or Mozarabic and then Hebrew - it was not Arabian -
+    and hence, a more uniquely Andalusian form of poetry was born: the Muwaššaḥah, the counterpart to Classical poetry and,
+    later, the Zajal ("shout",) the counterpart to vernacular poetry.<br>
+    <br>
+    Much of what has been preserved is due to the 11th/12th century Ayyūbid-era Egyptian poet b. Sanāʔ al-Mulk, known also as
+    al-Qāḍī as-Saʕīd, of Cairo, in his Dār aṭ-Ṭirāz, The House of Brocade, containing the vast majority of the body of old
+    Andalusian Muwaššaḥah along with a great deal of history and analysis thereof.<br>
+    <br>
+    In addition to this, the repertoire of Classical Andalusian Music (Ṭarabu l-Ālah) in the Maġrib encompasses a large number
+    of Muwaššaḥāt, though only fragments thereof.<br>
+    <br>
+    Both the Muwaššaḥah and the Zajal, in altered form, have continued to enjoy a great deal of popularity, including in
+    modernity and post-modernity, in the Arab world, such as in Lebanon in the form of extemporaneous poetic duels and have
+    exerted considerable influence on the poetry of Western Europe from France to England, possibly including the poem of Sir
+    Gawain and the Green Knight, as well as Hispanic poetry and song to this day and age.<br>
