@@ -11,124 +11,146 @@
 </p>
 
 <table class="table-muwashshahah-ar-centred">
-<tr class="tr-muwashshahah-qufl">
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>ﺭُﺡْ ﻟﻠﺮﺍﺡ ﻭﺑﺎﻛﺮ</td>
 <td>بالمُعْلَم ﺍﻟﻤَﺸﻮﻑ</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>ﻏَﺒﻮﻗﺎ ﻭﺻُﺒﻮﺡ</td>
 <td>ﻋﻠﻰ ﺍﻟﻮَﺗَﺮ ﺍﻟﻔﺼﻴﺢ</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-bayt">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>ﻟﻴﺲ ﺍﺳﻢ ﺍﻟﺨﻤﺮ ﻋﻨﺪﻱ</td>
 <td>ﻣﺄﺧﻮﺫﺍ ﻓﺄﻋﻠﻢ</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>ﺍﻻ ﻣﻦ ﺧﺎء ﺍﻟﺨﺪ</td>
 <td>ﻭﻣﻴﻢ ﺍﻟﻤﺒﺴﻢ</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>ﻭﺭﺍء ﺭﻳﻖ ﺍﻟﺸﻬﺪ</td>
 <td>ﺍﻟﻌﺎﻃﺮ ﺍﻟﻔﻢ</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>ﻓﻜﻦْ ﻟﻠﻬﻢ ﻫﺎﺟﺮ</td>
 <td>ﻭﺻﻞْ ﻫﺬﻱ ﺍﻟﺤﺮﻭﻑ</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>ﻛﻲ ﺗﻐﺪﻭ ﻭﺗﺮﻭﺡ</td>
 <td>ﺑﺠﺴﻢ ﻟﻪ ﺭﻭﺡ</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-bayt">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>بالله سقِّنيها</td>
 <td>ﻓﻲ ﻭﺩ ﺍﻟﻮﺍﺛﻖ</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>ﻓﺈﻥ ﻣﻨﻪ ﻓﻴﻬﺎ</td>
 <td>ﺷِﺒْﻪَ ﺍﻟﺨﻼﺋﻖ</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>ﻣﻦ ﺍﻋﺪﻡ ﺍﻟﺸﺒﻴﻬﺎ</td>
 <td>ﻓﻲ ﺍﻟﻤﺠﺪ ﺍﻟﺒﺎﺳﻖ</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>ﻟﻪ ﻣﻦ ﺍﻟﻤﻔﺎﺧﺮ</td>
 <td>ﺗﻠﻴﺪ ﻭﻃﺮﻳﻒ</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>ﺩَﻭْﺡٌ ﻣﻦ ﻋﻬﺪ ﻧﻮﺡ</td>
 <td>ﻭﺭﻭﺿﺔ ﺗﻔﻮﺡ</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-bayt">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>ﻫﻞ ﺗﺤﺴﻦ ﺍﻟﻤﺪﺍﺋﺢ</td>
 <td>ﻣﻦ ﻛﻞ ﻣﺎﺩﺡ</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>ﺇﻻ ﻋﻠﻰ ﺍﻟﺠﺤﺎﺟﺢ</td>
 <td>ﺑﻨﻲ ﺻﻤﺎﺩﺡ</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>ﻓﺄﻧﻬﻢ ﻣﺼﺎﺑﺢ</td>
 <td>ﻋﻠﻰ ﺳﻮﺍﺑﺢ</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>ﺃﻛﺎﺭﻡ ﺃﻛﺎﺑﺮ</td>
 <td>ﺻِﻴﺪٌ ﺷُﻢّ ﺍﻻﻧﻮﻑ</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>ﺣﺎﺯﺭﻭﺍ ﺍﻟﻤﺠﺪ ﺍﻟﺼﺮﻳﺢ</td>
 <td>فَخُصّو بالحميح</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-bayt">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>ﻣﺤﻤﺪ ﺑﻌﻴﺪ</td>
 <td>ﻣﺮﺍﻣﻪ ﻗﺮﻳﺐ</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>ﻭﺣﻮﻟﻪ ﺟﻨﻮﺩ</td>
 <td>ﻣﻦ ﺁﻟﻪ ﺗﺠﻴﺐ</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>ﻛﺄﻧﻬﻢ ﺍﺳﻮﺩ</td>
 <td>ﻓﻲ ﺣﻮﻣﺔ ﺍﻟﺤﺮﻭﺏ</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>ﺇﺫﺍ ﺳﻠّﻮﺍ ﺍﻟﺒﻮﺍﺗﺮ</td>
 <td>فالحين ﻭﺍﻟﺤﺘﻮﻑ</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>ﻭﺍﻟﻨﺼﺮ ﻭﺍﻟﻔﺘﻮﺡ</td>
 <td>ﻭﺁﻳﺔ ﺗﻠﻮﺡ</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-bayt">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>ﻭﺇﺫﺍ ﻻﺡ ﺍﺑﻦ ﻣﻌﻦ</td>
 <td>ﻓﻲ ﺟﻴﺸﻪ ﺍﻟﻠﺠﺐ</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>ﻭﻧﺎﺩﻯ ﻛﻞ ﻗﺮﻥ</td>
 <td>ﺑﺎﺳﻤﻪ ﻓﻲ ﺍﻟﻠﻌﺐ</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>فالهيجاء ﺗﻐﻨﻲ</td>
 <td>ﻭﺍﻟﺴﻴﻒ ﻗﺪ ﻃﺮﺏ</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>ﻣﺎ ﺃﻣﻠﺢ ﺍﻟﻌﺴﺎﻛﺮ</td>
 <td>ﻭﺗﺮﺗﻴﺐ ﺍﻟﺼﻔﻮﻑ</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>ﻭﺍﻻﺑﻄﺎﻝ ﺗُﺼﻴﺢ</td>
 <td>ﺍﻟﻮﺍﺛﻖ ﻳﺎﻣﻠﻴﺢ</td>
 </tr>
+</tbody>
 </table>
 
 <p class="text-centre text-italic">
@@ -139,124 +161,146 @@ Era: medieval (11th century)<br>
 </p>
 
 <table class="table-muwashshahah-en-centred">
-<tr class="tr-muwashshahah-qufl">
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>Rush to wine and early</td>
 <td>By the bright and shining coin<a href="#r2" class="a-reference">[2]</a></td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>In the evening, the morning</td>
 <td>In eloquent metre<a href="#r3" class="a-reference">[3]</a></td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-bayt">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>The name of wine is not spelt out,</td>
 <td>so be aware:</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>except with the Ḫāʔ that draws,</td>
 <td>also the smiling Mīm,</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>the Rāʔ of honey saliva,<a href="#r4" class="a-reference">[4]</a></td>
 <td>perfuming the mouth.</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>So let all concern depart</td>
 <td>and join those consonants</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>so that you may leave and go</td>
 <td>with a body full of spirit</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-bayt">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>By God, give me a drink</td>
 <td>for the love of al-Wāṯiq<a href="#r5" class="a-reference">[5]</a></td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>For from him spring therein</td>
 <td>two beings both alike</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>Unequalled and unique</td>
 <td>in his lofty, noble glory</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>He is, of all the noble,</td>
 <td>of good lineage and wit</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>upon the tree of Nūḥ<a href="#r7">[7]</a></td>
 <td>a perfumed splendid garden</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-bayt">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>Who deserves the panegyric</td>
 <td>from all of those that write it</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>Better than the generous lords</td>
 <td>of House Banū Ṣumādiḥ<a href="#r8" class="a-reference">[8]</a></td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>For luminant lamps they are</td>
 <td>upon poets of poems of praise</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>The most generous, most grand</td>
 <td>They hunt with finest sense</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>Endowed with distinguished glory</td>
 <td>Exalted they are in praise</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-bayt">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>When Muḥammad<a href="#r5" class="a-reference">[5]</a> is far away</td>
 <td>desire of him is near</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>And surrounding him, the army</td>
 <td>of House Banū Tujīb<a href="#r6" class="a-reference">[6]</a></td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>Like lions they all are</td>
 <td>in the thick of war and battle</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>When cutting swords are drawn</td>
 <td>and death and trial draw near</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>and conquests are delivered</td>
 <td>and his handsomeness appears</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-bayt">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>When the son of Maʕn<a href="#r5" class="a-reference">[5]</a> appears</td>
 <td>his army's in uproar</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>and all his foes declare</td>
 <td>his name in fun and play</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>And the sabre starts to sing</td>
 <td>the sword my instrument:</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>How wonderful the armies</td>
 <td>when arranged in orderly ranks</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>when the champions loudly shout:</td>
 <td>al-Wāṯiq<a href="#r5" class="a-reference">[5]</a>, the most Handsome!</td>
 </tr>
+</tbody>
 </table>
 
 <div class="div-references">

@@ -104,8 +104,21 @@
 .table-muwashshahah-ar-centred { direction: rtl; text-align: center; margin-left: auto; margin-right: auto; }
 .table-muwashshahah-en { direction: ltr; }
 .table-muwashshahah-en-centred { direction: ltr; text-align: center; margin-left: auto; margin-right: auto; }
-.tr-muwashshahah-bayt { font-weight: normal; }
-.tr-muwashshahah-qufl { font-weight: bold; }
+
+:is(.table-muwashshahah-ar,
+    .table-muwashshahah-ar-centred,
+    .table-muwashshahah-en,
+    .table-muwashshahah-en-centred)
+tbody:not(:last-of-type) tr:last-child td { border-bottom: 1em solid transparent; }
+
+:is(.table-muwashshahah-ar,
+    .table-muwashshahah-ar-centred,
+    .table-muwashshahah-en,
+    .table-muwashshahah-en-centred) { margin-bottom: 1em; margin-top: 1em; }
+
+.tbody-muwashshahah-bayt { font-weight: normal; }
+.tbody-muwashshahah-heading { font-style: italic; font-weight: bold; }
+.tbody-muwashshahah-qufl { font-weight: bold; }
 
 .text-black { color: #000000; }
 .text-green { color: #007f5d; }

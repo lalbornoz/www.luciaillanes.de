@@ -11,124 +11,146 @@
 </p>
 
 <table class="table-muwashshahah-ar-centred">
-<tr class="tr-muwashshahah-qufl">
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>جادَكَ الغيْثُ إذا الغيْثُ هَمى</td>
 <td>يا زَمانَ الوصْلِ بالأندَلُسِ</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>لمْ يكُنْ وصْلُكَ إلاّ حُلُما</td>
 <td>في الكَرَى أو خِلسَةَ المُخْتَلِسِ</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-bayt">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>إذْ يقودُ الدّهْرُ أشْتاتَ المُنَى</td>
 <td>تنْقُلُ الخَطْوَ علَى ما يُرْسَمُ</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>زُفَراً بيْنَ فُرادَى وثُنَى</td>
 <td>مثْلَما يدْعو الوفودَ الموْسِمُ</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>والحَيا قدْ جلّلَ الرّوضَ سَنا</td>
 <td>فثُغورُ الزّهْرِ فيهِ تبْسِمُ</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>ورَوَى النّعْمانُ عنْ ماءِ السّما</td>
 <td>كيْفَ يرْوي مالِكٌ عنْ أنسِ</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>فكَساهُ الحُسْنُ ثوْباً مُعْلَما</td>
 <td>يزْدَهي منْهُ بأبْهَى ملْبَسِ</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-bayt">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>في لَيالٍ كتَمَتْ سرَّ الهَوى</td>
 <td>بالدُّجَى لوْلا شُموسُ الغُرَرِ</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>مالَ نجْمُ الكأسِ فيها وهَوى</td>
 <td>مُسْتَقيمَ السّيْرِ سعْدَ الأثَرِ</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>وطَرٌ ما فيهِ منْ عيْبٍ سَوَى</td>
 <td>أنّهُ مرّ كلَمْحِ البصَرِ</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>حينَ لذّ الأنْسُ مَع حُلْوِ اللّمَى</td>
 <td>هجَمَ الصُّبْحُ هُجومَ الحرَسِ</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>غارَتِ الشُّهْبُ بِنا أو ربّما</td>
 <td>أثّرَتْ فيها عُيونُ النّرْجِسِ</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-bayt">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>أيُّ شيءٍ لامرِئٍ قدْ خلَصا</td>
 <td>فيكونُ الرّوضُ قد مُكِّنَ فيهْ</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>تنْهَبُ الأزْهارُ فيهِ الفُرَصا</td>
 <td>أمِنَتْ منْ مَكْرِهِ ما تتّقيهْ</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>فإذا الماءُ تَناجَى والحَصَى</td>
 <td>وخَلا كُلُّ خَليلٍ بأخيهْ</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>تبْصِرُ الورْدَ غَيوراً برِما</td>
 <td>يكْتَسي منْ غيْظِهِ ما يكْتَسي</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>وتَرى الآسَ لَبيباً فهِما</td>
 <td>يسْرِقُ السّمْعَ بأذْنَيْ فرَسِ</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-bayt">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>يا أُهَيْلَ الحيّ منْ وادِي الغضا</td>
 <td>وبقلْبي مسْكَنٌ أنْتُمْ بهِ</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>ضاقَ عْنْ وجْدي بكُمْ رحْبُ الفَضا</td>
 <td>لا أبالِي شرْقُهُ منْ غَرْبِهِ</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>فأعِيدوا عهْدَ أنْسٍ قدْ مضَى</td>
 <td>تُعْتِقوا عانِيكُمُ منْ كرْبِهِ</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>واتّقوا اللهَ وأحْيُوا مُغْرَما</td>
 <td>يتَلاشَى نفَساً في نفَسِ</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>حُبِسَ القلْبُ عليْكُمْ كرَما</td>
 <td>أفَتَرْضَوْنَ عَفاءَ الحُبُسِ</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-bayt">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>وبقَلْبي منْكُمُ مقْتَرِبٌ</td>
 <td>بأحاديثِ المُنَى وهوَ بَعيدْ</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>قمَرٌ أطلَعَ منْهُ المَغْرِبُ</td>
 <td>بشِقوةِ المُغْرَى بهِ وهْوَ سَعيدْ</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>قد تساوَى مُحسِنٌ أو مُذْنِبُ</td>
 <td>في هَواهُ منْ وعْدٍ ووَعيدْ</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>ساحِرُ المُقْلَةِ معْسولُ اللّمى</td>
 <td>جالَ في النّفسِ مَجالَ النّفَسِ</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>سدَّدَ السّهْمَ وسمّى ورَمى</td>
 <td>ففؤادي نُهْبَةُ المُفْتَرِسِ</td>
 </tr>
+</tbody>
 </table>
 
 <p class="text-centre text-italic">
@@ -139,44 +161,49 @@ Era: 14th century<br>
 </p>
 
 <table class="table-muwashshahah-en-centred">
-<tr class="tr-muwashshahah-qufl">
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>Generous was the rain when it fell in vain</td>
 <td>to those many times of union in al-Andalus</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>It was no union after all but a wishful dream</td>
 <td>in slumber, or a usurper's opportunity</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-bayt">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>...</td>
 <td>...</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>...</td>
 <td>...</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>...</td>
 <td>...</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>...</td>
 <td>...</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>...</td>
 <td>...</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-bayt">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>In nights concealed lay love that's secret</td>
 <td>in darkness, weren't it for the blazing suns</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>The cup star in them sinks and descends</td>
 <td>straight is its path, joy in its trail</td>
+</tbody>
 </table>
 
 <div class="div-references">

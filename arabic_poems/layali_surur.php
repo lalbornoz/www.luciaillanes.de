@@ -11,195 +11,221 @@
 </p>
 
 <table class="table-muwashshahah-ar-centred">
-<tr class="tr-muwashshahah-qufl">
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>اَلصَّبَاحُ فِي الاِنْشِرَاحْ</td>
 <td>واﻟﻄُّﻴُﻮرْ ﺗُﺴَﺒِّﺤُﻮا</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>وَالهَزَارْ غَنَّى يَا صَاحْ</td>
 <td>اﻟﻤِﻴَﺎﻩْ تَسِيحُوا</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>مَعَ سِتِّ<a href="#r3" class="a-reference">[3]</a> المِلَاحْ</td>
 <td>بِالمَايَةْ وَنَصْبِحُ</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>لَيَالِي سُرُورْ فِي حُسْنِ زَمَانِ</td>
 <td>إِنَّهَا تَمُرّ عَنْ كُلّ إِنْسَانِ</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>بِتْنَا فِي سُرُورْ فُرْحًا وَسِلْوَانِ</td>
 <td>بِقُدُومْ اَلصَّبَاحْ يُسْرَي عَلِىّ يِفْنِي</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>بِاللَّهِ يَا صَبَاحْ فُرَّقْتَنِي شَمْلِي</td>
 <td>بِاللَّهِ يَا صَبَاحْ ﺗِﺠْﻤَﻊْ ﻟِﻲ شَمْلِي</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>بِتْنَا فِي هَنَاءْ أَنَا وَحِبِّي بِالعُودْ</td>
 <td>وَﺑِﺎﻟﻐُﻨَﻰ وَالرّْﺑَﺎبُ ﻳَﺴْﺒِﻲ</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>وَبَلَغْتَ المُنَى اَفْرَحْ يَا قِلْبِي</td>
 <td>مَنْ سَتّْ<a href="#r3" class="a-reference">[3]</a> اَلمِلَاحْ يُسْرى قَدْ نَلْتُ أَمْلِي</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td colspan="2">لَاشْ يَا صَبَاحْ فُرَّقْتَ لِي شَمْلِي</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td colspan="2">بِاللَّهِ يَا صَبَاحْ فُرَّقْتَنِي شَمْلِي</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td colspan="2">بِاللَّهِ يَا صَبَاحْ تِجْمَعْ لِي شَمْلِي</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>يَا نَدِيمْ قَدْ أَتَى وَجَاءْ زَمَنَ الفَرْجَةْ</td>
 <td>اُنْظُرْ إِلَى الرَّوْضِ كَيْفْ يَمُوجْ</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>وَالنَوَاوِيرُ مُبَهْجِرَةْ عَمْلَةْ حُجَّةْ</td>
 <td>خَيلِي<a href="#r12" class="a-reference">[12]</a> وَنَسْرِي<a href="#r13" class="ref">[13]</a> وَبَيْبَانُوجْ<a href="#r14" class="ref">[14]</a></td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>فَتْحُ السُّوسَانْ قَدْ سَبَى عَقْلِي مُهْجَةْ</td>
 <td>وَالسُّبَاتِي مَعَ الزُّنُوجْ<a href="#r15" class="a-reference">[15]</a></td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>يَا نَدِيمْ يَسَرَّ الزُّجَاجْ خُذْ مَا تَحْتَاجْ</td>
 <td>اِمْلَأْ اَلقَطِيبْ خَمْرَ وَنَمْزَجُوا</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td colspan="2">وَمَعِي البَدْرُ فِي الدُّجَى يَسْبِي المُهْجَةْ</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td colspan="2">ﺟَﻤِﻴﻊْ مَنْ ﻳَﺮَاﻩْ ﻳُﻬَﻴَّﺠُﻮا</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td colspan="2">ﺟَﻤْﻴﻊْ مَنْ ﻳَﺮَاﻩْ ﻳُﻬَﻴَّﺠُﻮا</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
+</tbody>
 </table>
+
 <table class="table-muwashshahah-ar-centred">
-<tr class="tr-muwashshahah-qufl">
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>الفَجْرُ زَيَّقْ</td>
 <td>قُمْ يَا نَدِيمْ</td>
 <td>دِيرَ الكُؤُوسْ</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>وَالطَّيرُ يَنْطَقْ</td>
 <td>مِنْ فَوقِ</td>
 <td>دَوحَةِ الغُرُوسْ</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>كَأْسِي مُرَوْنَقْ<a href="#r15" class="a-reference">[15]</a></td>
 <td>مِنْ خَمْرَةِ</td>
 <td>تَحْيِي النُّفُوسْ</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>اَسْقِي غَزَالِي</td>
 <td>أَهْ يَا مُولَاي</td>
 <td>اِمْلَأْ له كَأْسَ</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>المُدَامْ شُرْبِي</td>
 <td>أَحْلَى لِي بَينَ</td>
 <td>الأَزَاهَرْ والأَكَالِيلْ</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
+</tbody>
 </table>
+
 <table class="table-muwashshahah-ar-centred">
-<tr class="tr-muwashshahah-qufl">
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>نَشَرَ الصَّبَاحْ بِضِيَائِهْ</td>
 <td>مِنْ شَرْقِهِ يُجْلَى</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>وَالرَّوضُ زَادْ فِي بَهَائِهْ</td>
 <td>فِي غَايَةِ الحَفْلَةْ يَا مُوْلَاي</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>دِيرَ القَطِيعْ وِامْلَأْهِ</td>
 <td>فِي غَايَةِ سَهْرَةْ فِيَّقْ لِنَا يَتَمَلَّأْ</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>كَأْسَ العُقَارْ يَا مُوْلَاي</td>
 <td>يَجْلِي الغَيَارْ فِي ذَا النَّهَارْ</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>يَلُوا عَلَى والدِّية</td>
 <td>مَا دَامَتِ الدُنْيَا لَحَدِّ مِنْ بَعْدِي</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
+</tbody>
 </table>
+
 <table class="table-muwashshahah-ar-centred">
-<tr class="tr-muwashshahah-qufl">
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>يَا نَدِيمْ وَانْتَبَِنِي وَاسْتَبْشَرْ</td>
 <td>قَدْ اِقْبَلْ اّلصَّبَاحْ</td>
 <td>وَالفَجْرُ مِنْ ضَيَاءْ</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>حِينْ يَظْهَرْ فِي كَوْكَبُ وَالِعْ</td>
 <td>خَلِّوِنِي فِي شُرْبِي</td>
 <td>نَتَبْخَتَّرْ وَانْقَبِّلْ المِلَاحْ</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
+</tbody>
 </table>
+
 <table class="table-muwashshahah-ar-centred">
-<tr class="tr-muwashshahah-bayt">
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>فِيق يَا نَدِيمْ مِنْ سَهْرَةْ</td>
 <td>إنْ كَانْ مَعَكَ غُرَامْ</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>مَنْ يَعْشَقْ المِلَاحْ وَالسَّهْرَة</td>
 <td>كَيفَ يُهَنَّى لَهُ المُدَامْ</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>مَنْ يَهْوَى المِلَاحْ وَالسَّهْرَةْ</td>
 <td>كَيفَ يُهَنَّى لَهُ المَنَامْ</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
+</tbody>
 </table>
+
 <table class="table-muwashshahah-ar-centred">
-<tr class="tr-muwashshahah-qufl">
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>يَا نَائِمِينْ لَا تَرْقُدُوا</td>
 <td>قُمُوا نَسْهَرُوا وَنَعَرْبِدُوا</td>
 <td>وَإِذَا حَلَى نُجَدِّدُوا</td>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>نَتْنَاوَلُوا رَاحَ البِرَاحْ</td>
 <td>يَا نَائِمِينْ لَيلُ رَاحْ</td>
 <td>يَا العَاشِقِينْ اِقْبَلْ اَلصَّبَاحْ</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>نُورْ الصَّبَاحْ بِعَسْكَرُو</td>
 <td>وَالطَّيرُ صَاحْ فِي أوْكَارُو</td>
 <td>كَإِنَّهُ خَطِيبْ فِي مَنْبَرُه</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>تَرَنَّمْ وَصَاحْ بَينَ اللِقَاحْ</td>
 <td> يَا نَائِمِينْ واللَيلُ رَاحْ</td>
 <td>يَا عَاشِقِينْ اِقْبَلْ اَلصَّبَاحْ</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td colspan="3">نُورْ الصَّبَاحْ لِمَّا بَدَا</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td colspan="3">وَانْشُرْ عَلَى نُورْ تَحْتَ الرِّضَى</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td colspan="3">قَالِ المَلِيحْ صُبْحَا غَدَا بَينَ اللِقَاحْ</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td colspan="3">وَالزَّهْرُ فَاحْ يَا نَائِمِينْ اللَيلُ رَاحْ</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td colspan="3">يَا عَاشِقِينْ اِقْبَلْ اَلصَّبَاحْ</td>
 </tr>
+</tbody>
 </table>
 
 <p class="text-centre text-italic">
@@ -210,127 +236,147 @@ Era: 8th-16th century<br>
 </p>
 
 <table class="table-muwashshahah-en-centred">
-<tr class="tr-muwashshahah-qufl">
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>The morning dawns in my relief</td>
 <td>and therein birds that praise the Lord</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>as the nightingale sang: O companion!</td>
 <td>the running waters that flow freely</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>are there together with six beauties<a href="#r3" class="a-reference">[3]</a></td>
 <td>in the water: we greet you by dawn!</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>My nights of delight spent in good times</td>
 <td>may they come to pass for all of mankind<a href="#r4" class="a-reference">[4]</a></td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>We spent the night in delight, in joy, and in solace<a href="#r5" class="a-reference">[5]</a></td>
 <td>by the coming of dawn I'm impassioned by its<a href="#r6" class="a-reference">[6]</a> passing</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>By God, O morning! You parted me from union!</td>
 <td>By God, O morning! May you settle my affairs!</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>We spent the night in joy, I and my love, by the ʕūd<a href="#r7" class="a-reference">[7]</a></td>
 <td>and by song, free from need, the Rabāb<a href="#r8" class="a-reference">[8]</a> takes us captive</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>You reached your desires, rejoice O my heart,</td>
 <td>than six beauties wealthier, my hope was obtained!<a href="#r9" class="a-reference">[9]</a<td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td colspan="2">Why, O morning, was I parted from my affair?</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td colspan="2">By God, O morning! You parted me from union!</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td colspan="2">O morning, may you settle my affairs!</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>O attendant, the time of parting has come and gone<a href="#r10" class="a-reference">[10]</a></td>
 <td>gaze upon the garden, see how it rises and falls!</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>And the blossoming flowers<a href="#r11" class="a-reference">[11]</a> are feigning in pretence<a href="#r12" class="ref">[12]</a>:</td>
 <td>bounteous wallflower<a href="#r13" class="a-reference">[13]</a>, slandering rose<a href="#r14" class="ref">[14]</a>, chamomile calm<a href="#r15" class="ref">[15]</a></td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>The lilies are unfolding, as my mind takes captive my soul</td>
 <td>and slumber in the company of drum and bell<a href="#r16" class="a-reference">[16]</a></td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>O attendant, may the glass gladden me, take all that's in it,</td>
 <td>fill it with wine blended<a href="#r17" class="a-reference">[17]</a>, as we blend it!</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td colspan="2">And together with me, the full moon in darkness<a href="#r18" class="a-reference">[18]</a>, takes captive my soul</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td colspan="2">All that whom see it, their hearts are aroused</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td colspan="2">All that whom see it, their hearts are astir</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
+</tbody>
 </table>
+
 <table class="table-muwashshahah-en-centred">
-<tr class="tr-muwashshahah-qufl">
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>Daybreak bore radiance<a href="#r19" class="a-reference">[19]</a></td>
 <td>rise, O attendant!</td>
 <td>let the cups be revolved</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>and the birds are there singing</td>
 <td>from beneath</td>
 <td>the thicket of a fig tree<a href="#r20" class="a-reference">[20]</a></td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
 <td>My cup is radiant with splendour<a href="#r21" class="a-reference">[21]</a></td>
 <td>from sweet wine</td>
 <td>that refreshes the souls</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>Pour me a drink O gazelle</td>
 <td>Ah, O my patron</td>
 <td>fill my cup with wine</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>Long-lasting wine I drink</td>
 <td>is sweeter amidst</td>
 <td>radiant roses and garlands</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
+</tbody>
 </table>
+
 <table class="table-muwashshahah-en-centred">
-<tr class="tr-muwashshahah-qufl">
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>The morning has extended its light</td>
 <td>from its east is lifted its veil</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>And the garden grew in its beauty</td>
 <td>towards our gathering, O my patron!</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>Let blended wine revolve, incline it</td>
 <td>towards our vigil, awaken us to satisfaction</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>A cup of strong wine, O my patron</td>
 <td>...</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>...</td>
 <td>...</td>
 </tr>
+</tbody>
 </table>
 
 <div class="div-references">
@@ -479,31 +525,31 @@ Amalgam of gold and quick-silver. Quick-silver. زَاوُوق وزَاؤُوق<
 <br>
 4) found in this Andalusian poem from نوبة المجبنة in the dissertation "‫مصادر‬‫ البحث‬ ‫في‬ ‫الموسيقى‬ ‫األندلسية‬ ‫بالمغرب‬ ‫العربي‬" of ‫بسنوسي‬‫الغوثي‬ - the sole other reference, also with الفجر:<br>
 <table class="table-muwashshahah-ar">
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>قم يا حبيبي</td>
 <td>تسمع لوغة أم الحسن</td>
 <td>hear the language of Umm al-Ḥasan</td>
 <td>Rise O my friend</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>غنات في بستان</td>
 <td>فيه الزهر من كل فن</td>
 <td>wherein there are flowers of all kind</td>
 <td>She sung in a garden</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>خيلي وسيسان</td>
 <td>قد عنقوا ورد الزوان</td>
 <td>have embraced the blossoms of darnel</td>
 <td>Wallflower and lily</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>النسر يسرى</td>
 <td>على تلك الورق</td>
 <td>upon that page</td>
 <td>Roses are flowing</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>‫الفجر‬‫ زيق‬</td>
 <td>وارمى شعاعه على الشفق</td>
 <td>it shot its rays upon the afterglow</td>

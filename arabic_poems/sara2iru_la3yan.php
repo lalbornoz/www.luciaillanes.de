@@ -11,151 +11,173 @@
 </p>
 
 <table class="table-muwashshahah-ar-centred">
-<tr class="tr-muwashshahah-qufl">
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>سرائر الأعيان</td>
 <td>لاحت على الأكوان</td>
 <td>للناظرين</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>والعاشق الغيران</td>
 <td>من ذاك في حران</td>
 <td>يبدي الأنين</td>
 </tr>
-<tr><td colspan="3"><br></td></tr>
-<tr class="tr-muwashshahah-bayt">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>يقول والوجد</td>
 <td>أضناه والبعد</td>
 <td>قد حيّره</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>لمّا دنا البعد</td>
 <td>لم أدر من بعد</td>
 <td>من غيّره</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>وهيّم العبد</td>
 <td>والواحد الفرد</td>
 <td>قد خيّره</td>
 </tr>
-<tr><td colspan="3"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>في البوح والكتمان</td>
 <td>والسرّ والإعلان</td>
 <td>في العالمين</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>أنا هو الديّان</td>
 <td>يا عابد الأوثان</td>
 <td>أنت الضّنين</td>
 </tr>
-<tr><td colspan="3"><br></td></tr>
-<tr class="tr-muwashshahah-bayt">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>كلّ الهوى صعب</td>
 <td>على الذي يشكو</td>
 <td>ذلّ الحجاب</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>يا من له قلب</td>
 <td>لو أنّه يذكو</td>
 <td>عند الشباب</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>قرّبه الرّبّ</td>
 <td>لكنّه إفك</td>
 <td>فانو المتاب</td>
 </tr>
-<tr><td colspan="3"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>وناد يا رحمن</td>
 <td>يا برّ يا منّان</td>
 <td>إنّي حزين</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>أضناني الهجران</td>
 <td>ولا حبيب دان</td>
 <td>ولا معين</td>
 </tr>
-<tr><td colspan="3"><br></td></tr>
-<tr class="tr-muwashshahah-bayt">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>فنيتُ بالله</td>
 <td>عمّا تراه العين</td>
 <td>من كونه</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>في موقف الجاه</td>
 <td>وصِحتُ أين الأين</td>
 <td>في بينه</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>فقال يا ساهي</td>
 <td>عاينتُ قطَّ عين</td>
 <td>بعينه</td>
 </tr>
-<tr><td colspan="3"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>أما ترى غيلان</td>
 <td>وقيس أو من كان</td>
 <td>في الغابرين</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>قالوا الهوى سلطان</td>
 <td>إن حلّ بالإنسان</td>
 <td>أفناه دين</td>
 </tr>
-<tr><td colspan="3"><br></td></tr>
-<tr class="tr-muwashshahah-bayt">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>كم مرّةٍ قالا</td>
 <td>أنا الذي أهوى</td>
 <td>من هو أنا</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>فلا أرى حالا</td>
 <td>ولا أرى شكوى</td>
 <td>إلاّ الفنا</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>لستُ كمن مالا</td>
 <td>عن الّذي يهوى</td>
 <td>بعد الجنى</td>
 </tr>
-<tr><td colspan="3"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>ودان بالسُّلوان</td>
 <td>هذا هو البهتان</td>
 <td>للعارفين</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>سَلَوْهم ما كان</td>
 <td>عن حضرة الرحمن</td>
 <td>والآفِكين</td>
 </tr>
-<tr><td colspan="3"><br></td></tr>
-<tr class="tr-muwashshahah-bayt">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>دخلتُ في بستان</td>
 <td>الأُنْسُ والقُرْبُ</td>
 <td>كمَكْنَسه</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>فقام لي الريحان</td>
 <td>يختال بالعُجْب</td>
 <td>في سُنْدُسه</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>أنا هو يا إنسان</td>
 <td>مطيِّبُ الصَّبِ</td>
 <td>في مجلسه</td>
 </tr>
-<tr><td colspan="3"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>جِنّان يا جِنّان</td>
 <td>اِجْنِ من البستان</td>
 <td>الياسمين</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>وحلّل الريحان</td>
 <td>بحرمة الرحمن</td>
 <td>للعاشقين</td>
 </tr>
+</tbody>
 </table>
 
 <p class="text-centre text-italic">
@@ -166,152 +188,173 @@ Era: 12th-13th century<br>
 </p>
 
 <table class="table-muwashshahah-en-centred">
-<tr class="tr-muwashshahah-qufl">
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>Delights that please the eye</td>
 <td>appear above all worlds<a href="#r2" class="a-reference">[2]</a></td>
 <td>to eyes in staring eyes</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>But the lover that is jealous<a href="#r3" class="a-reference">[3]</a></td>
 <td>deprived, from this, in thirst</td>
 <td>pain begins to rise</td>
 </tr>
-<tr><td colspan="3"><br></td></tr>
-<tr class="tr-muwashshahah-bayt">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>He says in burning passion</td>
 <td>wore him out and the thereafter<a href="#r4" class="a-reference">[4]</a></td>
 <td>has left him speechless</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>When the thereafter drew near</td>
 <td>and I can't tell far from</td>
 <td>whom has made him jealous</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>And the slave's in burning thirst</td>
 <td>while the singular, the one<a href="#r5" class="a-reference">[5]</a></td>
 <td>has let him choose</td>
 </tr>
-<tr><td colspan="3"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>In disclosing and concealing</td>
 <td>and secret and revealing<a href="#r6" class="a-reference">[6]</a></td>
 <td>in all the worlds that be</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>I am the only judge</td>
 <td>O worshipper of idols</td>
 <td>you are but greedy!</td>
 </tr>
-<tr><td colspan="3"><br></td></tr>
-<tr class="tr-muwashshahah-bayt">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>All that's love is hard</td>
 <td>to whomever that complains:</td>
 <td>the humiliation by the barrier!<a href="#r7" class="a-reference">[7]</a></td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>O you that has a heart</td>
 <td>if only you'd shone brightly</td>
 <td>in the eyes of your companion</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>The lord then brings him near</td>
 <td>but therein lies a lie:</td>
 <td>for return<a href="#r8" class="a-reference">[8]</a> is all but fleeting</td>
 </tr>
-<tr><td colspan="3"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>And he cries out: O most Merciful!</td>
 <td>O benevolent, O giving!</td>
 <td>O how I am in sorrow!</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>I languish in your absence</td>
 <td>and no friend have I near</td>
 <td>not a single soul</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
-<tr><td colspan="3"><br></td></tr>
-<tr class="tr-muwashshahah-bayt">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>I passed from life to God</td>
 <td>from where my eye was met</td>
 <td>with his being</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>In the lofty state of dignity</td>
 <td>where I recovered from my pain</td>
 <td>in his union</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>So he<a href="#r9" class="a-reference">[9]</a> said then: O neglectful!</td>
 <td>Have I truly seen an eye</td>
 <td>with his eye?<a href="#r10" class="a-reference">[10]</a></td>
 </tr>
-<tr><td colspan="3"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>As for when you see Ġaylān<a href="#r11" class="a-reference">[11]</a></td>
 <td>and Qays<a href="#r12" class="a-reference">[12]</a> or whom it be</td>
 <td>amongst the passing<a href="#r13" class="a-reference">[13]</a></td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>They said: love is a sovereign</td>
 <td>if it falls upon a person</td>
 <td>creed made him pass<a href="#r14" class="a-reference">[14]</a></td>
 </tr>
-<tr><td colspan="3"><br></td></tr>
-<tr class="tr-muwashshahah-bayt">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>How many times they said:</td>
 <td>I am the one that loves</td>
 <td>the one whom that is I</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>And I did not see them deviate</td>
 <td>and I saw not one complaint</td>
 <td>that union was not theirs</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>I'm not like those that turned</td>
 <td>away from him that loves</td>
 <td>after reaping its harvest</td>
 </tr>
-<tr><td colspan="3"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>For he<a href="#r15" class="a-reference">[15]</a> submits to solace</td>
 <td>this is but defamation</td>
 <td>to those that are familiar</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>They have no thought, no more</td>
 <td>of the Majestic Merciful</td>
 <td>and the deceivers</td>
 </tr>
-<tr><td colspan="3"><br></td></tr>
-<tr class="tr-muwashshahah-bayt">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>I turned into the garden<a href="#r16" class="a-reference">[16]</a></td>
 <td>where solace and presence<a href="#r17" class="a-reference">[17]</a></td>
 <td>were its shelter</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>There rose for me the myrtle</td>
 <td>that's adorned with conceit</td>
 <td>in its silken garment<a href="#r18" class="a-reference">[18]</a></td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>I am He<a href="#r19" class="a-reference">[19]</a> O human</td>
 <td>that soothes your passion</td>
 <td>in his company</td>
 </tr>
-<tr><td colspan="3"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>Gardener, O gardener!</td>
 <td>gather from the garden some</td>
 <td>jasmine<td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>And grant then the myrtle<a href="#r20" class="a-reference">[20]</a></td>
 <td>in the shelter of the merciful</td>
 <td>to the lovers</td>
 </tr>
+</tbody>
 </table>
 
 <div class="div-references">
