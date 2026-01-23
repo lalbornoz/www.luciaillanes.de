@@ -72,3 +72,7 @@
     </div>
 
     </div>
+
+  <!--
+    vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=0
+    -->

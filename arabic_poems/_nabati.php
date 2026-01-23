@@ -4,3 +4,7 @@
     and direct in style, encompassing in range the classical genres: Faḫr, Madīḥ, Hijāʔ, and Riṯāʔ
     (exaltation, panegyric, satire, and lamentation,) Futuwwah (chivalry,) Naṣīḥah and Ḥikmah
     (advice, proverbs, and wisdom,) Waṣf (description,) and Ġazal (love,) and also others.<br>
+
+  <!--
+    vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=0
+    -->
