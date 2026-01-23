@@ -1,6 +1,6 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center">The house was on fire</h1>
+<h1 class="text-centre">The house was on fire</h1>
 
 <p>
 She was sat by the largest and ordinarily most comforting window across the river contemplating nothing of note.

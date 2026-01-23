@@ -1,339 +1,339 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center">My nights of delight spent in good times<a href="#r1" class="ref">[1]</a></h1>
-<h2 style="text-align: center">Layālī surūr fī ḥusni zamān</h2>
+<h1 class="text-centre">My nights of delight spent in good times<a href="#r1" class="a-reference">[1]</a></h1>
+<h2 class="text-centre">Layālī surūr fī ḥusni zamān</h2>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 ﻧﻮﻉ ﺍﻟﺸﻌﺮ: مقطوعات غنائية موشحات مع استخبار<br>
 ﺍﻟﺸﺎﻋﺮ: ﻣﺠﻬﻮﻝ؛ ﻣﻮﺟﻮﺩ ﻓﻲ مْصَدَّر ﻧﻮﺑﺔ الماية في التراث الجزائري<br>
 منطقته: ﺍﻷﻧﺪﻟﺲ<br>
 ﻋﺼﺮ: ﻗﺮﻥ ﺍﻟﺜﺎﻣﻦ-ﺍﻟﺨﺎﻣﺲ ﻋﺸﺮ<br>
 </p>
 
-<table style="direction: rtl; text-align: center; margin-left: auto; margin-right: auto">
-<tr style="font-weight: bold">
+<table class="table-muwashshahah-ar-centred">
+<tr class="tr-muwashshahah-qufl">
 <td>اَلصَّبَاحُ فِي الاِنْشِرَاحْ</td>
 <td>واﻟﻄُّﻴُﻮرْ ﺗُﺴَﺒِّﺤُﻮا</td>
 </tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td>وَالهَزَارْ غَنَّى يَا صَاحْ</td>
 <td>اﻟﻤِﻴَﺎﻩْ تَسِيحُوا</td>
 </tr>
-<tr style="font-weight: bold">
-<td>مَعَ سِتِّ<a href="#r3" class="ref">[3]</a> المِلَاحْ</td>
+<tr class="tr-muwashshahah-qufl">
+<td>مَعَ سِتِّ<a href="#r3" class="a-reference">[3]</a> المِلَاحْ</td>
 <td>بِالمَايَةْ وَنَصْبِحُ</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td>لَيَالِي سُرُورْ فِي حُسْنِ زَمَانِ</td>
 <td>إِنَّهَا تَمُرّ عَنْ كُلّ إِنْسَانِ</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>بِتْنَا فِي سُرُورْ فُرْحًا وَسِلْوَانِ</td>
 <td>بِقُدُومْ اَلصَّبَاحْ يُسْرَي عَلِىّ يِفْنِي</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>بِاللَّهِ يَا صَبَاحْ فُرَّقْتَنِي شَمْلِي</td>
 <td>بِاللَّهِ يَا صَبَاحْ ﺗِﺠْﻤَﻊْ ﻟِﻲ شَمْلِي</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>بِتْنَا فِي هَنَاءْ أَنَا وَحِبِّي بِالعُودْ</td>
 <td>وَﺑِﺎﻟﻐُﻨَﻰ وَالرّْﺑَﺎبُ ﻳَﺴْﺒِﻲ</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>وَبَلَغْتَ المُنَى اَفْرَحْ يَا قِلْبِي</td>
-<td>مَنْ سَتّْ<a href="#r3" class="ref">[3]</a> اَلمِلَاحْ يُسْرى قَدْ نَلْتُ أَمْلِي</td>
+<td>مَنْ سَتّْ<a href="#r3" class="a-reference">[3]</a> اَلمِلَاحْ يُسْرى قَدْ نَلْتُ أَمْلِي</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td colspan="2">لَاشْ يَا صَبَاحْ فُرَّقْتَ لِي شَمْلِي</td>
 </tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td colspan="2">بِاللَّهِ يَا صَبَاحْ فُرَّقْتَنِي شَمْلِي</td>
 </tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td colspan="2">بِاللَّهِ يَا صَبَاحْ تِجْمَعْ لِي شَمْلِي</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td>يَا نَدِيمْ قَدْ أَتَى وَجَاءْ زَمَنَ الفَرْجَةْ</td>
 <td>اُنْظُرْ إِلَى الرَّوْضِ كَيْفْ يَمُوجْ</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>وَالنَوَاوِيرُ مُبَهْجِرَةْ عَمْلَةْ حُجَّةْ</td>
-<td>خَيلِي<a href="#r12" class="ref">[12]</a> وَنَسْرِي<a href="#r13" class="ref">[13]</a> وَبَيْبَانُوجْ<a href="#r14" class="ref">[14]</a></td>
+<td>خَيلِي<a href="#r12" class="a-reference">[12]</a> وَنَسْرِي<a href="#r13" class="ref">[13]</a> وَبَيْبَانُوجْ<a href="#r14" class="ref">[14]</a></td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>فَتْحُ السُّوسَانْ قَدْ سَبَى عَقْلِي مُهْجَةْ</td>
-<td>وَالسُّبَاتِي مَعَ الزُّنُوجْ<a href="#r15" class="ref">[15]</a></td>
+<td>وَالسُّبَاتِي مَعَ الزُّنُوجْ<a href="#r15" class="a-reference">[15]</a></td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>يَا نَدِيمْ يَسَرَّ الزُّجَاجْ خُذْ مَا تَحْتَاجْ</td>
 <td>اِمْلَأْ اَلقَطِيبْ خَمْرَ وَنَمْزَجُوا</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td colspan="2">وَمَعِي البَدْرُ فِي الدُّجَى يَسْبِي المُهْجَةْ</td>
 </tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td colspan="2">ﺟَﻤِﻴﻊْ مَنْ ﻳَﺮَاﻩْ ﻳُﻬَﻴَّﺠُﻮا</td>
 </tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td colspan="2">ﺟَﻤْﻴﻊْ مَنْ ﻳَﺮَاﻩْ ﻳُﻬَﻴَّﺠُﻮا</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
 </table>
-<table style="direction: rtl; text-align: center; margin-left: auto; margin-right: auto">
-<tr style="font-weight: bold">
+<table class="table-muwashshahah-ar-centred">
+<tr class="tr-muwashshahah-qufl">
 <td>الفَجْرُ زَيَّقْ</td>
 <td>قُمْ يَا نَدِيمْ</td>
 <td>دِيرَ الكُؤُوسْ</td>
 </tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td>وَالطَّيرُ يَنْطَقْ</td>
 <td>مِنْ فَوقِ</td>
 <td>دَوحَةِ الغُرُوسْ</td>
 </tr>
-<tr>
-<td>كَأْسِي مُرَوْنَقْ<a href="#r15" class="ref">[15]</a></td>
+<tr class="tr-muwashshahah-bayt">
+<td>كَأْسِي مُرَوْنَقْ<a href="#r15" class="a-reference">[15]</a></td>
 <td>مِنْ خَمْرَةِ</td>
 <td>تَحْيِي النُّفُوسْ</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>اَسْقِي غَزَالِي</td>
 <td>أَهْ يَا مُولَاي</td>
 <td>اِمْلَأْ له كَأْسَ</td>
 </tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td>المُدَامْ شُرْبِي</td>
 <td>أَحْلَى لِي بَينَ</td>
 <td>الأَزَاهَرْ والأَكَالِيلْ</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
 </table>
-<table style="direction: rtl; text-align: center; margin-left: auto; margin-right: auto">
-<tr style="font-weight: bold">
+<table class="table-muwashshahah-ar-centred">
+<tr class="tr-muwashshahah-qufl">
 <td>نَشَرَ الصَّبَاحْ بِضِيَائِهْ</td>
 <td>مِنْ شَرْقِهِ يُجْلَى</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>وَالرَّوضُ زَادْ فِي بَهَائِهْ</td>
 <td>فِي غَايَةِ الحَفْلَةْ يَا مُوْلَاي</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>دِيرَ القَطِيعْ وِامْلَأْهِ</td>
 <td>فِي غَايَةِ سَهْرَةْ فِيَّقْ لِنَا يَتَمَلَّأْ</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>كَأْسَ العُقَارْ يَا مُوْلَاي</td>
 <td>يَجْلِي الغَيَارْ فِي ذَا النَّهَارْ</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>يَلُوا عَلَى والدِّية</td>
 <td>مَا دَامَتِ الدُنْيَا لَحَدِّ مِنْ بَعْدِي</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
 </table>
-<table style="direction: rtl; text-align: center; margin-left: auto; margin-right: auto">
-<tr style="font-weight: bold">
+<table class="table-muwashshahah-ar-centred">
+<tr class="tr-muwashshahah-qufl">
 <td>يَا نَدِيمْ وَانْتَبَِنِي وَاسْتَبْشَرْ</td>
 <td>قَدْ اِقْبَلْ اّلصَّبَاحْ</td>
 <td>وَالفَجْرُ مِنْ ضَيَاءْ</td>
 </tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td>حِينْ يَظْهَرْ فِي كَوْكَبُ وَالِعْ</td>
 <td>خَلِّوِنِي فِي شُرْبِي</td>
 <td>نَتَبْخَتَّرْ وَانْقَبِّلْ المِلَاحْ</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
 </table>
-<table style="direction: rtl; text-align: center; margin-left: auto; margin-right: auto">
-<tr>
+<table class="table-muwashshahah-ar-centred">
+<tr class="tr-muwashshahah-bayt">
 <td>فِيق يَا نَدِيمْ مِنْ سَهْرَةْ</td>
 <td>إنْ كَانْ مَعَكَ غُرَامْ</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>مَنْ يَعْشَقْ المِلَاحْ وَالسَّهْرَة</td>
 <td>كَيفَ يُهَنَّى لَهُ المُدَامْ</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>مَنْ يَهْوَى المِلَاحْ وَالسَّهْرَةْ</td>
 <td>كَيفَ يُهَنَّى لَهُ المَنَامْ</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
 </table>
-<table style="direction: rtl; text-align: center; margin-left: auto; margin-right: auto">
-<tr style="font-weight: bold">
+<table class="table-muwashshahah-ar-centred">
+<tr class="tr-muwashshahah-qufl">
 <td>يَا نَائِمِينْ لَا تَرْقُدُوا</td>
 <td>قُمُوا نَسْهَرُوا وَنَعَرْبِدُوا</td>
 <td>وَإِذَا حَلَى نُجَدِّدُوا</td>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>نَتْنَاوَلُوا رَاحَ البِرَاحْ</td>
 <td>يَا نَائِمِينْ لَيلُ رَاحْ</td>
 <td>يَا العَاشِقِينْ اِقْبَلْ اَلصَّبَاحْ</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td>نُورْ الصَّبَاحْ بِعَسْكَرُو</td>
 <td>وَالطَّيرُ صَاحْ فِي أوْكَارُو</td>
 <td>كَإِنَّهُ خَطِيبْ فِي مَنْبَرُه</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>تَرَنَّمْ وَصَاحْ بَينَ اللِقَاحْ</td>
 <td> يَا نَائِمِينْ واللَيلُ رَاحْ</td>
 <td>يَا عَاشِقِينْ اِقْبَلْ اَلصَّبَاحْ</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td colspan="3">نُورْ الصَّبَاحْ لِمَّا بَدَا</td>
 </tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td colspan="3">وَانْشُرْ عَلَى نُورْ تَحْتَ الرِّضَى</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td colspan="3">قَالِ المَلِيحْ صُبْحَا غَدَا بَينَ اللِقَاحْ</td>
 </tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td colspan="3">وَالزَّهْرُ فَاحْ يَا نَائِمِينْ اللَيلُ رَاحْ</td>
 </tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td colspan="3">يَا عَاشِقِينْ اِقْبَلْ اَلصَّبَاحْ</td>
 </tr>
 </table>
 
-<p style="text-align: center; font-style: italic">
-Type of poem: Lyrical pieces of Muwaššaḥāt<a href="#r2" class="ref">[2]</a> with introductory poem (Istiḫbār)<br>
+<p class="text-centre text-italic">
+Type of poem: Lyrical pieces of Muwaššaḥāt<a href="#r2" class="a-reference">[2]</a> with introductory poem (Istiḫbār)<br>
 Name of poet: unknown; found in the Mṣedder of Nawbatu l-Māyah in the Algerian tradition<br>
 Region of poet: al-Andalus<br>
 Era: 8th-16th century<br>
 </p>
 
-<table style="direction: ltr; text-align: center; margin-left: auto; margin-right: auto">
-<tr style="font-weight: bold">
+<table class="table-muwashshahah-en-centred">
+<tr class="tr-muwashshahah-qufl">
 <td>The morning dawns in my relief</td>
 <td>and therein birds that praise the Lord</td>
 </tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td>as the nightingale sang: O companion!</td>
 <td>the running waters that flow freely</td>
 </tr>
-<tr style="font-weight: bold">
-<td>are there together with six beauties<a href="#r3" class="ref">[3]</a></td>
+<tr class="tr-muwashshahah-qufl">
+<td>are there together with six beauties<a href="#r3" class="a-reference">[3]</a></td>
 <td>in the water: we greet you by dawn!</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td>My nights of delight spent in good times</td>
-<td>may they come to pass for all of mankind<a href="#r4" class="ref">[4]</a></td>
+<td>may they come to pass for all of mankind<a href="#r4" class="a-reference">[4]</a></td>
 </tr>
-<tr>
-<td>We spent the night in delight, in joy, and in solace<a href="#r5" class="ref">[5]</a></td>
-<td>by the coming of dawn I'm impassioned by its<a href="#r6" class="ref">[6]</a> passing</td>
+<tr class="tr-muwashshahah-bayt">
+<td>We spent the night in delight, in joy, and in solace<a href="#r5" class="a-reference">[5]</a></td>
+<td>by the coming of dawn I'm impassioned by its<a href="#r6" class="a-reference">[6]</a> passing</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>By God, O morning! You parted me from union!</td>
 <td>By God, O morning! May you settle my affairs!</td>
 </tr>
-<tr>
-<td>We spent the night in joy, I and my love, by the ʕūd<a href="#r7" class="ref">[7]</a></td>
-<td>and by song, free from need, the Rabāb<a href="#r8" class="ref">[8]</a> takes us captive</td>
+<tr class="tr-muwashshahah-bayt">
+<td>We spent the night in joy, I and my love, by the ʕūd<a href="#r7" class="a-reference">[7]</a></td>
+<td>and by song, free from need, the Rabāb<a href="#r8" class="a-reference">[8]</a> takes us captive</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>You reached your desires, rejoice O my heart,</td>
-<td>than six beauties wealthier, my hope was obtained!<a href="#r9" class="ref">[9]</a<td>
+<td>than six beauties wealthier, my hope was obtained!<a href="#r9" class="a-reference">[9]</a<td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td colspan="2">Why, O morning, was I parted from my affair?</td>
 </tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td colspan="2">By God, O morning! You parted me from union!</td>
 </tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td colspan="2">O morning, may you settle my affairs!</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr style="font-weight: bold">
-<td>O attendant, the time of parting has come and gone<a href="#r10" class="ref">[10]</a></td>
+<tr class="tr-muwashshahah-qufl">
+<td>O attendant, the time of parting has come and gone<a href="#r10" class="a-reference">[10]</a></td>
 <td>gaze upon the garden, see how it rises and falls!</td>
 </tr>
-<tr>
-<td>And the blossoming flowers<a href="#r11" class="ref">[11]</a> are feigning in pretence<a href="#r12" class="ref">[12]</a>:</td>
-<td>bounteous wallflower<a href="#r13" class="ref">[13]</a>, slandering rose<a href="#r14" class="ref">[14]</a>, chamomile calm<a href="#r15" class="ref">[15]</a></td>
+<tr class="tr-muwashshahah-bayt">
+<td>And the blossoming flowers<a href="#r11" class="a-reference">[11]</a> are feigning in pretence<a href="#r12" class="ref">[12]</a>:</td>
+<td>bounteous wallflower<a href="#r13" class="a-reference">[13]</a>, slandering rose<a href="#r14" class="ref">[14]</a>, chamomile calm<a href="#r15" class="ref">[15]</a></td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>The lilies are unfolding, as my mind takes captive my soul</td>
-<td>and slumber in the company of drum and bell<a href="#r16" class="ref">[16]</a></td>
+<td>and slumber in the company of drum and bell<a href="#r16" class="a-reference">[16]</a></td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>O attendant, may the glass gladden me, take all that's in it,</td>
-<td>fill it with wine blended<a href="#r17" class="ref">[17]</a>, as we blend it!</td>
+<td>fill it with wine blended<a href="#r17" class="a-reference">[17]</a>, as we blend it!</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr style="font-weight: bold">
-<td colspan="2">And together with me, the full moon in darkness<a href="#r18" class="ref">[18]</a>, takes captive my soul</td>
+<tr class="tr-muwashshahah-qufl">
+<td colspan="2">And together with me, the full moon in darkness<a href="#r18" class="a-reference">[18]</a>, takes captive my soul</td>
 </tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td colspan="2">All that whom see it, their hearts are aroused</td>
 </tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td colspan="2">All that whom see it, their hearts are astir</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
 </table>
-<table style="direction: ltr; text-align: center; margin-left: auto; margin-right: auto">
-<tr style="font-weight: bold">
-<td>Daybreak bore radiance<a href="#r19" class="ref">[19]</a></td>
+<table class="table-muwashshahah-en-centred">
+<tr class="tr-muwashshahah-qufl">
+<td>Daybreak bore radiance<a href="#r19" class="a-reference">[19]</a></td>
 <td>rise, O attendant!</td>
 <td>let the cups be revolved</td>
 </tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td>and the birds are there singing</td>
 <td>from beneath</td>
-<td>the thicket of a fig tree<a href="#r20" class="ref">[20]</a></td>
+<td>the thicket of a fig tree<a href="#r20" class="a-reference">[20]</a></td>
 </tr>
-<tr>
-<td>My cup is radiant with splendour<a href="#r21" class="ref">[21]</a></td>
+<tr class="tr-muwashshahah-bayt">
+<td>My cup is radiant with splendour<a href="#r21" class="a-reference">[21]</a></td>
 <td>from sweet wine</td>
 <td>that refreshes the souls</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>Pour me a drink O gazelle</td>
 <td>Ah, O my patron</td>
 <td>fill my cup with wine</td>
 </tr>
-<tr style="font-weight: bold">
+<tr class="tr-muwashshahah-qufl">
 <td>Long-lasting wine I drink</td>
 <td>is sweeter amidst</td>
 <td>radiant roses and garlands</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
 </table>
-<table style="direction: ltr; text-align: center; margin-left: auto; margin-right: auto">
-<tr style="font-weight: bold">
+<table class="table-muwashshahah-en-centred">
+<tr class="tr-muwashshahah-qufl">
 <td>The morning has extended its light</td>
 <td>from its east is lifted its veil</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>And the garden grew in its beauty</td>
 <td>towards our gathering, O my patron!</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>Let blended wine revolve, incline it</td>
 <td>towards our vigil, awaken us to satisfaction</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>A cup of strong wine, O my patron</td>
 <td>...</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>...</td>
 <td>...</td>
 </tr>
 </table>
 
-<div style="padding: 2em 0 2em 0"></div>
+<div class="div-references">
 <!-- {{{ references -->
 <span id="r1">
 [1] The source text is taken from a songbook titled "فاح الزهر فاح", which unfortunately contains a significant number of errors and some seemingly genuine, in part documented, Andalusian orthographical peculiarities, namely:<br>
@@ -341,7 +341,7 @@ Era: 8th-16th century<br>
 2) و- desinence of nouns of e.g. roots that are biradical in origin with an epenthetic pseudo-vowel or geminated radical, though in this case this is limited to nouns of quadriliteral roots; this is documented in "A Descriptive and Comparative Grammar of Andalusi Arabic".<br>
 3) Nouns in a جار ومجرور construction that are not governed by the genitive case and instead assume the nominative or accusative; this is also seen in this excerpt of a Muwaššaḥah in the Moroccan tradition: <a href="/<?php echo $inc_lang ?>/arabic_poems/man_malak_3aqlee">You that took my mind hostage</a><br>
 <br>
-A rendition of these poems by the late al-Ḥājj Moḥammed aṭ-Ṭāhar al-Fergānī, known as the Nightingale of Constantine and the Sulṭān of al-Mālūf <span style="font-style: italic">[Classical Andalusian music in the tradition of Algeria]</span> of Constantine, was used as basis for both the consonantal text inasmuch as the vocalisation.<br>
+A rendition of these poems by the late al-Ḥājj Moḥammed aṭ-Ṭāhar al-Fergānī, known as the Nightingale of Constantine and the Sulṭān of al-Mālūf <span class="text-italic">[Classical Andalusian music in the tradition of Algeria]</span> of Constantine, was used as basis for both the consonantal text inasmuch as the vocalisation.<br>
 </span>
 <br>
 <span id="r2">
@@ -367,14 +367,14 @@ The grammatical gender of both the number and the word counted allow for beautie
 <br>
 <span id="r7">
 [7] The oud (Arabic: عود, romanized: ʿūd, pronounced [ʕuːd]) is a Middle Eastern short-neck lute-type, pear-shaped, fretless stringed instrument (a chordophone in the Hornbostel–Sachs classification of instruments), usually with 12 strings grouped in six courses, but some models have five or seven courses, with 11 or 14 strings respectively.<br>
-<span style="font-style: italic">(taken from Wikipedia)</span><br>
+<span class="text-italic">(taken from Wikipedia)</span><br>
 </span>
 <br>
 <span id="r8">
 [8] The Rabāb is the quintessential Andalusian musical instrument.<br>
 <br>
 The rebab (Arabic: ربابة, rabāba, variously spelled rebap, rubob, rebeb, rababa, rabeba, robab, rubab, rebob, etc) is the name of several related string instruments that independently spread via Islamic trading routes over much of North Africa, Middle East, Central Asia, Southeast Asia, and parts of Europe. The instrument is typically bowed, but is sometimes plucked. It is one of the earliest known bowed instruments, named no later than the 8th century, and is the parent of many bowed and stringed instruments.<br>
-<span style="font-style: italic">(taken from Wikipedia)</span><br>
+<span class="text-italic">(taken from Wikipedia)</span><br>
 </span>
 <br>
 <span id="r9">
@@ -437,7 +437,7 @@ Secondarily: بَنْج as in sedative or anaesthetic, particularly as chamomile
 <br>
 <span id="r16">
 [16] زُنُزج, in al-Andalus according to Federico Corriente's Dictionary of Andalusian Arabic: syn. with صُنُوج: [basque] drum with bell, unrelated to its meaning in Classical Arabic of harp, all ultimately from Persian.<br>
-Cognate documented in Spanish since 1605 AD: sonajero, sonagero, sonaxero: musical percussion instrument of Egyptian origin, composed of a metal frame in the form of an arch or horseshoe crossed by sliding rods generally equipped with cymbals or bells, that one makes to sound. <span style="font-style: italic">(Vocabulista arávigo en letra castellana, de Alcalá)</span><br>
+Cognate documented in Spanish since 1605 AD: sonajero, sonagero, sonaxero: musical percussion instrument of Egyptian origin, composed of a metal frame in the form of an arch or horseshoe crossed by sliding rods generally equipped with cymbals or bells, that one makes to sound. <span class="text-italic">(Vocabulista arávigo en letra castellana, de Alcalá)</span><br>
 <br>
 Alternatively, considering the considerable ambiguity and usage of homonyms in this poem:<br>
 1) and lethargic slumber in the company of dark-skinned [women] - unlikely, as thematically unrelated to the theme of being conquered, captivated, captured, under the spell of something, etc. and as it would constitute a hapax legomenon.<br>
@@ -454,7 +454,7 @@ Alternatively, considering the considerable ambiguity and usage of homonyms in t
 <span id="r19">
 [19] زَيَّقْ: a peculiar word in conjunction with الفجر: to bear radiance, lit., primarily: to put a collar (on itself) of radiant light or to put a collar of radiant light into the darkness of the night; secondarily, of the opposite meaning: to daub (itself or its eye, e.g. sun) with collyrium e.g. darkness; tertiarily: to adorn or embellish (itself.)<br>
 The primary meaning incidentally relates more closely to its original meaning in and from Aramaic.<br>
-Notably, زَيَّقْ bears similarity with مُرَوْنَقْ<a href="#r21" class="ref">[21]</a> in the following half-verses both in terms of etymology, meaning, and encompassing both its meaning as well as the opposite, which may or may not be intentionally misleading ambiguity on part of the poet (e.g. Daybreak daubs itself with darkness and My cup is turbid vs. Daybreak bears radiance and My cup is radiant with splendour.)<br>
+Notably, زَيَّقْ bears similarity with مُرَوْنَقْ<a href="#r21" class="a-reference">[21]</a> in the following half-verses both in terms of etymology, meaning, and encompassing both its meaning as well as the opposite, which may or may not be intentionally misleading ambiguity on part of the poet (e.g. Daybreak daubs itself with darkness and My cup is turbid vs. Daybreak bears radiance and My cup is radiant with splendour.)<br>
 <br>
 1) as per J. G. Hava:<br>
 To put a collar to (a زاق - زَيَّق ه shirt).<br>
@@ -478,32 +478,32 @@ Amalgam of gold and quick-silver. Quick-silver. زَاوُوق وزَاؤُوق<
 5. (mythology) a type of demon<br>
 <br>
 4) found in this Andalusian poem from نوبة المجبنة in the dissertation "‫مصادر‬‫ البحث‬ ‫في‬ ‫الموسيقى‬ ‫األندلسية‬ ‫بالمغرب‬ ‫العربي‬" of ‫بسنوسي‬‫الغوثي‬ - the sole other reference, also with الفجر:<br>
-<table style="direction: rtl">
-<tr>
+<table class="table-muwashshahah-ar">
+<tr class="tr-muwashshahah-bayt">
 <td>قم يا حبيبي</td>
 <td>تسمع لوغة أم الحسن</td>
 <td>hear the language of Umm al-Ḥasan</td>
 <td>Rise O my friend</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>غنات في بستان</td>
 <td>فيه الزهر من كل فن</td>
 <td>wherein there are flowers of all kind</td>
 <td>She sung in a garden</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>خيلي وسيسان</td>
 <td>قد عنقوا ورد الزوان</td>
 <td>have embraced the blossoms of darnel</td>
 <td>Wallflower and lily</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>النسر يسرى</td>
 <td>على تلك الورق</td>
 <td>upon that page</td>
 <td>Roses are flowing</td>
 </tr>
-<tr>
+<tr class="tr-muwashshahah-bayt">
 <td>‫الفجر‬‫ زيق‬</td>
 <td>وارمى شعاعه على الشفق</td>
 <td>it shot its rays upon the afterglow</td>
@@ -532,10 +532,11 @@ Amalgam of gold and quick-silver. Quick-silver. زَاوُوق وزَاؤُوق<
 In the songbook: مرنوق - being as this means turbid, a direct antonym of رَوْنَق, that one may yet think of as etymologically related, this is likely an intentional false trail on part of the poet.<br>
 Curiously, رنق as in colour in Gulf Arabic derives from Classical Persian رَنْگ, though this is unrelated.<br>
 <br>
-Secondarily: راق-يروق-روقًا: to be clear (wine,) ه: to excite wonder in, whence also: روقة: great beauty, and especially: مُرَوَّق: porticoed (building,) clarified (wine,) etc. betray a very clear connection, and (etymologically) more distantly: راق-يريق-رَيْقًا: to be rippled (pool). to be poured (water). to quiver. to shine (mirage). <span style="font-style: italic">(all from J. G. Hava)</span><br>
+Secondarily: راق-يروق-روقًا: to be clear (wine,) ه: to excite wonder in, whence also: روقة: great beauty, and especially: مُرَوَّق: porticoed (building,) clarified (wine,) etc. betray a very clear connection, and (etymologically) more distantly: راق-يريق-رَيْقًا: to be rippled (pool). to be poured (water). to quiver. to shine (mirage). <span class="text-italic">(all from J. G. Hava)</span><br>
 </span>
 <br>
 </span>
 <!-- }}} -->
+</div>
 
 </div>

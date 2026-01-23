@@ -1,12 +1,12 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center">She later departed, only to return</h1>
+<h1 class="text-centre">She later departed, only to return</h1>
 
-<p style="color: #7f0000">
+<p class="text-red">
 He was and hence, in time, there was.
 </p>
 
-<p style="color: #7f0000">
+<p class="text-red">
 What was, had been thus, and was not to change. He awoke, arose, opened his eyes, and there was. He saw,
 came into motion, did, stood. He then dressed, ate, and left towards and into the looming nothingness that
 awaited without beckoning. He passed by unidentifiable streets and past houses, buildings, places, objects
@@ -24,7 +24,7 @@ only to those whom would reckon them and perhaps those that did, did themselves 
 but he was not home. He undressed and with the night his refuge, he slept but did not dream.
 </p>
 
-<p style="color: #7f0000">
+<p class="text-red">
 He awoke, arose, and all was the same to him, for when there is no now, there is no before and no after, and
 all that decreed once was to be, thus remained for time immemorial. He once more did hence and did such, left,
 passed by this and past that, the sky his sole witness unattainable, the looming nothingness vastly resounding
@@ -39,7 +39,7 @@ He waited, but it was not to be. Later, he left. The Ẓāhir was gone. He retur
 He did not dream.
 </p>
 
-<p style="color: #007f5d">
+<p class="text-green">
 She was and, in time, what had been, was to be. She awoke, arose and dressed. The sun was shining as dawn dawned as
 though it never had before, bountiful birds sang in metres resplendent with joy and the countenance of splendour.
 What had been, was to be, and what was now, came to pass, for beginning had ended and ending was unknown. She opened
@@ -61,7 +61,7 @@ eyes, and there was." Suddenly, everything became clear and as night dawned, she
 spoke:
 </p>
 
-<p style="color: #007f5d; text-align: center">
+<p class="text-green text-centre">
 I saw a star that shone bright <br/>
 in the night of my days<br/>
 it ascended in rivers<br/>
@@ -76,15 +76,15 @@ turned nameless and formless<br/>
 and formless and free<br/>
 </p>
 
-<p style="color: #007f5d">
+<p class="text-green">
 And then:<br/>
 </p>
 
-<p style="color: #007f5d; text-align: center">
+<p class="text-green text-centre">
 Felicity is the calmness of the eye<br>
 </p>
 
-<p style="colour: #ffffff">
+<p class="text-black">
 She later departed, only to return.<br>
 </p>
 

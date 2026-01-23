@@ -1,16 +1,16 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center">I said to Laylā: what is the remedy for my sleeplessness?</h1>
-<h2 style="text-align: center">Qultu li-laylā mā dawāʔu s-sahr</h2>
+<h1 class="text-centre">I said to Laylā: what is the remedy for my sleeplessness?</h1>
+<h2 class="text-centre">Qultu li-laylā mā dawāʔu s-sahr</h2>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 ﻧﻮﻉ ﺍﻟﺸﻌﺮ: ﻏﺰﻝ ﻋﻠﻰ ﺑﺤﺮ ﺍﻟﺮﻣﻞ<br>
 ﺍﻟﺸﺎﻋﺮ: ﺃﺑﻮ ﻣﺪﻳﻦ ﺍﻟﻐﻮﺙ<br>
 منطقته: ﺍﻷﻧﺪﻟﺲ<br>
 ﻋﺼﺮ: ﺍﻟﻤﺮﺍﺑﻄﻲ-ﺍﻟﻤﻮﺣﺪﻱ<br>
 </p>
 
-<p style="text-align: center">
+<p class="text-centre">
 ﻗﻠْﺖُ ﻟِﻠَﻴْﻠَﻰ ﻣَﺎ ﺩَﻭَﺍءُ ﺍﻟﺴَّﻬَﺮْ<br>
 ﻗَﺎﻟَﺖْ ﻭِﺻَﺎﻟِﻲ ﻓِﻲ ﻃُﻠُﻮﻉِ ﺍﻟﺴَّﺤَﺮْ<br>
 <br>
@@ -27,15 +27,15 @@
 ﻗَﺎﻟَﺖْ ﻭَﻫَﻞْ ﺗُﻌَﺪُّ ﺃَﻣْﻮَﺍﺝَ ﺍﻟﺒِﺤَﺎﺭ<br>
 </p>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 Type of poem: Ġazal (poetry on love) in metre Ramal<br>
 Name of poet: Abū Madyan al-G̣awṯ<br>
 Region of poet: al-Andalus<br>
 Era: Almoravid-Almohad<br>
 </p>
 
-<p style="text-align: center">
-I said to Laylā<a href="#r1" style="font-size: small">[1]</a>: what is the remedy for my sleeplessness?<br>
+<p class="text-centre">
+I said to Laylā<a href="#r1" class="a-reference">[1]</a>: what is the remedy for my sleeplessness?<br>
 She said: our reunion by the coming of dawn<br>
 <br>
 I said to Laylā: how brief the times of our reunions are<br>
@@ -51,7 +51,7 @@ I said to Laylā: how many have perished from your love?<br>
 She said: have you counted the waves of all the seas?<br>
 </p>
 
-<div style="padding: 2em 0 2em 0"></div>
+<div class="div-references">
 <!-- {{{ references -->
 <span id="r1">
 [1] Laylā of the tribe b. ʕāmir just as the poet, Qays b. al-Mulawwaḥ, known as "Majnūn" as in "crazy"
@@ -64,5 +64,6 @@ The dialogue constituting the poem recalls the poetic exchange between Majnūn a
 Leylī o Majnūn, wherein the two, in a secret meeting, recite poetry from a distance towards each other.<br>
 </span>
 <!-- }}} -->
+</div>
 
 </div>

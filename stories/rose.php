@@ -1,8 +1,8 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center">The Rose of Fortune</h1>
+<h1 class="text-centre">The Rose of Fortune</h1>
 
-<p style="color: #007f5d">
+<p class="text-green">
 She cast a colourful rose across the vast firmament and enchanted it with words from the deep. Its
 petals unfolded like veils within veils and bore seeds that were then drawn forth by primordial
 beings of incandescent light. From the seeds then emerged radiant spheres and eyes in the sky,
@@ -12,7 +12,7 @@ been recounted countless times. All that dwelt remained without end for from not
 and thence it went.
 </p>
 
-<p style="color: #007f5d">
+<p class="text-green">
 She strode across time uncountable, many a lives she saw led from dawn to demise, and wherever she
 was, the bountiful splendour of silent eternality lay open unto her. She knew neither longing nor
 belonging nor name and all that came to pass was the same to her although on occasion, she became
@@ -21,7 +21,7 @@ but nothing was to last. Life after life was thus spent from beginning to end wi
 sorrow and all was well. And yet, something was missing.
 </p>
 
-<p style="color: #007f5d">
+<p class="text-green">
 Later, she was stood in the midst of a great, forbidding forest named al-Ḥawl where the strangest of
 creatures dwelt and sang long, drawn-out songs of mystifying sublimity. At the very heart of the
 forest, which was only accessible unto those that did not look to find it, a singular flower was
@@ -29,7 +29,7 @@ stood offering a key. Idly and without forethought, she retrieved the key and le
 flower. She then slept and dreamt.
 </p>
 
-<p style="color: #007f5d">
+<p class="text-green">
 As she dreamt, she wove her dreams into a fine fabric embroidered with images and impressions drawn
 from the unfathomable deep. The more she did so, the more she seemed to cease to exist. Places that
 appeared at once as though intimately familiar and yet uncannily remote emerged into being around
@@ -38,7 +38,7 @@ everything. Becoming became extinguished and perishing perished unknown. Time wa
 came to end and ending was unknown. She had become her dreams, her dreams had become her.
 </p>
 
-<p style="color: #007f5d">
+<p class="text-green">
 When she awoke, the forest had turned into a desert of silken sand permeated by mirages of the
 unseen. Rivers of radiant brightness arose and then faded across the limitless horizon as the eyes
 in the sky stood high and watched with penetrating glare. She closed her eyes and she was at once at
@@ -48,7 +48,7 @@ end. She thought to herself: "All the rivers run into the sea, yet the sea is no
 she departed. And yet, something was missing.
 </p>
 
-<p style="color: #7f0000">
+<p class="text-red">
 Later, after she had passed through many more realms and demesnes and had bore witness to much
 misfortune and joy, she came to notice that she was bearing a key. Slowly but surely it began to
 intrude upon her boundless consciousness. Eventually, she began to enquire with whomever whose
@@ -62,7 +62,7 @@ her serene might to locate once more the very heart of the forest al-Ḥawl wher
 possession of the key but she found neither the one nor the other.
 </p>
 
-<p style="color: #7f0000">
+<p class="text-red">
 She stared into the unfathomable deep and became shrouded in the Pale. Time beyond reckoning passed,
 but she remained there, where her very being began to fray and for the first time in all of
 eternity, her soul became worn by her days until there was no return for nowhere now lead nowhere.

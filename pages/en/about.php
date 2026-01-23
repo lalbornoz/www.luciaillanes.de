@@ -3,11 +3,11 @@
 
       <img
         alt="Portrait" src="/assets/portrait.png" title="Portrait"
-        style="float: right; margin: 0 0 1rem 1rem; width: 250px">
+        class="img-float-right img-width-250px">
 
       <p>
-        I'm a <span style="text-decoration: line-through">independent open source software developer</span>
-        <span style="text-decoration: line-through">tortured artist</span> mostly eukaryotic multicellular form of life from
+        I'm a <span class="text-line-through">independent open source software developer</span>
+        <span class="text-line-through">tortured artist</span> mostly eukaryotic multicellular form of life from
         &amp; presently residing in Hamburg, Germany.<br>
         <br>
         Having grown up in a multilingual and -cultural environment, I've cultivated an avid passion for my native Spanish

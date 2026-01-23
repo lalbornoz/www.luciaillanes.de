@@ -1,17 +1,16 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center">Bei Gott, welch ein Fluss, er fließt in dem Tal!</h1>
-<h2 style="text-align: center">Li-llāhi nahrun sāla fī baṭḥāʔi</h2>
+<h1 class="text-centre">Bei Gott, welch ein Fluss, er fließt in dem Tal!</h1>
+<h2 class="text-centre">Li-llāhi nahrun sāla fī baṭḥāʔi</h2>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 ﻧﻮﻉ ﺍﻟﺸﻌﺮ: شعر الطبيعة ﻋﻠﻰ ﺑﺤﺮ ﺍلكامل<br>
 ﺍﻟﺸﺎﻋﺮ: أبو إسحاق إبراهيم بن أبي الفتح بن عبد الله بن خفاجة الهواري<br>
 منطقته: ﺍﻷﻧﺪﻟﺲ<br>
 ﻋﺼﺮ: ﻗﺮﻥ ﺍلعاشر-ﺍلحادي ﻋﺸﺮ<br>
 </p>
 
-<p style="text-align: center">
-
+<p class="text-centre">
 لِلَّهِ نَهرٌ سالَ في بَطحاءِ<br>
 أَشهى وُروداً مِن لِمى الحَسناءِ<br>
 <br>
@@ -31,14 +30,14 @@
 ذَهَبُ الأَصيلِ عَلى لُجَينِ الماءِ<br>
 </p>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 Type of poem: Nature poem in Kāmil metre<br>
 Name of poet: Abū Ishāq Ibrāhīm b. Abī l-Fatḥ b. ʕabdi-llāh b. Ḫafājah al-Hawārī<br>
 Region of poet: al-Andalus<br>
 Era: 10th-11th century<br>
 </p>
 
-<p style="text-align: center">
+<p class="text-centre">
 Bei Gott, welch ein Fluss, er fließt in dem Tal!<br>
 Seine Blüte<a href="#r2" class="ref">[2]</a> ist lieblich<a href="#r1" class="ref">[1]</a> wie die ros'gen Lippen eines Mädchens<a href="#r3" class="ref">[3]</a><br>
 <br>
@@ -58,7 +57,7 @@ Der Wind spielt mit den Zweigen und darin dort fließt<br>
 gold-glühender Abend auf silbrigem Wasser<br>
 </p>
 
-<div style="padding: 2em 0 2em 0"></div>
+<div class="div-references">
 <!-- {{{ references -->
 <span id="r1">
 [1] or: covetous; exciting desire<br>
@@ -88,5 +87,6 @@ gold-glühender Abend auf silbrigem Wasser<br>
 [7] The verb employed - taḫḍibu - means to dye as well as - specifically for twigs - to become green.<br>
 </span>
 <!-- }}} -->
+</div>
 
 </div>

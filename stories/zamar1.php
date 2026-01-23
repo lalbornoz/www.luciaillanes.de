@@ -1,17 +1,17 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center">Zamār atarḥáyyim amurrim rāšim libbíšu</h1>
-<h2 style="text-align: center">Lay of Atarḥáyyu the Amorite, the Hero</h2>
-<h3 style="text-align: center">I</h3>
+<h1 class="text-centre">Zamār atarḥáyyim amurrim rāšim libbíšu</h1>
+<h2 class="text-centre">Lay of Atarḥáyyu the Amorite, the Hero</h2>
+<h3 class="text-centre">I</h3>
 
-<p style="color: #007f5d; text-align: center">
+<p class="text-green text-centre">
 Once, there was a story<br>
 in winding words lay written<br>
 of all that was to end<br>
 and emptiness appeared<br>
 </p>
 
-<p style="color: #7f0000; text-align: center">
+<p class="text-red text-centre">
 When Atarḥáyyu rāš Libbíšu<br>
 the Hero, the Possessor of his Heart,<br>
 drew forth afore the Nothing<br>
@@ -40,7 +40,7 @@ where ending was unknown<br>
 and all was drawn anew<br>
 </p>
 
-<p style="color: #007f5d; text-align: center">
+<p class="text-green text-centre">
 Across lands spread far and wide<br>
 the Splendour was his guide<br>
 to mountains laid on high<br>
@@ -60,7 +60,7 @@ to the darkness, to the Nothing<br>
 a name he came to find<br>
 </p>
 
-<p style="color: #7f0000; text-align: center">
+<p class="text-red text-centre">
 He drew forth afore the Pale<br>
 set out to find a name<br>
 to the Far-Away, Remote<br>
@@ -83,7 +83,7 @@ may the Splendour be his countenance<br>
 may calmness reign his eyes<br>
 </p>
 
-<p style="color: #007f5d; text-align: center">
+<p class="text-green text-centre">
 Once, there was a story<br>
 in silent signs concealed<br>
 it drew itself anew<br>

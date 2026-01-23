@@ -1,18 +1,18 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center"></h1>
-<h2 style="text-align: center">Hāḏihi ḥaḍrahu s-surūr</h2>
+<h1 class="text-centre"></h1>
+<h2 class="text-centre">Hāḏihi ḥaḍrahu s-surūr</h2>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 ﻧﻮﻉ ﺍﻟﺸﻌﺮ: صنعة مقتضب; صنعات موشحات<br>
 ﺍﻟﺸﺎﻋﺮ: ﻣﺠﻬﻮﻝ؛ ﻣﻮﺟﻮﺩ ﻓﻲ ﻣﻴﺰﺍﻥ قدام ﻧﻮﺑﺔ العراق والعجم<br>
 منطقته: ﺍﻷﻧﺪﻟﺲ<br>
 ﻋﺼﺮ: ﻗﺮﻥ ﺍﻟﺜﺎﻣﻦ-ﺍﻟﺨﺎﻣﺲ ﻋﺸﺮ<br>
 </p>
 
-<table style="direction: rtl; text-align: center; margin-left: auto; margin-right: auto">
+<table class="table-muwashshahah-ar-centred">
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">صنعة مقتضب شغل</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">صنعة مقتضب شغل</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td>هَذِهِ حَضْرَهُ السُّرُورْ</td>
@@ -35,7 +35,7 @@
 <td>فَاقْضِ فِيهِ مَا أنْتَ قَاضْ</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">صنعة توشيح – قنطرة</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">صنعة توشيح – قنطرة</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td>مَنْ لا رَقَدْ بَيْنَ البَنَفْسَج والزَّهَرْ</td>
@@ -58,7 +58,7 @@
 <td>وَلَمْ أرَ يُعْذَرْ أحَدْ</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">صنعة توشيح</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">صنعة توشيح</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td>خُمُولَ الزَّهْرِ</td>
@@ -81,7 +81,7 @@
 <td>لِيُهْلَكَ الذِي تَرَاهْ</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">صنعة توشيح – شغل</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">صنعة توشيح – شغل</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td>هَذَا اليَوْم يَوْمٌ سَعيدْ</td>
@@ -105,25 +105,26 @@
 </tr>
 </table>
 
-<p style="text-align: center; font-style: italic">
-Type of poem: Piece of a poem in metre Muqtaḍab; pieces of Muwaššaḥāt<a href="#r1" class="ref">[1]</a><br>
+<p class="text-centre text-italic">
+Type of poem: Piece of a poem in metre Muqtaḍab; pieces of Muwaššaḥāt<a href="#r1" class="a-reference">[1]</a><br>
 Name of poet: unknown; found in Mīzān Quddām of Nawbatu l-ʕirāqi wal-ʕajam<br>
 Region of poet: al-Andalus<br>
 Era: 8th-15th century<br>
 </p>
 
-<table style="direction: ltr; text-align: center; margin-left: auto; margin-right: auto">
+<table class="table-muwashshahah-en-centred">
 <tr>
 <td>...</td>
 <td>...</td>
 </tr>
 </table>
 
-<div style="padding: 2em 0 2em 0"></div>
+<div class="div-references">
 <!-- {{{ references -->
 <span id="r1">
 [1] <?php include_page("arabic_poems", $inc_lang, "_muwashshahah"); ?>
 </span>
 <!-- }}} -->
+</div>
 
 </div>

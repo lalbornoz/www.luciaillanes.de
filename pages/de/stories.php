@@ -17,7 +17,7 @@
               alt="roarie"
               class="div-content-img"
               onmouseover="roarieMouseOver();" onmouseout="roarieMouseOut();"
-              src="/stories/<?php echo $inc_lang ?>/roarie.png" style="cursor: pointer">
+              src="/stories/<?php echo $inc_lang ?>/roarie.png" class="text-cursor-pointer">
             <div class="div-content-stories-roaries" id="div-content-stories-roarie1">roar</div>
             <div class="div-content-stories-roaries" id="div-content-stories-roarie2">meow</div>
             <div class="div-content-stories-roaries" id="div-content-stories-roarie3">purr</div>
@@ -27,15 +27,15 @@
             <div class="div-content-stories-roaries" id="div-content-stories-roarie7">purr</div>
           </div>
 
-          <h1 style="margin-bottom: 0">
+          <h1 class="text-margin-bottom-none">
             Unvollendete Träume<br>
             (nur auf Englisch)
           </h1>
-          <span style="font-size: 1.5em; text-align: center"
+          <span class="text-inscription-cuneiform"
               title="Inūḫ ipšaḫ libbaša labata Ištar &#10;Ištar the Lioness calmed down, her heart became quiet&#10;(from the Old Babylonian Agušaya hymn)">
             𒄭𒌋𒄭𒅖𒊬𒂷𒁉𒊭𒊏𒊭𒌨𒀭𒌹
           </span><br>
-          <h2 style="margin-top: 0">She</h2>
+          <h2 class="text-margin-top-none">She</h2>
           <a href="/<?php echo $inc_lang ?>/stories/she">I. She later departed, only to return</a><br>
           <a href="/<?php echo $inc_lang ?>/stories/gatenowhere">II. The Gate Nowhere</a><br>
           <a href="/<?php echo $inc_lang ?>/stories/bridgeeverywhere">III. The Bridge Everywhere</a><br>

@@ -1,17 +1,17 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center">
-Do not blame me for blame scarcely touches me<a href="#r2" style="font-size: small">[2]</a><a href="#r3" style="font-size: small">[3]</a></h1>
-<h2 style="text-align: center">Lā talumnī fal-lawma minnī baʕīd</h2>
+<h1 class="text-centre">
+Do not blame me for blame scarcely touches me<a href="#r2" class="a-reference">[2]</a><a href="#r3" class="a-reference">[3]</a></h1>
+<h2 class="text-centre">Lā talumnī fal-lawma minnī baʕīd</h2>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 نوع الشعر: فطعة<br>
 الشاعر: أبو الْمُغِيث الحُسِّين بن مَنْصُور الحَلاَّج المعروف بمَنْصُور الحَلاَّج<br>
 منطقته: أولًا بغداد<br>
 عصر: العباسي الأول (قرن الثامن-التاسع)<br>
 </p>
 
-<p style="text-align: center">
+<p class="text-centre">
 
 لا تَلُمني فَاللَومَ مِنّي بَعيدُ<br>
 وَأَجِر سَيِّدي فَإِنّي وَحيدُ<br>
@@ -24,25 +24,25 @@ Do not blame me for blame scarcely touches me<a href="#r2" style="font-size: sma
 
 </p>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 Type of poem: Qiṭʕah<br>
-Name of poet: Abū l-Muġīṯ al-Ḥusayn b. Manṣūr al-Ḥallāj known as Manṣūr al-Ḥallāj<a href="#r1" style="font-size: small">[1]</a><br>
+Name of poet: Abū l-Muġīṯ al-Ḥusayn b. Manṣūr al-Ḥallāj known as Manṣūr al-Ḥallāj<a href="#r1" class="a-reference">[1]</a><br>
 Region of poet: Primarily Baġdād<br>
 Era: ʕabbāsid (9th-10th century)<br>
 </p>
 
-<p style="text-align: center">
-Do not blame me for blame scarcely touches me<a href="#r2" style="font-size: small">[2]</a><a href="#r3" style="font-size: small">[3]</a><br>
-and guide<a href="#r4" style="font-size: small">[4]</a> me, Lord, for I am lonely<a href="#r5" style="font-size: small">[5]</a><br>
+<p class="text-centre">
+Do not blame me for blame scarcely touches me<a href="#r2" class="a-reference">[2]</a><a href="#r3" class="a-reference">[3]</a><br>
+and guide<a href="#r4" class="a-reference">[4]</a> me, Lord, for I am lonely<a href="#r5" class="a-reference">[5]</a><br>
 <br>
-If truly in your promise lies a promise of truth<a href="#r6" style="font-size: small">[6]</a><br>
-then in my principle is basis of a solid decree<a href="#r7" style="font-size: small">[7]</a><br>
+If truly in your promise lies a promise of truth<a href="#r6" class="a-reference">[6]</a><br>
+then in my principle is basis of a solid decree<a href="#r7" class="a-reference">[7]</a><br>
 <br>
 Whoever should desire to read this, my speech<br>
-so read it, and be aware of that: I have seen!<a href="#r8" style="font-size: small">[8]</a><br>
+so read it, and be aware of that: I have seen!<a href="#r8" class="a-reference">[8]</a><br>
 </p>
 
-<div style="padding: 2em 0 2em 0"></div>
+<div class="div-references">
 <!-- {{{ references -->
 <span id="r1">
 [1] An exceedingly eminent yet also equally controversial Ṣufī mystic, ascetic, teacher, poet, and author - inter alia - of the exceedingly seminal yet also equally controversial Kitābu ṭ-Ṭawāsīn - the Book of Ṭawāsīn - of the disjointed letters Ṭāʔ and Sīn found at the beginning of some chapters of the Qurʔān, wherein - inter alia - his mystical experiences are expressed in rhymed prose, metered poetry, and in terms of the quintessential Ṣūfī trope of divine love of madness - as in Majnūn Laylā - as well as an interpretation of the dialogue between God and Iblīs - Šayṭān, the Devil - concerning Ādam, and Iblīs' refusal to obey God's command to bow towards Ādam, which is taken as an act of superior and ultimate love of and submission towards God and the impossibility on part of Iblīs to act otherwise; the notion that Iblīs brings evil into the world is also reframed by arguing that were it not so, there would be neither a test therein nor any good whatsoever at all, etc. pp.<br>
@@ -89,5 +89,6 @@ This, in countless shapes and forms, reverberates through Ṣūfī rituals, disc
 [8] alternatively: I am a martyr! or: I have witnessed! - the meaning is ultimately the same.<br>
 </span>
 <!-- }}} -->
+</div>
 
 </div>

@@ -1,6 +1,6 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center">Anatomy of a bee</h1>
+<h1 class="text-centre">Anatomy of a bee</h1>
 
 <p>
 In a valley serene and sumptuous laden with luxuriantly growing pastures and forests wide, known to

@@ -1,18 +1,18 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center">
-Stop blaming me, your blame is only tempting me!<a href="#r1" style="font-size: small">[1]</a><a href="#r2" style="font-size: small">[2]</a>
+<h1 class="text-centre">
+Stop blaming me, your blame is only tempting me!<a href="#r1" class="a-reference">[1]</a><a href="#r2" class="a-reference">[2]</a>
 </h1>
-<h2 style="text-align: center">Daʕ ʕanka lawmī fa-inna l-lawma iġrāb</h2>
+<h2 class="text-centre">Daʕ ʕanka lawmī fa-inna l-lawma iġrāb</h2>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 ﻧﻮﻉ ﺍﻟﺸﻌﺮ: ﺧﻤﺮﻳﺔ ﻋﻠﻰ ﺑﺤﺮ ﺍﻟﺒﺴﻴﻂ<br>
 ﺍﻟﺸﺎﻋﺮ: ﺃﺑﻮ ﻧﻮﺍﺱ<br>
 منطقته: ﺑﺼﺮﺓ<br>
 ﻋﺼﺮ: ﺍﻟﻌﺒﺎﺳﻲ ﺍﻷﻭﻝ<br>
 </p>
 
-<p style="text-align: center">
+<p class="text-centre">
 ﺩَﻉ ﻋَﻨﻚَ ﻟَﻮﻣﻲ ﻓَﺈِﻥَّ ﺍﻟﻠَﻮﻡَ ﺇِﻏﺮﺍءُ<br>
 ﻭَﺩﺍﻭِﻧﻲ ﺑِﺎﻟَّﺘﻲ ﻛﺎﻧَﺖ ﻫِﻲَ ﺍﻟﺪﺍءُ<br>
 <br>
@@ -50,52 +50,52 @@ Stop blaming me, your blame is only tempting me!<a href="#r1" style="font-size: 
 ﻓَﺈِﻥَّ ﺣَﻈﺮَﻛَﻪُ ﻓﻲ ﺍﻟﺪﻳﻦِ ﺇِﺯﺭﺍءُ<br>
 </p>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 Type of poem: Ḫamriyyah (wine song/poem) in metre Basīṭ<br>
-Name of poet: Abū Nuwās<a href="#r1" style="font-size: small">[1]</a><br>
+Name of poet: Abū Nuwās<a href="#r1" class="a-reference">[1]</a><br>
 Region of poet: Baṣrah<br>
 Era: Early ʕabbāsid<br>
 </p>
 
-<p style="text-align: center">
+<p class="text-centre">
 Stop blaming me, your blame is only tempting me!<br>
 and cure me with that which has caused my disease:<br>
 <br>
 yellow-sweet wine, no grief where it's poured,<br>
 that even to stones does lend endless delight<br>
 <br>
-served by a waitress, by one with a cunt in the garb of a guy<a href="#r3" style="font-size: small">[3]</a><br>
-two lovers she has: a gay one, a straight one<a href="#r4" style="font-size: small">[4]</a><br>
+served by a waitress, by one with a cunt in the garb of a guy<a href="#r3" class="a-reference">[3]</a><br>
+two lovers she has: a gay one, a straight one<a href="#r4" class="a-reference">[4]</a><br>
 <br>
 She raises the jug, while night starts to scheme,<br>
 on her face shines bright radiance like sparkling pearls<br>
 <br>
-She pours from the lips of the jug but pure wine<a href="#r5" style="font-size: small">[5]</a><br>
+She pours from the lips of the jug but pure wine<a href="#r5" class="a-reference">[5]</a><br>
 like her ravishing eye of delightful temptation<br>
 <br>
 Wine gentle and soft, water can't do it justice<br>
 for its gentlessness shuns the coarseness of water<br>
 <br>
 But were light thereunto to mingle and mix<br>
-it would blend and emerge into radiant light<a href="#r6" style="font-size: small">[6]</a><br>
+it would blend and emerge into radiant light<a href="#r6" class="a-reference">[6]</a><br>
 <br>
 Passed around to many men, fate yields itself to them<br>
 so nothing shall afflict them save for what they please<br>
 <br>
 For that I weep and not for where<br>
-where once dwelt Hind, where dwelt Asmāʔ<a href="#r7" style="font-size: small">[7]</a><br>
+where once dwelt Hind, where dwelt Asmāʔ<a href="#r7" class="a-reference">[7]</a><br>
 <br>
 where dwelt Durrah, but for her no tents are built,<br>
-so that no camel and no sheep therein there may roam<a href="#r8" style="font-size: small">[8]</a><br>
+so that no camel and no sheep therein there may roam<a href="#r8" class="a-reference">[8]</a><br>
 <br>
 So say to him that calls me out in lofty terms of knowledge:<br>
-you've gotten well a thing or two, the world you do not see!<a href="#r9" style="font-size: small">[9]</a><br>
+you've gotten well a thing or two, the world you do not see!<a href="#r9" class="a-reference">[9]</a><br>
 <br>
 Do not deny my mercy when you demand the sinful<br>
-for denying God's forgiveness in religion is a sin!<a href="#r10" style="font-size: small">[10]</a><br>
+for denying God's forgiveness in religion is a sin!<a href="#r10" class="a-reference">[10]</a><br>
 </p>
 
-<div style="padding: 2em 0 2em 0"></div>
+<div class="div-references">
 <!-- {{{ references -->
 <span id="r1">
 [1] Abū Nuwās - literally "the Father (possessor) of the locks of hair or sidelocks", moreso: he of
@@ -196,5 +196,6 @@ drinking wine or any other alcoholic beverage or, for that matter, adultery. Ab�
 him that the denial of God's mercy and forgiveness, particularly when it is asked for is by itself a great sin.<br>
 </span>
 <!-- }}} -->
+</div>
 
 </div>

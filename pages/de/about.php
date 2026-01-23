@@ -3,11 +3,11 @@
 
       <img
         alt="Portrait" src="/assets/portrait.png" title="Portrait"
-        style="float: right; margin: 0 0 1rem 1rem; width: 250px">
+        class="img-float-right img-width-250px">
 
       <p>
-        Ich bin eine <span style="text-decoration: line-through">freiberufliche Open Source Softwareentwicklerin</span>
-        <span style="text-decoration: line-through">geplagte Künstlerin</span> mehrheitlich eukaryotische multizelluläre Lebensform
+        Ich bin eine <span class="text-line-through">freiberufliche Open Source Softwareentwicklerin</span>
+        <span class="text-line-through">geplagte Künstlerin</span> mehrheitlich eukaryotische multizelluläre Lebensform
         aus &amp; derzeit lebend in Hamburg.<br>
         <br>
         Durch die mehrsprachige und -kulturelle Umgebung in der ich aufgewachsen bin, habe ich eine tiefe Leidenschaft für sowohl

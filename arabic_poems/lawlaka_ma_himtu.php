@@ -1,18 +1,18 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center">Weren't it for you I'd not cry in passion</h1>
-<h2 style="text-align: center">Lawlāka mā himtu wajda</h2>
+<h1 class="text-centre">Weren't it for you I'd not cry in passion</h1>
+<h2 class="text-centre">Lawlāka mā himtu wajda</h2>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 ﻧﻮﻉ ﺍﻟﺸﻌﺮ: صنعات تواشيح; صنعة زجل; صنعاتا توشيحين;  صنعة زجل; صنعة زجل موشح<br>
 ﺍﻟﺸﺎﻋﺮ: ﻣﺠﻬﻮﻝ؛ ﻣﻮﺟﻮﺩ ﻓﻲ ﻣﻴﺰﺍﻥ ابطايحي ﻧﻮﺑﺔ الرصد<br>
 منطقته: ﺍﻷﻧﺪﻟﺲ<br>
 ﻋﺼﺮ: ﻗﺮﻥ ﺍﻟﺜﺎﻣﻦ-ﺍﻟﺨﺎﻣﺲ ﻋﺸﺮ<br>
 </p>
 
-<table style="direction: rtl; text-align: center; margin-left: auto; margin-right: auto">
+<table class="table-muwashshahah-ar-centred">
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">صنعة توشيح مجثت شغل</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">صنعة توشيح مجثت شغل</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td>لَوْلاك مَا هِمْتُ وَجْدَا</td>
@@ -35,7 +35,7 @@
 <td>مَا بَيْنَ سَحْرِي ونَحْرِي</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">صنعة من بحر الهزج - شغل</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">صنعة من بحر الهزج - شغل</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td>سَقَانِي مَنْ هَوِيتْ خَمْرَت</td>
@@ -58,7 +58,7 @@
 <td>وَلِلصَّبْرِ الجَمِيلْ نَرْجِعْ</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">صنعة توشيح</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">صنعة توشيح</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td>يَا نَدِيمِي إملا كَاسِي</td>
@@ -73,7 +73,7 @@
 <td>فَصْلُ الرَّبِيعْ</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">صنعة توشيح</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">صنعة توشيح</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td>فَاحَ البَنَفْسَجُ فَاحْ</td>
@@ -104,7 +104,7 @@
 <td>نُدَاوِلُ كأسَ الرَّضَاعه</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">صنعة زجل</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">صنعة زجل</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td>احْتَكَمْ فِيَّ وَخَذْنِي فُرْصَا</td>
@@ -127,7 +127,7 @@
 <td>العِبَادْ شَهَدَتْ لَه</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">صنعة توشيح</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">صنعة توشيح</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td>حُبَّكْ يَا أمِيرَ المِلاحْ</td>
@@ -150,7 +150,7 @@
 <td>يَا سُلْطَانَ الأقْمَارْ</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">صنعة توشيح</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">صنعة توشيح</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td>نَهْوَى الحَاجَبْ الأكْحَلْ</td>
@@ -181,9 +181,9 @@
 <td>دعني فِي عشقي جَارِي</td>
 </tr>
 </table>
-<table style="direction: rtl; text-align: center; margin-left: auto; margin-right: auto">
+<table class="table-muwashshahah-ar-centred">
 <tr><td colspan="3"><br></td></tr>
-<tr><td colspan="3" style="font-weight: bold; font-style: italic">صنعة زجل</td></tr>
+<tr><td colspan="3" class="text-bold text-italic">صنعة زجل</td></tr>
 <tr><td colspan="3"><br></td></tr>
 <tr>
 <td>تَعْلَمْ يَا خِلِّي</td>
@@ -211,7 +211,7 @@
 <td>لِلَّه تَائِبْ</td>
 </tr>
 <tr><td colspan="3"><br></td></tr>
-<tr><td colspan="3" style="font-weight: bold; font-style: italic"> صنعة زجل موشح</td></tr>
+<tr><td colspan="3" class="text-bold text-italic"> صنعة زجل موشح</td></tr>
 <tr><td colspan="3"><br></td></tr>
 <tr>
 <td>صَاحِبْ مَبْسَمْ</td>
@@ -245,16 +245,16 @@
 </tr>
 </table>
 
-<p style="text-align: center; font-style: italic">
-Type of poem: Pieces of Muwaššaḥāt<a href="#r1" class="ref">[1]</a>; piece of a Zajal<a href="#r1" class="ref">[1]</a>; two pieces of Muwaššaḥatayn<a href="#r1" class="ref">[1]</a>; piece of a Zajal<a href="#r1" class="ref">[1]</a>; piece of a Zajal<a href="#r1" class="ref">[1]</a> of a Muwaššaḥah<a href="#r1" class="ref">[1]</a><br>
+<p class="text-centre text-italic">
+Type of poem: Pieces of Muwaššaḥāt<a href="#r1" class="a-reference">[1]</a>; piece of a Zajal<a href="#r1" class="ref">[1]</a>; two pieces of Muwaššaḥatayn<a href="#r1" class="ref">[1]</a>; piece of a Zajal<a href="#r1" class="ref">[1]</a>; piece of a Zajal<a href="#r1" class="ref">[1]</a> of a Muwaššaḥah<a href="#r1" class="ref">[1]</a><br>
 Name of poet: unknown; found in Mīzān Abṭāyḥī of Nawbatu r-Raṣd<br>
 Region of poet: al-Andalus<br>
 Era: 8th-15th century<br>
 </p>
 
-<table style="direction: ltr; text-align: center; margin-left: auto; margin-right: auto">
+<table class="table-muwashshahah-en-centred">
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">(Piece of a Muwaššaḥah in metre Mujtaṯṯ)</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">(Piece of a Muwaššaḥah in metre Mujtaṯṯ)</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td>Weren't it for you I'd not cry in passion</td>
@@ -277,7 +277,7 @@ Era: 8th-15th century<br>
 <td>that lies between the morning and my demise</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">(Piece of a poem in metre al-Hazaj)</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">(Piece of a poem in metre al-Hazaj)</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td>...</td>
@@ -285,12 +285,13 @@ Era: 8th-15th century<br>
 </tr>
 </table>
 
-<div style="padding: 2em 0 2em 0"></div>
+<div class="div-references">
 <!-- {{{ references -->
 <span id="r1">
 [1] <?php include_page("arabic_poems", $inc_lang, "_muwashshahah"); ?>
 </span>
 <br>
 <!-- }}} -->
+</div>
 
 </div>

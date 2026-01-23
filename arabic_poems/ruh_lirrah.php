@@ -1,357 +1,265 @@
-<style>
-.ref { font-size: small; }
-.table-ltr { display: table; direction: ltr; margin: auto; }
-.table-rtl { display: table; direction: rtl; margin: auto; }
-.table-row { display: table-row; }
-.table-row-qufl { display: table-row; font-weight: bold; }
-.table-cell { display: table-cell; padding: 0 1em 0 1em; text-align: center; }
-</style>
-
 <div class="div-box div-content">
 
-<h1 style="text-align: center">Rush to wine and early</h1>
-<h2 style="text-align: center">Ruḥ lir-rāḥ wa-bākir</h2>
+<h1 class="text-centre">Rush to wine and early</h1>
+<h2 class="text-centre">Ruḥ lir-rāḥ wa-bākir</h2>
 
-<!-- {{{ poem info (arabic) -->
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 ﻧﻮﻉ ﺍﻟﺸﻌﺮ: ﻣﻮﺷﺤﺔ<br>
 ﺍﻟﺸﺎﻋﺮ: ﺍﺑﻦ ﻋﺒﺎﺩﺓ ﺍﻟﻘﺰﺍﺯ<br>
 منطقته: ﺍﻷﻧﺪﻟﺲ<br>
 (ﺍﻟﻘﺮﻥ ﺍﻟﺤﺎﺩﻱ ﻋﺸﺮ) ﻋﺼﺮ: ﺍﻟﻌﺼﻮﺭ ﺍﻟﻮﺳﻄﻰ<br>
 </p>
-<!-- }}} -->
-<!-- {{{ text -->
-<div class="table-rtl">
 
-<div class="table-row-qufl">
-<div class="table-cell">ﺭُﺡْ ﻟﻠﺮﺍﺡ ﻭﺑﺎﻛﺮ</div>
-<div class="table-cell">بالمُعْلَم ﺍﻟﻤَﺸﻮﻑ</div>
-</div>
+<table class="table-muwashshahah-ar-centred">
+<tr class="tr-muwashshahah-qufl">
+<td>ﺭُﺡْ ﻟﻠﺮﺍﺡ ﻭﺑﺎﻛﺮ</td>
+<td>بالمُعْلَم ﺍﻟﻤَﺸﻮﻑ</td>
+</tr>
+<tr class="tr-muwashshahah-qufl">
+<td>ﻏَﺒﻮﻗﺎ ﻭﺻُﺒﻮﺡ</td>
+<td>ﻋﻠﻰ ﺍﻟﻮَﺗَﺮ ﺍﻟﻔﺼﻴﺢ</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr class="tr-muwashshahah-bayt">
+<td>ﻟﻴﺲ ﺍﺳﻢ ﺍﻟﺨﻤﺮ ﻋﻨﺪﻱ</td>
+<td>ﻣﺄﺧﻮﺫﺍ ﻓﺄﻋﻠﻢ</td>
+</tr>
+<tr class="tr-muwashshahah-bayt">
+<td>ﺍﻻ ﻣﻦ ﺧﺎء ﺍﻟﺨﺪ</td>
+<td>ﻭﻣﻴﻢ ﺍﻟﻤﺒﺴﻢ</td>
+</tr>
+<tr class="tr-muwashshahah-bayt">
+<td>ﻭﺭﺍء ﺭﻳﻖ ﺍﻟﺸﻬﺪ</td>
+<td>ﺍﻟﻌﺎﻃﺮ ﺍﻟﻔﻢ</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr class="tr-muwashshahah-qufl">
+<td>ﻓﻜﻦْ ﻟﻠﻬﻢ ﻫﺎﺟﺮ</td>
+<td>ﻭﺻﻞْ ﻫﺬﻱ ﺍﻟﺤﺮﻭﻑ</td>
+</tr>
+<tr class="tr-muwashshahah-qufl">
+<td>ﻛﻲ ﺗﻐﺪﻭ ﻭﺗﺮﻭﺡ</td>
+<td>ﺑﺠﺴﻢ ﻟﻪ ﺭﻭﺡ</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr class="tr-muwashshahah-bayt">
+<td>بالله سقِّنيها</td>
+<td>ﻓﻲ ﻭﺩ ﺍﻟﻮﺍﺛﻖ</td>
+</tr>
+<tr class="tr-muwashshahah-bayt">
+<td>ﻓﺈﻥ ﻣﻨﻪ ﻓﻴﻬﺎ</td>
+<td>ﺷِﺒْﻪَ ﺍﻟﺨﻼﺋﻖ</td>
+</tr>
+<tr class="tr-muwashshahah-bayt">
+<td>ﻣﻦ ﺍﻋﺪﻡ ﺍﻟﺸﺒﻴﻬﺎ</td>
+<td>ﻓﻲ ﺍﻟﻤﺠﺪ ﺍﻟﺒﺎﺳﻖ</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr class="tr-muwashshahah-qufl">
+<td>ﻟﻪ ﻣﻦ ﺍﻟﻤﻔﺎﺧﺮ</td>
+<td>ﺗﻠﻴﺪ ﻭﻃﺮﻳﻒ</td>
+</tr>
+<tr class="tr-muwashshahah-qufl">
+<td>ﺩَﻭْﺡٌ ﻣﻦ ﻋﻬﺪ ﻧﻮﺡ</td>
+<td>ﻭﺭﻭﺿﺔ ﺗﻔﻮﺡ</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr class="tr-muwashshahah-bayt">
+<td>ﻫﻞ ﺗﺤﺴﻦ ﺍﻟﻤﺪﺍﺋﺢ</td>
+<td>ﻣﻦ ﻛﻞ ﻣﺎﺩﺡ</td>
+</tr>
+<tr class="tr-muwashshahah-bayt">
+<td>ﺇﻻ ﻋﻠﻰ ﺍﻟﺠﺤﺎﺟﺢ</td>
+<td>ﺑﻨﻲ ﺻﻤﺎﺩﺡ</td>
+</tr>
+<tr class="tr-muwashshahah-bayt">
+<td>ﻓﺄﻧﻬﻢ ﻣﺼﺎﺑﺢ</td>
+<td>ﻋﻠﻰ ﺳﻮﺍﺑﺢ</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr class="tr-muwashshahah-qufl">
+<td>ﺃﻛﺎﺭﻡ ﺃﻛﺎﺑﺮ</td>
+<td>ﺻِﻴﺪٌ ﺷُﻢّ ﺍﻻﻧﻮﻑ</td>
+</tr>
+<tr class="tr-muwashshahah-qufl">
+<td>ﺣﺎﺯﺭﻭﺍ ﺍﻟﻤﺠﺪ ﺍﻟﺼﺮﻳﺢ</td>
+<td>فَخُصّو بالحميح</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr class="tr-muwashshahah-bayt">
+<td>ﻣﺤﻤﺪ ﺑﻌﻴﺪ</td>
+<td>ﻣﺮﺍﻣﻪ ﻗﺮﻳﺐ</td>
+</tr>
+<tr class="tr-muwashshahah-bayt">
+<td>ﻭﺣﻮﻟﻪ ﺟﻨﻮﺩ</td>
+<td>ﻣﻦ ﺁﻟﻪ ﺗﺠﻴﺐ</td>
+</tr>
+<tr class="tr-muwashshahah-bayt">
+<td>ﻛﺄﻧﻬﻢ ﺍﺳﻮﺩ</td>
+<td>ﻓﻲ ﺣﻮﻣﺔ ﺍﻟﺤﺮﻭﺏ</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr class="tr-muwashshahah-qufl">
+<td>ﺇﺫﺍ ﺳﻠّﻮﺍ ﺍﻟﺒﻮﺍﺗﺮ</td>
+<td>فالحين ﻭﺍﻟﺤﺘﻮﻑ</td>
+</tr>
+<tr class="tr-muwashshahah-qufl">
+<td>ﻭﺍﻟﻨﺼﺮ ﻭﺍﻟﻔﺘﻮﺡ</td>
+<td>ﻭﺁﻳﺔ ﺗﻠﻮﺡ</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr class="tr-muwashshahah-bayt">
+<td>ﻭﺇﺫﺍ ﻻﺡ ﺍﺑﻦ ﻣﻌﻦ</td>
+<td>ﻓﻲ ﺟﻴﺸﻪ ﺍﻟﻠﺠﺐ</td>
+</tr>
+<tr class="tr-muwashshahah-bayt">
+<td>ﻭﻧﺎﺩﻯ ﻛﻞ ﻗﺮﻥ</td>
+<td>ﺑﺎﺳﻤﻪ ﻓﻲ ﺍﻟﻠﻌﺐ</td>
+</tr>
+<tr class="tr-muwashshahah-bayt">
+<td>فالهيجاء ﺗﻐﻨﻲ</td>
+<td>ﻭﺍﻟﺴﻴﻒ ﻗﺪ ﻃﺮﺏ</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr class="tr-muwashshahah-qufl">
+<td>ﻣﺎ ﺃﻣﻠﺢ ﺍﻟﻌﺴﺎﻛﺮ</td>
+<td>ﻭﺗﺮﺗﻴﺐ ﺍﻟﺼﻔﻮﻑ</td>
+</tr>
+<tr class="tr-muwashshahah-qufl">
+<td>ﻭﺍﻻﺑﻄﺎﻝ ﺗُﺼﻴﺢ</td>
+<td>ﺍﻟﻮﺍﺛﻖ ﻳﺎﻣﻠﻴﺢ</td>
+</tr>
+</table>
 
-<div class="table-row-qufl">
-<div class="table-cell">ﻏَﺒﻮﻗﺎ ﻭﺻُﺒﻮﺡ</div>
-<div class="table-cell">ﻋﻠﻰ ﺍﻟﻮَﺗَﺮ ﺍﻟﻔﺼﻴﺢ</div>
-</div>
-
-<div class="table-row"><div class="table-cell" style="padding: 1em"></div></div>
-
-<div class="table-row">
-<div class="table-cell">ﻟﻴﺲ ﺍﺳﻢ ﺍﻟﺨﻤﺮ ﻋﻨﺪﻱ</div>
-<div class="table-cell">ﻣﺄﺧﻮﺫﺍ ﻓﺄﻋﻠﻢ</div>
-</div>
-
-<div class="table-row">
-<div class="table-cell">ﺍﻻ ﻣﻦ ﺧﺎء ﺍﻟﺨﺪ</div>
-<div class="table-cell">ﻭﻣﻴﻢ ﺍﻟﻤﺒﺴﻢ</div>
-</div>
-
-<div class="table-row">
-<div class="table-cell">ﻭﺭﺍء ﺭﻳﻖ ﺍﻟﺸﻬﺪ</div>
-<div class="table-cell">ﺍﻟﻌﺎﻃﺮ ﺍﻟﻔﻢ</div>
-</div>
-
-<div class="table-row"><div class="table-cell" style="padding: 1em"></div></div>
-
-<div class="table-row-qufl">
-<div class="table-cell">ﻓﻜﻦْ ﻟﻠﻬﻢ ﻫﺎﺟﺮ</div>
-<div class="table-cell">ﻭﺻﻞْ ﻫﺬﻱ ﺍﻟﺤﺮﻭﻑ</div>
-</div>
-
-<div class="table-row-qufl">
-<div class="table-cell">ﻛﻲ ﺗﻐﺪﻭ ﻭﺗﺮﻭﺡ</div>
-<div class="table-cell">ﺑﺠﺴﻢ ﻟﻪ ﺭﻭﺡ</div>
-</div>
-
-<div class="table-row"><div class="table-cell" style="padding: 1em"></div></div>
-
-<div class="table-row">
-<div class="table-cell">بالله سقِّنيها</div>
-<div class="table-cell">ﻓﻲ ﻭﺩ ﺍﻟﻮﺍﺛﻖ</div>
-</div>
-
-<div class="table-row">
-<div class="table-cell">ﻓﺈﻥ ﻣﻨﻪ ﻓﻴﻬﺎ</div>
-<div class="table-cell">ﺷِﺒْﻪَ ﺍﻟﺨﻼﺋﻖ</div>
-</div>
-
-<div class="table-row">
-<div class="table-cell">ﻣﻦ ﺍﻋﺪﻡ ﺍﻟﺸﺒﻴﻬﺎ</div>
-<div class="table-cell">ﻓﻲ ﺍﻟﻤﺠﺪ ﺍﻟﺒﺎﺳﻖ</div>
-</div>
-
-<div class="table-row"><div class="table-cell" style="padding: 1em"></div></div>
-
-<div class="table-row-qufl">
-<div class="table-cell">ﻟﻪ ﻣﻦ ﺍﻟﻤﻔﺎﺧﺮ</div>
-<div class="table-cell">ﺗﻠﻴﺪ ﻭﻃﺮﻳﻒ</div>
-</div>
-
-<div class="table-row-qufl">
-<div class="table-cell">ﺩَﻭْﺡٌ ﻣﻦ ﻋﻬﺪ ﻧﻮﺡ</div>
-<div class="table-cell">ﻭﺭﻭﺿﺔ ﺗﻔﻮﺡ</div>
-</div>
-
-<div class="table-row"><div class="table-cell" style="padding: 1em"></div></div>
-
-<div class="table-row">
-<div class="table-cell">ﻫﻞ ﺗﺤﺴﻦ ﺍﻟﻤﺪﺍﺋﺢ</div>
-<div class="table-cell">ﻣﻦ ﻛﻞ ﻣﺎﺩﺡ</div>
-</div>
-
-<div class="table-row">
-<div class="table-cell">ﺇﻻ ﻋﻠﻰ ﺍﻟﺠﺤﺎﺟﺢ</div>
-<div class="table-cell">ﺑﻨﻲ ﺻﻤﺎﺩﺡ</div>
-</div>
-
-<div class="table-row">
-<div class="table-cell">ﻓﺄﻧﻬﻢ ﻣﺼﺎﺑﺢ</div>
-<div class="table-cell">ﻋﻠﻰ ﺳﻮﺍﺑﺢ</div>
-</div>
-
-<div class="table-row"><div class="table-cell" style="padding: 1em"></div></div>
-
-<div class="table-row-qufl">
-<div class="table-cell">ﺃﻛﺎﺭﻡ ﺃﻛﺎﺑﺮ</div>
-<div class="table-cell">ﺻِﻴﺪٌ ﺷُﻢّ ﺍﻻﻧﻮﻑ</div>
-</div>
-
-<div class="table-row-qufl">
-<div class="table-cell">ﺣﺎﺯﺭﻭﺍ ﺍﻟﻤﺠﺪ ﺍﻟﺼﺮﻳﺢ</div>
-<div class="table-cell">فَخُصّو بالحميح</div>
-</div>
-
-<div class="table-row"><div class="table-cell" style="padding: 1em"></div></div>
-
-<div class="table-row">
-<div class="table-cell">ﻣﺤﻤﺪ ﺑﻌﻴﺪ</div>
-<div class="table-cell">ﻣﺮﺍﻣﻪ ﻗﺮﻳﺐ</div>
-</div>
-
-<div class="table-row">
-<div class="table-cell">ﻭﺣﻮﻟﻪ ﺟﻨﻮﺩ</div>
-<div class="table-cell">ﻣﻦ ﺁﻟﻪ ﺗﺠﻴﺐ</div>
-</div>
-
-<div class="table-row">
-<div class="table-cell">ﻛﺄﻧﻬﻢ ﺍﺳﻮﺩ</div>
-<div class="table-cell">ﻓﻲ ﺣﻮﻣﺔ ﺍﻟﺤﺮﻭﺏ</div>
-</div>
-
-<div class="table-row"><div class="table-cell" style="padding: 1em"></div></div>
-
-<div class="table-row-qufl">
-<div class="table-cell">ﺇﺫﺍ ﺳﻠّﻮﺍ ﺍﻟﺒﻮﺍﺗﺮ</div>
-<div class="table-cell">فالحين ﻭﺍﻟﺤﺘﻮﻑ</div>
-</div>
-
-<div class="table-row-qufl">
-<div class="table-cell">ﻭﺍﻟﻨﺼﺮ ﻭﺍﻟﻔﺘﻮﺡ</div>
-<div class="table-cell">ﻭﺁﻳﺔ ﺗﻠﻮﺡ</div>
-</div>
-
-<div class="table-row"><div class="table-cell" style="padding: 1em"></div></div>
-
-<div class="table-row">
-<div class="table-cell">ﻭﺇﺫﺍ ﻻﺡ ﺍﺑﻦ ﻣﻌﻦ</div>
-<div class="table-cell">ﻓﻲ ﺟﻴﺸﻪ ﺍﻟﻠﺠﺐ</div>
-</div>
-
-<div class="table-row">
-<div class="table-cell">ﻭﻧﺎﺩﻯ ﻛﻞ ﻗﺮﻥ</div>
-<div class="table-cell">ﺑﺎﺳﻤﻪ ﻓﻲ ﺍﻟﻠﻌﺐ</div>
-</div>
-
-<div class="table-row">
-<div class="table-cell">فالهيجاء ﺗﻐﻨﻲ</div>
-<div class="table-cell">ﻭﺍﻟﺴﻴﻒ ﻗﺪ ﻃﺮﺏ</div>
-</div>
-
-<div class="table-row"><div class="table-cell" style="padding: 1em"></div></div>
-
-<div class="table-row-qufl">
-<div class="table-cell">ﻣﺎ ﺃﻣﻠﺢ ﺍﻟﻌﺴﺎﻛﺮ</div>
-<div class="table-cell">ﻭﺗﺮﺗﻴﺐ ﺍﻟﺼﻔﻮﻑ</div>
-</div>
-
-<div class="table-row-qufl">
-<div class="table-cell">ﻭﺍﻻﺑﻄﺎﻝ ﺗُﺼﻴﺢ</div>
-<div class="table-cell">ﺍﻟﻮﺍﺛﻖ ﻳﺎﻣﻠﻴﺢ</div>
-</div>
-
-</div>
-<!-- }}} -->
-<div style="padding: 2em 0 2em 0"></div>
-<!-- {{{ poem info (english) -->
-<p style="text-align: center; font-style: italic">
-Type of poem: Muwaššaḥah<a href="#r1" class="ref">[1]</a><br>
+<p class="text-centre text-italic">
+Type of poem: Muwaššaḥah<a href="#r1" class="a-reference">[1]</a><br>
 Name of poet: b. ʕubādah al-Qazzāz<br>
 Region of poet: al-Andalus<br>
 Era: medieval (11th century)<br>
 </p>
-<!-- }}} -->
-<!-- {{{ translation -->
-<div class="table-ltr">
 
-<div class="table-row-qufl">
-<div class="table-cell">Rush to wine and early</div>
-<div class="table-cell">By the bright and shining coin<a href="#r2" class="ref">[2]</a></div>
-</div>
+<table class="table-muwashshahah-en-centred">
+<tr class="tr-muwashshahah-qufl">
+<td>Rush to wine and early</td>
+<td>By the bright and shining coin<a href="#r2" class="a-reference">[2]</a></td>
+</tr>
+<tr class="tr-muwashshahah-qufl">
+<td>In the evening, the morning</td>
+<td>In eloquent metre<a href="#r3" class="a-reference">[3]</a></td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr class="tr-muwashshahah-bayt">
+<td>The name of wine is not spelt out,</td>
+<td>so be aware:</td>
+</tr>
+<tr class="tr-muwashshahah-bayt">
+<td>except with the Ḫāʔ that draws,</td>
+<td>also the smiling Mīm,</td>
+</tr>
+<tr class="tr-muwashshahah-bayt">
+<td>the Rāʔ of honey saliva,<a href="#r4" class="a-reference">[4]</a></td>
+<td>perfuming the mouth.</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr class="tr-muwashshahah-qufl">
+<td>So let all concern depart</td>
+<td>and join those consonants</td>
+</tr>
+<tr class="tr-muwashshahah-qufl">
+<td>so that you may leave and go</td>
+<td>with a body full of spirit</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr class="tr-muwashshahah-bayt">
+<td>By God, give me a drink</td>
+<td>for the love of al-Wāṯiq<a href="#r5" class="a-reference">[5]</a></td>
+</tr>
+<tr class="tr-muwashshahah-bayt">
+<td>For from him spring therein</td>
+<td>two beings both alike</td>
+</tr>
+<tr class="tr-muwashshahah-bayt">
+<td>Unequalled and unique</td>
+<td>in his lofty, noble glory</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr class="tr-muwashshahah-qufl">
+<td>He is, of all the noble,</td>
+<td>of good lineage and wit</td>
+</tr>
+<tr class="tr-muwashshahah-qufl">
+<td>upon the tree of Nūḥ<a href="#r7">[7]</a></td>
+<td>a perfumed splendid garden</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr class="tr-muwashshahah-bayt">
+<td>Who deserves the panegyric</td>
+<td>from all of those that write it</td>
+</tr>
+<tr class="tr-muwashshahah-bayt">
+<td>Better than the generous lords</td>
+<td>of House Banū Ṣumādiḥ<a href="#r8" class="a-reference">[8]</a></td>
+</tr>
+<tr class="tr-muwashshahah-bayt">
+<td>For luminant lamps they are</td>
+<td>upon poets of poems of praise</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr class="tr-muwashshahah-qufl">
+<td>The most generous, most grand</td>
+<td>They hunt with finest sense</td>
+</tr>
+<tr class="tr-muwashshahah-qufl">
+<td>Endowed with distinguished glory</td>
+<td>Exalted they are in praise</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr class="tr-muwashshahah-bayt">
+<td>When Muḥammad<a href="#r5" class="a-reference">[5]</a> is far away</td>
+<td>desire of him is near</td>
+</tr>
+<tr class="tr-muwashshahah-bayt">
+<td>And surrounding him, the army</td>
+<td>of House Banū Tujīb<a href="#r6" class="a-reference">[6]</a></td>
+</tr>
+<tr class="tr-muwashshahah-bayt">
+<td>Like lions they all are</td>
+<td>in the thick of war and battle</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr class="tr-muwashshahah-qufl">
+<td>When cutting swords are drawn</td>
+<td>and death and trial draw near</td>
+</tr>
+<tr class="tr-muwashshahah-qufl">
+<td>and conquests are delivered</td>
+<td>and his handsomeness appears</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr class="tr-muwashshahah-bayt">
+<td>When the son of Maʕn<a href="#r5" class="a-reference">[5]</a> appears</td>
+<td>his army's in uproar</td>
+</tr>
+<tr class="tr-muwashshahah-bayt">
+<td>and all his foes declare</td>
+<td>his name in fun and play</td>
+</tr>
+<tr class="tr-muwashshahah-bayt">
+<td>And the sabre starts to sing</td>
+<td>the sword my instrument:</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr class="tr-muwashshahah-qufl">
+<td>How wonderful the armies</td>
+<td>when arranged in orderly ranks</td>
+</tr>
+<tr class="tr-muwashshahah-qufl">
+<td>when the champions loudly shout:</td>
+<td>al-Wāṯiq<a href="#r5" class="a-reference">[5]</a>, the most Handsome!</td>
+</tr>
+</table>
 
-<div class="table-row-qufl">
-<div class="table-cell">In the evening, the morning</div>
-<div class="table-cell">In eloquent metre<a href="#r3" class="ref">[3]</a></div>
-</div>
-
-<div class="table-row"><div class="table-cell" style="padding: 1em"></div></div>
-
-<div class="table-row">
-<div class="table-cell">The name of wine is not spelt out,</div>
-<div class="table-cell">so be aware:</div>
-</div>
-
-<div class="table-row">
-<div class="table-cell">except with the Ḫāʔ that draws,</div>
-<div class="table-cell">also the smiling Mīm,</div>
-</div>
-
-<div class="table-row">
-<div class="table-cell">the Rāʔ of honey saliva,<a href="#r4" class="ref">[4]</a></div>
-<div class="table-cell">perfuming the mouth.</div>
-</div>
-
-<div class="table-row"><div class="table-cell" style="padding: 1em"></div></div>
-
-<div class="table-row-qufl">
-<div class="table-cell">So let all concern depart</div>
-<div class="table-cell">and join those consonants</div>
-</div>
-
-<div class="table-row-qufl">
-<div class="table-cell">so that you may leave and go</div>
-<div class="table-cell">with a body full of spirit</div>
-</div>
-
-<div class="table-row"><div class="table-cell" style="padding: 1em"></div></div>
-
-<div class="table-row">
-<div class="table-cell">By God, give me a drink</div>
-<div class="table-cell">for the love of al-Wāṯiq<a href="#r5" class="ref">[5]</a></div>
-</div>
-
-<div class="table-row">
-<div class="table-cell">For from him spring therein</div>
-<div class="table-cell">two beings both alike</div>
-</div>
-
-<div class="table-row">
-<div class="table-cell">Unequalled and unique</div>
-<div class="table-cell">in his lofty, noble glory</div>
-</div>
-
-<div class="table-row"><div class="table-cell" style="padding: 1em"></div></div>
-
-<div class="table-row-qufl">
-<div class="table-cell">He is, of all the noble,</div>
-<div class="table-cell">of good lineage and wit</div>
-</div>
-
-<div class="table-row-qufl">
-<div class="table-cell">upon the tree of Nūḥ<a href="#r7">[7]</a></div>
-<div class="table-cell">a perfumed splendid garden</div>
-</div>
-
-<div class="table-row"><div class="table-cell" style="padding: 1em"></div></div>
-
-<div class="table-row">
-<div class="table-cell">Who deserves the panegyric</div>
-<div class="table-cell">from all of those that write it</div>
-</div>
-
-<div class="table-row">
-<div class="table-cell">Better than the generous lords</div>
-<div class="table-cell">of House Banū Ṣumādiḥ<a href="#r8" class="ref">[8]</a></div>
-</div>
-
-<div class="table-row">
-<div class="table-cell">For luminant lamps they are</div>
-<div class="table-cell">upon poets of poems of praise</div>
-</div>
-
-<div class="table-row"><div class="table-cell" style="padding: 1em"></div></div>
-
-<div class="table-row-qufl">
-<div class="table-cell">The most generous, most grand</div>
-<div class="table-cell">They hunt with finest sense</div>
-</div>
-
-<div class="table-row-qufl">
-<div class="table-cell">Endowed with distinguished glory</div>
-<div class="table-cell">Exalted they are in praise</div>
-</div>
-
-<div class="table-row"><div class="table-cell" style="padding: 1em"></div></div>
-
-
-<div class="table-row">
-<div class="table-cell">When Muḥammad<a href="#r5" class="ref">[5]</a> is far away</div>
-<div class="table-cell">desire of him is near</div>
-</div>
-
-<div class="table-row">
-<div class="table-cell">And surrounding him, the army</div>
-<div class="table-cell">of House Banū Tujīb<a href="#r6" class="ref">[6]</a></div>
-</div>
-
-<div class="table-row">
-<div class="table-cell">Like lions they all are</div>
-<div class="table-cell">in the thick of war and battle</div>
-</div>
-
-<div class="table-row"><div class="table-cell" style="padding: 1em"></div></div>
-
-<div class="table-row-qufl">
-<div class="table-cell">When cutting swords are drawn</div>
-<div class="table-cell">and death and trial draw near</div>
-</div>
-
-<div class="table-row-qufl">
-<div class="table-cell">and conquests are delivered</div>
-<div class="table-cell">and his handsomeness appears</div>
-</div>
-
-<div class="table-row"><div class="table-cell" style="padding: 1em"></div></div>
-
-<div class="table-row">
-<div class="table-cell">When the son of Maʕn<a href="#r5" class="ref">[5]</a> appears</div>
-<div class="table-cell">his army's in uproar</div>
-</div>
-
-<div class="table-row">
-<div class="table-cell">and all his foes declare</div>
-<div class="table-cell">his name in fun and play</div>
-</div>
-
-<div class="table-row">
-<div class="table-cell">And the sabre starts to sing</div>
-<div class="table-cell">the sword my instrument:</div>
-</div>
-
-<div class="table-row"><div class="table-cell" style="padding: 1em"></div></div>
-
-<div class="table-row-qufl">
-<div class="table-cell">How wonderful the armies</div>
-<div class="table-cell">when arranged in orderly ranks</div>
-</div>
-
-<div class="table-row-qufl">
-<div class="table-cell">when the champions loudly shout:</div>
-<div class="table-cell">al-Wāṯiq<a href="#r5" class="ref">[5]</a>, the most Handsome!</div>
-
-</div>
-
-</div>
-<!-- }}} -->
-<div style="padding: 2em 0 2em 0"></div>
+<div class="div-references">
 <!-- {{{ references -->
 <span id="r1">
 [1] <?php include_page("arabic_poems", $inc_lang, "_muwashshahah"); ?>
@@ -389,8 +297,9 @@ expensive then<br>
 </span>
 <br>
 <span id="r8">
-[8] Arab dynasty of the Taifa of Almería of al-Andalus in the 11th century; branch of House Banū Tujīb<a href="#r7" class="ref">[6]</a><br>
+[8] Arab dynasty of the Taifa of Almería of al-Andalus in the 11th century; branch of House Banū Tujīb<a href="#r7" class="a-reference">[6]</a><br>
 </span>
 <!-- }}} -->
+</div>
 
 </div>

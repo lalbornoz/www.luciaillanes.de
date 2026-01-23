@@ -1,16 +1,16 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center">If I died because of you while my heart would remain...</h1>
-<h2 style="text-align: center">In mittu minka wa-qalbī fīhi mā fīh</h2>
+<h1 class="text-centre">If I died because of you while my heart would remain...</h1>
+<h2 class="text-centre">In mittu minka wa-qalbī fīhi mā fīh</h2>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 ﻧﻮﻉ ﺍﻟﺸﻌﺮ: ﻏﺰﻝ ﻋﻠﻰ ﺑﺤﺮ ﺍﻟﺒﺴﻴﻂ<br>
 ﺍﻟﺸﺎﻋﺮ: ﺃﺑﻮ ﻧﻮﺍﺱ<br>
 منطقته: ﺑﺼﺮﺓ<br>
 ﻋﺼﺮ: ﻋﺒﺎﺳﻲ<br>
 </p>
 
-<p style="text-align: center">
+<p class="text-centre">
 ﺇِﻥ ﻣِﺖُّ ﻣِﻨﻚَ ﻭَﻗَﻠﺒﻲ ﻓﻴﻪِ ﻣﺎ ﻓﻴﻪِ<br>
 ﻭَﻟَﻢ ﺃَﻧَﻞ ﻓَﺮَﺟﺎً ﻣِﻤّﺎ ﺃُﻗﺎﺳﻴﻪِ<br>
 <br>
@@ -27,14 +27,14 @@
 ﻭَﻟَﻴﺲَ ﻳَﻨﻔَﻚُّ ﻣِﻦ ﺯَﻫﻮٍ ﻭَﻣِﻦ ﺗﻴﻪِ<br>
 </p>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 Type of poem: Ġazal (poetry on love) in metre Basīṭ<br>
 Name of poet: Abū Nuwās<br>
 Region of poet: Baṣrah<br>
 Era: ʕabbāsid<br>
 </p>
 
-<p style="text-align: center">
+<p class="text-centre">
 If I died because of you while my heart would remain,<br>
 when no joy shall replace the sadness of your pain,<br/>
 <br>

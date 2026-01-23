@@ -1,15 +1,15 @@
       <div class="div-box" id="div-content-visual-sundries">
         <div class="div-box" id="div-content-visual-sundries-T">
-          <h1 style="margin-bottom: 0">
+          <h1 class="text-margin-bottom-none">
             Digitale Kunst (aus #mIRCart)<br>
             (nur auf Englisch)
           </h1>
-          <span style="font-size: 1.5em; text-align: center"
+          <span class="text-inscription-cuneiform"
                 title="Ana kurnugi qaqqari lā tāri,&#10;Ištar mārat sīn uzunša iškun &#10;To the netherworld, land of no return,&#10;Ištar, daughter of Sīn, set her mind&#10;(from the Mesopotamian myth Ištar's Descent to the Netherworld)">
             𒀭𒌋𒉡𒌦 𒆳𒆠𒊕 𒇷𒀀𒌓<br>
             𒀭𒈹𒀭 𒈠𒌓𒊏𒊬 𒌓𒍪𒈨𒊬 𒄑
           </span><br>
-          <h2 style="margin-top: 0">
+          <h2 class="text-margin-top-none">
             ALLERGENHINWEIS: enthält Spuren von:
             absurden und zuhöchst zynischen schwarzen Humor, vulgärer Sprache, Schimpftiraden, Drogengebrauch,
             allgemeinen Wahnsinn, kade, unsinnigen Prämissen und Handlungen, zuhöchst fraglichen Charaktären,

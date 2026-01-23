@@ -1,16 +1,16 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center">The daughters of time have shot me, from where, I cannot see</h1>
-<h2 style="text-align: center">Ramatnī banātu d-dahri min ḥayṯu lā arā</h1>
+<h1 class="text-centre">The daughters of time have shot me, from where, I cannot see</h1>
+<h2 class="text-centre">Ramatnī banātu d-dahri min ḥayṯu lā arā</h1>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 نوع الشعر: مأخوذا من شعر "إِنْ أَكُ قَدْ أَقْصَرْتُ عَنْ طُولِ رِحْلَةٍ" على بحر الطويل<br>
 الشاعر: عمرو بن قَمِيئَة بن سعد بن مالك بن ضبيعة بن قيس بن ثعلبة<br>
 منطقته: الحيرة<br>
 عصر: جاهلي - قرن الخامس-السادس<br>
 </p>
 
-<p style="text-align: center">
+<p class="text-centre">
 رَمَتني بَناتُ الدَهرِ مِن حَيثُ لا أَرى<br>
 فَكَيفَ لِمَن يُرمى وَلَيسَ بِرامِ<br>
 <br>
@@ -27,15 +27,15 @@
 وَتَأميلُ عَامٍ بَعدَ ذاك وَعَامِ<br>
 </p>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 Type of poem: taken from the poem "In aku qad aqṣartu ʕan ṭūli riḥlatin" in metre Ṭawīl<br>
 Name of poet: ʕamrū b. Qamīʔah b. Saʕd b. Mālik b. Ḍabīʕah b. Qays b. Ṯaʕlabah<br>
 Region of poet: al-Ḥīrah (in Mesopotamia, the Laḫmid capital)<br>
 Era: Pre-Islāmic - 5th-6th century<br>
 </p>
 
-<p style="text-align: center">
-The daughters of time<a href="#r1" style="font-size: small">[1]</a> have shot me, from where, I cannot see<br>
+<p class="text-centre">
+The daughters of time<a href="#r1" class="a-reference">[1]</a> have shot me, from where, I cannot see<br>
 and what of him who is shot when he is not shooting?<br>
 <br>
 And had they shot me with arrows, I would've guarded against them<br>
@@ -44,14 +44,14 @@ but I am shot at with that which is not arrow nor dart!<br>
 When my people would see me, they'd say: were you not<br>
 vigorous, young, of sharp and bright armour, and no sluggish fighter!<br>
 <br>
-I am taken and cannot take of time a single night<a href="#r2" style="font-size: small">[2]</a><br>
-for what I take does not take from time but a thread<a href="#r3" style="font-size: small">[3]</a><br>
+I am taken and cannot take of time a single night<a href="#r2" class="a-reference">[2]</a><br>
+for what I take does not take from time but a thread<a href="#r3" class="a-reference">[3]</a><br>
 <br>
-So I wear out in hope for that<a href="#r4" style="font-size: small">[4]</a> day, for that night<br>
+So I wear out in hope for that<a href="#r4" class="a-reference">[4]</a> day, for that night<br>
 and in hope for that year, and then year after year<br>
 </p>
 
-<div style="padding: 2em 0 2em 0"></div>
+<div class="div-references">
 <!-- {{{ references -->
 <span id="r1">
 [1] e.g the vicissitudes of time, destiny, fate, etc. In tribal and particularly patriarchal societies, which the Arabian societies at the time certainly were, daughters are unfortunately of little to no to less than no value owing to the primacy of patrilineal descent on one hand and the political dimensions of kinship through marriage on the other - sons afford alliances, strengthening of safety, power, and status, and, of course, furthering bloodlines, whereas daughters are married off and provide neither.<br>
@@ -70,5 +70,6 @@ This poem was composed near the end of the poet's life, who attained the age of 
 [4] viz. that day, that night, that year when death shall come - or time shall end, for the poet<br>
 </span>
 <!-- }}} -->
+</div>
 
 </div>

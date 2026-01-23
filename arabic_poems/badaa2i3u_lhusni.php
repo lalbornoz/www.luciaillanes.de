@@ -1,18 +1,18 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center"></h1>
-<h2 style="text-align: center">Badāʔiʕu l-Ḥusni fīhi muftariqah</h2>
+<h1 class="text-centre"></h1>
+<h2 class="text-centre">Badāʔiʕu l-Ḥusni fīhi muftariqah</h2>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 ﻧﻮﻉ ﺍﻟﺸﻌﺮ: صنعة منسرح; صنعات تواشيح<br>
 ﺍﻟﺸﺎﻋﺮ: ﻣﺠﻬﻮﻝ؛ ﻣﻮﺟﻮﺩ ﻓﻲ ﻣﻴﺰﺍﻥ قائم ونصف ﻧﻮﺑﺔ الرصد<br>
 منطقته: ﺍﻷﻧﺪﻟﺲ<br>
 ﻋﺼﺮ: ﻗﺮﻥ ﺍﻟﺜﺎﻣﻦ-ﺍﻟﺨﺎﻣﺲ ﻋﺸﺮ<br>
 </p>
 
-<table style="direction: rtl; text-align: center; margin-left: auto; margin-right: auto">
+<table class="table-muwashshahah-ar-centred">
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">صنعة منسرح</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">صنعة منسرح</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td>بَدَائِعُ الحُسْنِ فِيهِ مُفْتَرِقَهْ</td>
@@ -27,7 +27,7 @@
 <td>هَذَا مَلِيحٌ وَحَقِّ مَنْ خَلَقَهْ</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">صنعة توشيح</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">صنعة توشيح</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td>قَلْبِي يَخَافْ مِنَ الْغَرَامْ</td>
@@ -38,7 +38,7 @@
 <td>نَحْوَ الجَزِيرَةْ</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">صنعة توشيح (منسوخة يدويا)</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">صنعة توشيح (منسوخة يدويا)</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td>قُل لِيَ آَشْ هُوَ الغَرَامْ</td>
@@ -53,7 +53,7 @@
 </tr>
 
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">صنعة توشيح</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">صنعة توشيح</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td>إِنَّ المُلُوكَ إِذَا شَابَتْ عَبِيدُهُمُ</td>
@@ -64,7 +64,7 @@
 <td>قَدْ شِبْتُ فِي الرقِّ فَاعَتِقْنِي مِنَ النَارِ</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">صنعة توشيح شغل</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">صنعة توشيح شغل</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td>يَا صُورَة قَمَرْ فِي البَشَرْ</td>
@@ -87,7 +87,7 @@
 <td>آشْ نْهُ احْتِيَالِي</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">صنعة توشيح</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">صنعة توشيح</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td>وَنَشْكُرُ فِي ذَا المَقَامْ نِعْمَ الكَرِيمْ</td>
@@ -108,26 +108,27 @@
 </tr>
 </table>
 
-<p style="text-align: center; font-style: italic">
-Type of poem: Piece of a poem in metre Munsaraḥ; pieces of Muwaššaḥāt<a href="#r1" class="ref">[1]</a><br>
+<p class="text-centre text-italic">
+Type of poem: Piece of a poem in metre Munsaraḥ; pieces of Muwaššaḥāt<a href="#r1" class="a-reference">[1]</a><br>
 Name of poet: unknown; found in Mīzān Qāʔim wa-Niṣf of Nawbatu r-Raṣd<br>
 Region of poet: al-Andalus<br>
 Era: 8th-15th century<br>
 </p>
 
-<table style="direction: ltr; text-align: center; margin-left: auto; margin-right: auto">
+<table class="table-muwashshahah-en-centred">
 <tr>
 <td>...</td>
 <td>...</td>
 </tr>
 </table>
 
-<div style="padding: 2em 0 2em 0"></div>
+<div class="div-references">
 <!-- {{{ references -->
 <span id="r1">
 [1] <?php include_page("arabic_poems", $inc_lang, "_muwashshahah"); ?>
 </span>
 <br>
 <!-- }}} -->
+</div>
 
 </div>

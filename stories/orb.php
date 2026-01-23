@@ -1,10 +1,10 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center">
+<h1 class="text-centre">
 Expedition into the Pale
 </h1>
 
-<p style="color: #7f0000">
+<p class="text-red">
 ...of course, she was only distracting herself, with good reason. She had only just, for the lack
 of a more suitable term, concluded a, by and large, terminally inconclusive relationship. Much
 like wine of mediocre quality, little was left thereof the next morning but foul, fading traces
@@ -55,7 +55,7 @@ pillow in front of her.
 
 <br>
 
-<p style="color: #000000">
+<p class="text-black">
 Logbook of the Expedition into the Pale, 19 August 1913<br>
 <br>
 Earlier this morning, after two long years of preparation, I have concluded assembling a crew
@@ -101,7 +101,7 @@ of rather more metaphysical a nature, as in the expression of profound astonishm
 its origin in some long-forgotten poem:<br>
 <p>
 
-<p style="color: #007f5d; text-align: center">
+<p class="text-green text-centre">
 Beyond the Pale she cast her eyes<br>
 and there she saw<br>
 a thousand things.<br>
@@ -144,7 +144,7 @@ may or may not be to ascertain, shall commence on this day, 19 August 1913 at 05
 
 <br>
 
-<p style="color: #7f0000">
+<p class="text-red">
 Suddenly, she felt very, very tired. She inexplicably felt compelled to place her palm upon the
 orb and as she did so, she felt as though an ineffable imprint of herself was left therein,
 slowly but surely growing from a mere simulacrum into a being independently existing of her,
@@ -155,7 +155,7 @@ in great measure and found it too, for a while.
 
 <br>
 
-<p style="color: #000000">
+<p class="text-black">
 The darkest sun of merciful sleep dawned, arose, and drew into its shroud of soothing extinction
 all that lay beneath. Her breathing slowed. The weight of the world at first was uncomfortably upon
 her but then vanished. Sleep, the little death. She first faded and waned and then disappeared
@@ -184,12 +184,12 @@ phrases that had imprinted itself on her subconscious emerged into her immense c
 possessed of torment:
 </p>
 
-<p style="color: #007f5d; text-align: center">
+<p class="text-green text-centre">
 all-surrounding nothingness<br>
 the fading, fading eyes
 </p>
 
-<p style="color: #000000">
+<p class="text-black">
 The innumerable mirrors broke into uncountable shards and each shard burst forth into an endlessly
 cascading cacophony of endlessly reflected boundlessness and what remained of the emptiness
 surrounding it, had become a silent sea of terrifyingly recursive infinity. Everywhere that was
@@ -204,7 +204,7 @@ The orb was within her.
 
 <br>
 
-<p style="color: #7f0000">
+<p class="text-red">
 She abruptly awoke, drenched in sweat and the suffocating aura of unspeakable terror that knows
 no name.
 <br>
@@ -228,14 +228,14 @@ And off she was.<br>
 
 <br>
 
-<p style="color: #007f5d; text-align: center">
+<p class="text-green text-centre">
 Do not blame me for blame scarcely touches me<br>
 And guide me Lord, for I am lonely<br>
 </p>
 
 <br>
 
-<p style="color: #7f0000">
+<p class="text-red">
 Houses. Buildings. Places, objects. Most of them subtly altered, in the wrong places - or
 orientations - altogether. Neither of note nor of concern. Not anymore. Sod it all. To hell with it.
 Or, if proven impossible, let it all remain here. Not much of a difference, anyway. Not as far as
@@ -273,14 +273,14 @@ poem on Sufism or worldly love, depending on one's point of view. Or he. Was thi
 suddenly thought:<br>
 </p>
 
-<p style="color: #7f0000; text-align: center">
+<p class="text-red text-centre">
 To dream with open eyes<br>
 is to see the world change<br>
 and in silence<br>
 the endless paths appear<br>
 </p>
 
-<p style="color: #7f0000">
+<p class="text-red">
 Her mind felt clear and her heart at ease. Perhaps this ought be written down somewhere, fixed, as
 it were, and then watered generously, so that it would grow into something pleasant. The faint scent
 of the Pacific Ocean lingered within her senses. What a pleasant dream. The Pacific Ocean. The
@@ -392,7 +392,7 @@ memories are invoked, they also fade away, by the haunting, humble song of the S
 that now with much discernment describe our predicament:<br>
 </p>
 
-<p style="color: #007f5d; text-align: center">
+<p class="text-green text-centre">
 The Pale is a sea<br>
 where the eye cannot see<br>
 where the ear cannot hear<br>
@@ -429,13 +429,13 @@ to their beginning<br>
 
 <br>
 
-<p style="color: #7f0000">
+<p class="text-red">
 ...and then she abruptly fell into deep sleep.<br>
 </p>
 
 <br>
 
-<p style="color: #000000">
+<p class="text-black">
 Darkness descended. Beyond the boundary of the infinitessimal unknowable unknown, beyond the primal
 effervescence of uncertainty, beyond what gravitation condemned, there dwelt the Void that was
 not, in silently serene, all-crushing all-destroying impossibility of endless infinity. There
@@ -447,13 +447,13 @@ She was within the Pale, she had become the Pale, the Pale had become her, and t
 the Pale.
 </p>
 
-<p style="color: #007f5d; text-align: center">
+<p class="text-green text-centre">
 Beyond the Pale she cast her eyes<br>
 and there she saw<br>
 a thousand things.<br>
 </p>
 
-<p style="color: #000000">
+<p class="text-black">
 As she opened her eyes within, she crossed a planet transformed. The world was rebuilt. Tens
 of thousands of incomprehensible roads led to tens of thousands of incomprehensible places
 that contained tens of thousands of more roads and places and places and roads. The Endless
@@ -470,7 +470,7 @@ She had taken from the Nothing what was not within it
 
 <br>
 
-<p style="color: #7f0000">
+<p class="text-red">
 and thus she awoke anew. Bizarre, lucid dreams appeared to have become her new nocturnal companion.
 For now, it did not matter.<br>
 A new day. 19 August 1913, a thought proudly declared somewhere within her nascent consciousness.<br>
@@ -495,7 +495,7 @@ she read:<br>
 
 <br>
 
-<p style="text-align: center">
+<p class="text-centre">
 (...) where (illegible) (...) (largely illegible) ...and there is no hope.<br>
 in (...) (illegible) the Pale (...) (...) vanishing (...) the orb (...)<br>
 (...) (...) (...) the orb bears (...) a shard of the Pale (...) who touches it<br>
@@ -506,7 +506,7 @@ no hope (...) the fading, fading eyes (...) see (...) (illegible) the void(?)<br
 
 <br>
 
-<p style="color: #7f0000">
+<p class="text-red">
 Something changed. Countless thoughts previously given no attention that seemed to be totally
 unrelated to each other assumed just the right shapes and quietly arranged themselves into something
 coherent that turned her mind upside down and inside out like some sort of deranged kaleidoscope.
@@ -519,14 +519,14 @@ One path only was left to speak of.<br>
 Beginning arose aflame and ending became known.<br>
 </p>
 
-<p style="color: #7f0000; text-align: center">
+<p class="text-red text-centre">
 In all-surrounding nothingness,<br>
 the darkness of the Pale<br>
 cast blood-black nothingness upon<br>
 her fading, fading eyes.<br>
 <br>
 
-<p style="color: #007f5d; text-align: center">
+<p class="text-green text-centre">
 In a long, forlorn longboat<br>
 in the midst of the Pale<br>
 a pale, fading orb<br>

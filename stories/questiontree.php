@@ -1,11 +1,11 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center">The Tree of Many Questions</h1>
+<h1 class="text-centre">The Tree of Many Questions</h1>
 
 <img
 	alt="The tree of many questions"
 	src="/stories/<?php echo $inc_lang ?>/questiontree.png"
-	style="display: block; margin-left: auto; margin-right: auto; width: 45%" />
+	class="img-centred img-width-45">
 
 <p>
 Announcing the arrival of a calamitous morning, the owl of unasking quietly displaced the emptiness

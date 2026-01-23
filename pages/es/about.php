@@ -3,11 +3,11 @@
 
       <img
         alt="Portrait" src="/assets/portrait.png" title="Portrait"
-        style="float: right; margin: 0 0 1rem 1rem; width: 250px">
+        class="img-float-right img-width-250px">
 
       <p>
-        Yo soy una <span style="text-decoration: line-through">desarrolladora de software open source</span>
-        <span style="text-decoration: line-through">artista torturada</span> forma de vida pluricelular mayoritariamente eucariota
+        Yo soy una <span class="text-line-through">desarrolladora de software open source</span>
+        <span class="text-line-through">artista torturada</span> forma de vida pluricelular mayoritariamente eucariota
         nacida y, al presente, viviendo en Hamburgo, Alemania.<br>
         <br>
         Criado en un ambiente plurilingüe y -cultural, he cultivado una pasión ávida por mis idiomas nativos siendo el Castellano

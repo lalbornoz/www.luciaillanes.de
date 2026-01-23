@@ -24,13 +24,13 @@
 
         <div class="div-box" id="div-content-etc-kade">
           <img
-            alt="kade" class="div-content-img" id="kade"
+            alt="kade" class="div-content-img element-hidden" id="kade"
             onclick="kadeClick();" src="data:,"
-            style="visibility: hidden"
+            class="element-hidden"
             title="No me hagas clic!"><br>
-          <span class="div-content-img" id="kade-prev" onclick="kadePrevious();" style="cursor: pointer">⏪</span>
-          <span class="div-content-img" id="kade-next" onclick="kadeNext();" style="cursor: pointer">⏩</span><br>
-          <span style="font-size: 1em; text-align: center"
+          <span class="div-content-img" id="kade-prev" onclick="kadePrevious();" class="text-cursor-pointer">⏪</span>
+          <span class="div-content-img" id="kade-next" onclick="kadeNext();" class="text-cursor-pointer">⏩</span><br>
+          <span class="text-inscription-cuneiform-small"
                 title="Ana ešrā bēr iksupū kusāpa&#10;Ana šalāšā bēr iškunū nubatta&#10;Ikšudūnim-ma ana libbi Uruk supūri&#10;At twenty leagues they broke bread,&#10;at thirty leagues they pitched camp.&#10;They arrived in Uruk the Sheepfold.&#10;(from the Standard Babylonian text of The Epic of Gilgameš, Tablet XI)">
             𒀀𒈾𒂊𒊭𒊏𒀀𒁁𒂊𒊑𒅅𒅖𒌑𒅆𒆪𒋢𒀀𒉺
             𒀀𒈾𒊭𒆷𒀀𒊭𒀀𒁁𒂊𒊑𒅖𒆪𒉡𒌑𒉡𒁉𒋫

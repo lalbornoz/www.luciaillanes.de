@@ -1,18 +1,18 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center">My heart is nourished by your glance</h1>
-<h2 style="text-align: center">Qalbī tamakkan bin-Naẓrah</h2>
+<h1 class="text-centre">My heart is nourished by your glance</h1>
+<h2 class="text-centre">Qalbī tamakkan bin-Naẓrah</h2>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 ﻧﻮﻉ ﺍﻟﺸﻌﺮ: برولة; صنعة توشيح; برولة; صنعة متقارب<br>
 ﺍﻟﺸﺎﻋﺮ: ﻣﺠﻬﻮﻝ؛ ﻣﻮﺟﻮﺩ ﻓﻲ ﻣﻴﺰﺍﻥ درج ﻧﻮﺑﺔ الرصد<br>
 منطقته: ﺍﻷﻧﺪﻟﺲ<br>
 ﻋﺼﺮ: ﻗﺮﻥ ﺍﻟﺜﺎﻣﻦ-ﺍﻟﺨﺎﻣﺲ ﻋﺸﺮ<br>
 </p>
 
-<table style="direction: rtl; text-align: center; margin-left: auto; margin-right: auto">
+<table class="table-muwashshahah-ar-centred">
 <tr><td colspan="3"><br></td></tr>
-<tr><td colspan="3" style="font-weight: bold; font-style: italic">برولة</td></tr>
+<tr><td colspan="3" class="text-bold text-italic">برولة</td></tr>
 <tr><td colspan="3"><br></td></tr>
 <tr>
 <td>قَلْبِي تَمَكَّنْ بِالنَّظْرَة</td>
@@ -69,9 +69,9 @@
 <td>مِثْلِي فِي عِشْقَة مَنْصورَة</td>
 </tr>
 </table>
-<table style="direction: rtl; text-align: center; margin-left: auto; margin-right: auto">
+<table class="table-muwashshahah-ar-centred">
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">صنعة توشيح – شغل</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">صنعة توشيح – شغل</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td>فِي وَصْفِهِ الأسْنَى</td>
@@ -94,9 +94,9 @@
 <td>هَلْ لِي مِنْها نَصِيب</td>
 </tr>
 </table>
-<table style="direction: rtl; text-align: center; margin-left: auto; margin-right: auto">
+<table class="table-muwashshahah-ar-centred">
 <tr><td colspan="3"><br></td></tr>
-<tr><td colspan="3" style="font-weight: bold; font-style: italic">برولة</td></tr>
+<tr><td colspan="3" class="text-bold text-italic">برولة</td></tr>
 <tr><td colspan="3"><br></td></tr>
 <tr>
 <td>أكامل البها ما شفك تعبي</td>
@@ -151,9 +151,9 @@
 <td>وارحم يا حياة الفاني راحبك افناني</td>
 </tr>
 </table>
-<table style="direction: rtl; text-align: center; margin-left: auto; margin-right: auto">
+<table class="table-muwashshahah-ar-centred">
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">صنعة متقارب</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">صنعة متقارب</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td>ﻏﺰﺍﻝٌ ﺳﻤﺎ بالبها ﺧﻠﻘﺔً</td>
@@ -177,21 +177,21 @@
 </tr>
 </table>
 
-<p style="text-align: center; font-style: italic">
-Type of poem: Barwalah<a href="#r1" class="ref">[1]</a>; piece of a Muwaššaḥah<a href="#r2" class="ref">[2]</a>; Barwalah<a href="#r1" class="ref">[1]</a>; piece of a poem in Mutaqārib metre<br>
+<p class="text-centre text-italic">
+Type of poem: Barwalah<a href="#r1" class="a-reference">[1]</a>; piece of a Muwaššaḥah<a href="#r2" class="ref">[2]</a>; Barwalah<a href="#r1" class="ref">[1]</a>; piece of a poem in Mutaqārib metre<br>
 Name of poet: unknown; found in Mīzān Darj of Nawbatu r-Raṣd<br>
 Region of poet: al-Andalus<br>
 Era: 8th-15th century<br>
 </p>
 
-<table style="direction: ltr; text-align: center; margin-left: auto; margin-right: auto">
+<table class="table-muwashshahah-en-centred">
 <tr>
 <td>...</td>
 <td>...</td>
 </tr>
 </table>
 
-<div style="padding: 2em 0 2em 0"></div>
+<div class="div-references">
 <!-- {{{ references -->
 <span id="r1">
 [1] Moroccan dialectal poetry.<br>
@@ -200,5 +200,6 @@ Era: 8th-15th century<br>
 [2] <?php include_page("arabic_poems", $inc_lang, "_muwashshahah"); ?>
 </span>
 <!-- }}} -->
+</div>
 
 </div>

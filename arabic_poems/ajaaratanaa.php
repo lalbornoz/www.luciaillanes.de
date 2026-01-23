@@ -1,16 +1,16 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center">O neighbour of ours: calamities descend</h1>
-<h2 style="text-align: center">Ajāratanā inna l-ḫuṭūba tanūbu</h1>
+<h1 class="text-centre">O neighbour of ours: calamities descend</h1>
+<h2 class="text-centre">Ajāratanā inna l-ḫuṭūba tanūbu</h1>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 نوع الشعر: قصيدة على بحر الطويل<br>
 الشاعر: امرؤ القيس بن حجر بن الحارث الكندي<br>
 منطقته: نجد<br>
 عصر: جاهلي - قرن السادس<br>
 </p>
 
-<p style="text-align: center">
+<p class="text-centre">
 أجارَتَنا إنَّ الخُطُوبَ تَنوبُ<br>
 وإني مُقِيمٌ ما أقامَ عَسِيبُ<br>
 <br>
@@ -27,31 +27,31 @@
 ولكنَّ مَنْ وارى التُّرابُ غَريبُ<br>
 </p>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 Type of poem: Qaṣīdah in metre Ṭawīl<br>
 Name of poet: Imruʕu l-Qays b. Ḥujr b. al-Ḥāriṯ al-Kindī<br>
 Region of poet: Najd<br>
 Era: Pre-Islāmic - 6th century<br>
 </p>
 
-<p style="text-align: center">
-O neighbour<a href="#r1" style="font-size: small">[1]</a> of ours: calamities descend<a href="#r2" style="font-size: small">[2]</a><br>
-while I remain steadfast as the mountain ʕasīb<a href="#r3" style="font-size: small">[3]</a><br>
+<p class="text-centre">
+O neighbour<a href="#r1" class="a-reference">[1]</a> of ours: calamities descend<a href="#r2" class="a-reference">[2]</a><br>
+while I remain steadfast as the mountain ʕasīb<a href="#r3" class="a-reference">[3]</a><br>
 <br>
 O neighbour of ours, both of us are strangers here<br>
-and every stranger is unto the stranger kin<a href="#r4" style="font-size: small">[4]</a><br>
+and every stranger is unto the stranger kin<a href="#r4" class="a-reference">[4]</a><br>
 <br>
 And should you join us in union, then kinship is ours<br>
 and should you part with us, then a stranger was but a stranger<br>
 <br>
-O neighbour of ours, what has passed shall not return<a href="#r5" style="font-size: small">[5]</a><br>
-and whatever is to come in time becomes near<a href="#r6" style="font-size: small">[6]</a><br>
+O neighbour of ours, what has passed shall not return<a href="#r5" class="a-reference">[5]</a><br>
+and whatever is to come in time becomes near<a href="#r6" class="a-reference">[6]</a><br>
 <br>
-And he is not a stranger that roams around houses<a href="#r7" style="font-size: small">[7]</a><br>
-but he is a stranger that dwells beneath dust<a href="#r8" style="font-size: small">[8]</a><br>
+And he is not a stranger that roams around houses<a href="#r7" class="a-reference">[7]</a><br>
+but he is a stranger that dwells beneath dust<a href="#r8" class="a-reference">[8]</a><br>
 </p>
 
-<div style="padding: 2em 0 2em 0"></div>
+<div class="div-references">
 <!-- {{{ references -->
 <span id="r1">
 [1] This poem was composed on the occasion of the looming death of the poet either after he fell ill - likely related to a life-long skin disease mentioned by that same poet in his own poems - when he travelled near the city of modern-day Ankara, Turkey or - as myth would hold it - after having been poisoned by the Byzantine emperor Justinian who was angered by his departure. One way or another, here, the poet, stood in a graveyard, addresses his soon-to-be very own neighbourhood of fellow dead folk and specifically, his female - deceased - neighbour, a stranger to him, and the poet a stranger to her.<br>
@@ -85,5 +85,6 @@ but he is a stranger that dwells beneath dust<a href="#r8" style="font-size: sma
 [8] e.g. the dead<br>
 </span>
 <!-- }}} -->
+</div>
 
 </div>

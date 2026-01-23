@@ -1,17 +1,16 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center">By God, what a river, it flows in the valley!</h1>
-<h2 style="text-align: center">Li-llāhi nahrun sāla fī baṭḥāʔi</h2>
+<h1 class="text-centre">By God, what a river, it flows in the valley!</h1>
+<h2 class="text-centre">Li-llāhi nahrun sāla fī baṭḥāʔi</h2>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 ﻧﻮﻉ ﺍﻟﺸﻌﺮ: شعر الطبيعة ﻋﻠﻰ ﺑﺤﺮ ﺍلكامل<br>
 ﺍﻟﺸﺎﻋﺮ: أبو إسحاق إبراهيم بن أبي الفتح بن عبد الله بن خفاجة الهواري<br>
 منطقته: ﺍﻷﻧﺪﻟﺲ<br>
 ﻋﺼﺮ: ﻗﺮﻥ ﺍلعاشر-ﺍلحادي ﻋﺸﺮ<br>
 </p>
 
-<p style="text-align: center">
-
+<p class="text-centre">
 لِلَّهِ نَهرٌ سالَ في بَطحاءِ<br>
 أَشهى وُروداً مِن لِمى الحَسناءِ<br>
 <br>
@@ -31,34 +30,34 @@
 ذَهَبُ الأَصيلِ عَلى لُجَينِ الماءِ<br>
 </p>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 Type of poem: Nature poem in Kāmil metre<br>
 Name of poet: Abū Ishāq Ibrāhīm b. Abī l-Fatḥ b. ʕabdi-llāh b. Ḫafājah al-Hawārī<br>
 Region of poet: al-Andalus<br>
 Era: 10th-11th century<br>
 </p>
 
-<p style="text-align: center">
+<p class="text-centre">
 By God, what a river, it flows in the valley!<br>
-Sweeter<a href="#r1" class="ref">[1]</a> its blossom<a href="#r2" class="ref">[2]</a> than the red lips of a girl<a href="#r3" class="ref">[3]</a><br>
+Sweeter<a href="#r1" class="a-reference">[1]</a> its blossom<a href="#r2" class="ref">[2]</a> than the red lips of a girl<a href="#r3" class="ref">[3]</a><br>
 <br >
 It bends and it winds like a bracelet, as though,<br>
-guarded by flowers, like stars drawn from the sky<a href="#r4" class="ref">[4]</a><br>
+guarded by flowers, like stars drawn from the sky<a href="#r4" class="a-reference">[4]</a><br>
 <br>
-So graceful and soft, like headdress<a href="#r5" class="ref">[5]</a> that's molten<br>
+So graceful and soft, like headdress<a href="#r5" class="a-reference">[5]</a> that's molten<br>
 of silver and dressed in a mantle of green<br>
 <br>
-It<a href="#r6" class="ref">[6]</a> is unto the branches that border the river<br>
+It<a href="#r6" class="a-reference">[6]</a> is unto the branches that border the river<br>
 like long-lashed sprigs around a girl's blue wide eyes<br>
 <br>
 Often have I therein perished in long-lasting wine,<br>
-yellow-sweet wine, that dyes hands<a href="#r7" class="ref">[7]</a> like twigs become green<br>
+yellow-sweet wine, that dyes hands<a href="#r7" class="a-reference">[7]</a> like twigs become green<br>
 <br>
 The wind plays with the twigs and therein there flows<br>
 the gold-gleaming sunset on silver-bright water<br>
 </p>
 
-<div style="padding: 2em 0 2em 0"></div>
+<div class="div-references">
 <!-- {{{ references -->
 <span id="r1">
 [1] or: covetous; exciting desire<br>
@@ -88,5 +87,6 @@ the gold-gleaming sunset on silver-bright water<br>
 [7] The verb employed - taḫḍibu - means to dye as well as - specifically for twigs - to become green.<br>
 </span>
 <!-- }}} -->
+</div>
 
 </div>

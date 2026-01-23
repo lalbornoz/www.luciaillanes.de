@@ -1,16 +1,16 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center"></h1>
-<h2 style="text-align: center">Yā farḥatī bil-ġazāli l-mudallal</h2>
+<h1 class="text-centre"></h1>
+<h2 class="text-centre">Yā farḥatī bil-ġazāli l-mudallal</h2>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 ﻧﻮﻉ ﺍﻟﺸﻌﺮ: براول<br>
 ﺍﻟﺸﺎﻋﺮ: ﻣﺠﻬﻮﻝ؛ ﻣﻮﺟﻮﺩ ﻓﻲ ﻣﻴﺰﺍﻥ ابطايحي ﻧﻮﺑﺔ الرصد في التراث التونسي<br>
 منطقته: ﺍﻷﻧﺪﻟﺲ<br>
 ﻋﺼﺮ: ﻗﺮﻥ ﺍﻟﺜﺎﻣﻦ-ﺍﻟﺨﺎﻣﺲ ﻋﺸﺮ<br>
 </p>
 
-<table style="direction: rtl; text-align: center; margin-left: auto; margin-right: auto">
+<table class="table-muwashshahah-ar-centred">
 <tr>
 <td>يَا فَرْحَتِي بِالْغَزَالِ الْمُدَلَّلْ</td>
 <td>يَا حَضْرَتِي وَالشُّمَيْعَة تُوَلْوَلْ</td>
@@ -19,7 +19,7 @@
 <td colspan="2">حِبِّي هَجَرْ وَاشْ بِيدِي مَا نَعْمَلْ</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">طالع</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">طالع</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td>هَذَا الْغُزَيِّلْ قَدْ عَمَلْ لِحَيْنِي</td>
@@ -56,7 +56,7 @@
 <td colspan="2">تنهدت تنهيدة من وسط قلبي</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">طالع</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">طالع</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td>يكمل سعدي ونبقى مهنّي</td>
@@ -76,7 +76,7 @@
 <td>فرج على مهجتي</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">طالع</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">طالع</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td>فرج ولو بعد ما</td>
@@ -100,7 +100,7 @@
 <td>إلا قبيلة في خدّو</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">طالع</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">طالع</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td>يكمل سعدي ونبقى مهنّي</td>
@@ -120,7 +120,7 @@
 <td>قلب العشيق يتعبوا</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">طالع</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">طالع</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td>ارقا ولا شار لي</td>
@@ -132,26 +132,27 @@
 </tr>
 </table>
 
-<p style="text-align: center; font-style: italic">
-Type of poem: Barāwil<a href="#r1" class="ref">[1]</a><br>
+<p class="text-centre text-italic">
+Type of poem: Barāwil<a href="#r1" class="a-reference">[1]</a><br>
 Name of poet: unknown; found in Mīzān Abṭāyḥī of Nawbatu r-Raṣd in the Tunisian tradition<br>
 Region of poet: al-Andalus<br>
 Era: 8th-15th century<br>
 </p>
 
-<table style="direction: ltr; text-align: center; margin-left: auto; margin-right: auto">
+<table class="table-muwashshahah-en-centred">
 <tr>
 <td>...</td>
 <td>...</td>
 </tr>
 </table>
 
-<div style="padding: 2em 0 2em 0"></div>
+<div class="div-references">
 <!-- {{{ references -->
 <span id="r1">
 [1] Poems in Tunisian dialect.<br>
 </span>
 <br>
 <!-- }}} -->
+</div>
 
 </div>

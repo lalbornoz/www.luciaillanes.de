@@ -1,12 +1,12 @@
       <div class="div-box div-content-grid">
         <div class="div-box" id="div-content-araboly">
-          <h1 style="margin-bottom: 0">Araboly 2000 Advanced Server SP4</h1>
-          <span style="font-size: 1.5em; text-align: center"
+          <h1 class="text-margin-bottom-none">Araboly 2000 Advanced Server SP4</h1>
+          <span class="text-inscription-cuneiform"
                 title="Ana kurnugi qaqqari lā tāri,&#10;Ištar mārat sīn uzunša iškun &#10;To the netherworld, land of no return,&#10;Ištar, daughter of Sīn, set her mind&#10;(from the Mesopotamian myth Ištar's Descent to the Netherworld)">
             𒀭𒌋𒉡𒌦 𒆳𒆠𒊕 𒇷𒀀𒌓<br>
             𒀭𒈹𒀭 𒈠𒌓𒊏𒊬 𒌓𒍪𒈨𒊬 𒄑
           </span><br>
-          <h2 style="margin-top: 0">
+          <h2 class="text-margin-top-none">
             VOLUNTARY INCIDENTAL TRACE ALLERGEN LABELLING: contains traces of:
             absurd and highly cynical dark humour, crude language, long strings of profanity, abuse,
             drug use, general insanity, kade, nonsensical premises and plots, highly questionable characters,
@@ -40,7 +40,7 @@
           </pre>
 
           <h3>Everyone's favourite board game... with IRC support and fancy colours! (WORK IN PROGRESS)</h3>
-          <p style="text-align: center">
+          <p class="text-centre">
             Copyright (c) 2018, 2019, 2020, 2022, 2025 Lucía Andrea Illanes Albornoz &lt;lucia@luciaillanes.de&gt;<br>
             This project is licensed under the terms of the MIT licence.
           </p>

@@ -1,18 +1,18 @@
 <div class="div-box div-content">
 
-<h1 style="text-align: center"></h1>
-<h2 style="text-align: center">Āh yā sulṭānī sqini l-ḥumayyā</h2>
+<h1 class="text-centre"></h1>
+<h2 class="text-centre">Āh yā sulṭānī sqini l-ḥumayyā</h2>
 
-<p style="text-align: center; font-style: italic">
+<p class="text-centre text-italic">
 ﻧﻮﻉ ﺍﻟﺸﻌﺮ: صنعات أزجال; صنعاتا توشيحين; صنعة زجل<br>
 ﺍﻟﺸﺎﻋﺮ: ﻣﺠﻬﻮﻝ؛ ﻣﻮﺟﻮﺩ ﻓﻲ ﻣﻴﺰﺍﻥ ابطايحي ﻧﻮﺑﺔ العشاق<br>
 منطقته: ﺍﻷﻧﺪﻟﺲ<br>
 ﻋﺼﺮ: ﻗﺮﻥ ﺍﻟﺜﺎﻣﻦ-ﺍﻟﺨﺎﻣﺲ ﻋﺸﺮ<br>
 </p>
 
-<table style="direction: rtl; text-align: center; margin-left: auto; margin-right: auto">
+<table class="table-muwashshahah-ar-centred">
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">صنعة زجل</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">صنعة زجل</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td>آه يَا سُلْطَانِي اسْقِني الحُمَيَّا</td>
@@ -40,7 +40,7 @@
 <td>وَالحَبِيبْ نَدْمَانْ</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">صنعة زجل</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">صنعة زجل</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td>زِدْ واسْقِنِي يَا حَبِيبِي</td>
@@ -62,7 +62,7 @@
 <td colspan="2">مُذْ غَابَ عَنِّي رَقِيبِي</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">صنعة زجل</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">صنعة زجل</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td>رِفْقـًا عَلَى قَلِيبِي</td>
@@ -85,7 +85,7 @@
 <td>قَلْبِي يَحْمَلْ</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">صنعة زجل</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">صنعة زجل</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td>سَيِّدِي افْعَلْ مَا تَشَا</td>
@@ -108,7 +108,7 @@
 <td>احْرَقَتْ الأكْبَادْ</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">صنعة زجل</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">صنعة زجل</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td>هَجَرُونِي مِنْ بَعْدِمَا</td>
@@ -131,9 +131,9 @@
 <td>سَقَاهْ وَاقَدْ</td>
 </tr>
 </table>
-<table style="direction: rtl; text-align: center; margin-left: auto; margin-right: auto">
+<table class="table-muwashshahah-ar-centred">
 <tr><td colspan="3"><br></td></tr>
-<tr><td colspan="3" style="font-weight: bold; font-style: italic">صنعة زجل</td></tr>
+<tr><td colspan="3" class="text-bold text-italic">صنعة زجل</td></tr>
 <tr><td colspan="3"><br></td></tr>
 <tr>
 <td>احْمِلْ يَا حَمَامْ</td>
@@ -161,9 +161,9 @@
 <td>عَيْشِي يَطِيبْ</td>
 </tr>
 </table>
-<table style="direction: rtl; text-align: center; margin-left: auto; margin-right: auto">
+<table class="table-muwashshahah-ar-centred">
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">صنعة توشيح</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">صنعة توشيح</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td>لَيْلُ  الهَوَى يَقْظَانْ</td>
@@ -182,7 +182,7 @@
 <td>فِي الدَّهْرِ والأهْلِ غَرِيبْ</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">صنعة توشيح</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">صنعة توشيح</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td>جُلْ جُلْ تَرَى المَعَانِي</td>
@@ -213,7 +213,7 @@
 <td>إلا بِمَا سَكَنْ</td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
-<tr><td colspan="2" style="font-weight: bold; font-style: italic">صنعة زجل</td></tr>
+<tr><td colspan="2" class="text-bold text-italic">صنعة زجل</td></tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td colspan="2">سَكَنْ قَلبِي هَوَاكُمْ</td>
@@ -232,26 +232,27 @@
 </tr>
 </table>
 
-<p style="text-align: center; font-style: italic">
-Type of poem: Pieces of Azjāl<a href="#r1" class="ref">[1]</a>; two pieces of Muwaššaḥatayn<a href="#r1" class="ref">[1]</a>; piece of a Zajal<a href="#r1" class="ref">[1]</a><br>
+<p class="text-centre text-italic">
+Type of poem: Pieces of Azjāl<a href="#r1" class="a-reference">[1]</a>; two pieces of Muwaššaḥatayn<a href="#r1" class="ref">[1]</a>; piece of a Zajal<a href="#r1" class="ref">[1]</a><br>
 Name of poet: unknown; found in Mīzān Abṭāyḥī of Nawbatu l-ʕuššāq<br>
 Region of poet: al-Andalus<br>
 Era: 8th-15th century<br>
 </p>
 
-<table style="direction: ltr; text-align: center; margin-left: auto; margin-right: auto">
+<table class="table-muwashshahah-en-centred">
 <tr>
 <td>...</td>
 <td>...</td>
 </tr>
 </table>
 
-<div style="padding: 2em 0 2em 0"></div>
+<div class="div-references">
 <!-- {{{ references -->
 <span id="r1">
 [1] <?php include_page("arabic_poems", $inc_lang, "_muwashshahah"); ?>
 </span>
 <br>
 <!-- }}} -->
+</div>
 
 </div>
