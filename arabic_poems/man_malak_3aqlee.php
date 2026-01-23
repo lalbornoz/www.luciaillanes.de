@@ -11,59 +11,69 @@
 </p>
 
 <table class="table-muwashshahah-ar-centred">
-<tr class="tr-muwashshahah-qufl">
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>مَنْ مَلَكْ عَقْلِي رَهِينْ</td>
 <td>رِيتْ عَلَى خَدُّ اليَمِينْ</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>الزَّهَرْ وَالوَرْدَ وَالسَّوْسَنْ</td>
 <td>وَاليَاسْمِينْ</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-bayt">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>قُلْتُ لَهُ آشْ ذَاكْ عَلَى خَدَّكْ</td>
 <td>قَالَ لِي القَمَرْ</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>قُلْتُ لَهُ آشْ ذَاكْ عَلَى شَفْرَكْ</td>
 <td>قَالَ لِي الحَوَرْ</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>قُلْتُ لَهُ آشْ ذَاكْ عَلَى ثَغْرَكْ</td>
 <td>قَالَ لِي  الدُّرَرْ</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>لَمَعُوا تَحْتَ الجَبِينْ</td>
 <td>حَاجِبَانِ مُعَرَّقِينْ</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>الزَّهَرْ وَالوَرْدَ وَالسَّوْسَن</td>
 <td>وَاليَاسَمِينْ</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-bayt">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>قُلْتُ لَهُ أنْتَ المَلِيح بِالحَق</td>
 <td>قَالَ لِي مَلِيحْ</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>قُلْتُ لَهُ أنْتَ كَحِيل الأحْدَاقِ</td>
 <td>قَالَ لِي وَقِيحْ</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>قُلْتُ لَهُ هَلْ بِالوِصَالِ تَشْفق</td>
 <td>قَالَ شَحِيح</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>يَا مُجِيءَ العَاشِقِينَ مِنْ عُيُونْ</td>
 <td>النَّائِمِينْ</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>الزَّهَرْ وَالوَرْدَ وَالسَّوْسَنْ</td>
 <td>وَاليَاسَمِين</td>
 </tr>
-<table>
+</tbody>
+</table>
 
 <p class="text-centre text-italic">
 Type of poem: piece of a Muwaššaḥah<a href="#r1" class="a-reference">[1]</a><br>
@@ -72,60 +82,69 @@ Region of poet: al-Andalus<br>
 Era: 8th-15th century<br>
 </p>
 
-<td><table class="table-muwashshahah-en-centred">
-<tr class="tr-muwashshahah-qufl">
+<table class="table-muwashshahah-en-centred">
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>You that took my mind hostage</td>
 <td>I saw on your cheek in a dream<a href="#r2" class="a-reference">[2]</a></td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>flowers and roses and lilies</td>
 <td>and jasmine</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-bayt">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>I said to her: what is there on your cheek?</td>
 <td>She said to me: the moon<a href="#r3" class="a-reference">[3]</a></td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>I said to her: what is there on your eyelids?</td>
 <td>She said to me: bright light<a href="#r4" class="a-reference">[4]</a></td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>I said to her: what is there on your teeth?</td>
 <td>She said to me: many a pearl<a href="#r5" class="a-reference">[5]</a></td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>Shining below your forehead</td>
 <td>guarded by eyebrows like marble<a href="#r6" class="a-reference">[6]</a></td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>are flowers and roses and lilies</td>
 <td>and jasmine</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-bayt">
+</tbody>
+
+<tbody class="tbody-muwashshahah-bayt">
+<tr>
 <td>I said to her: are you the most handsome in truth?</td>
 <td>She said to me: I am handsome</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>I said to her: so are you but dark-eyed?<a href="#r7" class="a-reference">[7]</a></td>
 <td>She said to me: do not condescend!</td>
 </tr>
-<tr class="tr-muwashshahah-bayt">
+<tr>
 <td>I said to her: are you taken by our union?</td>
 <td>She said to me: only in greed</td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
-<tr class="tr-muwashshahah-qufl">
+</tbody>
+
+<tbody class="tbody-muwashshahah-qufl">
+<tr>
 <td>O you who arouses your lover's eyes</td>
 <td>from their dream</td>
 </tr>
-<tr class="tr-muwashshahah-qufl">
+<tr>
 <td>to flowers and roses and lilies</td>
 <td>and jasmine</td>
 </tr>
-
+</tbody>
 </table>
 
 <div class="div-references">
@@ -162,7 +181,6 @@ Era: 8th-15th century<br>
 The person being addressed responds to the charge of merely possessing the most prized physical attribute for their eyes to possess as they stated to be merely handsome as opposed to the most handsome, after the preceding Qufl wherein the eyes of the person addressed were already described as shining, beckoning flowers.<br>
 </span>
 <!-- }}} -->
-</div>
 </div>
 
 </div>
