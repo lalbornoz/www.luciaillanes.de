@@ -1,91 +1,91 @@
-<div class="div-box div-content">
+    <div class="div-box div-content">
 
-<h1 class="text-centre">She later departed, only to return</h1>
+    <h1 class="text-centre">She later departed, only to return</h1>
 
-<p class="text-red">
-He was and hence, in time, there was.
-</p>
+    <p class="text-red">
+    He was and hence, in time, there was.
+    </p>
 
-<p class="text-red">
-What was, had been thus, and was not to change. He awoke, arose, opened his eyes, and there was. He saw,
-came into motion, did, stood. He then dressed, ate, and left towards and into the looming nothingness that
-awaited without beckoning. He passed by unidentifiable streets and past houses, buildings, places, objects
-that defied reckoning and vanished into a mere trace of the derelict within memories unremarkable. The sky,
-the sun, the moon, and the vast firmament idly contemplated the looming nothingness of the possibility of
-their existence as he slavishly strode across the distance of the world beneath to destinations unknown, as
-his destiny decreed, for reasons equally unknown. He arrived. He did not discern whence he had come from where
-he was now, as there was neither now nor after nor before nor anything at all but distant mirages of places
-remote. Places, buildings, objects that defied reckoning. People and further objects in the places, buildings,
-and objects that defied reckoning. He waited, but it was not to be. He attended with indifference to duties
-of no significance and satisfied tasks devoid of meaning. He ate, stood, resumed, and time passed. There was
-no now and nothing was to be. Later, he left. Once more, he passed by streets shrouded in nothingness and past
-houses, buildings, places and objects that appeared to but faintly possess any existence at all and perhaps
-only to those whom would reckon them and perhaps those that did, did themselves but hardly exist. He returned
-but he was not home. He undressed and with the night his refuge, he slept but did not dream.
-</p>
+    <p class="text-red">
+    What was, had been thus, and was not to change. He awoke, arose, opened his eyes, and there was. He saw,
+    came into motion, did, stood. He then dressed, ate, and left towards and into the looming nothingness that
+    awaited without beckoning. He passed by unidentifiable streets and past houses, buildings, places, objects
+    that defied reckoning and vanished into a mere trace of the derelict within memories unremarkable. The sky,
+    the sun, the moon, and the vast firmament idly contemplated the looming nothingness of the possibility of
+    their existence as he slavishly strode across the distance of the world beneath to destinations unknown, as
+    his destiny decreed, for reasons equally unknown. He arrived. He did not discern whence he had come from where
+    he was now, as there was neither now nor after nor before nor anything at all but distant mirages of places
+    remote. Places, buildings, objects that defied reckoning. People and further objects in the places, buildings,
+    and objects that defied reckoning. He waited, but it was not to be. He attended with indifference to duties
+    of no significance and satisfied tasks devoid of meaning. He ate, stood, resumed, and time passed. There was
+    no now and nothing was to be. Later, he left. Once more, he passed by streets shrouded in nothingness and past
+    houses, buildings, places and objects that appeared to but faintly possess any existence at all and perhaps
+    only to those whom would reckon them and perhaps those that did, did themselves but hardly exist. He returned
+    but he was not home. He undressed and with the night his refuge, he slept but did not dream.
+    </p>
 
-<p class="text-red">
-He awoke, arose, and all was the same to him, for when there is no now, there is no before and no after, and
-all that decreed once was to be, thus remained for time immemorial. He once more did hence and did such, left,
-passed by this and past that, the sky his sole witness unattainable, the looming nothingness vastly resounding
-with voices silent beyond the Pale, as he slavishly strode across the distance of the world beneath to destinations
-unknown, as his destiny decreed, in darkest trails of darkness. On the ground, there lay a Ẓāhir but he did not
-regard it. Suddenly, the world changed. Everything was different. He arrived. He could not tell if there was any
-difference at all between where he had, if at all, originated to then, were there a then, find himself in a
-somewhere distinct from it. He waited, but it was not to be.  He accomplished astutely absolutely nothing at
-all and nevertheless, his obligations he did fulfil, a contradiction which was not to be considered. He ate, stood,
-resumed, and time passed. Had he done so before, he would neither remember nor perceive that he did so once more.
-He waited, but it was not to be. Later, he left. The Ẓāhir was gone. He returned but he was not home. Time passed.
-He did not dream.
-</p>
+    <p class="text-red">
+    He awoke, arose, and all was the same to him, for when there is no now, there is no before and no after, and
+    all that decreed once was to be, thus remained for time immemorial. He once more did hence and did such, left,
+    passed by this and past that, the sky his sole witness unattainable, the looming nothingness vastly resounding
+    with voices silent beyond the Pale, as he slavishly strode across the distance of the world beneath to destinations
+    unknown, as his destiny decreed, in darkest trails of darkness. On the ground, there lay a Ẓāhir but he did not
+    regard it. Suddenly, the world changed. Everything was different. He arrived. He could not tell if there was any
+    difference at all between where he had, if at all, originated to then, were there a then, find himself in a
+    somewhere distinct from it. He waited, but it was not to be.  He accomplished astutely absolutely nothing at
+    all and nevertheless, his obligations he did fulfil, a contradiction which was not to be considered. He ate, stood,
+    resumed, and time passed. Had he done so before, he would neither remember nor perceive that he did so once more.
+    He waited, but it was not to be. Later, he left. The Ẓāhir was gone. He returned but he was not home. Time passed.
+    He did not dream.
+    </p>
 
-<p class="text-green">
-She was and, in time, what had been, was to be. She awoke, arose and dressed. The sun was shining as dawn dawned as
-though it never had before, bountiful birds sang in metres resplendent with joy and the countenance of splendour.
-What had been, was to be, and what was now, came to pass, for beginning had ended and ending was unknown. She opened
-her eyes and came to be as well. The world had changed, everything was different. There was reason to be somewhere but
-it did not demand urgency. Somewhere was where she was. She was home. She found a mirror and regarded herself. She
-smiled. She opened the windows, drawing in an abundance of what was pleasing to the senses, and it began to rain
-as the sun shone warmly. She noticed a young tree stood amidst the courtyard that lay sprawling in the midst of the
-world outside of the confines of her home, her abode, her shelter. With an air of sudden spontaneity, she decided
-to leave. She saw, looked, stared, gazed at, and perceived as though she never had before. The looming nothingness
-faded, beginning regarded itself, and ending was drawn anew. She talked to the trees and shared in the very essence
-of their being. She closed her eyes and as silence came to speak, she came to see without seeing, to hear without
-hearing, and as the endless paths emerged unto her, there ceased to be but wonderment and annihilation. She opened
-her eyes anew and walked, sought without seeking places remote, places of note, beings unseen, and voices in dreams.
-And as she was stood there amidst the looming nothingness that faded out of inexistence, there was a Ẓāhir on the
-ground. She regarded it and found it to be a scroll with writing on it. She began to read the writing on it, writing
-of words sundry but barren that perplexingly cast trails of memories fading and remote into her mind, which wrote:
-"He was and hence, in time, there was. What was, had been thus, and was not to change. He awoke, arose, opened his
-eyes, and there was." Suddenly, everything became clear and as night dawned, she cast her eyes towards the sky and
-spoke:
-</p>
+    <p class="text-green">
+    She was and, in time, what had been, was to be. She awoke, arose and dressed. The sun was shining as dawn dawned as
+    though it never had before, bountiful birds sang in metres resplendent with joy and the countenance of splendour.
+    What had been, was to be, and what was now, came to pass, for beginning had ended and ending was unknown. She opened
+    her eyes and came to be as well. The world had changed, everything was different. There was reason to be somewhere but
+    it did not demand urgency. Somewhere was where she was. She was home. She found a mirror and regarded herself. She
+    smiled. She opened the windows, drawing in an abundance of what was pleasing to the senses, and it began to rain
+    as the sun shone warmly. She noticed a young tree stood amidst the courtyard that lay sprawling in the midst of the
+    world outside of the confines of her home, her abode, her shelter. With an air of sudden spontaneity, she decided
+    to leave. She saw, looked, stared, gazed at, and perceived as though she never had before. The looming nothingness
+    faded, beginning regarded itself, and ending was drawn anew. She talked to the trees and shared in the very essence
+    of their being. She closed her eyes and as silence came to speak, she came to see without seeing, to hear without
+    hearing, and as the endless paths emerged unto her, there ceased to be but wonderment and annihilation. She opened
+    her eyes anew and walked, sought without seeking places remote, places of note, beings unseen, and voices in dreams.
+    And as she was stood there amidst the looming nothingness that faded out of inexistence, there was a Ẓāhir on the
+    ground. She regarded it and found it to be a scroll with writing on it. She began to read the writing on it, writing
+    of words sundry but barren that perplexingly cast trails of memories fading and remote into her mind, which wrote:
+    "He was and hence, in time, there was. What was, had been thus, and was not to change. He awoke, arose, opened his
+    eyes, and there was." Suddenly, everything became clear and as night dawned, she cast her eyes towards the sky and
+    spoke:
+    </p>
 
-<p class="text-green text-centre">
-I saw a star that shone bright <br/>
-in the night of my days<br/>
-it ascended in rivers<br/>
-in rivers of light<br/>
-in gardens of green<br/>
-of rayḥān and yasmīn<br/>
-when moment met moment<br/>
-and silence reigned all<br/>
-and all that was once<br/>
-and all that to be<br/>
-turned nameless and formless<br/>
-and formless and free<br/>
-</p>
+    <p class="text-green text-centre">
+    I saw a star that shone bright <br/>
+    in the night of my days<br/>
+    it ascended in rivers<br/>
+    in rivers of light<br/>
+    in gardens of green<br/>
+    of rayḥān and yasmīn<br/>
+    when moment met moment<br/>
+    and silence reigned all<br/>
+    and all that was once<br/>
+    and all that to be<br/>
+    turned nameless and formless<br/>
+    and formless and free<br/>
+    </p>
 
-<p class="text-green">
-And then:<br/>
-</p>
+    <p class="text-green">
+    And then:<br/>
+    </p>
 
-<p class="text-green text-centre">
-Felicity is the calmness of the eye<br>
-</p>
+    <p class="text-green text-centre">
+    Felicity is the calmness of the eye<br>
+    </p>
 
-<p class="text-black">
-She later departed, only to return.<br>
-</p>
+    <p class="text-black">
+    She later departed, only to return.<br>
+    </p>
 
-</div>
+    </div>

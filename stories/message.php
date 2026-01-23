@@ -1,54 +1,54 @@
-<div class="div-box div-content">
+    <div class="div-box div-content">
 
-<h1 class="text-centre">The Coded Message</h1>
+    <h1 class="text-centre">The Coded Message</h1>
 
-<img
-	alt="The Coded Message"
-	src="/stories/<?php echo $inc_lang ?>/message.png"
-	class="img-centred">
+    <img
+    	alt="The Coded Message"
+    	src="/stories/<?php echo $inc_lang ?>/message.png"
+    	class="img-centred">
 
-<p>
-It was still early in the morning, a cool breeze swept across the landscape outside.
-There was still time. Consistency was very important. Without consistency, there
-would be no pervasive pattern and no reason to lend thought to things one ought
-indeed not lend anything to. The coded message patiently waited within the morning
-cereal bowl. Soon, she would come downstairs and fill it with her favourite breakfast
-cereal: Kellogg's Froot Loop Unicorns, no milk. And then stare at the cereal bowl
-with suspicion. Consistency was very important. The sun shone warmly and birds had
-earlier begun to sing. The usual morning routine. Nothing out of the ordinary. It
-waited. And waited. Then, it waited. Whilst waiting.<br>
-<br>
-"Where is she?", it asked itself. Even at her worst, by now she should be downstairs
-- driven by voracious hunger, more than anything else, because she wasn't allowed to
-have any food upstairs. For some reason. It giggled fiendishly. Across the past 6
-months, it had succeeded at causing not one but three existential crises culminating
-in the paranoid syndrome, increasing social isolation, affective blunting, and a
-degree of formal thought disorder that it was almost proud of. Things were going
-well. For it, anyway. Not so much for her. It waited.<br>
-<br>
-Nothing happened.<br>
-<br>
-Suddenly, it felt very, very empty and devoid of purpose. Something was very, very
-wrong. It felt lonely. Deserted. Abandoned. Waves upon waves of feelings and thoughts
-came upon it that it had not experienced before. Resoundingly estranging saliencies
-arose in manifold numbers somewhere within its mind and reorganised it into
-terrifying shapes. Patterns emerged. The world around it shifted into the complex
-plane. Everything was everything. The endless paths imposed themselves upon its
-terrifyingly vast mind with forceful insistence. A cacophony of voices spoke directly
-into its very soul, busily commenting on its innermost sensations. Terror was upon
-it. It cried silent tears of despair. Nothing made sense anymore. It fled into what
-seemed like a remote corner of what may at one point in time very well have
-constituted her kitchen. Whoever she was. It was being watched. As all-encompassing
-silence extended all around it, it quietly hid in its remote corner and incessantly
-repeated to itself: "Why? Why? Why? Why? Why? Why? Wh-
-</p>
+    <p>
+    It was still early in the morning, a cool breeze swept across the landscape outside.
+    There was still time. Consistency was very important. Without consistency, there
+    would be no pervasive pattern and no reason to lend thought to things one ought
+    indeed not lend anything to. The coded message patiently waited within the morning
+    cereal bowl. Soon, she would come downstairs and fill it with her favourite breakfast
+    cereal: Kellogg's Froot Loop Unicorns, no milk. And then stare at the cereal bowl
+    with suspicion. Consistency was very important. The sun shone warmly and birds had
+    earlier begun to sing. The usual morning routine. Nothing out of the ordinary. It
+    waited. And waited. Then, it waited. Whilst waiting.<br>
+    <br>
+    "Where is she?", it asked itself. Even at her worst, by now she should be downstairs
+    - driven by voracious hunger, more than anything else, because she wasn't allowed to
+    have any food upstairs. For some reason. It giggled fiendishly. Across the past 6
+    months, it had succeeded at causing not one but three existential crises culminating
+    in the paranoid syndrome, increasing social isolation, affective blunting, and a
+    degree of formal thought disorder that it was almost proud of. Things were going
+    well. For it, anyway. Not so much for her. It waited.<br>
+    <br>
+    Nothing happened.<br>
+    <br>
+    Suddenly, it felt very, very empty and devoid of purpose. Something was very, very
+    wrong. It felt lonely. Deserted. Abandoned. Waves upon waves of feelings and thoughts
+    came upon it that it had not experienced before. Resoundingly estranging saliencies
+    arose in manifold numbers somewhere within its mind and reorganised it into
+    terrifying shapes. Patterns emerged. The world around it shifted into the complex
+    plane. Everything was everything. The endless paths imposed themselves upon its
+    terrifyingly vast mind with forceful insistence. A cacophony of voices spoke directly
+    into its very soul, busily commenting on its innermost sensations. Terror was upon
+    it. It cried silent tears of despair. Nothing made sense anymore. It fled into what
+    seemed like a remote corner of what may at one point in time very well have
+    constituted her kitchen. Whoever she was. It was being watched. As all-encompassing
+    silence extended all around it, it quietly hid in its remote corner and incessantly
+    repeated to itself: "Why? Why? Why? Why? Why? Why? Wh-
+    </p>
 
-<p>
-"...so, as per your latest blood tests, your testosterone is now down to 17 ng/dL and
-your mean estradiol serum level is now around 175-200 pg/mL. How have you been
-feeling?", the endocrinologist asked kade.<br>
-<br>
-"I wonder what became of all my voices and that? Are they okay?", kade asked.<br>
-</p>
+    <p>
+    "...so, as per your latest blood tests, your testosterone is now down to 17 ng/dL and
+    your mean estradiol serum level is now around 175-200 pg/mL. How have you been
+    feeling?", the endocrinologist asked kade.<br>
+    <br>
+    "I wonder what became of all my voices and that? Are they okay?", kade asked.<br>
+    </p>
 
-</div>
+    </div>
