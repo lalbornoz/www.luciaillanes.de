@@ -270,7 +270,7 @@
     </tr>
     <tr>
     <td>You reached your desires, rejoice O my heart,</td>
-    <td>than six beauties wealthier, my hope was obtained!<a href="#r9" class="a-reference">[9]</a<td>
+    <td>than six beauties wealthier, my hope was obtained!<a href="#r9" class="a-reference">[9]</a></td>
     </tr>
     </tbody>
 
@@ -330,10 +330,10 @@
     <td>from beneath</td>
     <td>the thicket of a fig tree<a href="#r20" class="a-reference">[20]</a></td>
     </tr>
-    <tr>
     </tbody>
 
     <tbody class="tbody-muwashshahah-bayt">
+    <tr>
     <td>My cup is radiant with splendour<a href="#r21" class="a-reference">[21]</a></td>
     <td>from sweet wine</td>
     <td>that refreshes the souls</td>
@@ -496,8 +496,9 @@
     <br>
     <span id="r18">
     [18] It bears mentioning that the sun, the moon, the stars, their setting, passing, etc. are very common tropes in Arabic poetry in general, metaphorically referring to a friend or beloved one and their departure, loss, longing for, etc.<br>
+    </span>
     <br>
-    <span id="r19">
+    <div id="r19">
     [19] زَيَّقْ: a peculiar word in conjunction with الفجر: to bear radiance, lit., primarily: to put a collar (on itself) of radiant light or to put a collar of radiant light into the darkness of the night; secondarily, of the opposite meaning: to daub (itself or its eye, e.g. sun) with collyrium e.g. darkness; tertiarily: to adorn or embellish (itself.)<br>
     The primary meaning incidentally relates more closely to its original meaning in and from Aramaic.<br>
     Notably, زَيَّقْ bears similarity with مُرَوْنَقْ<a href="#r21" class="a-reference">[21]</a> in the following half-verses both in terms of etymology, meaning, and encompassing both its meaning as well as the opposite, which may or may not be intentionally misleading ambiguity on part of the poet (e.g. Daybreak daubs itself with darkness and My cup is turbid vs. Daybreak bears radiance and My cup is radiant with splendour.)<br>
@@ -556,7 +557,7 @@
     <td>Dawn bore radiance</td>
     </tr>
     </table>
-    </span>
+    </div>
     <br>
     <span id="r20">
     [20] دَوحَة: according to Federico Corriente's Dictionary of Andalusian Arabic:<br>
@@ -581,7 +582,6 @@
     Secondarily: راق-يروق-روقًا: to be clear (wine,) ه: to excite wonder in, whence also: روقة: great beauty, and especially: مُرَوَّق: porticoed (building,) clarified (wine,) etc. betray a very clear connection, and (etymologically) more distantly: راق-يريق-رَيْقًا: to be rippled (pool). to be poured (water). to quiver. to shine (mirage). <span class="text-italic">(all from J. G. Hava)</span><br>
     </span>
     <br>
-    </span>
     <!-- }}} -->
     </div>
 
