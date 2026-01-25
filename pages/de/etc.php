@@ -4,11 +4,11 @@
           Tödliche Kochrezepte<br>
           (nur auf Englisch)
         </h1>
-        <a href="/recipes/<?php echo $inc_lang ?>/20%20empanadas%20(%E2%80%9Cbreaded%E2%80%9D).pdf">20 empanadas</a><br>
-        <a href="/recipes/<?php echo $inc_lang ?>/30-40%20sopaipillas.pdf">30-40 sopaipillas </a><br>
-        <a href="/recipes/<?php echo $inc_lang ?>/Carne%20mechada%20with%20gnocchis.pdf">Carne mechada with gnocchis </a><br>
-        <a href="/recipes/<?php echo $inc_lang ?>/Chickpeas%20leonese%20(with%20chorizo%20and%20saffron).pdf">Chickpeas leonese with chorizo and saffron </a><br>
-        <a href="/recipes/<?php echo $inc_lang ?>/Pebre%20(%E2%80%9C%5Bhot%5D%20pepper%20%5Bdip,%20sauce%5D%E2%80%9D).pdf">Pebre </a><br>
+        <a href="/etc/recipes/<?php echo $inc_lang ?>/20%20empanadas%20(%E2%80%9Cbreaded%E2%80%9D).pdf">20 empanadas</a><br>
+        <a href="/etc/recipes/<?php echo $inc_lang ?>/30-40%20sopaipillas.pdf">30-40 sopaipillas </a><br>
+        <a href="/etc/recipes/<?php echo $inc_lang ?>/Carne%20mechada%20with%20gnocchis.pdf">Carne mechada with gnocchis </a><br>
+        <a href="/etc/recipes/<?php echo $inc_lang ?>/Chickpeas%20leonese%20(with%20chorizo%20and%20saffron).pdf">Chickpeas leonese with chorizo and saffron </a><br>
+        <a href="/etc/recipes/<?php echo $inc_lang ?>/Pebre%20(%E2%80%9C%5Bhot%5D%20pepper%20%5Bdip,%20sauce%5D%E2%80%9D).pdf">Pebre </a><br>
         <br>
         <h1>
           Transfeminine Endokrinologie<br>
