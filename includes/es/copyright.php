@@ -10,10 +10,7 @@
       courtesy of <a href="https://www.flickr.com/photos/ajay_suresh/">ajay_suresh</a> on Flickr<br>
 
       Created with <a href="https://github.com/lalbornoz/dotfiles_shared/tree/master/.vim">{,Neo}Vim</a>,
-      hosted by OVH &amp; Hurricane Electric DNS, served by nginx &amp; PHP on Ubuntu.<br>
-      HTML 5.0 badge taken from <a href="https://github.com/bradleytaunt/html5-valid-badge">
-      bradleytaunt/html5-valid-badge: HTML5 valid badge for your website (PNG & SVG formats)
-      </a>
+      hosted by OVH &amp; Hurricane Electric DNS, served by nginx &amp; PHP on Ubuntu.
     </div>
 <?php
 // vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=145
