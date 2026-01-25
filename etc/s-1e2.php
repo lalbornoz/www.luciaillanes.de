@@ -26,38 +26,38 @@
     <li>
     Es ist währenddessen, mit leidenschaftlich-grimmiger Intensität, im Kopfe aber auch in -
     den weiteren Fahrgästen hierbei bekömmlicher - Lautstärke zu wiederholen, es sei hierbei auf
-    die Beförderungsbedingungen der S-Bahn Hamburg hingewiesen, insbesondere Punkt 0.0.0:
-    </li>
+    die Beförderungsbedingungen der S-Bahn Hamburg hingewiesen, insbesondere Punkt 0.0.0:<br>
 
-    <p class="text-incantation">
-    Ellil bēlum,<a href="#r1" class="a-reference">[1]</a><br>
-    mušīm šimātim,<a href="#r2" class="a-reference">[2]</a><br>
-    ša qibbisu lā uttakaru.<a href="#r3" class="a-reference">[3]</a><br>
-    </p>
+      <p class="text-incantation">
+      Ellil bēlum,<a href="#r1" class="a-reference">[1]</a><br>
+      mušīm šimātim,<a href="#r2" class="a-reference">[2]</a><br>
+      ša qibbisu lā uttakaru.<a href="#r3" class="a-reference">[3]</a><br>
+      </p>
+    </li>
 
     <li>
     Sofern alle Anweisungen ehrlichen Herzens und mit Präzision durchgeführt wurden, so wird
     nach der siebten (7.) Fahrt auffallen, dass die Stationssnamen eine paradigmatiche Verschiebung
-    in die Dimensionen des Jenseits aufweisen werden, so wie z.B.:
+    in die Dimensionen des Jenseits aufweisen werden, so wie z.B.:<br>
+    <br>
+      <span>
+      Diebsburg,<br>
+      Billnetteln-Eridu,<br>
+      Elbgaubrook,<br>
+      Reeperkisallu,<br>
+      Stadtlandungsstack,<br>
+      Hauptgabaraḫhof,<br>
+      Wilhelmsveddel,<br>
+      Altohilfe,<br>
+      Anunnakischanze,<br>
+      Lattenstieg,<br>
+      Mittlerer Ē-Abzū,<br>
+      Jungfernhaus,<br>
+      Ratgraben,<br>
+      Mümmelrübenbüttel,<br>
+      Ištar Tor.<br>
+      </span>
     </li>
-
-    <span>
-    Diebsburg,<br>
-    Billnetteln-Eridu,<br>
-    Elbgaubrook,<br>
-    Reeperkisallu,<br>
-    Stadtlandungsstack,<br>
-    Hauptgabaraḫhof,<br>
-    Wilhelmsveddel,<br>
-    Altohilfe,<br>
-    Anunnakischanze,<br>
-    Lattenstieg,<br>
-    Mittlerer Ē-Abzū,<br>
-    Jungfernhaus,<br>
-    Ratgraben,<br>
-    Mümmelrübenbüttel,<br>
-    Ištar Tor.<br>
-    </span>
 
     <li>
     Sollte dies sich bestätigen, befindet sich der Fahrgast nunnehr in der <span class="hvv hvv-s-1e2">S-1²</span>.
@@ -79,7 +79,6 @@
     <span id="r3">
     [3] dessen Urteile nicht verändert werden können.<br>
     </span>
-    </div>
 
     </div>
 <?php
