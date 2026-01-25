@@ -1,92 +1,90 @@
     <div class="div-box div-content">
+      <h1 class="text-centre">O neighbour of ours: calamities descend</h1>
+      <h2 class="text-centre">Ajāratanā inna l-ḫuṭūba tanūbu</h2>
 
-    <h1 class="text-centre">O neighbour of ours: calamities descend</h1>
-    <h2 class="text-centre">Ajāratanā inna l-ḫuṭūba tanūbu</h2>
+      <p class="text-centre text-italic">
+        نوع الشعر: قصيدة على بحر الطويل<br>
+        الشاعر: امرؤ القيس بن حجر بن الحارث الكندي<br>
+        منطقته: نجد<br>
+        عصر: جاهلي - قرن السادس<br>
+      </p>
 
-    <p class="text-centre text-italic">
-    نوع الشعر: قصيدة على بحر الطويل<br>
-    الشاعر: امرؤ القيس بن حجر بن الحارث الكندي<br>
-    منطقته: نجد<br>
-    عصر: جاهلي - قرن السادس<br>
-    </p>
+      <p class="text-centre">
+        أجارَتَنا إنَّ الخُطُوبَ تَنوبُ<br>
+        وإني مُقِيمٌ ما أقامَ عَسِيبُ<br>
+        <br>
+        أجارَتَنا إنّا غَرِيبَانِ هَهُنَا<br>
+        وكُلُّ غَرِيبٍ للغَريبِ نَسيبُ<br>
+        <br>
+        فإن تَصِلِينَا فَالقَرَابَةُ بَيْنَنَا<br>
+        وإنْ تَصْرِمِينَا فالغَريبُ غريبُ<br>
+        <br>
+        أجارَتَنا مافاتَ لَيْسَ يَؤوبُ<br>
+        ومَا هُوَ آتٍ في الزَّمانِ قَرِيبُ<br>
+        <br>
+        ولَيْسَ غريباً مَن تَنائتْ ديارُهُ<br>
+        ولكنَّ مَنْ وارى التُّرابُ غَريبُ<br>
+      </p>
 
-    <p class="text-centre">
-    أجارَتَنا إنَّ الخُطُوبَ تَنوبُ<br>
-    وإني مُقِيمٌ ما أقامَ عَسِيبُ<br>
-    <br>
-    أجارَتَنا إنّا غَرِيبَانِ هَهُنَا<br>
-    وكُلُّ غَرِيبٍ للغَريبِ نَسيبُ<br>
-    <br>
-    فإن تَصِلِينَا فَالقَرَابَةُ بَيْنَنَا<br>
-    وإنْ تَصْرِمِينَا فالغَريبُ غريبُ<br>
-    <br>
-    أجارَتَنا مافاتَ لَيْسَ يَؤوبُ<br>
-    ومَا هُوَ آتٍ في الزَّمانِ قَرِيبُ<br>
-    <br>
-    ولَيْسَ غريباً مَن تَنائتْ ديارُهُ<br>
-    ولكنَّ مَنْ وارى التُّرابُ غَريبُ<br>
-    </p>
+      <p class="text-centre text-italic">
+        Type of poem: Qaṣīdah in metre Ṭawīl<br>
+        Name of poet: Imruʕu l-Qays b. Ḥujr b. al-Ḥāriṯ al-Kindī<br>
+        Region of poet: Najd<br>
+        Era: Pre-Islāmic - 6th century<br>
+      </p>
 
-    <p class="text-centre text-italic">
-    Type of poem: Qaṣīdah in metre Ṭawīl<br>
-    Name of poet: Imruʕu l-Qays b. Ḥujr b. al-Ḥāriṯ al-Kindī<br>
-    Region of poet: Najd<br>
-    Era: Pre-Islāmic - 6th century<br>
-    </p>
+      <p class="text-centre">
+        O neighbour<a href="#r1" class="a-reference">[1]</a> of ours: calamities descend<a href="#r2" class="a-reference">[2]</a><br>
+        while I remain steadfast as the mountain ʕasīb<a href="#r3" class="a-reference">[3]</a><br>
+        <br>
+        O neighbour of ours, both of us are strangers here<br>
+        and every stranger is unto the stranger kin<a href="#r4" class="a-reference">[4]</a><br>
+        <br>
+        And should you join us in union, then kinship is ours<br>
+        and should you part with us, then a stranger was but a stranger<br>
+        <br>
+        O neighbour of ours, what has passed shall not return<a href="#r5" class="a-reference">[5]</a><br>
+        and whatever is to come in time becomes near<a href="#r6" class="a-reference">[6]</a><br>
+        <br>
+        And he is not a stranger that roams around houses<a href="#r7" class="a-reference">[7]</a><br>
+        but he is a stranger that dwells beneath dust<a href="#r8" class="a-reference">[8]</a><br>
+      </p>
 
-    <p class="text-centre">
-    O neighbour<a href="#r1" class="a-reference">[1]</a> of ours: calamities descend<a href="#r2" class="a-reference">[2]</a><br>
-    while I remain steadfast as the mountain ʕasīb<a href="#r3" class="a-reference">[3]</a><br>
-    <br>
-    O neighbour of ours, both of us are strangers here<br>
-    and every stranger is unto the stranger kin<a href="#r4" class="a-reference">[4]</a><br>
-    <br>
-    And should you join us in union, then kinship is ours<br>
-    and should you part with us, then a stranger was but a stranger<br>
-    <br>
-    O neighbour of ours, what has passed shall not return<a href="#r5" class="a-reference">[5]</a><br>
-    and whatever is to come in time becomes near<a href="#r6" class="a-reference">[6]</a><br>
-    <br>
-    And he is not a stranger that roams around houses<a href="#r7" class="a-reference">[7]</a><br>
-    but he is a stranger that dwells beneath dust<a href="#r8" class="a-reference">[8]</a><br>
-    </p>
-
-    <div class="div-references">
-    <!-- {{{ references -->
-    <span id="r1">
-    [1] This poem was composed on the occasion of the looming death of the poet either after he fell ill - likely related to a life-long skin disease mentioned by that same poet in his own poems - when he travelled near the city of modern-day Ankara, Turkey or - as myth would hold it - after having been poisoned by the Byzantine emperor Justinian who was angered by his departure. One way or another, here, the poet, stood in a graveyard, addresses his soon-to-be very own neighbourhood of fellow dead folk and specifically, his female - deceased - neighbour, a stranger to him, and the poet a stranger to her.<br>
-    </span>
-    <br>
-    <span id="r2">
-    [2] e.g. his mortal illness<br>
-    </span>
-    <br>
-    <span id="r3">
-    [3] On one hand, according to several sources (al-Aṣmaʕī, Abū Manṣūr al-Azharī, Abū Hilāl al-ʕaskarī, Yāqūt al-Ḥamawī, inter alia,) an actual - historical - mountain in the highlands of the Najd, known also amongst specifically Tribe b. Huḏayl as Kabkab, Ḫanṯhal, and ʕasīb, with Abū Hilāl al-ʕaskarī stating that it was actually near al-Madīnah. On the other hand, whilst said mountain had also then already turned proverbial a metaphor, standing for steadfastness and survival amidst dire circumstances, ʕasīb also refers to palm trees, towering like tall mountains, symbolising steadfastness, resoluteness, and so on, also.<br>
-    </span>
-    <br>
-    <span id="r4">
-    [4] This half-verse has turned famously proverbial since then.<br>
-    </span>
-    <br>
-    <span id="r5">
-    [5] e.g. whatever that one was pleased by in the past has passed and was not to last and does not, cannot, and shall not return. The pre-Islāmic Arabs did not truly believe in anything except for time - time ruins all - and hence, certainly no afterlife; hence also, on a side note, the peculiar obsession with rocks, boulders, etc. as they defy time. Thus, there is little reason to become overly attached to the pleasures and calamities that life may bring.<br>
-    </span>
-    <br>
-    <span id="r6">
-    [6] e.g. whatever time - the days, time, destiny, all synonymous with each other - has fixed, predetermined, preordained, etc. to occur shall occur eventually and inevitably and thus becomes near, when previously it was remote, speculative, and devoid of reality. Thus, there is little reason to become overly attached to what one may think may or may not occur, as whatever is to occur will anyway, one way or another, and only time knows what.<br>
-    </span>
-    <br>
-    <span id="r7">
-    [7] e.g. the living<br>
-    </span>
-    <br>
-    <span id="r8">
-    [8] e.g. the dead<br>
-    </span>
-    <!-- }}} -->
-    </div>
-
+      <div class="div-references">
+        <!-- {{{ references -->
+        <span id="r1">
+          [1] This poem was composed on the occasion of the looming death of the poet either after he fell ill - likely related to a life-long skin disease mentioned by that same poet in his own poems - when he travelled near the city of modern-day Ankara, Turkey or - as myth would hold it - after having been poisoned by the Byzantine emperor Justinian who was angered by his departure. One way or another, here, the poet, stood in a graveyard, addresses his soon-to-be very own neighbourhood of fellow dead folk and specifically, his female - deceased - neighbour, a stranger to him, and the poet a stranger to her.<br>
+        </span>
+        <br>
+        <span id="r2">
+          [2] e.g. his mortal illness<br>
+        </span>
+        <br>
+        <span id="r3">
+          [3] On one hand, according to several sources (al-Aṣmaʕī, Abū Manṣūr al-Azharī, Abū Hilāl al-ʕaskarī, Yāqūt al-Ḥamawī, inter alia,) an actual - historical - mountain in the highlands of the Najd, known also amongst specifically Tribe b. Huḏayl as Kabkab, Ḫanṯhal, and ʕasīb, with Abū Hilāl al-ʕaskarī stating that it was actually near al-Madīnah. On the other hand, whilst said mountain had also then already turned proverbial a metaphor, standing for steadfastness and survival amidst dire circumstances, ʕasīb also refers to palm trees, towering like tall mountains, symbolising steadfastness, resoluteness, and so on, also.<br>
+        </span>
+        <br>
+        <span id="r4">
+          [4] This half-verse has turned famously proverbial since then.<br>
+        </span>
+        <br>
+        <span id="r5">
+          [5] e.g. whatever that one was pleased by in the past has passed and was not to last and does not, cannot, and shall not return. The pre-Islāmic Arabs did not truly believe in anything except for time - time ruins all - and hence, certainly no afterlife; hence also, on a side note, the peculiar obsession with rocks, boulders, etc. as they defy time. Thus, there is little reason to become overly attached to the pleasures and calamities that life may bring.<br>
+        </span>
+        <br>
+        <span id="r6">
+          [6] e.g. whatever time - the days, time, destiny, all synonymous with each other - has fixed, predetermined, preordained, etc. to occur shall occur eventually and inevitably and thus becomes near, when previously it was remote, speculative, and devoid of reality. Thus, there is little reason to become overly attached to what one may think may or may not occur, as whatever is to occur will anyway, one way or another, and only time knows what.<br>
+        </span>
+        <br>
+        <span id="r7">
+          [7] e.g. the living<br>
+        </span>
+        <br>
+        <span id="r8">
+          [8] e.g. the dead<br>
+        </span>
+        <!-- }}} -->
+      </div>
     </div>
 <?php
 // vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=145

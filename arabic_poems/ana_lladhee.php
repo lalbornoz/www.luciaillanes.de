@@ -1,98 +1,96 @@
     <div class="div-box div-content">
+      <h1 class="text-centre">I am he whose verses even the blind do see</h1>
+      <h2 class="text-centre">Ana llaḏī naẓara l-aʕmā ilā adabī</h2>
 
-    <h1 class="text-centre">I am he whose verses even the blind do see</h1>
-    <h2 class="text-centre">Ana llaḏī naẓara l-aʕmā ilā adabī</h2>
+      <p class="text-centre text-italic">
+        ﻧﻮﻉ ﺍﻟﺸﻌﺮ: مأخوذا من شعر "واحرَّ قَلباهُ مِمَّن قَلبُهُ شَبِمُ" على بحر البسيط<br>
+        ﺍﻟﺸﺎﻋﺮ: أَبُو اَلطَّيِّبْ أَحْمَدْ بْنْ اَلْحُسَيْنْ اَلْجَعْفِي اَلْكَنَدِيَّ اَلْكُوفِيِّ المعروف بِالْمُتَنَبِّي<br>
+        منطقته: حلب<br>
+        ﻋﺼﺮ: الدولة الحمدانبة<br>
+      </p>
 
-    <p class="text-centre text-italic">
-    ﻧﻮﻉ ﺍﻟﺸﻌﺮ: مأخوذا من شعر "واحرَّ قَلباهُ مِمَّن قَلبُهُ شَبِمُ" على بحر البسيط<br>
-    ﺍﻟﺸﺎﻋﺮ: أَبُو اَلطَّيِّبْ أَحْمَدْ بْنْ اَلْحُسَيْنْ اَلْجَعْفِي اَلْكَنَدِيَّ اَلْكُوفِيِّ المعروف بِالْمُتَنَبِّي<br>
-    منطقته: حلب<br>
-    ﻋﺼﺮ: الدولة الحمدانبة<br>
-    </p>
+      <p class="text-centre">
+        أنا الذي نظَر الأعمى إلى أدبي<br>
+        وأسْمعَت كلماتي مَن بهِ صَمَمُ<br>
+        <br>
+        أنامُ مِلْءَ جُفُوني عن شوارِدِها<br>
+        ويَسْهَرُ الخلقُ جرَّاها وَيَختَصِمُ<br>
+        <br>
+        وجاهلٍ مدَّه في جهلِهِ ضَحِكي<br>
+        حَتّى أتَتْه يدٌ فرَّاسةٌ وفَمُ<br>
+        <br>
+        إذا رأيتَ نيوبَ الليث بارزةً<br>
+        فَلا تَظُنَّنَّ أنَّ اللَيثَ يبتَسِمُ<br>
+        <br>
+        وَمُهجةٍ مُهجتي مِن هَمّ صاحبها<br>
+        أدركْتُها بجَوادٍ ظهرهُ حَرَمُ<br>
+        <br>
+        رِجلاه في الرَّكضِ رجلٌ واليدانِ يدٌ<br>
+        وفعلُه ما تريدُ الكفُّ وَالقَدَمُ<br>
+        <br>
+        ومُرهَفٍ سِرتُ بين الجَحْفَلينِ بهِ<br>
+        حتى ضَربتُ وموجُ الموتِ يَلتَطِمُ<br>
+        <br>
+        الخيلُ والليلُ والبيداءُ تَعْرِفُني<br>
+        والسيفُ والرمحُ والقرطاسُ والقَلمُ<br>
+      </p>
 
-    <p class="text-centre">
-     أنا الذي نظَر الأعمى إلى أدبي<br>
-    وأسْمعَت كلماتي مَن بهِ صَمَمُ<br>
-    <br>
-    أنامُ مِلْءَ جُفُوني عن شوارِدِها<br>
-    ويَسْهَرُ الخلقُ جرَّاها وَيَختَصِمُ<br>
-    <br>
-    وجاهلٍ مدَّه في جهلِهِ ضَحِكي<br>
-    حَتّى أتَتْه يدٌ فرَّاسةٌ وفَمُ<br>
-    <br>
-    إذا رأيتَ نيوبَ الليث بارزةً<br>
-    فَلا تَظُنَّنَّ أنَّ اللَيثَ يبتَسِمُ<br>
-    <br>
-    وَمُهجةٍ مُهجتي مِن هَمّ صاحبها<br>
-    أدركْتُها بجَوادٍ ظهرهُ حَرَمُ<br>
-    <br>
-    رِجلاه في الرَّكضِ رجلٌ واليدانِ يدٌ<br>
-    وفعلُه ما تريدُ الكفُّ وَالقَدَمُ<br>
-    <br>
-    ومُرهَفٍ سِرتُ بين الجَحْفَلينِ بهِ<br>
-    حتى ضَربتُ وموجُ الموتِ يَلتَطِمُ<br>
-    <br>
-    الخيلُ والليلُ والبيداءُ تَعْرِفُني<br>
-    والسيفُ والرمحُ والقرطاسُ والقَلمُ<br>
-    </p>
+      <p class="text-centre text-italic">
+        Type of poem: taken from the poem "Wā-ḥarra qalbāhu mimman qalbuhu šabimu" in metre al-Basīṭ<br>
+        Name of poet: Abū ṭ-Ṭayyib Aḥmad b. al-Ḥusayn al-Jaʕfarī al-Kindī al-Kūfī, known as al-Mutanabbī<a href="#r1" class="a-reference">[1]</a><br>
+        Region of poet: Aleppo<br>
+        Era: Ḥamdānid dynasty<br>
+      </p>
 
-    <p class="text-centre text-italic">
-    Type of poem: taken from the poem "Wā-ḥarra qalbāhu mimman qalbuhu šabimu" in metre al-Basīṭ<br>
-    Name of poet: Abū ṭ-Ṭayyib Aḥmad b. al-Ḥusayn al-Jaʕfarī al-Kindī al-Kūfī, known as al-Mutanabbī<a href="#r1" class="a-reference">[1]</a><br>
-    Region of poet: Aleppo<br>
-    Era: Ḥamdanid dynasty<br>
-    </p>
+      <p class="text-centre">
+        I am he whose verses even the blind do see<br>
+        and my words are heard also by he whom that is deaf<br>
+        <br>
+        I sleep soundly with full eyelids<a href="#r2" class="a-reference">[2]</a> upon their ridiculous rhymes<br>
+        while they spend nights sleepless and fail to assail mine<br>
+        <br>
+        At many a fool in their foolishness have I smiled<br>
+        but then I devoured them with firm hand and mouth<br>
+        <br>
+        When you see the lion baring his teeth<br>
+        then but do not think that the lion is smiling<a href="#r3" class="a-reference">[3]</a><br>
+        <br>
+        And many a men that have sought after my life's blood<br>
+        have I attained<a href="#r4" class="a-reference">[4]</a>, riding a noble steed, whose back is forbidden to all<a href="#r5" class="a-reference">[5]</a><br>
+        <br>
+        When he races, his hindlegs and forelegs are as though they are one<br>
+        and not my hand nor my foot does he need to urge him to run<br>
+        <br>
+        And many a sword have I drawn amidst the two armies<br>
+        and struck upon wave upon wave of death upon death<br>
+        <br>
+        The horse, the night, and the desert know me well<br>
+        and the sword, the spear, the paper, and pen<br>
+      </p>
 
-    <p class="text-centre">
-    I am he whose verses even the blind do see<br>
-    and my words are heard also by he whom that is deaf<br>
-    <br>
-    I sleep soundly with full eyelids<a href="#r2" class="a-reference">[2]</a> upon their ridiculous rhymes<br>
-    while they spend nights sleepless and fail to assail mine<br>
-    <br>
-    At many a fool in their foolishness have I smiled<br>
-    but then I devoured them with firm hand and mouth<br>
-    <br>
-    When you see the lion baring his teeth<br>
-    then but do not think that the lion is smiling<a href="#r3" class="a-reference">[3]</a><br>
-    <br>
-    And many a men that have sought after my life's blood<br>
-    have I attained<a href="#r4" class="a-reference">[4]</a>, riding a noble steed, whose back is forbidden to all<a href="#r5" class="a-reference">[5]</a><br>
-    <br>
-    When he races, his hindlegs and forelegs are as though they are one<br>
-    and not my hand nor my foot does he need to urge him to run<br>
-    <br>
-    And many a sword have I drawn amidst the two armies<br>
-    and struck upon wave upon wave of death upon death<br>
-    <br>
-    The horse, the night, and the desert know me well<br>
-    and the sword, the spear, the paper, and pen<br>
-    </p>
-
-    <div class="div-references">
-    <!-- {{{ references -->
-    <span id="r1">
-    [1] viz. the wannabe or would-be prophet - on one hand, as a Laqab goes, e.g. nickname, honorific, title, etc. by which a person was primarily known, defining them at their most essential, his Laqab indeed defines the poet at his most essential: arrogant, daring, and quite adept at getting himself into trouble. On the other, said Laqab derives from a specific event in the poet's life where he literally declared himself to a prophet (Nabī) whilst living with the nomadic tribe b. Kalb, among others - to then lead a Qārmaṭian revolt in Syria in 932, which led to his imprisonment for 2 years, after which he recanted, became a wandering poet, and eventually ended up in the Ḥamdanid court of Sayfu d-Dawlah, his primary patron and object of numerous panegyric poems.<br>
-    </span>
-    <br>
-    <span id="r2">
-    [2] e.g. soundly, calmly, without any concern whatsoever for the garbage rhymes of his adversaries.<br>
-    </span>
-    <br>
-    <span id="r3">
-    [3] This half-verse has turned famously proverbial since then.<br>
-    </span>
-    <br>
-    <span id="r4">
-    [4] viz. slain.<br>
-    </span>
-    <br>
-    <span id="r5">
-    [5] e.g. none may touch, let alone ride, his steed except for the poet for it would not permit it.<br>
-    </span>
-    <!-- }}} -->
-    </div>
-
+      <div class="div-references">
+        <!-- {{{ references -->
+        <span id="r1">
+          [1] viz. the wannabe or would-be prophet - on one hand, as a Laqab goes, e.g. nickname, honorific, title, etc. by which a person was primarily known, defining them at their most essential, his Laqab indeed defines the poet at his most essential: arrogant, daring, and quite adept at getting himself into trouble. On the other, said Laqab derives from a specific event in the poet's life where he literally declared himself to a prophet (Nabī) whilst living with the nomadic tribe b. Kalb, among others - to then lead a Qārmaṭian revolt in Syria in 932, which led to his imprisonment for 2 years, after which he recanted, became a wandering poet, and eventually ended up in the Ḥamdanid court of Sayfu d-Dawlah, his primary patron and object of numerous panegyric poems.<br>
+        </span>
+        <br>
+        <span id="r2">
+          [2] e.g. soundly, calmly, without any concern whatsoever for the garbage rhymes of his adversaries.<br>
+        </span>
+        <br>
+        <span id="r3">
+          [3] This half-verse has turned famously proverbial since then.<br>
+        </span>
+        <br>
+        <span id="r4">
+          [4] viz. slain.<br>
+        </span>
+        <br>
+        <span id="r5">
+          [5] e.g. none may touch, let alone ride, his steed except for the poet for it would not permit it.<br>
+        </span>
+        <!-- }}} -->
+      </div>
     </div>
 <?php
 // vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=145

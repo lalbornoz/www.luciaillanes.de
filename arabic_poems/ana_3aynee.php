@@ -1,85 +1,83 @@
     <div class="div-box div-content">
+      <h1 class="text-centre">My eyes are in endless sleeplessness extended</h1>
+      <h2 class="text-centre">Ana ʕaynī mṭāwilhā saharhā</h2>
 
-    <h1 class="text-centre">My eyes are in endless sleeplessness extended</h1>
-    <h2 class="text-centre">Ana ʕaynī mṭāwilhā saharhā</h2>
+      <p class="text-centre text-italic">
+        نوع الشعر: نبطي<br>
+        الشاعر: أحمد الناصر الشايع<br>
+        منطقته: النجد<br>
+        عصر: الحديث أو ما قبل الحداثة<br>
+      </p>
 
-    <p class="text-centre text-italic">
-    نوع الشعر: نبطي<br>
-    الشاعر: أحمد الناصر الشايع<br>
-    منطقته: النجد<br>
-    عصر: الحديث أو ما قبل الحداثة<br>
-    </p>
+      <p class="text-centre">
+        انا عيني مطاولها سهرها<br>
+        من الهجران جاني ما كفاني<br>
+        <br>
+        متى عيني تبي تملى نظرها<br>
+        من اللي تهتوي والعمر فاني<br>
+        <br>
+        حبيبي وش بلا رجله قصرها<br>
+        تخلف مع تخاليف الزماني<br>
+        <br>
+        غرابيله رمني في بحرها<br>
+        وعيني دمعها عشر وثماني<br>
+        <br>
+        سواته بي ترى محدٍ خبرها<br>
+        ولا سوى سواته مودماني<br>
+        <br>
+        متى الايام يرمي به قدرها<br>
+        عسى يبلاه ربٍ به بلاني<br>
+        <br>
+        حبيبي لو نهى النفس وامرها<br>
+        اطيعه الى امر والا نهاني<br>
+      </p>
 
-    <p class="text-centre">
-    انا عيني مطاولها سهرها<br>
-    من الهجران جاني ما كفاني<br>
-    <br>
-    متى عيني تبي تملى نظرها<br>
-    من اللي تهتوي والعمر فاني<br>
-    <br>
-    حبيبي وش بلا رجله قصرها<br>
-    تخلف مع تخاليف الزماني<br>
-    <br>
-    غرابيله رمني في بحرها<br>
-    وعيني دمعها عشر وثماني<br>
-    <br>
-    سواته بي ترى محدٍ خبرها<br>
-    ولا سوى سواته مودماني<br>
-    <br>
-    متى الايام يرمي به قدرها<br>
-    عسى يبلاه ربٍ به بلاني<br>
-    <br>
-    حبيبي لو نهى النفس وامرها<br>
-    اطيعه الى امر والا نهاني<br>
-    </p>
+      <p class="text-centre text-italic">
+        Type of poem: Nabaṭī<a href="#r1" class="a-reference">[1]</a><br>
+        Name of poet: Aḥmad an-Naṣir aš-Šāyiʕ<br>
+        Region of poet: Najd<br>
+        Era: modern or pre-modern<br>
+      </p>
 
-    <p class="text-centre text-italic">
-    Type of poem: Nabaṭī<a href="#r1" class="a-reference">[1]</a><br>
-    Name of poet: Aḥmad an-Naṣir aš-Šāyiʕ<br>
-    Region of poet: Najd<br>
-    Era: modern or pre-modern<br>
-    </p>
+      <p class="text-centre">
+        My eyes are in endless sleeplessness extended<br>
+        from the pain of her departure and yet it does not suffice<br>
+        <br>
+        When will my eyes be fulfilled by her glance?<br>
+        that glance that belongs to her beloved, while my life passes by<br>
+        <br>
+        My love, what is a castle bereft of pillars?<br>
+        It is left behind and falls with the changes of time<br>
+        <br>
+        Her censorious sifting<a href="#r2" class="a-reference">[2]</a> has cast me in her stream<br>
+        while my eyes cry a eighteen<a href="#r3" class="a-reference">[3]</a> tears<br>
+        <br>
+        What she has done to me none may understand<br>
+        nor have her deeds an equal in modesty<br>
+        <br>
+        When will my destiny dispose of her power over me?<br>
+        Perhaps the lord is testing me with this affliction<br>
+        <br>
+        My love, were my very being to disobey your demands<br>
+        I would submit it to them regardless<br>
+      </p>
 
-    <p class="text-centre">
-    My eyes are in endless sleeplessness extended<br>
-    from the pain of her departure and yet it does not suffice<br>
-    <br>
-    When will my eyes be fulfilled by her glance?<br>
-    that glance that belongs to her beloved, while my life passes by<br>
-    <br>
-    My love, what is a castle bereft of pillars?<br>
-    It is left behind and falls with the changes of time<br>
-    <br>
-    Her censorious sifting<a href="#r2" class="a-reference">[2]</a> has cast me in her stream<br>
-    while my eyes cry a eighteen<a href="#r3" class="a-reference">[3]</a> tears<br>
-    <br>
-    What she has done to me none may understand<br>
-    nor have her deeds an equal in modesty<br>
-    <br>
-    When will my destiny dispose of her power over me?<br>
-    Perhaps the lord is testing me with this affliction<br>
-    <br>
-    My love, were my very being to disobey your demands<br>
-    I would submit it to them regardless<br>
-    </p>
-
-    <div class="div-references">
-    <!-- {{{ references -->
-    <span id="r1">
-    [1] <?php include_page("arabic_poems", $inc_lang, "_nabati"); ?>
-    </span>
-    <br>
-    <span id="r2">
-    [2] sifting people as in finding fault with others as in the proverb "ﻣﻦ ﻏﺮﺑﻞ ﺍﻟﻨﺎﺱ ﻧﺨﻠﻮﻩ": who sifts
-    (finds fault with) people will be bolted (treated the same) by them (in turn)<br>
-    </span>
-    <br>
-    <span id="r3">
-    [3] in all likelihood purely to preserve the metre ending in "ﻧﻲ" (-nī)
-    </span>
-    <!-- }}} -->
-    </div>
-
+      <div class="div-references">
+        <!-- {{{ references -->
+        <span id="r1">
+          [1] <?php include_page("arabic_poems", $inc_lang, "_nabati"); ?>
+        </span>
+        <br>
+        <span id="r2">
+          [2] sifting people as in finding fault with others as in the proverb "ﻣﻦ ﻏﺮﺑﻞ ﺍﻟﻨﺎﺱ ﻧﺨﻠﻮﻩ": who sifts
+          (finds fault with) people will be bolted (treated the same) by them (in turn)<br>
+        </span>
+        <br>
+        <span id="r3">
+          [3] in all likelihood purely to preserve the metre ending in "ﻧﻲ" (-nī)
+        </span>
+        <!-- }}} -->
+      </div>
     </div>
 <?php
 // vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=145
