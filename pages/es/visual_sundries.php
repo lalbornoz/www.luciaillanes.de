@@ -16,6 +16,7 @@
           surrealismo, filosofia, espiritualidad, religion, psicología clinica en fase terminal, neutrinos,
           horrores platónicos, parodia. Todos los personajes y eventos representados en estes pedazos crudos del
           arte digital son ficcionales y debido a sus contenidos rotos y pelados sería mejor que nadie los vea.
+        </h2>
       </div>
 
       <div class="div-box" id="div-content-visual-sundries-a">
