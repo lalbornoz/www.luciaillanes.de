@@ -1,7 +1,7 @@
     <div class="div-box div-content">
 
     <h1 class="text-centre">Diligent conduct obtains the highest of aims</h1>
-    <h2 class="text-centre">Bi-qadri l-kaddi tuktasabu l-Maʕālī</h1>
+    <h2 class="text-centre">Bi-qadri l-kaddi tuktasabu l-Maʕālī</h2>
 
     <p class="text-centre text-italic">
     نوع الشعر: قطغة على بحر الطويل<br>

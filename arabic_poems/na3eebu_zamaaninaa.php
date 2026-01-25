@@ -1,7 +1,7 @@
     <div class="div-box div-content">
 
     <h1 class="text-centre">We blame our time but we are to blame</h1>
-    <h2 class="text-centre">Naʕību zamāninā wal-ʕaybu fīnā</h1>
+    <h2 class="text-centre">Naʕību zamāninā wal-ʕaybu fīnā</h2>
 
     <p class="text-centre text-italic">
     نوع الشعر: قطعة على بحر الوافر<br>

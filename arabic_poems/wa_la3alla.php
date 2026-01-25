@@ -19,7 +19,7 @@
 
     <p class="text-centre text-italic">
     Type of poem: Qiṭʕah in metre Kāmil<br>
-    Name of poet: Abū Isḥāq Ismāʕīl b. al-Qāsim b. Suwayd al-ʕanzī known as Abū l-ʕatāhiyyah</a><br>
+    Name of poet: Abū Isḥāq Ismāʕīl b. al-Qāsim b. Suwayd al-ʕanzī known as Abū l-ʕatāhiyyah<br>
     Region of poet: Baġdād<br>
     Era: Early ʕabbāsid<br>
     </p>
