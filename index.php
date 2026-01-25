@@ -20,6 +20,18 @@
     }
   }
 
+  function exists_page($dir, $lang, $page) {
+    global $language_fallback;
+
+    if (file_exists($_SERVER['DOCUMENT_ROOT'] . "/$dir/$lang/$page.php")) {
+      return true;
+    } else if (file_exists($_SERVER['DOCUMENT_ROOT'] . "/$dir/$language_fallback/$page.php")) {
+      return true;
+    } else {
+      return false;
+    }
+  }
+
   function include_page($dir, $lang, $page) {
     global $inc_lang, $inc_dir, $inc_page, $inc_uri_fname, $inc_uri_orig;
     global $language_fallback;
@@ -61,6 +73,8 @@
       echo rtrim(file_get_contents($_SERVER['DOCUMENT_ROOT'] . "/$dir/$lang/$page.php.title.$lang"));
     } else if (file_exists($_SERVER['DOCUMENT_ROOT'] . "/$dir/$language_fallback/$page.php.title.$language_fallback")) {
       echo rtrim(file_get_contents($_SERVER['DOCUMENT_ROOT'] . "/$dir/$language_fallback/$page.php.title.$language_fallback"));
+    } else if (exists_page($dir, $lang, $page)) {
+      echo rtrim(file_get_contents($_SERVER['DOCUMENT_ROOT'] . "/includes/$inc_lang/_unknown_title.php.title.$inc_lang"));
     } else if (file_exists($_SERVER['DOCUMENT_ROOT'] . "/_error_pages/$lang/404.php.title.$lang")) {
       include $_SERVER['DOCUMENT_ROOT'] . "/_error_pages/$lang/404.php.title.$lang";
       http_response_code(404);
