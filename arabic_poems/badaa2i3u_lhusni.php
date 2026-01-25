@@ -1,6 +1,6 @@
     <div class="div-box div-content">
 
-    <h1 class="text-centre"></h1>
+    <h1 class="text-centre">...</h1>
     <h2 class="text-centre">Badāʔiʕu l-Ḥusni fīhi muftariqah</h2>
 
     <p class="text-centre text-italic">
@@ -98,8 +98,8 @@
     </tr>
     <tr>
     <td colspan="2">مَعْ عَرَائِسِ مِن سَنَا حُورْ الخَيَّامْ</td>
-    <tr>
     </tr>
+    <tr>
     <td colspan="2">وَبِالنَّعَائِمِ خَالِدِينْ عَلَى الدَّوَامْ</td>
     </tr>
     <tr>

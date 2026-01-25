@@ -46,7 +46,6 @@
     <td>اعْظَمْ الشَّقَا</td>
     <td>قَالْ فِي الْمَثَلْ شَقِي مَخْلُوقْ</td>
     <tr>
-    <tr>
     <td>الْقِيتْ فِي الْحُبّ الْقَتَّالْ</td>
     <td>شَلَّا يَلْتْقِى</td>
     <td>عَاشقْ فِي عِشْقُه مَعْشُوقْ</td>
@@ -95,9 +94,9 @@
     </tr>
     </table>
     <table class="table-muwashshahah-ar-centred">
-    <tr><td colspan="3"><br></td></tr>
-    <tr><td colspan="3" class="text-bold text-italic">برولة</td></tr>
-    <tr><td colspan="3"><br></td></tr>
+    <tr><td colspan="2"><br></td></tr>
+    <tr><td colspan="2" class="text-bold text-italic">برولة</td></tr>
+    <tr><td colspan="2"><br></td></tr>
     <tr>
     <td>أكامل البها ما شفك تعبي</td>
     <td>عقلي من جفاك جفاني كسينة الجفان</td>

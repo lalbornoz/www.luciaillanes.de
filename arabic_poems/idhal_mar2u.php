@@ -1,7 +1,7 @@
     <div class="div-box div-content">
 
-    <h1 class="text-centre"></h1>
-    <h2 class="text-centre">Iḏā l-Marʔu lam yudnas mina l-luʔmi ʕirḍuhu</h1>
+    <h1 class="text-centre">When a man does not stain with wickedness his honour<a href="#r2" class="a-reference">[2]</a></h1>
+    <h2 class="text-centre">Iḏā l-Marʔu lam yudnas mina l-luʔmi ʕirḍuhu</h2>
 
     <p class="text-centre text-italic">
     نوع الشعر: قصيدة على بحر الطويل<br>
@@ -146,7 +146,7 @@
     <span id="r7">
     [7] reflecting the notion of that day and age (and peoples) that mountains were anchoured into the ground and roots or branches extending into its depths which made them firm and solid, especially when tall.<br>
     </span>
-    </br>
+    <br>
     <span id="r8">
     [8] lit. piebald; an architectural technique, primarily associated with the Arab and also the larger Islāmic world, that employs alternating rows of light and dark stone.<br>
     This refers to the castle of as-Samawʔal and his tribe, which was built in this manner.<br>

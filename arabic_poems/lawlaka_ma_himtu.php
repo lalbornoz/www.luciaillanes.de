@@ -259,8 +259,8 @@
     <tr>
     <td>Weren't it for you I'd not cry in passion</td>
     <td>nor may I carry out my passion in relief</td>
-    <tr>
     </tr>
+    <tr>
     <td>Nor may I spend a full quarter of a day</td>
     <td>without that I would make you all my aim</td>
     </tr>
