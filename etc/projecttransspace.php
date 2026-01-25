@@ -212,7 +212,6 @@
         <a href="https://pubmed.ncbi.nlm.nih.gov/21907792/">Janus kinase 2--a novel negative regulator of estrogen receptor α function"</a><br>
       </span>
     </div>
-
-  <!--
-    vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=0
-    -->
+<?php
+// vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=145
+?>

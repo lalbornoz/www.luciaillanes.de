@@ -61,8 +61,7 @@
         fclose($data_cache_file);
         fclose($list_file);
       }
-
-    /*
-     * vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=0
-     */
     ?>
+<?php
+// vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=145
+?>

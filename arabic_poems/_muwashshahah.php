@@ -44,7 +44,6 @@
     modernity and post-modernity, in the Arab world, such as in Lebanon in the form of extemporaneous poetic duels and have
     exerted considerable influence on the poetry of Western Europe from France to England, possibly including the poem of Sir
     Gawain and the Green Knight, as well as Hispanic poetry and song to this day and age.<br>
-
-  <!--
-    vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=0
-    -->
+<?php
+// vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=145
+?>

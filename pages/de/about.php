@@ -36,7 +36,6 @@
         <a href="https://github.com/lalbornoz/">meinen GitHub</a> für weitere Informationen.<br>
       </p>
     </div>
-
-  <!--
-    vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=145
-    -->
+<?php
+// vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=145
+?>

@@ -108,7 +108,6 @@
         [10] <a href="https://www.tcl.tk/cgi-bin/tct/tip/458.html">TIP #458: Add Support for epoll() and kqueue() in the Notifier</a><br>
       </p>
     </div>
-
-  <!--
-    vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=145
-    -->
+<?php
+// vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=145
+?>

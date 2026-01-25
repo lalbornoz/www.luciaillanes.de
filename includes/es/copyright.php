@@ -15,7 +15,6 @@
       bradleytaunt/html5-valid-badge: HTML5 valid badge for your website (PNG & SVG formats)
       </a>
     </div>
-
-    <!--
-      vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=0
-      -->
+<?php
+// vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=145
+?>

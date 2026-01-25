@@ -244,7 +244,6 @@
         <a href="https://en.wikipedia.org/wiki/Area_under_the_curve_(pharmacokinetics)">Area under the curve (pharmacokinetics)</a>
       </span>
     </div>
-
-  <!--
-    vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=0
-    -->
+<?php
+// vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=145
+?>
