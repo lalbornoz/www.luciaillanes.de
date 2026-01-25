@@ -17,6 +17,7 @@
           im Endstadium, Neutrinos, platonischen Horror, Parodie. Alle Charaktäre und Ereignisse, die in diesen groben
           Brocken der digitalen Kunst dargestellt sind, sind fiktiv und sollten aufgrund dessen Inhalten von niemandem
           betrachtet werden.
+        </h2>
       </div>
 
       <div class="div-box" id="div-content-visual-sundries-a">
