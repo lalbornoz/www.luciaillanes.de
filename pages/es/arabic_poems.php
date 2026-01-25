@@ -18,9 +18,9 @@
 
         <div class="div-box" id="div-content-arabic-poems2">
           <img
-            alt="cats" class="div-content-img"
+            alt="cats" class="div-content-img text-cursor-pointer"
             onclick="catsClick();" src="/arabic_poems/<?php echo $inc_lang ?>/cats.png"
-            class="text-cursor-pointer" title="No le hinchas la pelota a los gatitos">
+            title="No le hinchas la pelota a los gatitos">
           <h1 class="text-margin-bottom-none">
             Poemas árabes traducidas<br>
             (principalmente en inglés)

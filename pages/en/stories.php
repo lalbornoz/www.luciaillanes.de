@@ -12,9 +12,9 @@
           <div id="div-content-stories-roaries">
             <img
               alt="roarie"
-              class="div-content-img"
+              class="div-content-img text-cursor-pointer"
               onmouseover="roarieMouseOver();" onmouseout="roarieMouseOut();"
-              src="/stories/<?php echo $inc_lang ?>/roarie.png" class="text-cursor-pointer">
+              src="/stories/<?php echo $inc_lang ?>/roarie.png">
             <div class="div-content-stories-roaries" id="div-content-stories-roarie1">roar</div>
             <div class="div-content-stories-roaries" id="div-content-stories-roarie2">meow</div>
             <div class="div-content-stories-roaries" id="div-content-stories-roarie3">purr</div>
