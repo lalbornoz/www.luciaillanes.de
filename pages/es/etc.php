@@ -26,7 +26,6 @@
           <img
             alt="kade" class="div-content-img element-hidden" id="kade"
             onclick="kadeClick();" src="data:,"
-            class="element-hidden"
             title="No me hagas clic!"><br>
           <span
             class="div-content-img text-cursor-pointer"
