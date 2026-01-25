@@ -158,5 +158,5 @@
 </html>
 
 <!--
-  vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=0
+  vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=145
   -->

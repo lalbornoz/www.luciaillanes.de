@@ -38,7 +38,6 @@
         <a href="/<?php echo $inc_lang ?>/impressum">Contact me / Impressum</a>
       </span>
     </div>
-
-    <!--
-      vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=0
-      -->
+<?php
+// vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=145
+?>

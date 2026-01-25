@@ -55,7 +55,6 @@
           <a href="/<?php echo $inc_lang ?>/arabic_poems/3aynee_lighayri">My eyes do not see except for thy beauty</a><br>
         </div>
       </div>
-
-  <!--
-    vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=0
-    -->
+<?php
+// vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=145
+?>
