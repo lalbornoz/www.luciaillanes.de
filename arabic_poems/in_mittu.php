@@ -1,56 +1,54 @@
     <div class="div-box div-content">
+      <h1 class="text-centre">If I died because of you while my heart would remain...</h1>
+      <h2 class="text-centre">In mittu minka wa-qalbī fīhi mā fīh</h2>
 
-    <h1 class="text-centre">If I died because of you while my heart would remain...</h1>
-    <h2 class="text-centre">In mittu minka wa-qalbī fīhi mā fīh</h2>
+      <p class="text-centre text-italic">
+        نوع الشعر: غزل على بحر البسيط<br>
+        الشاعر: أبو نواس<br>
+        منطقته: بصرة<br>
+        عصر: عباسي<br>
+      </p>
 
-    <p class="text-centre text-italic">
-    نوع الشعر: غزل على بحر البسيط<br>
-    الشاعر: أبو نواس<br>
-    منطقته: بصرة<br>
-    عصر: عباسي<br>
-    </p>
+      <p class="text-centre">
+        إِن مِتُّ مِنكَ وَقَلبي فيهِ ما فيهِ<br>
+        وَلَم أَنَل فَرَجاً مِمّا أُقاسيهِ<br>
+        <br>
+        نادَيتُ قَلبي بِحُزنٍ ثُمَّ قُلتُ لَهُ<br>
+        يا مَن يُبالي حَبيباً لا يُباليهِ<br>
+        <br>
+        هَذا الَّذي كُنتَ تَهواهُ وَتَمنَحَهُ<br>
+        صَفوَ المَوَدَّةِ قَد غالَت دَواهيهِ<br>
+        <br>
+        فَرَدَّ قَلبي عَلى طَرفي بِحُرقَتِهِ<br>
+        هَذا البَلاءُ الَّذي دَلَّيتَني فيهِ<br>
+        <br>
+        أَرهَقتَني في هَوى مَن لَيسَ يُنصِفُني<br>
+        وَلَيسَ يَنفَكُّ مِن زَهوٍ وَمِن تيهِ<br>
+      </p>
 
-    <p class="text-centre">
-    إِن مِتُّ مِنكَ وَقَلبي فيهِ ما فيهِ<br>
-    وَلَم أَنَل فَرَجاً مِمّا أُقاسيهِ<br>
-    <br>
-    نادَيتُ قَلبي بِحُزنٍ ثُمَّ قُلتُ لَهُ<br>
-    يا مَن يُبالي حَبيباً لا يُباليهِ<br>
-    <br>
-    هَذا الَّذي كُنتَ تَهواهُ وَتَمنَحَهُ<br>
-    صَفوَ المَوَدَّةِ قَد غالَت دَواهيهِ<br>
-    <br>
-    فَرَدَّ قَلبي عَلى طَرفي بِحُرقَتِهِ<br>
-    هَذا البَلاءُ الَّذي دَلَّيتَني فيهِ<br>
-    <br>
-    أَرهَقتَني في هَوى مَن لَيسَ يُنصِفُني<br>
-    وَلَيسَ يَنفَكُّ مِن زَهوٍ وَمِن تيهِ<br>
-    </p>
+      <p class="text-centre text-italic">
+        Type of poem: Ġazal (poetry on love) in metre Basīṭ<br>
+        Name of poet: Abū Nuwās<br>
+        Region of poet: Baṣrah<br>
+        Era: ʕabbāsid<br>
+      </p>
 
-    <p class="text-centre text-italic">
-    Type of poem: Ġazal (poetry on love) in metre Basīṭ<br>
-    Name of poet: Abū Nuwās<br>
-    Region of poet: Baṣrah<br>
-    Era: ʕabbāsid<br>
-    </p>
-
-    <p class="text-centre">
-    If I died because of you while my heart would remain,<br>
-    when no joy shall replace the sadness of your pain,<br>
-    <br>
-    in sorrow, then I would call upon my woeful heart and shout:<br>
-    Woe upon you that pines away for one whom does not heed you!<br>
-    <br>
-    That is indeed how you would love and grant me<br>
-    your sincerest of affections that has deprived me of my wit<br>
-    <br>
-    And so my heart returns your glance aflame that burns it<br>
-    for such is the affliction you have drawn me into<br>
-    <br>
-    I waste away in longing for you that does not do me justice<br>
-    for you that remains in the waterless desert of vanity and pride<br>
-    </p>
-
+      <p class="text-centre">
+        If I died because of you while my heart would remain,<br>
+        when no joy shall replace the sadness of your pain,<br>
+        <br>
+        in sorrow, then I would call upon my woeful heart and shout:<br>
+        Woe upon you that pines away for one whom does not heed you!<br>
+        <br>
+        That is indeed how you would love and grant me<br>
+        your sincerest of affections that has deprived me of my wit<br>
+        <br>
+        And so my heart returns your glance aflame that burns it<br>
+        for such is the affliction you have drawn me into<br>
+        <br>
+        I waste away in longing for you that does not do me justice<br>
+        for you that remains in the waterless desert of vanity and pride<br>
+      </p>
     </div>
 <?php
 // vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=145

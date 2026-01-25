@@ -1,99 +1,97 @@
-    E<div class="div-box div-content">
+    <div class="div-box div-content">
+      <h1 class="text-centre">O Handsome, O face of full moon rising<a href="#r1" class="a-reference">[1]</a></h1>
+      <h2 class="text-centre">Yā malīḥ yā ṭalʕata l-badri</h2>
 
-    <h1 class="text-centre">O Handsome, O face of full moon rising<a href="#r1" class="a-reference">[1]</a></h1>
-    <h2 class="text-centre">Yā malīḥ yā ṭalʕata l-badri</h2>
+      <p class="text-centre text-italic">
+        ﻧﻮﻉ ﺍﻟﺸﻌﺮ: غزل على بحر المديد أو الرمل<br>
+        ﺍﻟﺸﺎﻋﺮ: ﻣﺠﻬﻮﻝ؛ ﻣﻮﺟﻮﺩ ﻓﻲ أداء ﻣﻴﺰﺍﻥ ﺩﺭﺝ ﻧﻮﺑﺔ الرصد لفرقة طنجة بإدارة أحمد الزيتوني الصحراوي, منسوخة يدويا<br>
+        منطقته: ﺍﻷﻧﺪﻟﺲ<br>
+        ﻋﺼﺮ: ﻗﺮﻥ ﺍﻟﺜﺎﻣﻦ-ﺍﻟﺨﺎﻣﺲ ﻋﺸﺮ<br>
+      </p>
 
-    <p class="text-centre text-italic">
-    ﻧﻮﻉ ﺍﻟﺸﻌﺮ: غزل على بحر المديد أو الرمل<br>
-    ﺍﻟﺸﺎﻋﺮ: ﻣﺠﻬﻮﻝ؛ ﻣﻮﺟﻮﺩ ﻓﻲ أداء ﻣﻴﺰﺍﻥ ﺩﺭﺝ ﻧﻮﺑﺔ الرصد لفرقة طنجة بإدارة أحمد الزيتوني الصحراوي, منسوخة يدويا<br>
-    منطقته: ﺍﻷﻧﺪﻟﺲ<br>
-    ﻋﺼﺮ: ﻗﺮﻥ ﺍﻟﺜﺎﻣﻦ-ﺍﻟﺨﺎﻣﺲ ﻋﺸﺮ<br>
-    </p>
+      <p class="text-centre">
+        يَا مَلِيْحْ يَا طَلْعَةَ البَدْرِ<br>
+        يَا ملِيْحْ فِي لَيْلَةِ الكَمَالْ<br>
+        <br>
+        يَا مَلِيْحْ وَأَلْقَيْتَ شَجَا<br>
+        يَا مَلِيْحْ لِرِيْقِهِ زُنَى<br>
+        <br>
+        يَا مَلِيْحْ بِخَدِّكَ الوَهَّاجُ<br>
+        يَا مَلِيْحْ وَآَيَةِ اﻷَحْلَى<br>
+        <br>
+        يَا مَلِيْحْ وَقَدُّكَ رَجْرَاجُ<br>
+        يَا مَلِيْحْ وَتَبْرُدِي الإِجْرَاءُ<br>
+        <br>
+        يَا مَلِيْحْ رِفْقً بِمَنْ  مَعَاجَ<br>
+        يَا مَلِيْحْ وَأَنْتَ هَاجٍّ العُشَاءُ<br>
+        <br>
+        يَا مَلِيْحْ وَفِيقْ عَنِ الهَجْرِ<br>
+        يَا مَلِيْحْ إِلَى بَتِّ الوِصَالُ<br>
+        <br>
+        يَا مَلِيْحْ فَسَرُّكَ صِبْرِي<br>
+        يَا مَلِيْحْ إِنْ لَمْ يَكُنْ وِصَالُ<br>
+      </p>
 
-    <p class="text-centre">
-    يَا مَلِيْحْ يَا طَلْعَةَ البَدْرِ<br>
-    يَا ملِيْحْ فِي لَيْلَةِ الكَمَالْ<br>
-    <br>
-    يَا مَلِيْحْ وَأَلْقَيْتَ شَجَا<br>
-    يَا مَلِيْحْ لِرِيْقِهِ زُنَى<br>
-    <br>
-    يَا مَلِيْحْ بِخَدِّكَ الوَهَّاجُ<br>
-    يَا مَلِيْحْ وَآَيَةِ اﻷَحْلَى<br>
-    <br>
-    يَا مَلِيْحْ وَقَدُّكَ رَجْرَاجُ<br>
-    يَا مَلِيْحْ وَتَبْرُدِي الإِجْرَاءُ<br>
-    <br>
-    يَا مَلِيْحْ رِفْقً بِمَنْ  مَعَاجَ<br>
-    يَا مَلِيْحْ وَأَنْتَ هَاجٍّ العُشَاءُ<br>
-    <br>
-    يَا مَلِيْحْ وَفِيقْ عَنِ الهَجْرِ<br>
-    يَا مَلِيْحْ إِلَى بَتِّ الوِصَالُ<br>
-    <br>
-    يَا مَلِيْحْ فَسَرُّكَ صِبْرِي<br>
-    يَا مَلِيْحْ إِنْ لَمْ يَكُنْ وِصَالُ<br>
-    </p>
+      <p class="text-centre text-italic">
+        Type of poem: Ġazal (poetry on love) in al-Madīd or ar-Ramal metre<br>
+        Name of poet: unknown; found in rendition of Mīzān Darj of Nawbatu r-Raṣd by the Orchestra of Tangier led by Aḥmad az-Zaytūnī aṣ-Ṣaḥrāwī, transcribed manually<br>
+        Region of poet: al-Andalus<br>
+        Era: 8th-15th century<br>
+      </p>
 
-    <p class="text-centre text-italic">
-    Type of poem: Ġazal (poetry on love) in al-Madīd or ar-Ramal metre<br>
-    Name of poet: unknown; found in rendition of Mīzān Darj of Nawbatu r-Raṣd by the Orchestra of Tangier led by Aḥmad az-Zaytūnī aṣ-Ṣaḥrāwī, transcribed manually<br>
-    Region of poet: al-Andalus<br>
-    Era: 8th-15th century<br>
-    </p>
+      <p class="text-centre">
+        O Handsome, O face of full moon rising<a href="#r1" class="a-reference">[1]</a><br>
+        O Handsome, in a dark, starless night<br>
+        <br>
+        O Handsome, you burden who mourns<br>
+        O Handsome, for your sinful saliva<a href="#r2" class="a-reference">[2]</a><br>
+        <br>
+        O Handsome, with your radiant cheeks<br>
+        O Handsome, and your loveliest looks<br>
+        <br>
+        O Handsome, when by your size<a href="#r3" class="a-reference">[3]</a> I am left restless<br>
+        O Handsome, and your setting<a href="#r4" class="a-reference">[4]</a> does soothe me<br>
+        <br>
+        O Handsome, be gentle in my seclusion<a href="#r5" class="a-reference">[5]</a><br>
+        O Handsome, for by nightfall you<a href="#r6" class="a-reference">[6]</a> condemn me<br>
+        <br>
+        O Handsome, my companion out of severance<br>
+        O Handsome, towards our consummation<br>
+        <br>
+        O Handsome, may my patience satisfy you<br>
+        O Handsome, if we are not reunited<br>
+      </p>
 
-    <p class="text-centre">
-    O Handsome, O face of full moon rising<a href="#r1" class="a-reference">[1]</a><br>
-    O Handsome, in a dark, starless night<br>
-    <br>
-    O Handsome, you burden who mourns<br>
-    O Handsome, for your sinful saliva<a href="#r2" class="a-reference">[2]</a><br>
-    <br>
-    O Handsome, with your radiant cheeks<br>
-    O Handsome, and your loveliest looks<br>
-    <br>
-    O Handsome, when by your size<a href="#r3" class="a-reference">[3]</a> I am left restless<br>
-    O Handsome, and your setting<a href="#r4" class="a-reference">[4]</a> does soothe me<br>
-    <br>
-    O Handsome, be gentle in my seclusion<a href="#r5" class="a-reference">[5]</a><br>
-    O Handsome, for by nightfall you<a href="#r6" class="a-reference">[6]</a> condemn me<br>
-    <br>
-    O Handsome, my companion out of severance<br>
-    O Handsome, towards our consummation<br>
-    <br>
-    O Handsome, may my patience satisfy you<br>
-    O Handsome, if we are not reunited<br>
-    </p>
-
-    <div class="div-references">
-    <!-- {{{ references -->
-    <span id="r1">
-    [1] The person addressed is being likened to and described in terms of the full moon - particularly with regard to their face - in a dark starless night, the seductive and obsessive power of the moon, the restlessness the full moon provokes, it running its course from East to West, both the alleviation inasmuch as the pain that seclusion and separation its setting and the time between its setting and nightfall produces, etc.<br>
-    It bears mentioning that the sun, the moon, the stars, their setting, passing, etc. are very common tropes in Arabic poetry in general, metaphorically referring to a friend or beloved one and their departure, loss, longing for, etc.<br>
-    </span>
-    <br>
-    <span id="r2">
-    [2] e.g. kiss; sinful kiss, lustful kiss<br>
-    </span>
-    <br>
-    <span id="r3">
-    [3] e.g. the size (phase) of the full moon of the face of - and, at another level of interpretation, the physically tall stature - of the person addressed which agitates, disturbs, distresses, or provokes anxiety or restlessness or lack of sleep at night.<br>
-    </span>
-    <br>
-    <span id="r4">
-    [4] unclear or ambiguous; to make run or flow (water, etc.,) carrying out, implementation, procedure, measure or step taken towards something or to prevent something, preventive or precautionary measure, caution - taken more loosely concerning the latter ranges of meaning: provision, safeguard, shield, guard, defence, armour, protection, shelter and concerning the first and primary ("to make run or flow":) to run its course and hence to set.<br>
-    <br>
-    The likeliest meaning would seem to run its course or to set; it bears observing that rajrāj in the preceding half-verse has the first two radicals metathesised with regards to this word in this half-verse (ijrāʔ) and the verb in the same (tabrudu) the second and third radicals metathesised with regards to full moon (badr) in the very first half-verse of the poem.<br>
-    </span>
-    <br>
-    <span id="r5">
-    [5] unclear or ambiguous; the place to which one goes and stays, secluded halting-place, more loosely: shelter, place of setting, or the seclusion induced by the separation from the moon in the morning - and, at another level of interpretation, the recurring departure of the person addressed - the latter seems the likeliest interpretation.<br>
-    </span>
-    <br>
-    <span id="r6">
-    [6] Both the masculine as well as the feminine personal pronoun 2nd pers. sg. are audible here.<br>
-    </span>
-    <!-- }}} -->
-    </div>
-
+      <div class="div-references">
+        <!-- {{{ references -->
+        <span id="r1">
+          [1] The person addressed is being likened to and described in terms of the full moon - particularly with regard to their face - in a dark starless night, the seductive and obsessive power of the moon, the restlessness the full moon provokes, it running its course from East to West, both the alleviation inasmuch as the pain that seclusion and separation its setting and the time between its setting and nightfall produces, etc.<br>
+          It bears mentioning that the sun, the moon, the stars, their setting, passing, etc. are very common tropes in Arabic poetry in general, metaphorically referring to a friend or beloved one and their departure, loss, longing for, etc.<br>
+        </span>
+        <br>
+        <span id="r2">
+          [2] e.g. kiss; sinful kiss, lustful kiss<br>
+        </span>
+        <br>
+        <span id="r3">
+          [3] e.g. the size (phase) of the full moon of the face of - and, at another level of interpretation, the physically tall stature - of the person addressed which agitates, disturbs, distresses, or provokes anxiety or restlessness or lack of sleep at night.<br>
+        </span>
+        <br>
+        <span id="r4">
+          [4] unclear or ambiguous; to make run or flow (water, etc.,) carrying out, implementation, procedure, measure or step taken towards something or to prevent something, preventive or precautionary measure, caution - taken more loosely concerning the latter ranges of meaning: provision, safeguard, shield, guard, defence, armour, protection, shelter and concerning the first and primary ("to make run or flow":) to run its course and hence to set.<br>
+          <br>
+          The likeliest meaning would seem to run its course or to set; it bears observing that rajrāj in the preceding half-verse has the first two radicals metathesised with regards to this word in this half-verse (ijrāʔ) and the verb in the same (tabrudu) the second and third radicals metathesised with regards to full moon (badr) in the very first half-verse of the poem.<br>
+        </span>
+        <br>
+        <span id="r5">
+          [5] unclear or ambiguous; the place to which one goes and stays, secluded halting-place, more loosely: shelter, place of setting, or the seclusion induced by the separation from the moon in the morning - and, at another level of interpretation, the recurring departure of the person addressed - the latter seems the likeliest interpretation.<br>
+        </span>
+        <br>
+        <span id="r6">
+          [6] Both the masculine as well as the feminine personal pronoun 2nd pers. sg. are audible here.<br>
+        </span>
+        <!-- }}} -->
+      </div>
     </div>
 <?php
 // vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=145

@@ -1,5 +1,4 @@
     <div class="div-box div-content">
-
       <h1 class="text-centre">General notes concerning HRT</h1>
 
       <p class="text-warning-red">

@@ -1,44 +1,42 @@
     <div class="div-box div-content">
+      <h1 class="text-centre">Diligent conduct obtains the highest of aims</h1>
+      <h2 class="text-centre">Bi-qadri l-kaddi tuktasabu l-Maʕālī</h2>
 
-    <h1 class="text-centre">Diligent conduct obtains the highest of aims</h1>
-    <h2 class="text-centre">Bi-qadri l-kaddi tuktasabu l-Maʕālī</h2>
+      <p class="text-centre text-italic">
+        نوع الشعر: قطغة على بحر الطويل<br>
+        الشاعر: أبو عبد الله محمد بن إدريس الشافعيّ المطَّلِبيّ القرشيّ<br>
+        منطقته: أساسا: مكة والمدينة, اليمن, بغداد ومصر<br>
+        عصر: عباسي - قرن الثامن-التاسع<br>
+      </p>
 
-    <p class="text-centre text-italic">
-    نوع الشعر: قطغة على بحر الطويل<br>
-    الشاعر: أبو عبد الله محمد بن إدريس الشافعيّ المطَّلِبيّ القرشيّ<br>
-    منطقته: أساسا: مكة والمدينة, اليمن, بغداد ومصر<br>
-    عصر: عباسي - قرن الثامن-التاسع<br>
-    </p>
+      <p class="text-centre">
+        بِقَدرِ الكدِّ تُكتَسَبُ المَعالي<br>
+        وَمَن طَلبَ العُلا سَهرَ اللَّيالي<br>
+        <br>
+        وَمَن رامَ العُلا مِن غَيرِ كَدٍ<br>
+        أضاعَ العُمرَ في طَلَبِ المُحالِ<br>
+        <br>
+        تَرومُ العِزَّ ثم تَنامُ لَيلًا<br>
+        يَغوصُ البحر من طلبِ اللآلي<br>
+      </p>
 
-    <p class="text-centre">
-    بِقَدرِ الكدِّ تُكتَسَبُ المَعالي<br>
-    وَمَن طَلبَ العُلا سَهرَ اللَّيالي<br>
-    <br>
-    وَمَن رامَ العُلا مِن غَيرِ كَدٍ<br>
-    أضاعَ العُمرَ في طَلَبِ المُحالِ<br>
-    <br>
-    تَرومُ العِزَّ ثم تَنامُ لَيلًا<br>
-    يَغوصُ البحر من طلبِ اللآلي<br>
-    </p>
+      <p class="text-centre text-italic">
+        Type of poem: Qiṭʕah in metre Ṭawīl<br>
+        Name of poet: Abū ʕabdi-llāh Muḥammad b. Idrīs aš-Šāfiʕī al-Muṭṭalibī al-Qurašī<br>
+        Region of poet: primarily: Makkah and al-Madīnah, the Yaman, Baġdād, and Egypt<br>
+        Era: ʕabbāsid - 8th-9th century<br>
+      </p>
 
-    <p class="text-centre text-italic">
-    Type of poem: Qiṭʕah in metre Ṭawīl<br>
-    Name of poet: Abū ʕabdi-llāh Muḥammad b. Idrīs aš-Šāfiʕī al-Muṭṭalibī al-Qurašī<br>
-    Region of poet: primarily: Makkah and al-Madīnah, the Yaman, Baġdād, and Egypt<br>
-    Era: ʕabbāsid - 8th-9th century<br>
-    </p>
-
-    <p class="text-centre">
-    Diligent conduct obtains the highest of aims<br>
-    and whom seeks exaltation, strives through night after night<br>
-    <br>
-    And he whom seeks exaltation without toil and hard work<br>
-    in vain wastes his life in search of what he cannot find<br>
-    <br>
-    You aim for but glory yet at night, you do sleep<br>
-    he who seeks pearls must dive into the sea<br>
-    </p>
-
+      <p class="text-centre">
+        Diligent conduct obtains the highest of aims<br>
+        and whom seeks exaltation, strives through night after night<br>
+        <br>
+        And he whom seeks exaltation without toil and hard work<br>
+        in vain wastes his life in search of what he cannot find<br>
+        <br>
+        You aim for but glory yet at night, you do sleep<br>
+        he who seeks pearls must dive into the sea<br>
+      </p>
     </div>
 <?php
 // vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=145

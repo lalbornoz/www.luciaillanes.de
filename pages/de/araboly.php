@@ -1,22 +1,22 @@
-      <div class="div-box div-content-grid">
-        <div class="div-box" id="div-content-araboly">
-          <h1 class="text-margin-bottom-none">Araboly 2000 Advanced Server SP4</h1>
-          <span class="text-inscription-cuneiform"
-                title="Ana kurnugi qaqqari lā tāri,&#10;Ištar mārat sīn uzunša iškun &#10;To the netherworld, land of no return,&#10;Ištar, daughter of Sīn, set her mind&#10;(from the Mesopotamian myth Ištar's Descent to the Netherworld)">
-            𒀭𒌋𒉡𒌦 𒆳𒆠𒊕 𒇷𒀀𒌓<br>
-            𒀭𒈹𒀭 𒈠𒌓𒊏𒊬 𒌓𒍪𒈨𒊬 𒄑
-          </span><br>
-          <h2 class="text-margin-top-none">
-            ALLERGENHINWEIS: enthält Spuren von:
-            absurden und zuhöchst zynischen schwarzen Humor, vulgärer Sprache, Schimpftiraden, Drogengebrauch,
-            allgemeinen Wahnsinn, kade, unsinnigen Prämissen und Handlungen, zuhöchst fraglichen Charaktären,
-            quadratkūfischer Kalligraphie, Surrealismus, Philosophie, Spiritualität, Religion, klinischer Psychologie
-            im Endstadium, Neutrinos, platonischen Horror, Parodie. Alle Charaktäre und Ereignisse, die in diesen groben
-            Brocken der digitalen Kunst dargestellt sind, sind fiktiv und sollten aufgrund dessen Inhalten von niemandem
-            betrachtet werden.
-          </h2>
+    <div class="div-box div-content-grid">
+      <div class="div-box" id="div-content-araboly">
+        <h1 class="text-margin-bottom-none">Araboly 2000 Advanced Server SP4</h1>
+        <span class="text-inscription-cuneiform"
+              title="Ana kurnugi qaqqari lā tāri,&#10;Ištar mārat sīn uzunša iškun &#10;To the netherworld, land of no return,&#10;Ištar, daughter of Sīn, set her mind&#10;(from the Mesopotamian myth Ištar's Descent to the Netherworld)">
+          𒀭𒌋𒉡𒌦 𒆳𒆠𒊕 𒇷𒀀𒌓<br>
+          𒀭𒈹𒀭 𒈠𒌓𒊏𒊬 𒌓𒍪𒈨𒊬 𒄑
+        </span><br>
+        <h2 class="text-margin-top-none">
+          ALLERGENHINWEIS: enthält Spuren von:
+          absurden und zuhöchst zynischen schwarzen Humor, vulgärer Sprache, Schimpftiraden, Drogengebrauch,
+          allgemeinen Wahnsinn, kade, unsinnigen Prämissen und Handlungen, zuhöchst fraglichen Charaktären,
+          quadratkūfischer Kalligraphie, Surrealismus, Philosophie, Spiritualität, Religion, klinischer Psychologie
+          im Endstadium, Neutrinos, platonischen Horror, Parodie. Alle Charaktäre und Ereignisse, die in diesen groben
+          Brocken der digitalen Kunst dargestellt sind, sind fiktiv und sollten aufgrund dessen Inhalten von niemandem
+          betrachtet werden.
+        </h2>
 
-          <pre>
+        <pre>
        Cat-powered!     _ActiveAraboly _  support  _  out of the box!  Built on NT technology!    100% vegan!
          _     _,      / \   _ __ __ _| |__   ___ | |_   _            ___  ___  ___  ___           ,_     _
          \~-,_//|     / _ \ | '__/ _` | '_ \ / _ \| | | | |  Only    |_  |/ _ \/ _ \/ _ \  Only    |\\_,-~/
@@ -38,17 +38,17 @@
        Monsters of SandNET (AAMS(c),) and/or the Shadow Police(tm), please feel free to contact our corporate legal
       department at Road of Frozen Despair #19342457, Icy Death Plains County, Central South Pole, South Pole, Chile
                                               should you feel like suing us.
-          </pre>
+        </pre>
 
-          <h3>Everyone's favourite board game... with IRC support and fancy colours! (WORK IN PROGRESS)</h3>
-          <p class="text-centre">
-            Copyright (c) 2018, 2019, 2020, 2022, 2025 Lucía Andrea Illanes Albornoz &lt;lucia@luciaillanes.de&gt;<br>
-            This project is licensed under the terms of the MIT licence.
-          </p>
-          <img alt="Araboly board (South)" src="/assets/ArabolyBoardSouth.png">
-          <h2>See <a href="https://github.com/lalbornoz/araboly">lalbornoz/araboly</a> for more information!</h2>
-        </div>
+        <h3>Everyone's favourite board game... with IRC support and fancy colours! (WORK IN PROGRESS)</h3>
+        <p class="text-centre">
+          Copyright (c) 2018, 2019, 2020, 2022, 2025 Lucía Andrea Illanes Albornoz &lt;lucia@luciaillanes.de&gt;<br>
+          This project is licensed under the terms of the MIT licence.
+        </p>
+        <img alt="Araboly board (South)" src="/assets/ArabolyBoardSouth.png">
+        <h2>See <a href="https://github.com/lalbornoz/araboly">lalbornoz/araboly</a> for more information!</h2>
       </div>
+    </div>
 <?php
 // vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=145
 ?>
