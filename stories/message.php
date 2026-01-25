@@ -3,9 +3,9 @@
     <h1 class="text-centre">The Coded Message</h1>
 
     <img
-    	alt="The Coded Message"
-    	src="/stories/<?php echo $inc_lang ?>/message.png"
-    	class="img-centred">
+      alt="The Coded Message"
+      src="/stories/<?php echo $inc_lang ?>/message.png"
+      class="img-centred">
 
     <p>
     It was still early in the morning, a cool breeze swept across the landscape outside.

@@ -3,9 +3,9 @@
     <h1 class="text-centre">The Tree of Many Questions</h1>
 
     <img
-    	alt="The tree of many questions"
-    	src="/stories/<?php echo $inc_lang ?>/questiontree.png"
-    	class="img-centred img-width-45">
+      alt="The tree of many questions"
+      src="/stories/<?php echo $inc_lang ?>/questiontree.png"
+      class="img-centred img-width-45">
 
     <p>
     Announcing the arrival of a calamitous morning, the owl of unasking quietly displaced the emptiness
