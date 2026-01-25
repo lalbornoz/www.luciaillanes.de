@@ -36,7 +36,7 @@
 
     <p class="text-centre">
     If I died because of you while my heart would remain,<br>
-    when no joy shall replace the sadness of your pain,<br/>
+    when no joy shall replace the sadness of your pain,<br>
     <br>
     in sorrow, then I would call upon my woeful heart and shout:<br>
     Woe upon you that pines away for one whom does not heed you!<br>

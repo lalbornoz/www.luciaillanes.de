@@ -62,22 +62,22 @@
     </p>
 
     <p class="text-green text-centre">
-    I saw a star that shone bright <br/>
-    in the night of my days<br/>
-    it ascended in rivers<br/>
-    in rivers of light<br/>
-    in gardens of green<br/>
-    of rayḥān and yasmīn<br/>
-    when moment met moment<br/>
-    and silence reigned all<br/>
-    and all that was once<br/>
-    and all that to be<br/>
-    turned nameless and formless<br/>
-    and formless and free<br/>
+    I saw a star that shone bright <br>
+    in the night of my days<br>
+    it ascended in rivers<br>
+    in rivers of light<br>
+    in gardens of green<br>
+    of rayḥān and yasmīn<br>
+    when moment met moment<br>
+    and silence reigned all<br>
+    and all that was once<br>
+    and all that to be<br>
+    turned nameless and formless<br>
+    and formless and free<br>
     </p>
 
     <p class="text-green">
-    And then:<br/>
+    And then:<br>
     </p>
 
     <p class="text-green text-centre">
