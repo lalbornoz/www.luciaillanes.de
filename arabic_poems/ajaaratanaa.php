@@ -1,7 +1,7 @@
     <div class="div-box div-content">
 
     <h1 class="text-centre">O neighbour of ours: calamities descend</h1>
-    <h2 class="text-centre">Ajāratanā inna l-ḫuṭūba tanūbu</h1>
+    <h2 class="text-centre">Ajāratanā inna l-ḫuṭūba tanūbu</h2>
 
     <p class="text-centre text-italic">
     نوع الشعر: قصيدة على بحر الطويل<br>

@@ -1,7 +1,7 @@
     <div class="div-box div-content">
 
     <h1 class="text-centre">We are the crows of ʕakk<a href="#r1" class="a-reference">[1]</a>, ʕakk!</h1>
-    <h2 class="text-centre">Naḥnu ġurābā ʕakk ʕakk</h1>
+    <h2 class="text-centre">Naḥnu ġurābā ʕakk ʕakk</h2>
 
     <p class="text-centre text-italic">
     نوع الشعر: نشيد<br>

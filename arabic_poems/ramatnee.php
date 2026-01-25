@@ -1,7 +1,7 @@
     <div class="div-box div-content">
 
     <h1 class="text-centre">The daughters of time have shot me, from where, I cannot see</h1>
-    <h2 class="text-centre">Ramatnī banātu d-dahri min ḥayṯu lā arā</h1>
+    <h2 class="text-centre">Ramatnī banātu d-dahri min ḥayṯu lā arā</h2>
 
     <p class="text-centre text-italic">
     نوع الشعر: مأخوذا من شعر "إِنْ أَكُ قَدْ أَقْصَرْتُ عَنْ طُولِ رِحْلَةٍ" على بحر الطويل<br>

@@ -1,6 +1,6 @@
     <div class="div-box div-content">
 
-    <h1 class="text-centre">I am he whose verses even the blind do see</a></h1>
+    <h1 class="text-centre">I am he whose verses even the blind do see</h1>
     <h2 class="text-centre">Ana llaḏī naẓara l-aʕmā ilā adabī</h2>
 
     <p class="text-centre text-italic">

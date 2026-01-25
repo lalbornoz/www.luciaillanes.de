@@ -1,6 +1,6 @@
     <div class="div-box div-content">
 
-    <h1 class="text-centre">I desire of my days to reunite me with that</a></h1>
+    <h1 class="text-centre">I desire of my days to reunite me with that</h1>
     <h2 class="text-centre">Urīdu min zamanī ḏā anna yuballiġanī</h2>
 
     <p class="text-centre text-italic">
