@@ -162,16 +162,16 @@
         suboptimal for the same reason as with the concentration curve of Oestradiol Valerate.
       </p>
 
-      <h2 class="text-centre">Transdermal Oestradiol gel: temporary discontinuation </h2>
+      <h2 class="text-centre">Transdermal Oestradiol gel: temporary discontinuation</h2>
 
       <p>
-        When discontinuing, wait for at least four weeks (neither about two nor three weeks are sufficient according to experimental
-        evidence,) respecting cycle boundaries, before resuming and be mindful of severely hypogonadic menopausal Oestradiol levels -
-        this will eventually - after at least four weeks - imply hypothyroidism - as well as insufficient Testosterone suppression,
-        though SHBG being slow to respond (five weeks max. to steady state) is helpful here.
-        This is purely based on experience, though time to steady state of transdermal Oestradiol gel - e.g. three days, though
-        however much remains at trough will be very rapidly taken up in any case - as well as SHBG - e.g. five weeks, though
-        stability after week two can usually be expected - are factors.
+        When discontinuing, wait for at least four weeks (neither about two weeks (11.5 days: crashes after day 17.5) nor three weeks
+        (18.5 days: crashes after week #5) are sufficient according to experimental evidence,) respecting cycle boundaries, before
+        resuming and be mindful of severely hypogonadic menopausal Oestradiol levels - this will eventually - after at least four
+        weeks - imply hypothyroidism - as well as insufficient Testosterone suppression, though SHBG being slow to respond (five
+        weeks max. to steady state) is helpful here. This is purely based on experience, though time to steady state of transdermal
+        Oestradiol gel - e.g. three days, though however much remains at trough will be very rapidly taken up in any case - as well
+        as SHBG - e.g. five weeks, though stability after week two can usually be expected - are factors.
       </p>
 
       <h2 class="text-centre">Transdermal Oestradiol gel: surface area</h2>
