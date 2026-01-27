@@ -20,6 +20,7 @@
         <a href="/<?php echo $inc_lang ?>/projects">Open source projects involvement</a> |
         <a href="https://github.com/lalbornoz">GitHub</a><br>
         <a href="https://github.com/lalbornoz/dotfiles_shared">Dotfiles</a> |
+        <a href="https://github.com/lalbornoz/misc_cage">Miscellaneous scripts</a> |
         <a href="https://github.com/lalbornoz/roarie.nvim">Neovim dotfiles</a>
       </span>
       <hr>
