@@ -34,7 +34,7 @@
         and guide<a href="#r4" class="a-reference">[4]</a> me, Lord, for I am lonely<a href="#r5" class="a-reference">[5]</a><br>
         <br>
         If truly in your promise lies a promise of truth<a href="#r6" class="a-reference">[6]</a><br>
-        then in my principle is basis of a solid decree<a href="#r7" class="a-reference">[7]</a><br>
+        then in my principle is basis of a severe decree<a href="#r7" class="a-reference">[7]</a><br>
         <br>
         Whoever should desire to read this, my speech<br>
         so read it, and be aware of that: I have seen!<a href="#r8" class="a-reference">[8]</a><br>
