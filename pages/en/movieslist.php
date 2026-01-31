@@ -20,7 +20,7 @@
           jspreadsheet(document.getElementById('spreadsheet'), {
             worksheets: [{
             data: [
-<?php include $_SERVER['DOCUMENT_ROOT'] . "/pages/movieslist.php" ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . "/pages/movieslist_reader.php" ?>
               ],
               columns: [
                 { type: 'text', title: 'Year', width: 75 },
