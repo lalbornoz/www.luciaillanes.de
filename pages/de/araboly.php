@@ -1,6 +1,6 @@
     <div class="div-box div-content-grid">
       <div class="div-box" id="div-content-araboly">
-        <h1 class="text-margin-bottom-none">Araboly 2000 Advanced Server SP4</h1>
+        <h1>Araboly 2000 Advanced Server SP4</h1>
         <span class="text-inscription-cuneiform"
               title="Ana kurnugi qaqqari lā tāri,&#10;Ištar mārat sīn uzunša iškun &#10;To the netherworld, land of no return,&#10;Ištar, daughter of Sīn, set her mind&#10;(from the Mesopotamian myth Ištar's Descent to the Netherworld)">
           𒀭𒌋𒉡𒌦 𒆳𒆠𒊕 𒇷𒀀𒌓<br>

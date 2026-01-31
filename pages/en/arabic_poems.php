@@ -21,9 +21,7 @@
           alt="cats" class="div-content-img text-cursor-pointer"
           onclick="catsClick();" src="/arabic_poems/<?php echo $inc_lang ?>/cats.png"
           title="Leave the cats well alone">
-        <h1 class="text-margin-bottom-none">
-          Translated Arabic poems
-        </h1>
+        <h1>Translated Arabic poems</h1>
         <span class="text-inscription-cuneiform"
             title="Kikkiš igār kikkiš igār&#10;Kikkišu šimēma igāru ḫissas&#10;Wall! Reed wall! Wall! Reed wall!&#10;Wall, listen to me! Reed wall, pay heed!&#10;(from the Mesopotamian Atraḫasīs flood myth)">
           𒆪𒆪𒊭𒄀𒂵𒆪𒆪𒊭𒄀𒂵<br>

@@ -27,7 +27,7 @@
           <div class="div-content-stories-roaries" id="div-content-stories-roarie7">purr</div>
         </div>
 
-        <h1 class="text-margin-bottom-none">
+        <h1>
           Unvollendete Träume<br>
           (nur auf Englisch)
         </h1>

@@ -24,7 +24,7 @@
           <div class="div-content-stories-roaries" id="div-content-stories-roarie7">purr</div>
         </div>
 
-        <h1 class="text-margin-bottom-none">Unfinished dreams</h1>
+        <h1>Unfinished dreams</h1>
         <span class="text-inscription-cuneiform"
             title="Inūḫ ipšaḫ libbaša labata Ištar &#10;Ištar the Lioness calmed down, her heart became quiet&#10;(from the Old Babylonian Agušaya hymn)">
           𒄭𒌋𒄭𒅖𒊬𒂷𒁉𒊭𒊏𒊭𒌨𒀭𒌹

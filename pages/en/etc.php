@@ -27,7 +27,7 @@
         <span
           class="div-content-img text-cursor-pointer"
           id="kade-next" onclick="kadeNext();">⏩</span><br>
-
+        <br>
         <span class="text-inscription-cuneiform-small"
               title="Ana ešrā bēr iksupū kusāpa&#10;Ana šalāšā bēr iškunū nubatta&#10;Ikšudūnim-ma ana libbi Uruk supūri&#10;At twenty leagues they broke bread,&#10;at thirty leagues they pitched camp.&#10;They arrived in Uruk the Sheepfold.&#10;(from the Standard Babylonian text of The Epic of Gilgameš, Tablet XI)">
           𒀀𒈾𒂊𒊭𒊏𒀀𒁁𒂊𒊑𒅅𒅖𒌑𒅆𒆪𒋢𒀀𒉺

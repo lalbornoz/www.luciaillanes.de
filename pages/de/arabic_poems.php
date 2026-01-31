@@ -21,7 +21,7 @@
           alt="cats" class="div-content-img text-cursor-pointer"
           onclick="catsClick();" src="/arabic_poems/<?php echo $inc_lang ?>/cats.png"
           title="Katzen bitte unbedingt in Ruhe lassen">
-        <h1 class="text-margin-bottom-none">
+        <h1>
           Übersetzte<br>
           arabische Gedichte<br>
           (primär auf Englisch)
