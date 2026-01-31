@@ -1,6 +1,6 @@
     <div class="div-box" id="div-content-visual-sundries">
       <div class="div-box" id="div-content-visual-sundries-T">
-        <h1 class="text-margin-bottom-none">
+        <h1>
           Digitale Kunst (aus #mIRCart)<br>
           (nur auf Englisch)
         </h1>

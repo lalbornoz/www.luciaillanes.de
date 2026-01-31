@@ -1,6 +1,6 @@
     <div class="div-box" id="div-content-visual-sundries">
       <div class="div-box" id="div-content-visual-sundries-T">
-        <h1 class="text-margin-bottom-none">Digital Art (from #mIRCart)</h1>
+        <h1>Digital Art (from #mIRCart)</h1>
         <span class="text-inscription-cuneiform"
               title="Ana kurnugi qaqqari lā tāri,&#10;Ištar mārat sīn uzunša iškun &#10;To the netherworld, land of no return,&#10;Ištar, daughter of Sīn, set her mind&#10;(from the Mesopotamian myth Ištar's Descent to the Netherworld)">
           𒀭𒌋𒉡𒌦 𒆳𒆠𒊕 𒇷𒀀𒌓<br>
