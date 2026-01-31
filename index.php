@@ -2,6 +2,7 @@
   $inc_lang = NULL;
   $inc_dir = NULL;
   $inc_page = NULL;
+  $inc_page_fallback = "about";
   $inc_uri_fname = NULL;
   $inc_uri_orig = NULL;
   $language_fallback = "en";
@@ -105,18 +106,20 @@
     }
 
     $inc_page = implode("/", $segment);
-    header("Location: /$inc_lang"
-           . ((strlen($inc_page) > 0) ? "/" : "")
-           . $inc_page);
+    if (strlen($inc_page) == 0) {
+      $inc_page = $inc_page_fallback;
+    }
+    header("Location: /$inc_lang/" . $inc_page);
     die();
   } else {
     $inc_lang = strtolower($inc_lang);
     if (!in_array($inc_lang, $languages)) {
       $inc_lang = $language_fallback;
       $inc_page = implode("/", array_slice($segment, 1));
-      header("Location: /$inc_lang"
-             . ((strlen($inc_page) > 0) ? "/" : "")
-             . $inc_page);
+      if (strlen($inc_page) == 0) {
+        $inc_page = $inc_page_fallback;
+      }
+      header("Location: /$inc_lang/" . $inc_page);
       die();
     }
   }
@@ -125,7 +128,7 @@
     header("Location: " . ("/" . implode("/", $segment)));
     die();
   } else if ((count($segment) - 1) == 0) {
-    header("Location: /$inc_lang/about");
+    header("Location: /$inc_lang/$inc_page_fallback");
     die();
   } else if ((count($segment) - 1) == 1) {
     $inc_dir = "pages";
