@@ -91,8 +91,9 @@
     function($var) {
       return ($var !== "") && ($var !== ".") && ($var !== "..");
     });
+  $segment = array_values($segment);
 
-  $inc_lang = (count($segment) >= 1) ? $segment[1] : NULL;
+  $inc_lang = (count($segment) >= 1) ? $segment[0] : NULL;
   if (is_null($inc_lang)
   ||  (strlen($inc_lang) != 2))
   {
@@ -132,11 +133,11 @@
     die();
   } else if ((count($segment) - 1) == 1) {
     $inc_dir = "pages";
-    $inc_page = $segment[2];
+    $inc_page = $segment[1];
     $inc_uri_fname = "/" . $inc_dir . "/" . $inc_lang . "/" . $inc_page;
     $inc_uri_orig = "/" . $inc_page;
   } else if ((count($segment) - 1) >= 2) {
-    $inc_dir = $segment[2];
+    $inc_dir = $segment[1];
     $inc_page = implode("/", array_slice($segment, 2));
     $inc_uri_fname = "/" . $inc_dir . "/" . $inc_lang . "/" . $inc_page;
     $inc_uri_orig = "/" . $inc_dir . "/" . $inc_page;
