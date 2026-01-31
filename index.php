@@ -125,11 +125,11 @@
     }
   }
 
-  if ($_SERVER['REQUEST_URI'] != ("/" . implode("/", $segment))) {
-    header("Location: " . ("/" . implode("/", $segment)));
-    die();
-  } else if ((count($segment) - 1) == 0) {
+  if ((count($segment) - 1) == 0) {
     header("Location: /$inc_lang/$inc_page_fallback");
+    die();
+  } else if ($_SERVER['REQUEST_URI'] != ("/" . implode("/", $segment))) {
+    header("Location: " . ("/" . implode("/", $segment)));
     die();
   } else if ((count($segment) - 1) == 1) {
     $inc_dir = "pages";
