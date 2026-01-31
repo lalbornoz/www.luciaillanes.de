@@ -104,14 +104,19 @@
       $inc_lang = $language_fallback;
     }
 
-    header("Location: /$inc_lang/" . implode("/", $segment));
+    $inc_page = implode("/", $segment);
+    header("Location: /$inc_lang"
+           . ((strlen($inc_page) > 0) ? "/" : "")
+           . $inc_page);
     die();
   } else {
     $inc_lang = strtolower($inc_lang);
     if (!in_array($inc_lang, $languages)) {
       $inc_lang = $language_fallback;
-
-      header("Location: /$inc_lang/" . implode("/", array_slice($segment, 1)));
+      $inc_page = implode("/", array_slice($segment, 1));
+      header("Location: /$inc_lang"
+             . ((strlen($inc_page) > 0) ? "/" : "")
+             . $inc_page);
       die();
     }
   }
