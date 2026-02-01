@@ -21,7 +21,7 @@
         <a href="https://github.com/lalbornoz">GitHub</a><br>
         <a href="https://github.com/lalbornoz/dotfiles_shared">Dotfiles</a> |
         <a href="https://github.com/lalbornoz/misc_scripts">Miscellaneous scripts</a> |
-        <a href="https://github.com/lalbornoz/roarie.nvim">Neovim dotfiles</a>
+        <a href="https://github.com/lalbornoz/roarie.vim">Vim dotfiles</a>
       </span>
       <hr>
       <span class="span-legend-menu">

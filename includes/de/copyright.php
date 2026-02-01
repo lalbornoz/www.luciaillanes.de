@@ -9,7 +9,7 @@
       background photography <a href="https://www.flickr.com/photos/ajay_suresh/48040450686/in/photostream/">Sevilla-4-9</a>
       courtesy of <a href="https://www.flickr.com/photos/ajay_suresh/">ajay_suresh</a> on Flickr<br>
 
-      Created with <a href="https://github.com/lalbornoz/dotfiles_shared/tree/master/.vim">{,Neo}Vim</a>,
+      Created with <a href="https://github.com/lalbornoz/roarie.vim">Vim</a>,
       hosted by OVH &amp; Hurricane Electric DNS, served by nginx &amp; PHP on Ubuntu.
     </div>
 <?php
