@@ -27,7 +27,7 @@
           (primär auf Englisch)
         </h1>
         <span class="text-inscription-cuneiform"
-            title="Kikkiš igār kikkiš igār&#10;Kikkišu šimēma igāru ḫissas&#10;Wall! Reed wall! Wall! Reed wall!&#10;Wall, listen to me! Reed wall, pay heed!&#10;(from the Mesopotamian Atraḫasīs flood myth)">
+            title="Kikkiš igār kikkiš igār&#10;Kikkišu šimēma igāru ḫissas&#10;Wand! Schilfwand! Wand! Schilfwand!&#10;Wand, höre mir zu! Schilfwand, beachte meine Worte!&#10;(aus dem mesopotamischen Atraḫasīs-Flutepos)">
           𒆪𒆪𒊭𒄀𒂵𒆪𒆪𒊭𒄀𒂵<br>
           𒆪𒆪𒌑𒊭𒈨𒈠𒂵𒄀𒄩𒊕
         </span><br>

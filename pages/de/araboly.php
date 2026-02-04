@@ -2,7 +2,7 @@
       <div class="div-box" id="div-content-araboly">
         <h1>Araboly 2000 Advanced Server SP4</h1>
         <span class="text-inscription-cuneiform"
-              title="Ana kurnugi qaqqari lā tāri,&#10;Ištar mārat sīn uzunša iškun &#10;To the netherworld, land of no return,&#10;Ištar, daughter of Sīn, set her mind&#10;(from the Mesopotamian myth Ištar's Descent to the Netherworld)">
+              title="Ana kurnugi qaqqari lā tāri,&#10;Ištar mārat sīn uzunša iškun &#10;In die Unterwelt, zum Land ohne Rückkehr,&#10;Ištar, Tochter des Sīn, wandte ihr Gemüt&#10;(aus dem mesopotamischen Mythos Ištars Gang in die Unterwelt)">
           𒀭𒌋𒉡𒌦 𒆳𒆠𒊕 𒇷𒀀𒌓<br>
           𒀭𒈹𒀭 𒈠𒌓𒊏𒊬 𒌓𒍪𒈨𒊬 𒄑
         </span><br>
