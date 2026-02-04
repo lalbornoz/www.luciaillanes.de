@@ -32,7 +32,7 @@
           (solamente en inglés)
         </h1>
         <span class="text-inscription-cuneiform"
-            title="Inūḫ ipšaḫ libbaša labata Ištar &#10;Ištar the Lioness calmed down, her heart became quiet&#10;(from the Old Babylonian Agušaya hymn)">
+            title="Inūḫ ipšaḫ libbaša labata Ištar&#10;Ištar the Lioness calmed down, her heart became quiet&#10;(from the Old Babylonian Agušaya hymn)">
           𒄭𒌋𒄭𒅖𒊬𒂷𒁉𒊭𒊏𒊭𒌨𒀭𒌹
         </span><br>
         <h2 class="text-margin-top-none">She</h2>

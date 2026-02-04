@@ -6,7 +6,7 @@
       <div class="div-box" id="div-content-movies">
         <h1>Filme und Serien die ich gesehen habe</h1>
         <span class="text-inscription-cuneiform"
-            title="Lā qibiti, lā amāru, lā ṭēmi, lā šēmi, ṣilittu&#10;No voices, no sight, no senses, no sound, silence">
+            title="Lā qibiti, lā amāru, lā ṭēmi, lā šēmi, ṣilittu&#10;Keine Stimmen, keine Sicht, keine Sinne, kein Schall, Stille">
           𒆷 𒆠𒁉𒋾 𒆷 𒀀𒈠𒊑 𒆷 𒋼𒈪 𒆷 𒊺𒉿 𒍣𒇻𒌈
         </span><br>
 

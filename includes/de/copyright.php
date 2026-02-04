@@ -1,6 +1,6 @@
     <div class="div-box" id="div-copyright">
       <span class="text-inscription-cuneiform-large"
-          title="Ul nūḫu lāšu illā lā mammāni&#10;There is no relief but nothingness">
+          title="Ul nūḫu lāšu illā lā mammāni&#10;Kein Erlöser außer Leere">
         𒌌𒉡𒌋𒄷𒌋𒆷𒀀𒋗𒅋𒌋𒈠𒈠𒉌
       </span><br>
       &copy; 2017, 2018, 2019, 2021, 2022, 2023, 2024, 2025, 2026 Lucía Andrea Illanes Albornoz | email: lucia@luciaillanes.de<br>
