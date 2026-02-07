@@ -55,6 +55,8 @@
         unknown though it would appear likely that the culprit is to be found in the above mentioned ER dynamics as well as ER
         housekeeping within each cell, being as Oestradiol is responsible in conjunction with ERs for making more ERs, constituting a
         feedback loop internal to each cell, see, inter alia, <a href="#r4" class="a-reference">[4]</a>.<br>
+        Please refer to the <a href="#temporary-discontinuation">temporary discontinuation</a> section in this document for more details.<br>
+        <br>
         As observed by the author of this document, there exists a constraint on rate of change that is lower than 200% given any
         average concentration, e.g. an increase from 50 pg/mL to 100 pg/mL (e.g. +50 pg/mL) is excessive and will dangerously impact
         cycle structure; being as the constraint in endogenous puberty is +~1-3 pg/mL per cycle, it is likely to be significantly
@@ -162,7 +164,7 @@
         suboptimal for the same reason as with the concentration curve of Oestradiol Valerate.
       </p>
 
-      <h2 class="text-centre">Transdermal Oestradiol gel: temporary discontinuation</h2>
+      <h2 class="text-centre" id="temporary-discontinuation">Transdermal Oestradiol gel: temporary discontinuation</h2>
 
       <p>
         When discontinuing, wait for between four to five weeks, taking cycle boundaries into account, before resuming and be mindful
