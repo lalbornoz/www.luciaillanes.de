@@ -50,19 +50,29 @@
       <h2 class="text-centre">General: Oestradiol cycles</h2>
 
       <p>
-        It bears mentioning that exogenously driven Oestradiol cycles exist, as observed by the author of this document and in the
-        form of a pervasive pattern in a sufficiently large amount of anecdotal evidence on Reddit, etc. The mechanism behind this is
-        unknown though it would appear likely that the culprit is to be found in the above mentioned ER dynamics as well as ER
-        housekeeping within each cell, being as Oestradiol is responsible in conjunction with ERs for making more ERs, constituting a
-        feedback loop internal to each cell, see, inter alia, <a href="#r4" class="a-reference">[4]</a>.<br>
-        Please refer to the <a href="#temporary-discontinuation">temporary discontinuation</a> section in this document for more details.<br>
+        It bears mentioning that exogenously driven Oestradiol 35-day cycles with distinguished pseudo-follicular, pseudo-ovulatory
+        peak, pseudo-luteal, as well as PMS/PMDD phases exist, as observed by the author of this document and in the form of a pervasive
+        pattern in a sufficiently large amount of anecdotal evidence on Reddit, etc. The mechanism behind this is unknown though it would
+        appear likely that the culprit is to be found in the emergent dynamics resulting from interactions between Oestradiol levels/curves
+        and (inter alia) Oestrogen Receptor (ER) populations (density) as well as their sensitivity and the housekeeping thereof (e.g. enzymes)
+        within each cell, being as Oestradiol is responsible in conjunction with ERs for making more ERs, constituting an autoregulatory
+        feedback loop exhibiting hysteresis within a larger intracellular regulatory network with considerable inertia, see, inter alia,
+        <a href="#r4" class="a-reference">[4]</a>, <a href="#r7" class="a-reference">[7]</a>, and the
+        <a href="#temporary-discontinuation">temporary discontinuation</a> section in this document.<br>
         <br>
         As observed by the author of this document, there exists a constraint on rate of change that is lower than 200% given any
         average concentration, e.g. an increase from 50 pg/mL to 100 pg/mL (e.g. +50 pg/mL) is excessive and will dangerously impact
         cycle structure; being as the constraint in endogenous puberty is +~1-3 pg/mL per cycle, it is likely to be significantly
-        lower than 200%.
+        lower than 200%.<br>
         <br>
-        For a general overview that does not specifically focus on ERs, refer to <a href="#r7" class="a-reference">[7]</a>.
+        In case of sufficient, especially pervasive, damage to cycle structure and subsequent recovery of stable Oestradiol inputs wrt.
+        average serum levels as well as concentration curves, cycles may either temporarily lose coherence (highly pathological) and/or
+        degrade to a cycle length of 7 days (equally pathological) for, on average, at least 7 iterations (e.g.  7 weeks,) followed, most
+        likely, by an increase to a cycle length of 14 days (pathological, but much less problematic) for up to 2 iterations (e.g. 4 weeks
+        in total,) and then recovery, back to the original (non-pathological) cycle length of 35 days. In case of failure to recover stable
+        Oestradiol inputs, this process will continue oscillating indefinitely and maladaptively entrain these erratic patterns and eventually
+        go on to adversely affect downstream systems, such as the thyroid gland and require, as soon as possible,
+        <a href="#temporary-discontinuation">temporary discontinuation</a>.
       </p>
 
       <h2 class="text-centre">General: slow titration</h2>
