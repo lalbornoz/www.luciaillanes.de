@@ -179,6 +179,7 @@
         this is both a function of SHBG stability (steady state after max. 5 weeks) as well as compound ER state, e.g. ER population
         (density) in each cell as well as sensitivity and all factors relating to ER maintenance from transcription/translation to
         utilisation and elimination.<br>
+        <br>
         Furthermore, the presumed Oestradiol-driven ER density/sensitivity oscillations (cycles) appear to be only loosely coupled to
         their Oestradiol inputs and present with a considerable degree of hysteresis, e.g. they will maintain their internal state even
         if the external signal in its original state is absent for an unknown time period that may or may not correspond to between
