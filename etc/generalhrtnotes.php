@@ -177,8 +177,8 @@
         With regard to the time period required to wait for, neither about two weeks (11.5 days: crashes after day 17.5) nor three
         weeks (18.5 days: crashes after week #5) are sufficient according to experimental evidence. It would appear probable that
         this is both a function of SHBG stability (steady state after max. 5 weeks) as well as compound ER state, e.g. ER population
-        (density) in each cell as well as sensitivity and all factors relating to ER maintenance from transcription/translation to
-        utilisation and elimination.<br>
+        (density) in each cell as well as sensitivity and all factors relating to ER housekeeping from transcription/translation to
+        activation and elimination and all factors significantly affected by (effective) Oestradiol.<br>
         <br>
         Furthermore, the presumed Oestradiol-driven ER density/sensitivity oscillations (cycles) appear to be only loosely coupled to
         their Oestradiol inputs and present with a considerable degree of hysteresis, e.g. they will maintain their internal state even
