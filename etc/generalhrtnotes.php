@@ -61,6 +61,8 @@
         average concentration, e.g. an increase from 50 pg/mL to 100 pg/mL (e.g. +50 pg/mL) is excessive and will dangerously impact
         cycle structure; being as the constraint in endogenous puberty is +~1-3 pg/mL per cycle, it is likely to be significantly
         lower than 200%.
+        <br>
+        For a general overview that does not specifically focus on ERs, refer to <a href="#r7" class="a-reference">[7]</a>.
       </p>
 
       <h2 class="text-centre">General: slow titration</h2>
@@ -184,7 +186,9 @@
         their Oestradiol inputs and present with a considerable degree of hysteresis, e.g. they will maintain their internal state even
         if the external signal in its original state is absent for an unknown time period that may or may not correspond to between
         four-five weeks and may indeed be much longer, with the possibility of cycles gradually becoming more and more protracted, as
-        observed in menopause and the phenomenon of cycles persisting after a hysterectomy.
+        observed in menopause and the phenomenon of cycles persisting after a hysterectomy.<br>
+        <br>
+        For a general overview that does not specifically focus on ERs, refer to <a href="#r7" class="a-reference">[7]</a>.
       </p>
 
       <h2 class="text-centre">Transdermal Oestradiol gel: surface area</h2>
@@ -253,7 +257,15 @@
       <span id="r6">
         [6]
         <a href="https://www.ncbi.nlm.nih.gov/books/NBK12815/">Principles of Pharmacokinetics - Holland-Frei Cancer Medicine - NCBI Bookshelf</a><br>
-        <a href="https://en.wikipedia.org/wiki/Area_under_the_curve_(pharmacokinetics)">Area under the curve (pharmacokinetics)</a>
+        <a href="https://en.wikipedia.org/wiki/Area_under_the_curve_(pharmacokinetics)">Area under the curve (pharmacokinetics)</a><br>
+      </span>
+      <br>
+
+      <span id="r7">
+        [7]
+        <a href="https://www.researchgate.net/publication/12967401_Biological_regulation_of_receptor-hormone_complex_concentrations_in_relation_to_dose-response_assessments_for_endocrine-active_compounds">
+          Melvin E. Andersen and Hugh A. Barton - Biological Regulation of Receptor-Hormone Complex Concentrations in Relation to Dose-Response Assessments for Endocrine-Active Compounds
+        </a>
       </span>
     </div>
 <?php
