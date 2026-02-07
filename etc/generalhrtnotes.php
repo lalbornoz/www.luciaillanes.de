@@ -15,7 +15,22 @@
         Interindividual variability applies.
       </p>
 
-      <h2 class="text-centre">General: counterindications/adverse interactions</h2>
+      <h3 class="text-centre">Table of contents</h3>
+      <ol>
+        <li><a href="#hrt-general-interactions">General: counterindications/adverse interactions</a></li>
+        <li><a href="#hrt-general-cycles">General: Oestradiol cycles</a></li>
+        <li><a href="#hrt-general-titration">General: slow titration</a></li>
+        <li><a href="#hrt-general-blood-tests">General: blood tests pre-HRT; normal total T and high SHBG pre-HRT</a></li>
+        <li><a href="#hrt-transdermal-pumps">Transdermal Oestradiol gel: 1.28g pumps vs. 1.25g</a></li>
+        <li><a href="#hrt-transdermal-pump2">Transdermal Oestradiol gel: use pump gently</a></li>
+        <li><a href="#hrt-transdermal-levels">Transdermal Oestradiol gel: determining serum levels</a></li>
+        <li><a href="#hrt-transdermal-curve">Transdermal Oestradiol gel: suboptimal concentration curve</a></li>
+        <li><a href="#hrt-transdermal-discontinuation">Transdermal Oestradiol gel: temporary discontinuation</a></li>
+        <li><a href="#hrt-transdermal-surface">Transdermal Oestradiol gel: surface area</a></li>
+        <li><a href="#hrt-references">References</a></li>
+      </ol>
+
+      <h2 class="text-centre" id="hrt-general-interactions">General: counterindications/adverse interactions</h2>
 
       <ul>
         <li>
@@ -47,7 +62,7 @@
         </li>
       </ul>
 
-      <h2 class="text-centre">General: Oestradiol cycles</h2>
+      <h2 class="text-centre" id="hrt-general-cycles">General: Oestradiol cycles</h2>
 
       <p>
         It bears mentioning that exogenously driven Oestradiol 35-day cycles with distinguished pseudo-follicular, pseudo-ovulatory
@@ -58,7 +73,7 @@
         within each cell, being as Oestradiol is responsible in conjunction with ERs for making more ERs, constituting an autoregulatory
         feedback loop exhibiting hysteresis within a larger intracellular regulatory network with considerable inertia, see, inter alia,
         <a href="#r4" class="a-reference">[4]</a>, <a href="#r7" class="a-reference">[7]</a>, and the
-        <a href="#temporary-discontinuation">temporary discontinuation</a> section in this document.<br>
+        <a href="#hrt-transdermal-discontinuation">temporary discontinuation</a> section in this document.<br>
         <br>
         As observed by the author of this document, there exists a constraint on rate of change that is lower than 200% given any
         average concentration, e.g. an increase from 50 pg/mL to 100 pg/mL (e.g. +50 pg/mL) is excessive and will dangerously impact
@@ -72,17 +87,17 @@
         in total,) and then recovery, back to the original (non-pathological) cycle length of 35 days. In case of failure to recover stable
         Oestradiol inputs, this process will continue oscillating indefinitely and maladaptively entrain these erratic patterns and eventually
         go on to adversely affect downstream systems, such as the thyroid gland and require, as soon as possible,
-        <a href="#temporary-discontinuation">temporary discontinuation</a>.
+        <a href="#hrt-transdermal-discontinuation">temporary discontinuation</a>.
       </p>
 
-      <h2 class="text-centre">General: slow titration</h2>
+      <h2 class="text-centre" id="hrt-general-titration">General: slow titration</h2>
 
       <p>
         Please refer to <a href="https://www.luciaillanes.de/de/etc/projecttransspace">Project "First Trans Person in Space": on insufficient HRT titration</a>
         for an in-depth discussion of this topic.
       </p>
 
-      <h2 class="text-centre">General: bloodwork pre-HRT; normal total T and high SHBG pre-HRT</h2>
+      <h2 class="text-centre" id="hrt-general-blood-tests">General: blood tests pre-HRT; normal total T and high SHBG pre-HRT</h2>
 
       <p>
         When starting HRT, it is very highly recommended - in general - that extensive blood testing be done in order to determine a
@@ -93,7 +108,7 @@
         of partial Androgen Receptor Insensitivity, as T is supposed to downregulate hepatic SHBG expression; this can be tested for.
       </p>
 
-      <h2 class="text-centre">Transdermal Oestradiol gel: 1.28g pumps vs. 1.25g</h2>
+      <h2 class="text-centre" id="hrt-transdermal-pumps">Transdermal Oestradiol gel: 1.28g pumps vs. 1.25g</h2>
 
       <p>
         An unnamed brand of transdermal Oestradiol gel is claimed by the manufacturer to produce 1.25g of gel upon pump activation.
@@ -105,7 +120,7 @@
         personal HRT protocol.
       </p>
 
-      <h2 class="text-centre">Transdermal Oestradiol gel: use pump gently</h2>
+      <h2 class="text-centre" id="hrt-transdermal-pump2">Transdermal Oestradiol gel: use pump gently</h2>
 
       <p>
         An unnamed brand of transdermal Oestradiol gel presents with an undocumented problem concerning its pump mechanism. If the
@@ -117,7 +132,7 @@
         personal HRT protocol.
       </p>
 
-      <h2 class="text-centre">Transdermal Oestradiol gel: determining serum levels</h2>
+      <h2 class="text-centre" id="hrt-transdermal-levels">Transdermal Oestradiol gel: determining serum levels</h2>
 
       <img
         alt="Estradiol levels after the last dose with 1 mg/day transdermal estradiol gel applied to different amounts of skin area (200 cm2, 400 cm2, or as large as possible) in postmenopausal women."
@@ -159,7 +174,7 @@
         </li>
       </ol>
 
-      <h2 class="text-centre">Transdermal Oestradiol gel: suboptimal concentration curve</h2>
+      <h2 class="text-centre" id="hrt-transdermal-curve">Transdermal Oestradiol gel: suboptimal concentration curve</h2>
 
       <img
         alt="Estradiol levels after the last dose with 1 mg/day transdermal estradiol gel applied to different amounts of skin area (200 cm2, 400 cm2, or as large as possible) in postmenopausal women."
@@ -176,7 +191,7 @@
         suboptimal for the same reason as with the concentration curve of Oestradiol Valerate.
       </p>
 
-      <h2 class="text-centre" id="temporary-discontinuation">Transdermal Oestradiol gel: temporary discontinuation</h2>
+      <h2 class="text-centre" id="hrt-transdermal-discontinuation">Transdermal Oestradiol gel: temporary discontinuation</h2>
 
       <p>
         When discontinuing, wait for between four to five weeks, taking cycle boundaries into account, before resuming and be mindful
@@ -201,7 +216,7 @@
         For a general overview that does not specifically focus on ERs, refer to <a href="#r7" class="a-reference">[7]</a>.
       </p>
 
-      <h2 class="text-centre">Transdermal Oestradiol gel: surface area</h2>
+      <h2 class="text-centre" id="hrt-transdermal-surface">Transdermal Oestradiol gel: surface area</h2>
 
       <img
         alt="Estradiol levels after the last dose with 1 mg/day transdermal estradiol gel applied to different amounts of skin area (200 cm2, 400 cm2, or as large as possible) in postmenopausal women."
@@ -216,7 +231,7 @@
         Always use the smallest possible surface area when applying transdermal Oestradiol gel in order to maximise absorption.
       </p>
 
-      <h2 class="text-centre">References</h2>
+      <h2 class="text-centre" id="hrt-references">References</h2>
 
       <span id="r0">
         [0] (courtesy of ChatGPT)<br>
