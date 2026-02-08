@@ -34,13 +34,13 @@
 
       <ul>
         <li>
-          Any medication or substance in general which is metabolised by the enzyme <strong>Cytochrome P450 3A4 (CYP3A4)</strong>
-          and of which, after taking into account bioavailability, average concentrations in serum in the µg/mL range
-          are attained, such as <strong>Quetiapine IM and XR (Seroquel, etc.,)</strong> will interact with Oestradiol
-          by significantly increasing serum levels relative to the same amount thereof if no Quetiapine were present
-          and simultaneously, significantly lower levels of Quetiapine are also induced. This must be taken into
-          account when titrating upwards or downwards either Oestradiol or the medication in question or both as well
-          as when estimating target serum levels relative to any HRT dosage.<br>
+          Any medication or substance in general which is metabolised by the enzymes <strong>Cytochrome P450 3A4 (CYP3A4)</strong>
+          and/or <strong>Cytochrome P450 1A2 (CYP1A2)</strong> and of which, after taking into account bioavailability,
+          average concentrations in serum in the µg/mL range are attained, such as <strong>Quetiapine IM and XR (Seroquel,
+          etc.,)</strong> will interact with Oestradiol by significantly increasing serum levels relative to the same amount
+          thereof if no Quetiapine were present and simultaneously, significantly lower levels of Quetiapine are also induced.
+          This must be taken into account when titrating upwards or downwards either Oestradiol or the medication in question or
+          both as well as when estimating target serum levels relative to any HRT dosage.<br>
           <br>
           This occurs both due to competition for the same enzyme by both Oestradiol and Quetiapine as well a
           difference in average concentrations of close to two orders of magnitude: in the case of Oestradiol, 100-200
