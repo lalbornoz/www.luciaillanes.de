@@ -27,6 +27,7 @@
         <li><a href="#hrt-transdermal-curve">Transdermal Oestradiol gel: suboptimal concentration curve</a></li>
         <li><a href="#hrt-transdermal-discontinuation">Transdermal Oestradiol gel: temporary discontinuation</a></li>
         <li><a href="#hrt-transdermal-surface">Transdermal Oestradiol gel: surface area</a></li>
+        <li><a href="#hrt-transdermal-steady-state">Transdermal Oestradiol gel: steady state</a></li>
         <li><a href="#hrt-references">References</a></li>
       </ol>
 
@@ -229,6 +230,15 @@
 
       <p>
         Always use the smallest possible surface area when applying transdermal Oestradiol gel in order to maximise absorption.
+      </p>
+
+      <h2 class="text-centre" id="hrt-transdermal-steady-state">Transdermal Oestradiol gel: steady state</h2>
+
+      <p>
+        The documented maximum time to steady state parameter of transdermal Oestradiol gel of three days is incorrect. Oestradiol,
+        acting as a transcription factor, significantly induces CYP3A4, effectively increasing clearance/elimination relative to a
+        masculine phenotype. Given a half life of between 1-6 days, this process should take no more than about two weeks to complete
+        at most, before which, however, steady state is not achieved.
       </p>
 
       <h2 class="text-centre" id="hrt-references">References</h2>
