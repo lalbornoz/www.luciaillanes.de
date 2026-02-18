@@ -39,17 +39,23 @@
           and/or <strong>Cytochrome P450 1A2 (CYP1A2)</strong> and of which, after taking into account bioavailability,
           average concentrations in serum in the µg/mL range are attained, such as <strong>Quetiapine IM and XR (Seroquel,
           etc.,)</strong> will interact with Oestradiol by significantly increasing serum levels relative to the same amount
-          thereof if no Quetiapine were present and simultaneously, significantly lower levels of Quetiapine are also induced.
+          thereof if no Quetiapine were present and simultaneously, owing to <strong>CYP3A4</strong> upregulation, significantly
+          lower levels of Quetiapine are also induced relative to a male endocrine phenotype.<br>
           This must be taken into account when titrating upwards or downwards either Oestradiol or the medication in question or
           both as well as when estimating target serum levels relative to any HRT dosage.<br>
           <br>
-          This occurs both due to competition for the same enzyme by both Oestradiol and Quetiapine as well a
-          difference in average concentrations of close to two orders of magnitude: in the case of Oestradiol, 100-200
-          pg/mL vs. in the case of Quetiapine, ~1-10 µg/mL given dosages of 100-350 mg p/d and an oral bioavailability
-          of 9%.<br>
-          <br>
+          This occurs both due to competition for the same enzyme by both Oestradiol and Quetiapine as well a difference in
+          average concentrations of close to two orders of magnitude: in the case of Oestradiol, 100-200 pg/mL vs. in the case
+          of Quetiapine, ~1-10 µg/mL given dosages of 100-350 mg p/d and an oral bioavailability of 9%.<br>
           While this phenomenon is acknowledged and discussed in literature<a href="#r1" class="a-reference">[1]</a>,
           it is not sufficiently well-known and particularly so in conjunction with HRT.
+          <br>
+          If transdermal Oestradiol gel is used and hence, twice daily, Quetiapine, when taken once daily and at night will
+          additionally induce asymmetry in the morning Oestradiol curve vs. nocturnal Oestradiol curve such that the nocturnal
+          curve's Cmax, Cmin, and Cmean will be significantly higher than those of the morning curve.<br>
+          <br>
+          The difference in serum levels appears to roughly correspond to <strong>15-20 pg/mL</strong> Cmean Oestradiol for
+          each <strong>25 mg</strong> of Quetiapine, based on multiple data points given varying Quetiapine dosages.<br>
         </li>
         <li>
           Any medication or substance in general which significantly increases SHBG, be it in the short, if acutely,
