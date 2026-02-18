@@ -56,10 +56,7 @@
           mid, or long term, given habitual use, is to be ideally avoided entirely or at least treated with great care,
           particularly when stability in HRT has not been attained, as this will affect Free Oestradiol and constitute
           significant endocrine disruption. This includes, most importantly, <strong>Alcohol</strong><a href="#r2" class="a-reference">[2]</a>,
-          especially if acutely, and, though to a much lesser degree and indirectly,
-          <strong><span class="text-line-through">Caffeine</span> Coffee</strong><a href="#r3" class="a-reference">[3]</a>.
-          As Insulin increases SHBG also, there is an argument to be made that a healthy diet devoid in particular of
-          "junk food", etc. is ideally to be preferred.
+          especially if acutely.
         </li>
       </ul>
 
