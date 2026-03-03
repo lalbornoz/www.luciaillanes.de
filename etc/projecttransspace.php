@@ -60,16 +60,17 @@
       <ul>
         <li>
           Assuming:<br>
-          10 mg/mL Oestradiol Cypionate, SC or IM, 7 day schedule<br>
+          40 mg/mL (baseline) and 10 mg/mL (increments) Oestradiol Cypionate, SC or IM, 7 day schedule<br>
           5-10 mg p/d Cyproterone Acetate or, ideally, any GnRH-ergic antiandrogen<br>
           <em>Caveat</em>: the 10 mg/mL Oestradiol Cypionate is likely to require custom prescriptions as 40 mg/mL is
           often the lowest available concentration.<br>
           With Cyproterone Acetate as an antiandrogen, insufficient T suppression is unfortunately to be expected up
-          until a certain Oestradiol threshold, corresponding to about 50 pg/mL in the case of the author; if the
-          &lt;50 pg/mL range is to be explored, this will require an individualised solution.
+          until a certain Oestradiol threshold, corresponding to about 75-100 pg/mL in the case of the author; if the
+          &lt;75-100 pg/mL range is to be explored, this will require an individualised solution, e.g. an orchiectomy
+          or GnRH-ergic antiandrogens.
         </li>
         <li>
-          Stabilise on 50 pg/mL E2 (Cmean,) assuming sufficient T suppression at that level for 1-2 cycles.
+          Stabilise on 100 pg/mL E2 (Cmean,) assuming sufficient T suppression at that level for 1-2 cycles.
         <li>
           Apply steady increments of 0.01 mL/10 µL corresponding to increases of +5-10 pg/mL<a href="#r4" class="a-reference">[4]</a>
           in average concentration every 1-2 cycle, subject to cycle length, taking into account the max. 6 weeks time
@@ -80,7 +81,7 @@
         </li>
         <li>
           Corresponding to +25-50 pg/mL per year and assuming a target of ~200 pg/mL, a simulated exogenous puberty
-          spanning ~3-6 years.<br>
+          spanning ~2-4 years.<br>
           <em>Caveat</em>: there may exist a highly favourable dose-response relationship in the 25-50 pg/mL range,
           being as +5 pg/mL relative to 25 pg/mL is 1/5th, whereas +5 pg/mL relative to 50 pg/mL is 1/10th, etc.
         </li>
