@@ -12,8 +12,7 @@
           Project "First Trans Person in Space":<br>
           on insufficient HRT titration
         </a><br>
-        <a href="/<?php echo $inc_lang ?>/etc/generalhrtnotes">General notes concerning HRT</a><br>
-        <a href="/<?php echo $inc_lang ?>/etc/hrtauccalc">HRT AUC calculator</a><br>
+        <a href="/<?php echo $inc_lang ?>/etc/generalhrtnotes">General notes concerning HRT</a>
       </div>
 
       <div class="div-box" id="div-content-etc-kade">
