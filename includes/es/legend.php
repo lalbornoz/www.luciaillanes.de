@@ -3,7 +3,7 @@
       <h1>Lucía Andrea Illanes Albornoz</h1><br>
       <h2>Forma de vida pluricelular mayoritariamente eucariota</h2><br>
       <h3 class="text-inscription-cuneiform-small-normal-line-height"
-          title="Nin me šara u dalla ea&#10;Lady of the innumerable cosmic powers, resplendent daylight&#10;(incipit of the Sumeroakkadian exaltation of Inanna-Ištar)">
+          title="Nin me šara u dalla ea&#10;Ištar is the Lady of the innumerable cosmic powers,&#10;resplendent daylight&#10;(incipit of the Sumeroakkadian exaltation of Inanna-Ištar)">
         🏳️‍⚧️ 𒊩 𒈨 𒊬𒊏 𒌓 𒁲𒆷 𒂊𒀀 🏳️‍⚧️
       </h3>
 
