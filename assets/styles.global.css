@@ -42,6 +42,7 @@ p { text-align: justify; text-indent: 1em; }
 .a-reference { font-size: small; }
 .div-references { padding: 2em 0 2em 0; }
 
+.element-block { display: block; }
 .element-hidden { visibility: hidden; }
 
 .img-centred { display: block; margin-left: auto; margin-right: auto; }
