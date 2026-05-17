@@ -32,8 +32,8 @@
           (nur auf Englisch)
         </h1>
         <span class="text-inscription-cuneiform"
-            title="Inūḫ ipšaḫ libbaša labata Ištar&#10;Ištar die Löwin beruhigte sich, ihr Herz ward still&#10;(aus der altbabylonischen Agušaya-Hymne)">
-          𒄭𒌋𒄭𒅖𒊬𒂷𒁉𒊭𒊏𒊭𒌨𒀭𒌹
+            title="[Nita] munusra munus nitara kukude Inanna zakam&#10;Die kosmische Macht, einen Mann in eine Frau und&#10;eine Frau in einen Mann zu verwandeln ist deine, Inanna&#10;(aus der sumeroakkadischen Hymne &#22;Die Dame des größten Herzens&#22;)">
+          𒊩𒊏 𒊩 𒍑𒊏 𒆭𒆭𒉈 𒀭𒈹 𒍝𒄰
         </span><br>
         <h2 class="text-margin-top-none">She</h2>
         <a href="/<?php echo $inc_lang ?>/stories/she">I. She later departed, only to return</a><br>
