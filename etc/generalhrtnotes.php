@@ -29,6 +29,7 @@
         <li><a href="#hrt-transdermal-surface">Transdermal Oestradiol gel: surface area</a></li>
         <li><a href="#hrt-transdermal-steady-state">Transdermal Oestradiol gel: steady state</a></li>
         <li><a href="#hrt-general-thyroid">General: acute thyroid downregulation</a></li>
+        <li><a href="#hrt-general-hypophysis">General: familial pattern of hypophyseal dysregulation</a></li>
         <li><a href="#hrt-references">References</a></li>
       </ol>
 
@@ -256,6 +257,36 @@
         TSH ~1.5-1.8 µUI/L, during/after "hormonal chaos": ~2-2.3 µUI/L.)<br>
         This is normally unlikely to be a problem but certainly bears mentioning and documenting, particularly as diet/lifestyle changes
         may be recommendable.
+      </p>
+
+      <h2 class="text-centre" id="hrt-general-hypophysis">General: familial pattern of hypophyseal dysregulation</h2>
+
+      <p>
+        A familial pattern of underlying systemic/dynamic hypophyseal dysregulation, possibly implicating the hypothalamus as well,
+        expressing a diffuse range of genotypes and phenotypes may eventually express a genotype on the transsexual spectrum and potentially
+        serve as a biomarker thereof. In the case of the author, the genotypes/phenotypes comprise:<br>
+        <ol>
+          <li>maternal uncle: hypophyseal tumour</li>
+          <li>biological mother: moustache growth, androgynous facial anatomy, and poor skin health, with an onset during puberty</li>
+          <li>
+            the author of this document (pre-HRT phenotype, all resolved post-HRT:)<br>
+            <ol>
+              <li>
+                The hypothyroidic syndrome (metabolic/digestive slowing, fatigue/low energy levels, cold/heat intolerance, flu-like symptoms
+                (implicating mucosal tissue, histamine, the immune system,) cognitive dysfunction/DPR, slow wound healing, skin dryness,
+                insomnia, catecholamine dysregulation suspected but very hard to differentiate, etc.)
+              </li>
+              <li>
+                A diffuse range of symptoms for which currently no phenomenologically and empirically valid notion exists and which must
+                hence be provisionally subsumed under the terms of gender incongruence, gender dysphoria/dysmorphia, or transsexuality
+                presenting with, DPR, cognitive, affective, social cognitive, as well as sympathetic as well as parasympathetic ANS
+                dysfunction/dysregulation, psychoticity, non-normative gender/sex identity development and a much larger range of primarily
+                physiological systemic and often subtle dysfunctionality/dysregulation that defies differentiation and specificity, in
+                particular wrt. the above mentioned hypothyroidic syndrome.
+              </li>
+            </ol>
+          </li>
+        </ol>
       </p>
 
       <h2 class="text-centre" id="hrt-references">References</h2>
