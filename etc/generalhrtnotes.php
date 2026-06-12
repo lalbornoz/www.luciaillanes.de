@@ -143,7 +143,7 @@
 
       <img
         alt="Estradiol levels after the last dose with 1 mg/day transdermal estradiol gel applied to different amounts of skin area (200 cm2, 400 cm2, or as large as possible) in postmenopausal women."
-        src="https://upload.wikimedia.org/wikipedia/commons/1/19/Estradiol_levels_with_1_mg_per_day_transdermal_estradiol_gel_applied_to_different_amounts_of_area_in_postmenopausal_women.png"
+        src="/etc/<?php echo $inc_lang ?>/Estradiol_levels_with_1_mg_per_day_transdermal_estradiol_gel_applied_to_different_amounts_of_area_in_postmenopausal_women.png"
         class="img-centred img-width-45">
       <h3 class="text-centre">
         Estradiol levels after the last dose with 1 mg/day transdermal estradiol gel applied to different amounts of skin
@@ -185,7 +185,7 @@
 
       <img
         alt="Estradiol levels after the last dose with 1 mg/day transdermal estradiol gel applied to different amounts of skin area (200 cm2, 400 cm2, or as large as possible) in postmenopausal women."
-        src="https://upload.wikimedia.org/wikipedia/commons/1/19/Estradiol_levels_with_1_mg_per_day_transdermal_estradiol_gel_applied_to_different_amounts_of_area_in_postmenopausal_women.png"
+        src="/etc/<?php echo $inc_lang ?>/Estradiol_levels_with_1_mg_per_day_transdermal_estradiol_gel_applied_to_different_amounts_of_area_in_postmenopausal_women.png"
         class="img-centred img-width-45">
       <h3 class="text-centre">
         Estradiol levels after the last dose with 1 mg/day transdermal estradiol gel applied to different amounts of skin
@@ -227,7 +227,7 @@
 
       <img
         alt="Estradiol levels after the last dose with 1 mg/day transdermal estradiol gel applied to different amounts of skin area (200 cm2, 400 cm2, or as large as possible) in postmenopausal women."
-        src="https://upload.wikimedia.org/wikipedia/commons/1/19/Estradiol_levels_with_1_mg_per_day_transdermal_estradiol_gel_applied_to_different_amounts_of_area_in_postmenopausal_women.png"
+        src="/etc/<?php echo $inc_lang ?>/Estradiol_levels_with_1_mg_per_day_transdermal_estradiol_gel_applied_to_different_amounts_of_area_in_postmenopausal_women.png"
         class="img-centred img-width-45">
       <h3 class="text-centre">
         Estradiol levels after the last dose with 1 mg/day transdermal estradiol gel applied to different amounts of skin
@@ -425,7 +425,11 @@
       <br>
 
       <span id="r5">
-        [5] (from <a href="https://en.wikipedia.org/wiki/Pharmacokinetics_of_estradiol#Transdermal_gel">Pharmacokinetics of estradiol - Wikipedia</a>)<br>
+        [5]
+        This work is licenced under the <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a>
+        licence, courtesy of <a href="https://commons.wikimedia.org/w/index.php?title=User:Medgirl131" target="_blank">Medgirl131</a>,
+        retrieved at Fri, 12 Jun 2026 10:26:07 +0200, linked to in
+        <a href="https://en.wikipedia.org/wiki/Pharmacokinetics_of_estradiol#Transdermal_gel">Pharmacokinetics of estradiol - Wikipedia</a>.<br>
       </span>
       <br>
 
