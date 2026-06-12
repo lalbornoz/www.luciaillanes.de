@@ -319,11 +319,11 @@
           <li>
             Wash hands, ward against UV light sources (e.g. draw curtains,) and verify integrity and intactness of vial (the vial itself,
             crimp seal, rubber stopper) and oil (no discolouration, cloudiness, separation, suspended particles, etc.; crystallisation induced
-            by cold temperatures can be dissolved by agitation)
+            by cold temperatures can be dissolved by agitation.)
           </li>
           <li>
-            Retrieve syringe container and syringe, remove plunger cap, and draw in a volume of air corresponding to the volume of oil to
-            be injected.
+            Retrieve and open syringe disposal container, retrieve syringe, remove plunger cap, and draw in a volume of air corresponding to
+            the volume of oil to be injected.
           </li>
           <li>
             Swab the top of the vial, primarily the rubber stopper, with a 70% isopropyl alcohol swab for 30 seconds to 1 minute, wash hands,
@@ -343,7 +343,7 @@
           <li>
             Whilst steadily holding both the vial as well as the syringe, flip both upside down in one steady movement, draw oil from the vial
             by pulling the plunger down - try not to touch the actual barrel itself - to the appropriate position, and wait until the target
-            injection volume has been attained. Given any air bubbles, push them back into the vial by pushing the plunger as appropriately
+            injection volume has been attained. Given any air bubbles, push them back into the vial by pushing the plunger as appropriate
             and pulling the plunger back down to the appropriate position, etc. pp.
           </li>
           <li>
@@ -376,7 +376,7 @@
             thereafter.
           </li>
           <li>
-            Put syringe into syringe container and close lid.
+            Put syringe into syringe disposal container and close lid.
           </li>
         </ol>
       </p>
