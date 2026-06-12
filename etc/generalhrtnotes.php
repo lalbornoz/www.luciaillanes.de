@@ -291,10 +291,10 @@
         </ol>
 
         It bears emphasising that the dysregulation here most likely refers to decidedly non-linear phenomena that cannot be understood
-        in a mechanistic manner and instead require a systemic approach that considers the hypothalamus-pituitary gland-... axes as dynamic
-        processes, implicating: timing, specific critical developmental windows, desynchronisation, homeostasis/balance, feedback, calibration,
-        response curves, gain, set-points, receptor sensitivity/density, ratios of different receptor (sub)types, aberrant systemic
-        reconfiguration in response to specific triggers (such as puberty onset,) etc.<br>
+        in a mechanistic manner and instead require a systemic approach that considers the hypothalamus-pituitary gland-... axes from a systems
+        theoretical perspective and in terms of dynamic processes, implicating: timing, specific critical developmental windows, desynchronisation,
+        homeostasis/balance, feedback, calibration, response curves, gain, set-points, receptor sensitivity/density, ratios of different receptor
+        (sub)types, aberrant systemic reconfiguration in response to specific triggers (such as puberty onset,) etc.<br>
         <br>
         It additionally bears mentioning that this complicates anything relating to HRT owing to the possibility of introducing additional
         instability to a regulatory system that is already prone to instability by itself, plus downstream across and beyond merely the HPG
