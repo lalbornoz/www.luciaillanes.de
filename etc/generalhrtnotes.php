@@ -28,6 +28,7 @@
         <li><a href="#hrt-transdermal-discontinuation">Transdermal Oestradiol gel: temporary discontinuation</a></li>
         <li><a href="#hrt-transdermal-surface">Transdermal Oestradiol gel: surface area</a></li>
         <li><a href="#hrt-transdermal-steady-state">Transdermal Oestradiol gel: steady state</a></li>
+        <li><a href="#hrt-general-thyroid">General: acute thyroid downregulation</a></li>
         <li><a href="#hrt-references">References</a></li>
       </ol>
 
@@ -242,6 +243,19 @@
         acting as a transcription factor, significantly induces CYP3A4, effectively increasing clearance/elimination relative to a
         masculine phenotype. Given a half life of between 1-6 days, this process should take no more than about two weeks to complete
         at most, before which, however, steady state is not achieved.
+      </p>
+
+      <h2 class="text-centre" id="hrt-general-thyroid">General: acute thyroid downregulation</h2>
+
+      <p>
+        Given sufficiently high Oestradiol target levels/gradients (e.g. 25 pg/mL adrenal E2 pre-HRT, &gt;=200 pg/mL E2 HRT, though
+        this may very well apply at &gt;=150 pg/mL) initiation of HRT via any route of administration induces acute thyroid downregulation,
+        presumably via TBG modulation. The degree of downregulation should be significant enough to be of significance, reflecting well
+        established sexual dimorphism in, inter alia, metabolism, but not anywhere near pathological, even during or after a period or
+        repeated periods of "hormonal chaos" (stable pre-HRT TSH ~1.0-1.2 µUI/L, stable post-HRT initiation (across multiple regimens)
+        TSH ~1.5-1.8 µUI/L, during/after "hormonal chaos": ~2-2.3 µUI/L.)<br>
+        This is normally unlikely to be a problem but certainly bears mentioning and documenting, particularly as diet/lifestyle changes
+        may be recommendable.
       </p>
 
       <h2 class="text-centre" id="hrt-references">References</h2>
