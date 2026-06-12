@@ -16,7 +16,7 @@
       </p>
 
       <h3 class="text-centre">Table of contents</h3>
-      <ol>
+      <ol class="element-line-height-half">
         <li><a href="#hrt-general-interactions">General: counterindications/adverse interactions</a></li>
         <li><a href="#hrt-general-cycles">General: Oestradiol cycles</a></li>
         <li><a href="#hrt-general-titration">General: slow titration</a></li>
