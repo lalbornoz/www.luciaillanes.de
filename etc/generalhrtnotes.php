@@ -269,7 +269,7 @@
 
         <ol>
           <li>maternal uncle: hypophyseal tumour</li>
-          <li>biological mother: moustache growth, androgynous facial anatomy, and poor skin health, with an onset during puberty</li>
+          <li>biological mother: moustache growth, androgynous facial anatomy, migraine, poor skin health, with an onset during puberty</li>
           <li>
             the author of this document (pre-HRT phenotype, all resolved post-HRT:)<br>
             <ol>
@@ -281,10 +281,10 @@
               <li>
                 A diffuse range of symptoms for which currently no phenomenologically and empirically valid notion exists and which must
                 hence be provisionally subsumed under the terms of gender incongruence, gender dysphoria/dysmorphia, or transsexuality
-                presenting with, DPR, cognitive, affective, social cognitive, as well as sympathetic as well as parasympathetic ANS
-                dysfunction/dysregulation, psychoticity, non-normative gender/sex identity development and a much larger range of primarily
-                physiological systemic and often subtle dysfunctionality/dysregulation that defies differentiation and specificity, in
-                particular wrt. the above mentioned hypothyroidic syndrome.
+                presenting with, DPR, cognitive, affective, social cognitive, as well as sympathetic ("screaming brain") as well as
+                parasympathetic ANS dysfunction/dysregulation, psychoticity, non-normative gender/sex identity development and a much
+                larger range of primarily physiological systemic and often subtle dysfunctionality/dysregulation that defies differentiation
+                and specificity, in particular wrt. the above mentioned hypothyroidic syndrome.
               </li>
             </ol>
           </li>
