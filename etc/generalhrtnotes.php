@@ -266,6 +266,7 @@
         A familial pattern of underlying systemic/dynamic hypophyseal dysregulation, possibly implicating the hypothalamus as well,
         expressing a diffuse range of genotypes and phenotypes may eventually express a genotype on the transsexual spectrum and potentially
         serve as a biomarker thereof. In the case of the author, the genotypes/phenotypes comprise:<br>
+
         <ol>
           <li>maternal uncle: hypophyseal tumour</li>
           <li>biological mother: moustache growth, androgynous facial anatomy, and poor skin health, with an onset during puberty</li>
@@ -288,6 +289,17 @@
             </ol>
           </li>
         </ol>
+
+        It bears emphasising that the dysregulation here most likely refers to decidedly non-linear phenomena that cannot be understood
+        in a mechanistic manner and instead require a systemic approach that considers the hypothalamus-pituitary gland-... axes as dynamic
+        processes, implicating: timing, specific critical developmental windows, desynchronisation, homeostasis/balance, feedback, calibration,
+        response curves, gain, set-points, receptor sensitivity/density, ratios of different receptor (sub)types, aberrant systemic
+        reconfiguration in response to specific triggers (such as puberty onset,) etc.<br>
+        <br>
+        It additionally bears mentioning that this complicates anything relating to HRT owing to the possibility of introducing additional
+        instability to a regulatory system that is already prone to instability by itself, plus downstream across and beyond merely the HPG
+        axis, and appears to also increase susceptibility to certain concentration curves (e.g. transdermal vs. injections) that would
+        otherwise not matter.
       </p>
 
       <h2 class="text-centre" id="hrt-general-injection">General: injection protocol</h2>
