@@ -12,7 +12,7 @@
 
       <p class="text-warning-black">
         Unless otherwise specified, the information provided on this page is based on the experience of the author of this document.<br>
-        Interindividual variability applies.
+        Interindividual variability applies; doubly so owing to <a href="#hrt-general-hypophysis">General: familial pattern of hypophyseal dysregulation</a>.
       </p>
 
       <h3 class="text-centre">Table of contents</h3>
