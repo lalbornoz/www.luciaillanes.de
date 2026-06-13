@@ -353,7 +353,8 @@
           <li>
             Pinch a fold of skin at the injection site between thumb and index finger with a separation of at least about an inch, hold,
             insert needle, and release fold. Ensure that the syringe after releasing the fold and during the following steps until removal
-            is pushed into and below the skin to an appropriate degree and not held too loosely.
+            is pushed into and below the skin to an appropriate degree and not held too loosely; this prevents injecting into the uppermost
+            layers of subcutaneous adipose tissue right beneath the hypodermis, causing an entirely harmless but mildly annoying bulge.
           </li>
           <li>
             Perform injection by slowly pushing down on the plunger - try not to touch the actual barrel itself - across a time period of
