@@ -14,6 +14,20 @@
         </a><br>
         <a href="/<?php echo $inc_lang ?>/endocrinology/generalhrtnotes">General notes concerning HRT</a>
       </div>
+
+      <div class="div-box" id="div-content-endocrinology-kade-l">
+        <img
+          alt="kade13"
+          class="div-content-img text-cursor-pointer"
+          src="/endocrinology/<?php echo $inc_lang ?>/kade13.png">
+      </div>
+
+      <div class="div-box" id="div-content-endocrinology-kade-r">
+        <img
+          alt="kade14r"
+          class="div-content-img text-cursor-pointer"
+          src="/endocrinology/<?php echo $inc_lang ?>/kade14r.png">
+      </div>
     </div>
 <?php
 // vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=145
