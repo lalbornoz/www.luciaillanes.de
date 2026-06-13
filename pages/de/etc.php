@@ -13,8 +13,8 @@
         <br>
         <span class="text-inscription-cuneiform-small"
               title="Ana ešrā bēr iksupū kusāpa&#10;Ana šalāšā bēr iškunū nubatta&#10;Ikšudūnim-ma ana libbi Uruk supūri&#10;Nach zwanzig Doppelstunden nahmen sie ein knappes Mahl,&#10;nach dreißig weiteren dann verhielten sie, um für die Nacht zu rasten.&#10;Da zum umwallten Uruk sie gelangten.&#10;(aus dem babylonischen Standardtext des Gilgameš-Epos, Tafel XI)">
-          𒀀𒈾𒂊𒊭𒊏𒀀𒁁𒂊𒊑𒅅𒅖𒌑𒅆𒆪𒋢𒀀𒉺
-          𒀀𒈾𒊭𒆷𒀀𒊭𒀀𒁁𒂊𒊑𒅖𒆪𒉡𒌑𒉡𒁉𒋫
+          𒀀𒈾𒂊𒊭𒊏𒀀𒁁𒂊𒊑𒅅𒅖𒌑𒅆𒆪𒋢𒀀𒉺<br>
+          𒀀𒈾𒊭𒆷𒀀𒊭𒀀𒁁𒂊𒊑𒅖𒆪𒉡𒌑𒉡𒁉𒋫<br>
           𒅅𒊭𒌑𒁺𒌑𒉡𒈠𒀀𒈾𒇷𒁉𒌷𒀕𒆠𒋢𒌑𒊑
         </span><br>
       </div>
