@@ -31,6 +31,7 @@
         <a href="/<?php echo $inc_lang ?>/visual_sundries">Visuelle Grabbelkiste</a><br>
         <a href="/<?php echo $inc_lang ?>/endocrinology">Experimentelle Endokrinologie</a><br>
         <a href="/<?php echo $inc_lang ?>/movieslist">Filmbewertungen</a> |
+        <a href="/<?php echo $inc_lang ?>/recipes">Tödliche Kochrezepte</a><br>
         <a href="/<?php echo $inc_lang ?>/etc">Et cetera</a>
       </span>
       <hr>

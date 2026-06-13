@@ -31,6 +31,7 @@
         <a href="/<?php echo $inc_lang ?>/visual_sundries">Visual sundries</a><br>
         <a href="/<?php echo $inc_lang ?>/endocrinology">Experimental endocrinology</a><br>
         <a href="/<?php echo $inc_lang ?>/movieslist">Film rankings</a> |
+        <a href="/<?php echo $inc_lang ?>/recipes">Lethal food recipes</a><br>
         <a href="/<?php echo $inc_lang ?>/etc">Et cetera</a>
       </span>
       <hr>
