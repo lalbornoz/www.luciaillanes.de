@@ -17,16 +17,16 @@
 
       <div class="div-box" id="div-content-endocrinology-kade-l">
         <img
-          alt="kade13"
+          alt="kade81l"
           class="div-content-img text-cursor-pointer"
-          src="/endocrinology/<?php echo $inc_lang ?>/kade13.png">
+          src="/endocrinology/<?php echo $inc_lang ?>/kade81l.png">
       </div>
 
       <div class="div-box" id="div-content-endocrinology-kade-r">
         <img
-          alt="kade14r"
+          alt="kade93r"
           class="div-content-img text-cursor-pointer"
-          src="/endocrinology/<?php echo $inc_lang ?>/kade14r.png">
+          src="/endocrinology/<?php echo $inc_lang ?>/kade93r.png">
       </div>
     </div>
 <?php
