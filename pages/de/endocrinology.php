@@ -1,7 +1,7 @@
     <div class="div-box div-content-grid">
       <div class="div-box" id="div-content-endocrinology">
         <h1 class="text-margin-top-none">
-          Experimentielle Endokrinologie<br>
+          Experimentelle Endokrinologie<br>
           (nur auf Englisch)
         </h1>
         <span class="text-inscription-cuneiform element-block"
