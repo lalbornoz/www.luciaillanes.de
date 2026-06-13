@@ -1,9 +1,4 @@
     <div class="div-box div-content">
-      <span class="text-inscription-cuneiform element-block"
-          title="Inūḫ ipšaḫ libbaša labata Ištar&#10;Ištar die Löwin beruhigte sich, ihr Herz ward still&#10;(aus der altbabylonischen Agušaya-Hymne)">
-        𒄭𒌋𒄭𒅖𒊬𒂷𒁉𒊭𒊏𒊭𒌨𒀭𒌹
-      </span><br>
-
       <h2>Datenschutzerklärung</h2>
       <p>
         Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen
