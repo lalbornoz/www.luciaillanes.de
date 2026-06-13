@@ -3,13 +3,13 @@
       <div id="div-content-projecttransspace">
         <img
           alt='Project "First Trans Person in Space"'
-          src="/etc/<?php echo $inc_lang ?>/kade29l.png">
+          src="/endocrinology/<?php echo $inc_lang ?>/kade29l.png">
         <img
           alt='Project "First Trans Person in Space"'
-          src="/etc/<?php echo $inc_lang ?>/kade86.png">
+          src="/endocrinology/<?php echo $inc_lang ?>/kade86.png">
         <img
           alt='Project "First Trans Person in Space"'
-          src="/etc/<?php echo $inc_lang ?>/kade29r.png">
+          src="/endocrinology/<?php echo $inc_lang ?>/kade29r.png">
       </div>
 
       <p class="text-warning-red">

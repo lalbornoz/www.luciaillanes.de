@@ -100,7 +100,7 @@
       <h2 class="text-centre" id="hrt-general-titration">General: slow titration</h2>
 
       <p>
-        Please refer to <a href="https://www.luciaillanes.de/de/etc/projecttransspace">Project "First Trans Person in Space": on insufficient HRT titration</a>
+        Please refer to <a href="https://www.luciaillanes.de/de/endocrinology/projecttransspace">Project "First Trans Person in Space": on insufficient HRT titration</a>
         for an in-depth discussion of this topic.
       </p>
 
@@ -143,7 +143,7 @@
 
       <img
         alt="Estradiol levels after the last dose with 1 mg/day transdermal estradiol gel applied to different amounts of skin area (200 cm2, 400 cm2, or as large as possible) in postmenopausal women."
-        src="/etc/<?php echo $inc_lang ?>/Estradiol_levels_with_1_mg_per_day_transdermal_estradiol_gel_applied_to_different_amounts_of_area_in_postmenopausal_women.png"
+        src="/endocrinology/<?php echo $inc_lang ?>/Estradiol_levels_with_1_mg_per_day_transdermal_estradiol_gel_applied_to_different_amounts_of_area_in_postmenopausal_women.png"
         class="img-centred img-width-45">
       <h3 class="text-centre">
         Estradiol levels after the last dose with 1 mg/day transdermal estradiol gel applied to different amounts of skin
@@ -176,7 +176,7 @@
           This is the most meaningful and important of the three pharmacokinetic parameters. Unless otherwise
           specified, any source specifying Oestradiol serum levels will refer to average concentration (Cmean.)<br>
           <br>
-          A <a href="https://www.luciaillanes.de/de/etc/hrtauccalc">HRT AUC calculator</a> is available on this
+          A <a href="https://www.luciaillanes.de/de/endocrinology/hrtauccalc">HRT AUC calculator</a> is available on this
           website.
         </li>
       </ol>
@@ -185,7 +185,7 @@
 
       <img
         alt="Estradiol levels after the last dose with 1 mg/day transdermal estradiol gel applied to different amounts of skin area (200 cm2, 400 cm2, or as large as possible) in postmenopausal women."
-        src="/etc/<?php echo $inc_lang ?>/Estradiol_levels_with_1_mg_per_day_transdermal_estradiol_gel_applied_to_different_amounts_of_area_in_postmenopausal_women.png"
+        src="/endocrinology/<?php echo $inc_lang ?>/Estradiol_levels_with_1_mg_per_day_transdermal_estradiol_gel_applied_to_different_amounts_of_area_in_postmenopausal_women.png"
         class="img-centred img-width-45">
       <h3 class="text-centre">
         Estradiol levels after the last dose with 1 mg/day transdermal estradiol gel applied to different amounts of skin
@@ -227,7 +227,7 @@
 
       <img
         alt="Estradiol levels after the last dose with 1 mg/day transdermal estradiol gel applied to different amounts of skin area (200 cm2, 400 cm2, or as large as possible) in postmenopausal women."
-        src="/etc/<?php echo $inc_lang ?>/Estradiol_levels_with_1_mg_per_day_transdermal_estradiol_gel_applied_to_different_amounts_of_area_in_postmenopausal_women.png"
+        src="/endocrinology/<?php echo $inc_lang ?>/Estradiol_levels_with_1_mg_per_day_transdermal_estradiol_gel_applied_to_different_amounts_of_area_in_postmenopausal_women.png"
         class="img-centred img-width-45">
       <h3 class="text-centre">
         Estradiol levels after the last dose with 1 mg/day transdermal estradiol gel applied to different amounts of skin

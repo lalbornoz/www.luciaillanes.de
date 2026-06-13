@@ -1,5 +1,5 @@
     <div class="div-box div-content-grid">
-      <div class="div-box" id="div-content-etc-recipes-endocrinology">
+      <div class="div-box" id="div-content-etc-recipes">
         <h1>
           Tödliche Kochrezepte<br>
           (nur auf Englisch)
@@ -8,17 +8,7 @@
         <a href="/etc/recipes/<?php echo $inc_lang ?>/30-40%20sopaipillas.pdf">30-40 sopaipillas </a><br>
         <a href="/etc/recipes/<?php echo $inc_lang ?>/Carne%20mechada%20with%20gnocchis.pdf">Carne mechada with gnocchis </a><br>
         <a href="/etc/recipes/<?php echo $inc_lang ?>/Chickpeas%20leonese%20(with%20chorizo%20and%20saffron).pdf">Chickpeas leonese with chorizo and saffron </a><br>
-        <a href="/etc/recipes/<?php echo $inc_lang ?>/Pebre%20(%E2%80%9C%5Bhot%5D%20pepper%20%5Bdip,%20sauce%5D%E2%80%9D).pdf">Pebre </a><br>
-        <br>
-        <h1>
-          Transfeminine Endokrinologie<br>
-          (nur auf Englisch)
-        </h1>
-        <a href="/<?php echo $inc_lang ?>/etc/projecttransspace">
-          Project "First Trans Person in Space":<br>
-          on insufficient HRT titration
-        </a><br>
-        <a href="/<?php echo $inc_lang ?>/etc/generalhrtnotes">General notes concerning HRT</a>
+        <a href="/etc/recipes/<?php echo $inc_lang ?>/Pebre%20(%E2%80%9C%5Bhot%5D%20pepper%20%5Bdip,%20sauce%5D%E2%80%9D).pdf">Pebre </a>
       </div>
 
       <div class="div-box" id="div-content-etc-kade">

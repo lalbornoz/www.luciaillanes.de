@@ -24,7 +24,7 @@
         En mi tiempo libre, de ocasión me gusta escribir <a href="/<?php echo $inc_lang ?>/stories">cuentos cortos y poemas</a>, dibujar
         <a href="/<?php echo $inc_lang ?>/visual_sundries">arte digital</a> describiendo las absurdidades fútiles de la condición humana
         y existencia en general, traducir <a href="/<?php echo $inc_lang ?>/arabic_poems">poemas árabes</a>, componer muros de textos
-        gigantescos sobre la <a href="/<?php echo $inc_lang ?>/etc">endocrinología transfemenina experimental</a>, dar paseos largos
+        gigantescos sobre la <a href="/<?php echo $inc_lang ?>/endocrinology">endocrinología transfemenina experimental</a>, dar paseos largos
         contemplando las implicaciones fenomenológicas de la sopa de letras,
         <a href="/<?php echo $inc_lang ?>/movieslist">ver películas y series</a>,
         <a href="/<?php echo $inc_lang ?>/etc">cocinar</a> e imponer oraciones largas y extensas a

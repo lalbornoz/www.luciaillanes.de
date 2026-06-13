@@ -29,6 +29,7 @@
         <a href="/<?php echo $inc_lang ?>/stories">Sueños incompletos</a><br>
         <a href="/<?php echo $inc_lang ?>/araboly">Araboly</a> |
         <a href="/<?php echo $inc_lang ?>/visual_sundries">Huevadas visuales</a><br>
+        <a href="/<?php echo $inc_lang ?>/endocrinology">Endocrinología experimental</a><br>
         <a href="/<?php echo $inc_lang ?>/movieslist">Lista de películas</a> |
         <a href="/<?php echo $inc_lang ?>/etc">Et cetera</a>
       </span>
