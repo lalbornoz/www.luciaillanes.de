@@ -12,30 +12,21 @@
 
       <p class="text-warning-black">
         Unless otherwise specified, the information provided on this page is based on the experience of the author of this document.<br>
-        Interindividual variability applies; doubly so owing to <a href="#hrt-general-hypophysis">General: familial pattern of hypophyseal dysregulation</a>.
+        Interindividual variability applies; doubly so owing to <a href="#hrt-general-hypophysis">Familial pattern of hypophyseal dysregulation</a>.
       </p>
 
       <h3 class="text-centre">Table of contents</h3>
       <ol class="element-line-height-half">
-        <li><a href="#hrt-general-interactions">General: counterindications/adverse interactions</a></li>
-        <li><a href="#hrt-general-cycles">General: Oestradiol cycles</a></li>
-        <li><a href="#hrt-general-titration">General: slow titration</a></li>
-        <li><a href="#hrt-general-blood-tests">General: blood tests pre-HRT; normal total T and high SHBG pre-HRT</a></li>
-        <li><a href="#hrt-transdermal-pumps">Transdermal Oestradiol gel: 1.28g pumps vs. 1.25g</a></li>
-        <li><a href="#hrt-transdermal-pump2">Transdermal Oestradiol gel: use pump gently</a></li>
-        <li><a href="#hrt-transdermal-levels">Transdermal Oestradiol gel: determining serum levels</a></li>
-        <li><a href="#hrt-transdermal-curve">Transdermal Oestradiol gel: suboptimal concentration curve</a></li>
-        <li><a href="#hrt-transdermal-discontinuation">Transdermal Oestradiol gel: temporary discontinuation</a></li>
-        <li><a href="#hrt-transdermal-surface">Transdermal Oestradiol gel: surface area</a></li>
-        <li><a href="#hrt-transdermal-steady-state">Transdermal Oestradiol gel: steady state</a></li>
-        <li><a href="#hrt-general-thyroid">General: acute thyroid downregulation</a></li>
-        <li><a href="#hrt-general-hypophysis">General: familial pattern of hypophyseal dysregulation</a></li>
-        <li><a href="#hrt-general-injection">General: injection protocol</a></li>
-        <li><a href="#hrt-general-een-curve">General: Oestradiol Enanthate concentration curve parameters</a></li>
+        <li><a href="#hrt-general-interactions">Counterindications/adverse interactions</a></li>
+        <li><a href="#hrt-general-cycles">Oestradiol cycles</a></li>
+        <li><a href="#hrt-general-titration">Slow titration</a></li>
+        <li><a href="#hrt-general-blood-tests">Blood tests pre-HRT; normal total T and high SHBG pre-HRT</a></li>
+        <li><a href="#hrt-general-thyroid">Acute thyroid downregulation</a></li>
+        <li><a href="#hrt-general-hypophysis">Familial pattern of hypophyseal dysregulation</a></li>
         <li><a href="#hrt-references">References</a></li>
       </ol>
 
-      <h2 class="text-centre" id="hrt-general-interactions">General: counterindications/adverse interactions</h2>
+      <h2 class="text-centre" id="hrt-general-interactions">Counterindications/adverse interactions</h2>
 
       <ul>
         <li>
@@ -70,7 +61,7 @@
         </li>
       </ul>
 
-      <h2 class="text-centre" id="hrt-general-cycles">General: Oestradiol cycles</h2>
+      <h2 class="text-centre" id="hrt-general-cycles">Oestradiol cycles</h2>
 
       <p>
         It bears mentioning that exogenously driven Oestradiol 35-day cycles with distinguished pseudo-follicular, pseudo-ovulatory
@@ -80,8 +71,8 @@
         and (inter alia) Oestrogen Receptor (ER) populations (density) as well as their sensitivity and the housekeeping thereof (e.g. enzymes)
         within each cell, being as Oestradiol is responsible in conjunction with ERs for making more ERs, constituting an autoregulatory
         feedback loop exhibiting hysteresis within a larger intracellular regulatory network with considerable inertia, see, inter alia,
-        <a href="#r4" class="a-reference">[4]</a>, <a href="#r7" class="a-reference">[7]</a>, and the
-        <a href="#hrt-transdermal-discontinuation">temporary discontinuation</a> section in this document.<br>
+        <a href="#r3" class="a-reference">[3]</a>, <a href="#r4" class="a-reference">[4]</a>, and
+        <a href="/<?php echo $inc_lang ?>/endocrinology/transdermalnotes#hrt-transdermal-discontinuation">Transdermal Oestradiol gel: temporary discontinuation</a>.<br>
         <br>
         As observed by the author of this document, there exists a constraint on rate of change that is lower than 200% given any
         average concentration, e.g. an increase from 50 pg/mL to 100 pg/mL (e.g. +50 pg/mL) is excessive and will dangerously impact
@@ -95,17 +86,17 @@
         in total,) and then recovery, back to the original (non-pathological) cycle length of 35 days. In case of failure to recover stable
         Oestradiol inputs, this process will continue oscillating indefinitely and maladaptively entrain these erratic patterns and eventually
         go on to adversely affect downstream systems, such as the thyroid gland and require, as soon as possible,
-        <a href="#hrt-transdermal-discontinuation">temporary discontinuation</a>.
+        <a href="/<?php echo $inc_lang ?>/endocrinology/transdermalnotes#hrt-transdermal-discontinuation">Transdermal Oestradiol gel: temporary discontinuation</a>.
       </p>
 
-      <h2 class="text-centre" id="hrt-general-titration">General: slow titration</h2>
+      <h2 class="text-centre" id="hrt-general-titration">Slow titration</h2>
 
       <p>
-        Please refer to <a href="https://www.luciaillanes.de/de/endocrinology/projecttransspace">Project "First Trans Person in Space": on insufficient HRT titration</a>
+        Please refer to <a href="/<?php echo $inc_lang ?>/endocrinology/projecttransspace">Project "First Trans Person in Space": on insufficient HRT titration</a>
         for an in-depth discussion of this topic.
       </p>
 
-      <h2 class="text-centre" id="hrt-general-blood-tests">General: blood tests pre-HRT; normal total T and high SHBG pre-HRT</h2>
+      <h2 class="text-centre" id="hrt-general-blood-tests">Blood tests pre-HRT; normal total T and high SHBG pre-HRT</h2>
 
       <p>
         When starting HRT, it is very highly recommended - in general - that extensive blood testing be done in order to determine a
@@ -116,139 +107,7 @@
         of partial Androgen Receptor Insensitivity, as T is supposed to downregulate hepatic SHBG expression; this can be tested for.
       </p>
 
-      <h2 class="text-centre" id="hrt-transdermal-pumps">Transdermal Oestradiol gel: 1.28g pumps vs. 1.25g</h2>
-
-      <p>
-        An unnamed brand of transdermal Oestradiol gel is claimed by the manufacturer to produce 1.25g of gel upon pump activation.
-        This is not the case, as anyone with a digital scale may confirm for themselves. Instead, 1 pump corresponds to ~1.28g of
-        gel with fluctuation in the µg range. This must be taken into consideration when estimating how many pumps a single bottle
-        contains, after substracting the very first "priming" pump.<br>
-        <br>
-        It is advised to integrate weighing the bottle after priming and after each pump with a suitable digital scale into one's
-        personal HRT protocol.
-      </p>
-
-      <h2 class="text-centre" id="hrt-transdermal-pump2">Transdermal Oestradiol gel: use pump gently</h2>
-
-      <p>
-        An unnamed brand of transdermal Oestradiol gel presents with an undocumented problem concerning its pump mechanism. If the
-        pump mechanism is engaged with excessive force as opposed to gently, it will, given 2 pumps p/d, predictably and reliably
-        break after about 21 days/3 weeks, at which point each pump will exceed 1.28g by a steadily increasing amount, as anyone with
-        a digital scale may confirm for themselves.<br>
-        <br>
-        It is advised to integrate weighing the bottle after priming and after each pump with a suitable digital scale into one's
-        personal HRT protocol.
-      </p>
-
-      <h2 class="text-centre" id="hrt-transdermal-levels">Transdermal Oestradiol gel: determining serum levels</h2>
-
-      <img
-        alt="Estradiol levels after the last dose with 1 mg/day transdermal estradiol gel applied to different amounts of skin area (200 cm2, 400 cm2, or as large as possible) in postmenopausal women."
-        src="/endocrinology/<?php echo $inc_lang ?>/Estradiol_levels_with_1_mg_per_day_transdermal_estradiol_gel_applied_to_different_amounts_of_area_in_postmenopausal_women.png"
-        class="img-centred img-width-45">
-      <h3 class="text-centre">
-        Estradiol levels after the last dose with 1 mg/day transdermal estradiol gel applied to different amounts of skin
-        area (200 cm2, 400 cm2, or as large as possible) in postmenopausal women.<a href="#r5" class="a-reference">[5]</a>
-      </h3>
-
-      <p>
-        As seen above, transdermal Oestradiol gel of whichever brand or manufacturer will generally present with a concentration
-        curve across time as opposed to (ignoring brief peaks) stable levels, such as is the case with oral Oestradiol. This must be
-        taken into consideration when attempting to determine serum levels as follows:
-      </p>
-
-      <ol>
-        <li>
-          Assay <strong>Cmax</strong>, e.g. the maximum or peak concentration at the <strong>3 hour mark</strong>
-          (Tmax.)
-        </li>
-        <li>
-          Assay <strong>Cmin</strong>, e.g. the minimum or trough concentration at the <strong>12 hour mark</strong>
-          (Tmin,) e.g. right before the next dose.
-        </li>
-        <li>
-          Calculate <strong>Cmean</strong>, e.g. the average concentration, by, based on <strong>Cmax</strong>,
-          <strong>Tmax</strong>, <strong>Cmin</strong>, <strong>Tmin</strong>, finding the Area Under the Curve
-          (AUC,)<a href="#r6" class="a-reference">[6]</a> utilising the logarithmic method (((c1 - c2) /
-          (LN(c1) - LN(c2))) * (t2 - t1)) during the absorption phase (rising levels) and the linear method (1/2 * (c1
-          + c2) * (t2 - t1)) during the elimination phase (falling levels.) This yields the maximum total exposure
-          during that time period which, when divided by that same time period, e.g. 24 hours, will yield the maximum
-          average concentration.<br>
-          This is the most meaningful and important of the three pharmacokinetic parameters. Unless otherwise
-          specified, any source specifying Oestradiol serum levels will refer to average concentration (Cmean.)<br>
-          <br>
-          A <a href="https://www.luciaillanes.de/de/endocrinology/hrtauccalc">HRT AUC calculator</a> is available on this
-          website.
-        </li>
-      </ol>
-
-      <h2 class="text-centre" id="hrt-transdermal-curve">Transdermal Oestradiol gel: suboptimal concentration curve</h2>
-
-      <img
-        alt="Estradiol levels after the last dose with 1 mg/day transdermal estradiol gel applied to different amounts of skin area (200 cm2, 400 cm2, or as large as possible) in postmenopausal women."
-        src="/endocrinology/<?php echo $inc_lang ?>/Estradiol_levels_with_1_mg_per_day_transdermal_estradiol_gel_applied_to_different_amounts_of_area_in_postmenopausal_women.png"
-        class="img-centred img-width-45">
-      <h3 class="text-centre">
-        Estradiol levels after the last dose with 1 mg/day transdermal estradiol gel applied to different amounts of skin
-        area (200 cm2, 400 cm2, or as large as possible) in postmenopausal women.<a href="#r5" class="a-reference">[5]</a>
-      </h3>
-
-      <p>
-        As seen above, transdermal Oestradiol gel of whichever brand or manufacturer will generally present with a concentration
-        curve with a considerable peak-to-trough ratio and two peaks and two troughs p/d. It bears mentioning that this can be
-        suboptimal for the same reason as with the concentration curve of Oestradiol Valerate.
-      </p>
-
-      <h2 class="text-centre" id="hrt-transdermal-discontinuation">Transdermal Oestradiol gel: temporary discontinuation</h2>
-
-      <p>
-        When discontinuing, wait for between four to five weeks, taking cycle boundaries into account, before resuming and be mindful
-        of both severely hypogonadic menopausal Oestradiol levels as well as, given insufficient Testosterone suppression, gradually
-        rising Testosterone levels, though SHBG being slow to respond is helpful here, and, eventually, well into the 2nd month,
-        hypothyroidism; being as there is no reservoir effect with transdermal Oestradiol gel, any Oestradiol remaining at trough,
-        irrespective of time to steady state, will be gone within an hour at most, at which point endocrine Oestradiol will be strictly
-        adrenal on the input side.<br>
-        <br>
-        With regard to the time period required to wait for: two weeks (11.5 days): crashes after day 17.5), three weeks (18.5 days):
-        crashes after week #5, at least four weeks (32 days): stable after one cycle, according to experimental evidence. It would appear
-        probable that this is both a function of SHBG stability (steady state after max. 5 weeks) as well as compound ER state, e.g.
-        ER population (density) in each cell as well as sensitivity and all factors relating to ER housekeeping from transcription/translation to
-        activation and elimination and all factors significantly affected by (effective) Oestradiol.<br>
-        <br>
-        Furthermore, the presumed Oestradiol-driven ER density/sensitivity oscillations (cycles) appear to be only loosely coupled to
-        their Oestradiol inputs and present with a considerable degree of hysteresis, e.g. they will maintain their internal state even
-        if the external signal in its original state is absent for an unknown time period that may or may not correspond to between
-        four-five weeks and may indeed be much longer, with the possibility of cycles gradually becoming more and more protracted, as
-        observed in menopause and the phenomenon of cycles persisting after a hysterectomy.<br>
-        <br>
-        For a general overview that does not specifically focus on ERs, refer to <a href="#r7" class="a-reference">[7]</a>.
-      </p>
-
-      <h2 class="text-centre" id="hrt-transdermal-surface">Transdermal Oestradiol gel: surface area</h2>
-
-      <img
-        alt="Estradiol levels after the last dose with 1 mg/day transdermal estradiol gel applied to different amounts of skin area (200 cm2, 400 cm2, or as large as possible) in postmenopausal women."
-        src="/endocrinology/<?php echo $inc_lang ?>/Estradiol_levels_with_1_mg_per_day_transdermal_estradiol_gel_applied_to_different_amounts_of_area_in_postmenopausal_women.png"
-        class="img-centred img-width-45">
-      <h3 class="text-centre">
-        Estradiol levels after the last dose with 1 mg/day transdermal estradiol gel applied to different amounts of skin
-        area (200 cm2, 400 cm2, or as large as possible) in postmenopausal women.<a href="#r5" class="a-reference">[5]</a>
-      </h3>
-
-      <p>
-        Always use the smallest possible surface area when applying transdermal Oestradiol gel in order to maximise absorption.
-      </p>
-
-      <h2 class="text-centre" id="hrt-transdermal-steady-state">Transdermal Oestradiol gel: steady state</h2>
-
-      <p>
-        The documented maximum time to steady state parameter of transdermal Oestradiol gel of three days is incorrect. Oestradiol,
-        acting as a transcription factor, significantly induces CYP3A4, effectively increasing clearance/elimination relative to a
-        masculine phenotype. Given a half life of between 1-6 days, this process should take no more than about two weeks to complete
-        at most, before which, however, steady state is not achieved.
-      </p>
-
-      <h2 class="text-centre" id="hrt-general-thyroid">General: acute thyroid downregulation</h2>
+      <h2 class="text-centre" id="hrt-general-thyroid">Acute thyroid downregulation</h2>
 
       <p>
         Given sufficiently high Oestradiol target levels/gradients (e.g. 25 pg/mL adrenal E2 pre-HRT, &gt;=200 pg/mL E2 HRT, though
@@ -261,7 +120,7 @@
         may be recommendable.
       </p>
 
-      <h2 class="text-centre" id="hrt-general-hypophysis">General: familial pattern of hypophyseal dysregulation</h2>
+      <h2 class="text-centre" id="hrt-general-hypophysis">Familial pattern of hypophyseal dysregulation</h2>
 
       <p>
         A familial pattern of underlying systemic/dynamic hypophyseal dysregulation, possibly implicating the hypothalamus as well,
@@ -303,98 +162,6 @@
         otherwise not matter.
       </p>
 
-      <h2 class="text-centre" id="hrt-general-injection">General: injection protocol</h2>
-
-      <p>
-        This injection protocol employs subcutaneous injection as route of administration and utilises disposable insulin syringes with
-        a length of 8mm, a needle gauge size of 30G, a maximum injection volume of 0.3 mL divided up into 30 units of 0.01 mL each, and
-        a target injection volume of 0.1 mL, e.g. 10 bars.<br>
-        <ol>
-          <li>
-            Be at ease. Injections are fun!
-          </li>
-          <li>
-            Choose an injection site from a set of rotating injection sites. The upper outer thigh, given sufficient subcutaneous adipose
-            tissue when pinching, allows for a convenient injection at a 90° angle whilst sat.
-          </li>
-          <li>
-            Wash hands, ward against UV light sources (e.g. draw curtains,) and verify integrity and intactness of vial (the vial itself,
-            crimp seal, rubber stopper) and oil (no discolouration, cloudiness, separation, suspended particles, etc.; crystallisation induced
-            by cold temperatures can be dissolved by agitation.)
-          </li>
-          <li>
-            Retrieve and open syringe disposal container, retrieve syringe, remove plunger cap, and draw in a volume of air corresponding to
-            the volume of oil to be injected.
-          </li>
-          <li>
-            Swab the top of the vial, primarily the rubber stopper, with a 70% isopropyl alcohol swab for 30 seconds to 1 minute, wash hands,
-            swab the injection site with a 70% isopropyl alcohol swab for 30 seconds to 1 minute, wash hands.
-          </li>
-          <li>
-            Issue the appropriate invocations and prayers to a deity of your choice, such as Ištar the Lioness or Enki, the Ea, Lord Sea, in
-            order to avert the remotest possibility of "coring" or spontaneous vial existence failure through Neutrino bursts. Staring at empty
-            space and contemplating all-surrounding nothingness also works.
-          </li>
-          <li>
-            Remove syringe needle cap, place vial on stable surface, hold vial steadily with non-dominant hand, and, with the dominant hand,
-            steadily fully insert the needle into the centre of the rubber stopper. Any significant, especially lateral, movement that could
-            result in stretching of the canal inside the rubber stopper made in the process is to be avoided, even if the likelihood of "coring"
-            with a 30G needle is low.
-          </li>
-          <li>
-            Whilst steadily holding both the vial as well as the syringe, flip both upside down in one steady movement, draw oil from the vial
-            by pulling the plunger down - try not to touch the actual barrel itself - to the appropriate position, and wait until the target
-            injection volume has been attained. Given any air bubbles, push them back into the vial by pushing the plunger as appropriate
-            and pulling the plunger back down to the appropriate position, etc. pp.
-          </li>
-          <li>
-            Steadily rotate the vial as well as syringe back to their original position, remove the syringe, if necessary: wipe the top of
-            the rubber stopper, and stash the vial.
-          </li>
-          <li>
-            Pinch a fold of skin at the injection site between thumb and index finger with a separation of at least about an inch, hold,
-            insert needle, and release fold. Ensure that the syringe after releasing the fold and during the following steps until removal
-            is pushed into and below the skin to an appropriate degree and not held too loosely; this prevents injecting into the uppermost
-            layers of subcutaneous adipose tissue right beneath the hypodermis, causing an entirely harmless but mildly annoying bulge.
-          </li>
-          <li>
-            Perform injection by slowly pushing down on the plunger - try not to touch the actual barrel itself - across a time period of
-            up to a few minutes; the slower the rate of injection, the lower the risk of leakage. Pay close attention to motor feedback,
-            muscle memory, inasmuch as visual feedback.
-          </li>
-          <li>
-            Whilst maintaining the syringe in its position, wait for about 30 seconds to 1 minute in order to additionally lower the risk
-            of leakage.
-          </li>
-          <li>
-            Remove syringe, apply cotton swab (sterility is not required) to injection site in case of leakage or - rarely - miniscule
-            amounts of blood if a vein was sliced, etc. Undesirable reactions, e.g. itchiness, swelling, inflammation, etc. to Benzyl
-            Benzoate at/below the injection site have been documented in some people and may or may not occur and should subside relatively
-            quickly, if they do appear; topical antihistamines are documented to be effective in case of a prolonged reaction.<br>
-            <br>
-            In case of a much more significant and prolonged local let alone systemic reaction, such as infection and fever, direct
-            yourself to your nearest ER - note that this should under no circumstances ever actually occur unless this protocol was
-            improperly followed wrt. sterilisation and/or in case of contaminated oil, be it before it was ever used or at any point
-            thereafter.
-          </li>
-          <li>
-            Put syringe into syringe disposal container and close lid.
-          </li>
-        </ol>
-      </p>
-
-      <h2 class="text-centre" id="hrt-general-een-curve">General: Oestradiol Enanthate concentration curve parameters</h2>
-
-      <p>
-        <ul>
-          <li>Cmin (trough:) <span class="text-bold">0d 7h (Sat 13:00)</span> to <span class="text-bold">0d 12h (Sat 18:00)</span> (5h in length)</li>
-          <li>Cmax (peak:) <span class="text-bold">3d 15h (Tue 21:00)</span> to <span class="text-bold">4d 5h (Wed 11:00)</span> (14h in length)</li>
-          <li>Cmin (trough:) <span class="text-bold">7d 7h (Sat 13:00)</span> to <span class="text-bold">7d 12h (Sat 18:00)</span> (5h in length)</li>
-        </ul><br>
-        <span class="text-italic">(assumes injection cycle of 7 days starting at Sat 6:00 AM; day marks are zero-based)</span>
-        <span class="text-italic">(based on <a href="https://estrannai.se/">estradiol pharmacokinetics playground - estrannaise.js</a> in conjunction with personal experience)</span>
-      </p>
-
       <h2 class="text-centre" id="hrt-references">References</h2>
 
       <span id="r0">
@@ -417,14 +184,7 @@
       <br>
 
       <span id="r3">
-        [3] inter alia:<br>
-        <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3012180/">Coffee and Caffeine Consumption in Relation to Sex Hormone–Binding Globulin and Risk of Type 2 Diabetes in Postmenopausal Women - PMC</a><br>
-        <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/mnfr.201901253">Caffeine Upregulates Hepatic Sex Hormone‐Binding Globulin Production by Increasing Adiponectin Through AKT/FOXO1 Pathway in White Adipose Tissue - Briansó‐Llort - 2020 - Molecular Nutrition &amp; Food Research - Wiley Online Library</a><br>
-      </span>
-      <br>
-
-      <span id="r4">
-        [4]
+        [3]
         Kloosterboer, Helenius; Schoonen, Willem; Verheul, Herman (2008). "Breast Cancer". The Oncologist.<br>
         17 (1): 343–366. doi:10.3109/9781420058734-19. ISBN 978-1-4200-5872-7. PMC 3267821. PMID 22234628.<br>
         "Steroid deprivation, for instance, can have a major impact on the growth stimulation by E2. Estrogen sensitivity can be
@@ -438,24 +198,8 @@
       </span>
       <br>
 
-      <span id="r5">
-        [5]
-        This work is licenced under the <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a>
-        licence, courtesy of <a href="https://commons.wikimedia.org/w/index.php?title=User:Medgirl131" target="_blank">Medgirl131</a>,
-        retrieved at Fri, 12 Jun 2026 10:26:07 +0200, linked to in
-        <a href="https://en.wikipedia.org/wiki/Pharmacokinetics_of_estradiol#Transdermal_gel">Pharmacokinetics of estradiol - Wikipedia</a>.<br>
-      </span>
-      <br>
-
-      <span id="r6">
-        [6]
-        <a href="https://www.ncbi.nlm.nih.gov/books/NBK12815/">Principles of Pharmacokinetics - Holland-Frei Cancer Medicine - NCBI Bookshelf</a><br>
-        <a href="https://en.wikipedia.org/wiki/Area_under_the_curve_(pharmacokinetics)">Area under the curve (pharmacokinetics)</a><br>
-      </span>
-      <br>
-
-      <span id="r7">
-        [7]
+      <span id="r4">
+        [4]
         <a href="https://www.researchgate.net/publication/12967401_Biological_regulation_of_receptor-hormone_complex_concentrations_in_relation_to_dose-response_assessments_for_endocrine-active_compounds">
           Melvin E. Andersen and Hugh A. Barton - Biological Regulation of Receptor-Hormone Complex Concentrations in Relation to Dose-Response Assessments for Endocrine-Active Compounds
         </a>

@@ -9,7 +9,9 @@
           Project "First Trans Person in Space":<br>
           on insufficient HRT titration
         </a><br>
-        <a href="/<?php echo $inc_lang ?>/endocrinology/generalhrtnotes">General notes concerning HRT</a>
+        <a href="/<?php echo $inc_lang ?>/endocrinology/generalhrtnotes">General notes concerning HRT</a><br>
+        <a href="/<?php echo $inc_lang ?>/endocrinology/transdermalnotes">Notes concerning transdermal HRT</a><br>
+        <a href="/<?php echo $inc_lang ?>/endocrinology/injectionnotes">Notes concerning HRT injections</a>
       </div>
 
       <div class="div-box" id="div-content-endocrinology-kade-l">
