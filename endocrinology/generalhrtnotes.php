@@ -31,6 +31,7 @@
         <li><a href="#hrt-general-thyroid">General: acute thyroid downregulation</a></li>
         <li><a href="#hrt-general-hypophysis">General: familial pattern of hypophyseal dysregulation</a></li>
         <li><a href="#hrt-general-injection">General: injection protocol</a></li>
+        <li><a href="#hrt-general-een-curve">General: Oestradiol Enanthate concentration curve parameters</a></li>
         <li><a href="#hrt-references">References</a></li>
       </ol>
 
@@ -380,6 +381,18 @@
             Put syringe into syringe disposal container and close lid.
           </li>
         </ol>
+      </p>
+
+      <h2 class="text-centre" id="hrt-general-een-curve">General: Oestradiol Enanthate concentration curve parameters</h2>
+
+      <p>
+        <ul>
+          <li>Cmin (trough:) <span class="text-bold">0d 7h (Sat 13:00)</span> to <span class="text-bold">0d 12h (Sat 18:00)</span> (5h in length)</li>
+          <li>Cmax (peak:) <span class="text-bold">3d 15h (Tue 21:00)</span> to <span class="text-bold">4d 5h (Wed 11:00)</span> (14h in length)</li>
+          <li>Cmin (trough:) <span class="text-bold">7d 7h (Sat 13:00)</span> to <span class="text-bold">7d 12h (Sat 18:00)</span> (5h in length)</li>
+        </ul><br>
+        <span class="text-italic">(assumes injection cycle of 7 days starting at Sat 6:00 AM; day marks are zero-based)</span>
+        <span class="text-italic">(based on <a href="https://estrannai.se/">estradiol pharmacokinetics playground - estrannaise.js</a> in conjunction with personal experience)</span>
       </p>
 
       <h2 class="text-centre" id="hrt-references">References</h2>
