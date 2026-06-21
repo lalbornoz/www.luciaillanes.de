@@ -282,38 +282,38 @@
 
         <tbody class="tbody-muwashshahah-qufl">
           <tr>
-            <td>As for when you see Ġaylān<a href="#r11" class="a-reference">[11]</a></td>
+            <td>So when you see Ġaylān<a href="#r11" class="a-reference">[11]</a></td>
             <td>and Qays<a href="#r12" class="a-reference">[12]</a> or whom it be</td>
-            <td>amongst the passing<a href="#r13" class="a-reference">[13]</a></td>
+            <td>amongst those left behind<a href="#r13" class="a-reference">[13]</a></td>
           </tr>
           <tr>
             <td>They said: love is a sovereign</td>
-            <td>if it falls upon a person</td>
-            <td>creed made him pass<a href="#r14" class="a-reference">[14]</a></td>
+            <td>if it dwelt within a person</td>
+            <td>their creed destroyed them<a href="#r14" class="a-reference">[14]</a></td>
           </tr>
         </tbody>
 
         <tbody class="tbody-muwashshahah-bayt">
           <tr>
-            <td>How many times they said:</td>
+            <td>So many times the lovers said:</td>
             <td>I am the one that loves</td>
-            <td>the one whom that is I</td>
+            <td>whom that is myself!<a href="#r15" class="a-reference">[15]</a></td>
           </tr>
           <tr>
-            <td>And I did not see them deviate</td>
-            <td>and I saw not one complaint</td>
-            <td>that union was not theirs</td>
+            <td>So I don't see them deviate</td>
+            <td>nor is there complaint</td>
+            <td>only their destruction<a href="#r16" class="a-reference">[16]</a></td>
           </tr>
           <tr>
             <td>I'm not like those that turned</td>
-            <td>away from him that loves</td>
-            <td>after reaping its harvest</td>
+            <td>away from whom that loves</td>
+            <td>after its harvest<a href="#r17" class="a-reference">[17]</a></td>
           </tr>
         </tbody>
 
         <tbody class="tbody-muwashshahah-qufl">
           <tr>
-            <td>For he<a href="#r15" class="a-reference">[15]</a> submits to solace</td>
+            <td>For he<a href="#r17" class="a-reference">[17]</a> submits to solace</td>
             <td>this is but defamation</td>
             <td>to those that are familiar</td>
           </tr>
@@ -326,17 +326,17 @@
 
         <tbody class="tbody-muwashshahah-bayt">
           <tr>
-            <td>I turned into the garden<a href="#r16" class="a-reference">[16]</a></td>
-            <td>where solace and presence<a href="#r17" class="a-reference">[17]</a></td>
+            <td>I turned into the garden<a href="#r18" class="a-reference">[18]</a></td>
+            <td>where solace and presence<a href="#r19" class="a-reference">[19]</a></td>
             <td>were its shelter</td>
           </tr>
           <tr>
             <td>There rose for me the myrtle</td>
             <td>that's adorned with conceit</td>
-            <td>in its silken garment<a href="#r18" class="a-reference">[18]</a></td>
+            <td>in its silken garment<a href="#r20" class="a-reference">[20]</a></td>
           </tr>
           <tr>
-            <td>I am He<a href="#r19" class="a-reference">[19]</a> O human</td>
+            <td>I am He<a href="#r21" class="a-reference">[21]</a> O human</td>
             <td>that soothes your passion</td>
             <td>in his company</td>
           </tr>
@@ -349,9 +349,9 @@
             <td>jasmine<td>
           </tr>
           <tr>
-            <td>And grant then the myrtle<a href="#r20" class="a-reference">[20]</a></td>
+            <td>And grant then the myrtle</td>
             <td>in the shelter of the merciful</td>
-            <td>to the lovers</td>
+            <td>to the lovers<a href="#r22" class="a-reference">[22]</a></td>
           </tr>
         </tbody>
       </table>
@@ -431,40 +431,51 @@
         </span>
         <br>
         <span id="r13">
-          [13] viz. primarily: those that have passed on or passed away, secondarily: the opposite: those that remain or have lived enough to become old, tertiarily, though usually primarily: those absent from salvation or those who remain in torment.<br>
+          [13] viz. in Qurʔānic context: those that remain or are left behind in torment in this world with the evildoers, absent from salvation in the next world.<br>
           <br>
-          This first sentence asks: as for those mentioned passing away or remaining [absent from salvation or in torment]...<br>
+          This first sentence asks: as for those mentioned left behind [absent from salvation or in torment]...<br>
         </span>
         <br>
         <span id="r14">
-          [14] viz. worldly, earthly love, as opposed to divine love, when taken as one's faith, creed, or religion, destroys to whom it has passed and in whom it dwells.<br>
+          [14] viz. worldly, earthly love, as opposed to divine love, when taken as one's faith, creed, or religion, causes them to be left behind in worldliness and destroys in whom it dwells to this degree.<br>
           <br>
-          This second sentence answers: ...that is what has made them pass on or away or have them remain [absent from salvation or in torment] viz. destroyed them.<br>
+          This second sentence answers: ...that is what has made them remain [absent from salvation or in torment] and destroyed them.<br>
         </span>
         <br>
         <span id="r15">
-          [15] He that does indeed turn away from those that he has loved after having reaped its harvest or tasted its fruit e.g. commenced to love and be loved and benefitted thereby to then turn away.<br>
-          This may (or may not) also refer to the greater harvest of Divine vs. merely worldly love.<br>
+          [15] An inverted reference to a particularly popular poem by the seminal 9th-10th century mystic Abū l-Muġīṯ al-Ḥusayn b. Manṣūr al-Ḥallāǧ known as Manṣūr al-Ḥallāǧ which is attributed to or projected onto a pair of lovers exemplified by the historical Ġaylān, Qays b. Ḏarīḥ, and Qays b. al-Mulawwaḥ ("Maǧnūn".)<br>
+          <br>
+          The original reads: "I am whom I love and whom I love is I / we are two souls dwelling in our body", an expression on part of the mystic of (divine) love of such a degree of selflessness that the distinction between the lover and the beloved fades away: the lover becomes his beloved, the beloved becomes his lover.<br>
+          In this poem, through merely two substituted words ("ألذي (that)" vs. "من (who(m))" vs. "هو" (he; here: is) for "أهوى" (I love)) and a change in construction as well as perspective ("I am he that loves" vs. "I am whom I love" and "whom that is I" vs. "and whom I love is I", as well as merging the two separate phrases into one,) this is inverted such that the utmost degree of selflessness becomes conceited selfishness mistaken for love: the lover loves - but ultimately only himself, the beloved does not even appear.<br>
         </span>
         <br>
         <span id="r16">
-          [16] viz. entered, entered into, entered into the affairs of, turned towards, turned into, joined with, became one with, converted to the creed of, etc.<br>
+          [16] viz. no path is available to them except for their own destruction for they cannot deviate or turn away from their conceited selfishness that they mistake for love that leads them from themselves towards themselves, nor is even a mere complaint about their condition directed towards anyone at all a possibility; the sudden shift to the first person is an instance of Iltifāt<a href="#r9" class="a-reference">[9]</a>.<br>
         </span>
         <br>
         <span id="r17">
-          [17] viz. the solace of intimate divine presence.<br>
+          [17] viz. like those that would turn away from someone that continues to love them and has loved them after having already obtained, reaped, or harvested all that there was for them to obtain, etc. from said love and said person; the sudden shift to the first person is an instance of Iltifāt<a href="#r9" class="a-reference">[9]</a>.<br>
+          This may (or may not) also refer to the greater harvest of Divine vs. merely worldly love.<br>
         </span>
         <br>
         <span id="r18">
-          [18] A description typical of Nawriyyah/Rawḍiyyah-genre Andalusian poetry: Myrtle is perennial, spreads around, stands upright and tall, towering above many other plants, pleasantly and strongly fragrant, and it has a silken garment: glossy, shiny, smooth leaves and white flowers - hence, it is personified as being (self-)conceited: proud, arrogant, haughty, vain, pompous, boastful, self-indulgent, in love with itself, etc.<br>
+          [18] viz. entered, entered into, entered into the affairs of, turned towards, turned into, joined with, became one with, converted to the creed of, etc.<br>
         </span>
         <br>
         <span id="r19">
-          [19] viz. God.<br>
+          [19] viz. the solace of intimate divine presence.<br>
         </span>
         <br>
         <span id="r20">
-          [20] viz. and grant them long-lasting, perennial, eternal love, as myrtle is perennial - as per, from the same Nafḥu ṭ-Ṭībi min ġuṣni l-Andalusi r-Raṭīb (The Breath of Perfume from the Branch of Flourishing Al-Andalus) of Aḥmad al-Maqqārī in which this poem appears:<br>
+          [20] A description typical of Nawriyyah/Rawḍiyyah-genre Andalusian poetry: Myrtle is perennial, spreads around, stands upright and tall, towering above many other plants, pleasantly and strongly fragrant, and it has a silken garment: glossy, shiny, smooth leaves and white flowers - hence, it is personified as being (self-)conceited: proud, arrogant, haughty, vain, pompous, boastful, self-indulgent, in love with itself, etc.<br>
+        </span>
+        <br>
+        <span id="r21">
+          [21] viz. God.<br>
+        </span>
+        <br>
+        <span id="r22">
+          [22] viz. and grant them long-lasting, perennial, eternal love, as myrtle is perennial - as per, from the same Nafḥu ṭ-Ṭībi min ġuṣni l-Andalusi r-Raṭīb (The Breath of Perfume from the Branch of Flourishing Al-Andalus) of Aḥmad al-Maqqārī in which this poem appears:<br>
           <br>
           فسأل بعض عن معناه فقال بعض الحاضرين أراد به العذار وقال آخر إنما أشار إلى دوام العهد لأن الأزهار كلها ينقضي زمانها إلا الريحان فإنه دائم فاستحسن الشيخ هذا أو وافق عليه.<br>
           <br>
