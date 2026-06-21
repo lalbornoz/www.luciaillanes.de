@@ -112,7 +112,7 @@
           <li>Cmin (trough:) <span class="text-bold">7d 7h (Sat 13:00)</span> to <span class="text-bold">7d 12h (Sat 18:00)</span> (5h in length)</li>
         </ul><br>
         <span class="text-italic">(assumes injection cycle of 7 days starting at Sat 6:00 AM; day marks are zero-based)</span><br>
-        <span class="text-italic">(based on <a href="https://estrannai.se/">estradiol pharmacokinetics playground - estrannaise.js</a> in conjunction with personal experience)</span>
+        <span class="text-italic">(based on <a href="#r1" class="a-reference">[1]</a> in conjunction with personal experience)</span>
       </p>
 
       <h2 class="text-centre" id="hrt-steady-state-stable-cycle">Time to steady state and first stable full cycle</h2>
@@ -120,13 +120,21 @@
       <p>
         Oestradiol Enanthate requires <span class="text-bold">5-7 weeks</span> to reach steady state and
         <span class="text-bold">at least 7 weeks</span> until the first stable full cycle.<br>
-        <span class="text-italic">(based on <a href="https://estrannai.se/">estradiol pharmacokinetics playground - estrannaise.js</a> in conjunction with personal experience)</span>
+        <span class="text-italic">(based on <a href="#r1" class="a-reference">[1]</a> in conjunction with personal experience)</span>
       </p>
 
       <h2 class="text-centre" id="hrt-references">References</h2>
 
       <span id="r0">
         [0] (courtesy of ChatGPT)<br>
+      </span>
+      <br>
+
+      <span id="r1">
+        [1]
+        <a href="https://estrannai.se/">
+          estradiol pharmacokinetics playground - estrannaise.js
+        </a><br>
       </span>
     </div>
 <?php
