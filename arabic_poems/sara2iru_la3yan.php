@@ -344,14 +344,14 @@
 
         <tbody class="tbody-muwashshahah-qufl">
           <tr>
-            <td>Gardener, O gardener!</td>
-            <td>gather from the garden some</td>
-            <td>jasmine<td>
+            <td>Gardener, O lovers!</td>
+            <td>gather from the garden</td>
+            <td>the jasmine<td>
           </tr>
           <tr>
             <td>And grant then the myrtle</td>
             <td>in the shelter of the merciful</td>
-            <td>to the lovers<a href="#r22" class="a-reference">[22]</a></td>
+            <td>to the true lovers<a href="#r22" class="a-reference">[22]</a></td>
           </tr>
         </tbody>
       </table>
