@@ -119,7 +119,7 @@
 
       <p>
         Oestradiol Enanthate requires <span class="text-bold">5-7 weeks</span> to reach steady state and
-        <span class="text-bold">at least 7 weeks</span> until the first stable full cycle.<br>
+        <span class="text-bold">7 weeks</span> until the first stable full cycle.<br>
         <span class="text-italic">(based on <a href="#r1" class="a-reference">[1]</a> in conjunction with personal experience)</span>
       </p>
 
