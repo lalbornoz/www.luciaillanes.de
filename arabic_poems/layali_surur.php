@@ -147,8 +147,8 @@
             <td>يَجْلِي الغَيَارْ فِي ذَا النَّهَارْ</td>
           </tr>
           <tr>
-            <td>يَلُوا عَلَى والدِّية</td>
-            <td>مَا دَامَتِ الدُنْيَا لَحَدِّ مِنْ بَعْدِي</td>
+            <td>يَلُوا عَلَى وَدِّيَا</td>
+            <td>مَا دَامَتِ الدُنْيَا لِحَدِّ مِنْ بَعْدِي</td>
           </tr>
         </tbody>
       </table>
@@ -156,9 +156,9 @@
       <table class="table-muwashshahah-ar-centred">
         <tbody class="tbody-muwashshahah-qufl">
           <tr>
-            <td>يَا نَدِيمْ وَانْتَبَِنِي وَاسْتَبْشَرْ</td>
+            <td>يَا نَدِيمْ وَانْتَبِهْنِي وَاسْتَبْشَرْ</td>
             <td>قَدْ اِقْبَلْ اّلصَّبَاحْ</td>
-            <td>وَالفَجْرُ مِنْ ضَيَاءْ</td>
+            <td>وَالفَجْرُ مِنْ ضَيَائِنَا</td>
           </tr>
           <tr>
             <td>حِينْ يَظْهَرْ فِي كَوْكَبُ وَالِعْ</td>
@@ -356,24 +356,95 @@
       <table class="table-muwashshahah-en-centred">
         <tbody class="tbody-muwashshahah-bayt">
           <tr>
-            <td>The morning has extended its light</td>
-            <td>from its east is lifted its veil</td>
+            <td>The morning light spread wide with its splendour</td>
+            <td>from the east it is brightly revealed</td>
           </tr>
           <tr>
-            <td>And the garden grew in its beauty</td>
-            <td>towards our gathering, O my patron!</td>
+            <td>While the garden grew wide in its glory</td>
+            <td>towards our celebration, <em>O my patron!</em></td>
           </tr>
           <tr>
-            <td>Let blended wine revolve, incline it</td>
-            <td>towards our vigil, awaken us to satisfaction</td>
+            <td>Let blended wine revolve, incline it!</td>
+            <td>towards our vigil, awaken us to satisfaction!</td>
           </tr>
           <tr>
-            <td>A cup of strong wine, O my patron</td>
+            <td>A cup of strong wine, <em>O my liege!</em></td>
+            <td>the rain will polish upon this very day</td>
+          </tr>
+          <tr>
+            <td>All this reigns over my desire</td>
+            <td>for as long as this world until my hereafter<a href="#r22" class="a-reference">[22]</a></td>
+          </tr>
+        </tbody>
+      </table>
+
+      <table class="table-muwashshahah-en-centred">
+        <tbody class="tbody-muwashshahah-qufl">
+          <tr>
+            <td>...</td>
+            <td>...</td>
             <td>...</td>
           </tr>
           <tr>
             <td>...</td>
             <td>...</td>
+            <td>...</td>
+          </tr>
+        </tbody>
+
+        <tbody class="tbody-muwashshahah-bayt">
+          <tr>
+            <td>..</td>
+            <td>..</td>
+          </tr>
+          <tr>
+            <td>..</td>
+            <td>..</td>
+          </tr>
+          <tr>
+            <td>..</td>
+            <td>..</td>
+          </tr>
+        </tbody>
+
+        <tbody class="tbody-muwashshahah-bayt">
+          <tr>
+            <td>..</td>
+            <td>..</td>
+            <td>..</td>
+          </tr>
+          <tr>
+            <td>..</td>
+            <td>..</td>
+            <td>..</td>
+          </tr>
+          <tr>
+            <td>..</td>
+            <td>..</td>
+            <td>..</td>
+          </tr>
+          <tr>
+            <td>..</td>
+            <td>..</td>
+            <td>..</td>
+          </tr>
+        </tbody>
+
+        <tbody class="tbody-muwashshahah-qufl">
+          <tr>
+            <td colspan="3">...</td>
+          </tr>
+          <tr>
+            <td colspan="3">...</td>
+          </tr>
+          <tr>
+            <td colspan="3">...</td>
+          </tr>
+          <tr>
+            <td colspan="3">...</td>
+          </tr>
+          <tr>
+            <td colspan="3">...</td>
           </tr>
         </tbody>
       </table>
@@ -578,6 +649,12 @@
           Curiously, رنق as in colour in Gulf Arabic derives from Classical Persian رَنْگ, though this is unrelated.<br>
           <br>
           Secondarily: راق-يروق-روقًا: to be clear (wine,) ه: to excite wonder in, whence also: روقة: great beauty, and especially: مُرَوَّق: porticoed (building,) clarified (wine,) etc. betray a very clear connection, and (etymologically) more distantly: راق-يريق-رَيْقًا: to be rippled (pool). to be poured (water). to quiver. to shine (mirage). <span class="text-italic">(all from J. G. Hava)</span><br>
+        </span>
+        <br>
+        <span id="r22">
+          [22] viz. the daylight, rain, wine, etc. are of such all-encompassing delight that one becomes their subject and such that they reach through all of time and space, even up to the very limit of worldliness, from and past which lies only one's demise and the hereafter.<br>
+          <br>
+          In Classical Arabic, this is expressed with great facility and effectiveness by both utilising an otherwise redundant adverbial construction consisting of a series of three particles of time and space (until, ablative from, after) as well as a web of associations of temporality and sequence (to follow over viz. reign over, to remain viz. for as long as, this world viz. the nearest/nearer [world],) all of which adds a dimension of vastness or wideness of extent in time and space, which is associated with ease, relief, etc. in Arabic and also mirrors the first two verses of this fragment.<br>
         </span>
         <br>
         <!-- }}} -->
