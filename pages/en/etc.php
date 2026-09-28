@@ -1,4 +1,22 @@
     <div class="div-box div-content-grid">
+      <div class="div-box" id="div-content-etc-questionable">
+        <h1>
+          Questionable<br>
+          German<br>
+          documents
+        </h1>
+        <a href="/<?php echo $inc_lang ?>/etc/liebes_gedicht">
+          Liebesgedicht eines<br>
+          anonymen deutschen Mannes ...
+        </a><br>
+        <a href="/<?php echo $inc_lang ?>/etc/s-1e2">
+          Anweisungen zum erfolgreichen<br>
+          Erreichen der <span class="div-content-etc-hvv-s-1e2" id="div-content-etc-hvv">S-1²</span>
+        </a><br>
+        <a href="/<?php echo $inc_lang ?>/etc/TAUBE.EXE">TAUBE.EXE</a><br>
+        <a href="/<?php echo $inc_lang ?>/etc/innenleben_katze">Innenleben einer Katze</a><br>
+      </div>
+
       <div class="div-box" id="div-content-etc-kade">
         <img
           alt="kade" class="div-content-img element-hidden" id="kade"
@@ -19,22 +37,16 @@
         </span><br>
       </div>
 
-      <div class="div-box" id="div-content-etc-german">
+      <div class="div-box" id="div-content-etc-answerable">
         <h1>
-          Questionable<br>
-          German<br>
+          Answerable<br>
+          Non-German<br>
           documents
         </h1>
-        <a href="/<?php echo $inc_lang ?>/etc/liebes_gedicht">
-          Liebesgedicht eines<br>
-          anonymen deutschen Mannes ...
+        <a href="/<?php echo $inc_lang ?>/etc/ya_rabb_wa_hurmat">
+          O my Lord, my only shelter,<br>
+          whose essence knows no flaw
         </a><br>
-        <a href="/<?php echo $inc_lang ?>/etc/s-1e2">
-          Anweisungen zum erfolgreichen<br>
-          Erreichen der <span class="div-content-etc-hvv-s-1e2" id="div-content-etc-hvv">S-1²</span>
-        </a><br>
-        <a href="/<?php echo $inc_lang ?>/etc/TAUBE.EXE">TAUBE.EXE</a><br>
-        <a href="/<?php echo $inc_lang ?>/etc/innenleben_katze">Innenleben einer Katze</a><br>
       </div>
     </div>
 <?php

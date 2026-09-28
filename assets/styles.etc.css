@@ -1,12 +1,17 @@
 
+#div-content-etc-questionable {
+  background:                         transparent;
+  grid-area:                          a;
+}
+
 #div-content-etc-kade {
   background:                         transparent;
   grid-area:                          b;
 }
 
-#div-content-etc-german {
+#div-content-etc-answerable {
   background:                         transparent;
-  grid-area:                          d;
+  grid-area:                          c;
 }
 
 .div-content-etc-hvv-s-1e2 {
