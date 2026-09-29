@@ -47,6 +47,9 @@
           O my Lord, my only shelter,<br>
           whose essence knows no flaw
         </a><br>
+        <a href="/<?php echo $inc_lang ?>/etc/terki_mi_kir">
+          You have abandoned me
+        </a><br>
       </div>
     </div>
 <?php
