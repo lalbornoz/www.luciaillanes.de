@@ -1,5 +1,5 @@
     <div class="div-box div-content">
-      <h1 class="text-centre">Anweisungen zum erfolgreichen Erreichen der <span class="hvv hvv-s-1e2">S-1²</span></h1>
+      <h1 class="text-centre">Anweisungen zum erfolgreichen Erreichen der <span class="div-content-etc-hvv-s-1e2" id="div-content-etc-hvv">Sx²=−1</span></h1>
 
       <ol>
         <li>
@@ -58,7 +58,7 @@
         </li>
 
         <li>
-          Sollte dies sich bestätigen, befindet sich der Fahrgast nunnehr in der <span class="hvv hvv-s-1e2">S-1²</span>.
+          Sollte dies sich bestätigen, befindet sich der Fahrgast nunnehr in der <span class="div-content-etc-hvv-s-1e2" id="div-content-etc-hvv">Sx²=−1</span>.
         </li>
 
         <li>

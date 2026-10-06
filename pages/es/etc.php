@@ -11,7 +11,7 @@
         </a><br>
         <a href="/<?php echo $inc_lang ?>/etc/s-1e2">
           Anweisungen zum erfolgreichen<br>
-          Erreichen der <span class="div-content-etc-hvv-s-1e2" id="div-content-etc-hvv">S-1²</span>
+          Erreichen der <span class="div-content-etc-hvv-s-1e2" id="div-content-etc-hvv">Sx²=−1</span>
         </a><br>
         <a href="/<?php echo $inc_lang ?>/etc/TAUBE.EXE">TAUBE.EXE</a><br>
         <a href="/<?php echo $inc_lang ?>/etc/innenleben_katze">Innenleben einer Katze</a><br>
