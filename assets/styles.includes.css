@@ -63,6 +63,7 @@
 #span-legend-top > h3 {
   font-family:      "Cormorant Garamond";
   font-size:        1.1em;
+  font-style:       italic;
 }
 
 #span-legend-top > span > h4 {
