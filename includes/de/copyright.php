@@ -1,5 +1,5 @@
     <div class="div-box" id="div-copyright">
-      <span class="text-inscription-cuneiform-large"
+      <span class="text-inscription-cuneiform-large text-black-important"
           title="Ul nūḫu lāšu illā lā mammāni&#10;Kein Erlöser außer Leere">
         𒌌𒉡𒌋𒄷𒌋𒆷𒀀𒋗𒅋𒌋𒈠𒈠𒉌
       </span><br>
