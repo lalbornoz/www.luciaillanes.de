@@ -26,33 +26,46 @@
   }
 }
 
-#div-legend > span > h1,
-#div-legend > span > h2,
-#div-legend > span > h3,
-#div-legend > span > h4
+#span-legend-top {
+  align-self:       center;
+  grid-area:        t;
+}
+#span-legend-left {
+  align-self:       center;
+  grid-area:        l;
+}
+#span-legend-right {
+  align-self:       center;
+  grid-area:        r;
+}
+
+#span-legend-top > h1,
+#span-legend-top > h2,
+#span-legend-top > h3,
+#span-legend-top > h4
 {
   display:          inline;
   font-variant:     normal;
   font-weight:      normal;
 }
 
-#div-legend > span > h1 {
+#span-legend-top > h1 {
   font-family:      "Cormorant Garamond";
   font-size:        3.3em;
 }
 
-#div-legend > span > h2 {
+#span-legend-top > h2 {
   font-family:      "Cormorant Garamond";
   font-size:        1.8em;
   text-transform:   uppercase;
 }
 
-#div-legend > span > h3 {
+#span-legend-top > h3 {
   font-family:      "Cormorant Garamond";
   font-size:        1.1em;
 }
 
-#div-legend > span > h4 {
+#span-legend-top > span > h4 {
   margin:           0;
 }
 /* }}} */

@@ -1,5 +1,5 @@
     <div class="div-box" id="div-legend">
-      <span style="grid-area: t">
+      <span id="span-legend-top">
         <h1>Lucía Andrea</h1><br>
         <h2>Illanes Albornoz</h2><br>
         <h3>Mehrheitlich eukaryotische multizelluläre Lebensform</h3><br>
@@ -17,7 +17,7 @@
         </span>
       </span>
 
-      <span style="grid-area: l; align-self: center">
+      <span id="span-legend-left">
         <span class="span-legend-menu">
           <a href="/<?php echo $inc_lang ?>/arabic_poems">Arabische Gedichte</a><br>
           <a href="/<?php echo $inc_lang ?>/stories">Unvollendete Träume</a><br>
@@ -31,7 +31,7 @@
         </span>
       </span>
 
-      <span style="grid-area: r; align-self: center">
+      <span id="span-legend-right">
         <span class="span-legend-menu">
           <a href="/<?php echo $inc_lang ?>/about">Über mich</a><br>
           <hr class="narrow"><br>
