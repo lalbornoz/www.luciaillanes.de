@@ -12,12 +12,12 @@
         <br>
         In technology, I specialise in crafting high-quality software for UNIX and Windows platforms, with a focus on
         aesthetic engineering - creating expressive code and technical documentation that is as readable and composable as
-        a well-woven poem. I simultaneously strongly espouse an <em>error/failure-oriented</em> attitude in engineering,
-        designing and implementing systems with a primary view towards how and when they fail as well as how to adequately
-        address failure, as well as openness towards exploration of novel pathways and perspectives, particularly those that
-        provide an increase in breadth of modes of expression and the structural collapse of questions in need of unasking.
-        I favour both methodical, structural approaches with a sound phenomenology as well as calling the same into question
-        when it is gainsaid by empirical evidence, no matter how challenging its status may be.<br>
+        a well-woven poem. I take an <em>failure-oriented</em> approach in engineering, designing systems with primary
+        consideration for how and when they fail as well as how to adequately address failure. I am equally open to exploring
+        novel pathways and perspectives, particularly those that expand our modes of expression and induce the epistemic
+        collapse of questions in need of unasking. I highly value methodical and structural approaches grounded in sound
+        notions as well as calling the same into question when it is contradicted by empirical evidence, no matter how
+        conventionally established the former or poor in data quality the latter may be.<br>
         <br>
         I have contributed to a <a href="/<?php echo $inc_lang ?>/projects">number of open source projects</a> and continue to
         maintain a <a href="https://github.com/lalbornoz/">GitHub</a>. My Curriculum Vitae is available on this website both as a
@@ -30,11 +30,14 @@
         with undertones of <em>Akkadian</em> and <em>Persian</em>.<br>
         <br>
         In creativity, I am drawn to weaving higher-order patterns from matters of little in the way of connection and often
-        much in the way of contradiction, with a particular inclination towards emptiness, dissociation, and apophasis, drawing
-        from fields such as Old Mesopotamia, Classical Arabic literature, mysticism, magical realism, gender identity, non-dualism,
-        kade, neutrinos, clinical psychology and psychiatry, and the indelibly indelicate flavour of my puzzlingly continuing
-        existence. In literature, I greatly prefer the expression and exploration of <em>subjectivity of experience</em> over
-        the mere replication of ostensible objectivity, often through the modes of liminality, transition, and non-being.<br>
+        much in the way of contradiction, applying my tools of the trade of negation and dissociation to draw from the fields
+        of the treasury of the unseen, from Old Mesopotamia, Classical Arabic literature, mysticism, magical realism to gender
+        identity, non-dualism, <a href="/<?php echo $inc_lang ?>/etc">kade</a>, neutrinos, clinical psychology and psychiatry,
+        and the indelibly indelicate flavour of my puzzlingly continuing existence. In literature, I greatly prefer the expression
+        and exploration of <em>subjectivity of experience</em> over the mere replication of ostensible objectivity, often in the
+        garb of an unwaveringly resolute reality that by the threshold of the merest insignificance unveils a world unseen,
+        wherein liberation is obtained from the coexistence, not contradiction, of opposites, if one should find oneself willing
+        to abandon undue attachment and become extinguished like a silent flame within the Pale.<br>
         <br>
         Additionally, I am equally strongly drawn to systems and dynamic processes of dazzling dimensionality, laden with
         recurrent loops, bearing state networks that silently sing the stillness of a garden perturbed by the gradients and
