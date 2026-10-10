@@ -41,8 +41,7 @@
 
 #span-legend-top > h1,
 #span-legend-top > h2,
-#span-legend-top > h3,
-#span-legend-top > h4
+#span-legend-top > h3
 {
   display:          inline;
   font-variant:     normal;
@@ -61,12 +60,6 @@
 }
 
 #span-legend-top > h3 {
-  font-family:      "Cormorant Garamond";
-  font-size:        1.1em;
-  font-style:       italic;
-}
-
-#span-legend-top > span > h4 {
   margin:           0;
 }
 /* }}} */
