@@ -9,7 +9,7 @@
         </h4><br>
         <span class="span-legend-menu span-heading2">
           <a href="/en<?php echo $inc_uri_orig ?>">English</a> |
-          <a href="/de<?php echo $inc_uri_orig ?>">German / Deutsch</a> |
+          <a href="/de<?php echo $inc_uri_orig ?>">German / Deutsch</a><br>
           <a href="/es<?php echo $inc_uri_orig ?>">Spanish / Español</a>
         </span><br>
         <span class="span-legend-menu">
