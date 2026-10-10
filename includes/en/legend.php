@@ -1,11 +1,11 @@
     <div class="div-box" id="div-legend">
-      Welcome to the personal website of<br>
-      <h1>Lucía Andrea Illanes Albornoz</h1><br>
-      <h2>Mostly eukaryotic multicellular form of life</h2><br>
-      <h3 class="text-inscription-cuneiform-small-normal-line-height"
+      <h1>Lucía Andrea</h1><br>
+      <h2>Illanes Albornoz</h2><br>
+      <h3>Mostly eukaryotic multicellular form of life</h3><br>
+      <h4 class="text-inscription-cuneiform-small-normal-line-height"
           title="Nin me šara u dalla ea&#10;Ištar is the Lady of the innumerable cosmic powers,&#10;resplendent daylight&#10;(incipit of the Sumeroakkadian exaltation of Inanna-Ištar)">
         🏳️‍⚧️ 𒊩 𒈨 𒊬𒊏 𒌓 𒁲𒆷 𒂊𒀀 🏳️‍⚧️
-      </h3>
+      </h4>
 
       <span class="span-legend-menu span-heading2">
         <a href="/en<?php echo $inc_uri_orig ?>">English</a> |

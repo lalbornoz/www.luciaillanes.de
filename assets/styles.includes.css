@@ -12,17 +12,29 @@
   }
 }
 
-#div-legend > h1,
-#div-legend > h2 {
+#div-legend > h1, h2, h3 {
   display:          inline;
-  font-size:        2em;
   font-variant:     normal;
   font-weight:      normal;
 }
-#div-legend > h2 {
-  font-size:        1.25em;
+
+#div-legend > h1 {
+  font-family:      "Cormorant Garamond";
+  font-size:        3.3em;
 }
+
+#div-legend > h2 {
+  font-family:      "Cormorant Garamond";
+  font-size:        1.8em;
+  text-transform:   uppercase;
+}
+
 #div-legend > h3 {
+  font-family:      "Cormorant Garamond";
+  font-size:        1.1em;
+}
+
+#div-legend > h4 {
   margin:           0;
 }
 /* }}} */
