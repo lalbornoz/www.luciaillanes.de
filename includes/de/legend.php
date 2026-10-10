@@ -3,7 +3,7 @@
         <h1>Lucía Andrea</h1><br>
         <h2>Illanes Albornoz</h2><br>
         <h3>Mehrheitlich eukaryotische multizelluläre Lebensform</h3><br>
-        <h4 class="text-inscription-cuneiform-small-normal-line-height"
+        <h4 class="text-inscription-cuneiform-small-normal-line-height" style="color: #C2A15A"
             title="Nin me šara u dalla ea&#10;Ištar ist die Dame der unzähligen kosmischen Mächte,&#10;strahlend aufgehendes Licht&#10;(Anfangssatz der sumeroakkadischen Hymne der Inanna-Ištar)">
           🏳️‍⚧️ 𒊩 𒈨 𒊬𒊏 𒌓 𒁲𒆷 𒂊𒀀 🏳️‍⚧️
         </h4><br>
