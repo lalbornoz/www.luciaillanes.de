@@ -31,9 +31,9 @@ html, body {
 
 body { font-size: 1em; }
 
-a:link { color: #178AB6; text-decoration: none; }
-a:visited { color: #178AB6; text-decoration: none; }
-a:hover { color: #A05463; text-decoration: underline; }
+a:link { color: #26619C; text-decoration: none; }
+a:visited { color: #725A9B; text-decoration: none; }
+a:hover { color: #26619C; text-decoration: underline; }
 
 h1, h2 { font-size: 1.5em; font-variant: small-caps; font-weight: bold; }
 h2 { font-size: 1.2em; }
