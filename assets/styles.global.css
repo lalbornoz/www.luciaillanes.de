@@ -38,8 +38,6 @@ a:hover { color: #A05463; text-decoration: underline; }
 h1, h2 { font-size: 1.5em; font-variant: small-caps; font-weight: bold; }
 h2 { font-size: 1.2em; }
 
-hr { border: none; border-bottom: 1px solid silver; width: 25%; }
-
 li { margin: 1em; }
 
 p { text-align: justify; text-indent: 1em; }
@@ -167,6 +165,31 @@ tbody:not(:last-of-type) tr:last-child td { border-bottom: 1em solid transparent
   color:            #ffffff;
 }
 /* }}} */
+
+/*
+ * Mesopotamian-style HR
+ */
+
+hr {
+  border:           none;
+  color:            #654A3C;
+  display:          inline-block;
+  font-size:        0.8em;
+  letter-spacing:   -0.1em;
+  line-height:      100%;
+  margin:           0;
+  width:            auto;
+}
+
+hr.narrow::before {
+  content:          "𒀼𒋰𒀼𒋰𒀼𒋰𒀼𒋰𒀼𒋰𒀼𒋰𒀼𒋰𒀼";
+}
+hr::before {
+  content:          "𒀼𒋰𒀼𒋰𒀼𒋰𒀼𒋰𒀼𒋰𒀼𒋰𒀼𒋰𒀼𒋰𒀼𒋰𒀼𒋰𒀼";
+}
+hr.wide::before {
+  content:          "𒀼𒋰𒀼𒋰𒀼𒋰𒀼𒋰𒀼𒋰𒀼𒋰𒀼𒋰𒀼𒋰𒀼𒋰𒀼𒋰𒀼𒋰𒀼𒋰𒀼𒋰𒀼";
+}
 
 /*
  * vim:ts=2 sw=2 expandtab fenc=utf-8 foldmethod=marker nowrap tw=0

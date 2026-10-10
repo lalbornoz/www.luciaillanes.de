@@ -4,6 +4,10 @@
   background-color: rgba(255,255,255,0.85);
   padding:          1.5em;
   width:            50%;
+  display:          grid;
+  grid-template-areas:
+    "l t r"
+    "b b b"
 }
 
 @media (max-width: 1280px) {
@@ -12,29 +16,33 @@
   }
 }
 
-#div-legend > h1, h2, h3 {
+#div-legend > span > h1,
+#div-legend > span > h2,
+#div-legend > span > h3,
+#div-legend > span > h4
+{
   display:          inline;
   font-variant:     normal;
   font-weight:      normal;
 }
 
-#div-legend > h1 {
+#div-legend > span > h1 {
   font-family:      "Cormorant Garamond";
   font-size:        3.3em;
 }
 
-#div-legend > h2 {
+#div-legend > span > h2 {
   font-family:      "Cormorant Garamond";
   font-size:        1.8em;
   text-transform:   uppercase;
 }
 
-#div-legend > h3 {
+#div-legend > span > h3 {
   font-family:      "Cormorant Garamond";
   font-size:        1.1em;
 }
 
-#div-legend > h4 {
+#div-legend > span > h4 {
   margin:           0;
 }
 /* }}} */
