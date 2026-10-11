@@ -32,7 +32,7 @@
 
       <span id="span-legend-right">
         <span class="span-legend-menu">
-          <a href="/<?php echo $inc_lang ?>/about">About me</a><br>
+          <a href="/<?php echo $inc_lang ?>/introduction">Introduction</a><br>
           <hr class="narrow"><br>
           <a href="https://www.linkedin.com/in/lucía-andrea-illanes-albornoz-9ba62a141">LinkedIn</a> |
           <a href="https://www.xing.com/profile/LucíaAndrea_IllanesAlbornoz">Xing</a> |

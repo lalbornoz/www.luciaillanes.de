@@ -2,7 +2,7 @@
   $inc_lang = NULL;
   $inc_dir = NULL;
   $inc_page = NULL;
-  $inc_page_fallback = "about";
+  $inc_page_fallback = "introduction";
   $inc_uri_fname = NULL;
   $inc_uri_orig = NULL;
   $language_fallback = "en";

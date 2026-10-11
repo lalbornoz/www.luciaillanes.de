@@ -1,5 +1,5 @@
     <div class="div-box div-content">
-      <h1>Über mich</h1>
+      <h1>Einleitung</h1>
 
       <img
         alt="Portrait" src="/assets/portrait.png" title="Portrait"
