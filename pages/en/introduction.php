@@ -53,9 +53,11 @@
         ever-escalating complexity, all while unfolding with profound narrative structure. The rare instances of such music, be it
         the alternate version of <em>Somewhere in Space</em> by <em>Sun Ra</em> with <em>Art Jenkins</em> playing his inverted ram's
         horn, the <em>Jazzpunk Theme</em>, <em>Lai Se</em> by <em>Fela Kuti and His Koola Lobitos</em>, or Classical Persian Music,
-        may very well, as far as I am concerned, constitute the auditory expression of proteins folding into an ordered 3-dimensional
-        structure through a mesmerising quantity of mutual interactions from a humble string of amino acids or the very sound of the
-        Pale itself that may only be heard when one ceases to hear. Music emerges from the emptiness between notes.<br>
+        like the <em>2nd part of the Gerāyeli of Dastgāh-e-Šūr</em>, the <em>Lezgī in the Zarbīhā of Dastgāh-e-Čāhārgāh</em>, and
+        the <em>Reng-e-Nastārī of Dastgāh-e-Navā</em>. These may very well, as far as I am concerned, constitute the auditory expression
+        of proteins folding into an ordered 3-dimensional structure through a mesmerising quantity of mutual interactions from a
+        humble string of amino acids or the very sound of the Pale itself that may only be heard when one ceases to hear. Music
+        emerges from the emptiness between notes.<br>
         <br>
         A selection of my <a href="/<?php echo $inc_lang ?>/stories">short stories and poems</a> and
         <a href="/<?php echo $inc_lang ?>/arabic_poems">Arabic poetry translations</a> as well as
