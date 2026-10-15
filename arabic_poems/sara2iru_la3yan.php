@@ -1,5 +1,5 @@
     <div class="div-box div-content">
-      <h1 class="text-centre">Delights that please the eye</h1>
+      <h1 class="text-centre">Treasures hide in springs unseen</h1>
       <h2 class="text-centre">Sarāʔiru l-aʕyān</h2>
 
       <p class="text-centre text-italic">
@@ -186,149 +186,153 @@
         Era: 12th-13th century<br>
       </p>
 
+      <p class="text-centre text-italic">
+        Nota bene: this poem extensively utilises the poetic device of Iltifāt: sudden shifts between perspectives via grammatical person.
+      </p>
+
       <table class="table-muwashshahah-en-centred">
         <tbody class="tbody-muwashshahah-qufl">
           <tr>
-            <td>Delights that please the eye</td>
-            <td>appear above all worlds<a href="#r2" class="a-reference">[2]</a></td>
-            <td>to eyes in staring eyes</td>
+            <td>Treasures hide in springs unseen</td>
+            <td>transcending all the worlds that be<a href="#r2" class="a-reference">[2]</a></td>
+            <td>appear when lovers' eyes do meet</td>
           </tr>
           <tr>
-            <td>But the lover that is jealous<a href="#r3" class="a-reference">[3]</a></td>
-            <td>deprived, from this, in thirst</td>
-            <td>pain begins to rise</td>
+            <td>The lover burnt by jealousy<a href="#r3" class="a-reference">[3]</a></td>
+            <td>possessed by thirsting envy</td>
+            <td>declaims in groaning agony</td>
           </tr>
         </tbody>
 
         <tbody class="tbody-muwashshahah-bayt">
           <tr>
-            <td>He says in burning passion</td>
-            <td>wore him out and the thereafter<a href="#r4" class="a-reference">[4]</a></td>
-            <td>has left him speechless</td>
+            <td>He shouts: “O Fiery Passion!”</td>
+            <td>that wore him out and the abandonment<a href="#r4" class="a-reference">[4]</a></td>
+            <td>has left him speechless!</td>
           </tr>
           <tr>
-            <td>When the thereafter drew near</td>
-            <td>and I can't tell far from</td>
-            <td>whom has made him jealous</td>
+            <td>“Ever since our separation</td>
+            <td>I'm bewildered and perplexed!</td>
+            <td>Who led my love astray?”</td>
           </tr>
           <tr>
-            <td>And the slave's in burning thirst</td>
-            <td>while the singular, the one<a href="#r5" class="a-reference">[5]</a></td>
-            <td>has let him choose</td>
+            <td>So the slave's in searing thirst</td>
+            <td>while the Singular, the One<a href="#r5" class="a-reference">[5]</a></td>
+            <td>has granted him a choice</td>
           </tr>
         </tbody>
 
         <tbody class="tbody-muwashshahah-qufl">
           <tr>
             <td>In disclosing and concealing</td>
-            <td>and secret and revealing<a href="#r6" class="a-reference">[6]</a></td>
+            <td>and secrets and revealing<a href="#r6" class="a-reference">[6]</a></td>
             <td>in all the worlds that be</td>
           </tr>
           <tr>
-            <td>I am the only judge</td>
-            <td>O worshipper of idols</td>
-            <td>you are but greedy!</td>
+            <td>I am He<a href="#r21" class="a-reference">[21]</a>, the Judge!</td>
+            <td>O Worshipper of idols!</td>
+            <td>Your love is but possession!</td>
           </tr>
         </tbody>
 
         <tbody class="tbody-muwashshahah-bayt">
           <tr>
-            <td>All that's love is hard</td>
-            <td>to whomever that complains:</td>
-            <td>the humiliation by the barrier!<a href="#r7" class="a-reference">[7]</a></td>
+            <td>Love is always hard</td>
+            <td>for those who find complaint</td>
+            <td>in separation's humiliation<a href="#r7" class="a-reference">[7]</a></td>
           </tr>
           <tr>
-            <td>O you that has a heart</td>
-            <td>if only you'd shone brightly</td>
-            <td>in the eyes of your companion</td>
+            <td>O You possessed of heart!</td>
+            <td>if only it had burnt</td>
+            <td>from the flame of your companion!</td>
           </tr>
           <tr>
-            <td>The lord then brings him near</td>
+            <td>The Lord lets him draw near</td>
             <td>but therein lies a lie:</td>
-            <td>for return<a href="#r8" class="a-reference">[8]</a> is all but fleeting</td>
+            <td>repentance<a href="#r8" class="a-reference">[8]</a> is but fleeting</td>
           </tr>
         </tbody>
 
         <tbody class="tbody-muwashshahah-qufl">
           <tr>
-            <td>And he cries out: O most Merciful!</td>
-            <td>O benevolent, O giving!</td>
-            <td>O how I am in sorrow!</td>
+            <td>He cries out: “O Merciful!</td>
+            <td>O Benevolent, O Giving!</td>
+            <td>I am in sorrow!”</td>
           </tr>
           <tr>
             <td>I languish in your absence</td>
             <td>and no friend have I near</td>
-            <td>not a single soul</td>
+            <td>not a single soul!</td>
           </tr>
         </tbody>
 
         <tbody class="tbody-muwashshahah-bayt">
           <tr>
-            <td>I passed from life to God</td>
-            <td>from where my eye was met</td>
-            <td>with his being</td>
+            <td>I vanished into God</td>
+            <td>whom my eye began to see</td>
+            <td>through his essence</td>
           </tr>
           <tr>
-            <td>In the lofty state of dignity</td>
-            <td>where I recovered from my pain</td>
-            <td>in his union</td>
+            <td>In my place of exaltation</td>
+            <td>I shouted: “Where is anywhere</td>
+            <td>amidst his union?”</td>
           </tr>
           <tr>
-            <td>So he<a href="#r9" class="a-reference">[9]</a> said then: O neglectful!</td>
+            <td>So he<a href="#r9" class="a-reference">[9]</a> said: “O, You heedless!”</td>
             <td>Have I truly seen an eye</td>
-            <td>with his eye?<a href="#r10" class="a-reference">[10]</a></td>
+            <td>through his eyes?<a href="#r10" class="a-reference">[10]</a></td>
           </tr>
         </tbody>
 
         <tbody class="tbody-muwashshahah-qufl">
           <tr>
-            <td>So when you see Ġaylān<a href="#r11" class="a-reference">[11]</a></td>
-            <td>and Qays<a href="#r12" class="a-reference">[12]</a> or whom it be</td>
-            <td>amongst those left behind<a href="#r13" class="a-reference">[13]</a></td>
+            <td>So don't you see Ġaylān<a href="#r11" class="a-reference">[11]</a></td>
+            <td>and Qays<a href="#r12" class="a-reference">[12]</a> or many more</td>
+            <td>amongst those left behind?<a href="#r13" class="a-reference">[13]</a></td>
           </tr>
           <tr>
-            <td>They said: love is a sovereign</td>
-            <td>if it dwelt within a person</td>
-            <td>their creed destroyed them<a href="#r14" class="a-reference">[14]</a></td>
+            <td>They said: “Love is a sovereign,</td>
+            <td>when it dwells within a person”</td>
+            <td>Their creed destroyed them!<a href="#r14" class="a-reference">[14]</a></td>
           </tr>
         </tbody>
 
         <tbody class="tbody-muwashshahah-bayt">
           <tr>
             <td>So many times the lovers said:</td>
-            <td>I am the one that loves</td>
-            <td>whom that is myself!<a href="#r15" class="a-reference">[15]</a></td>
+            <td>“I love you like none other</td>
+            <td>none other than myself!”<a href="#r15" class="a-reference">[15]</a></td>
           </tr>
           <tr>
-            <td>So I don't see them deviate</td>
-            <td>nor is there complaint</td>
-            <td>only their destruction<a href="#r16" class="a-reference">[16]</a></td>
+            <td>Their course is but themselves</td>
+            <td>their minds find no complaint</td>
+            <td>the end is their destruction<a href="#r16" class="a-reference">[16]</a></td>
           </tr>
           <tr>
-            <td>I'm not like those that turned</td>
-            <td>away from whom that loves</td>
-            <td>after its harvest<a href="#r17" class="a-reference">[17]</a></td>
+            <td>“I'm not like them that turned</td>
+            <td>away from those that loved them</td>
+            <td>after reaping love's harvest!”<a href="#r17" class="a-reference">[17]</a></td>
           </tr>
         </tbody>
 
         <tbody class="tbody-muwashshahah-qufl">
           <tr>
-            <td>For he<a href="#r17" class="a-reference">[17]</a> submits to solace</td>
-            <td>this is but defamation</td>
-            <td>to those that are familiar</td>
+            <td>For they<a href="#r17" class="a-reference">[17]</a> owe consolation!</td>
+            <td>that is but defamation</td>
+            <td>to those that have insight!</td>
           </tr>
           <tr>
-            <td>They have no thought, no more</td>
-            <td>of the Majestic Merciful</td>
+            <td>They comfortably forget</td>
+            <td>the presence of the Merciful</td>
             <td>and the deceivers</td>
           </tr>
         </tbody>
 
         <tbody class="tbody-muwashshahah-bayt">
           <tr>
-            <td>I turned into the garden<a href="#r18" class="a-reference">[18]</a></td>
-            <td>where solace and presence<a href="#r19" class="a-reference">[19]</a></td>
-            <td>were its shelter</td>
+            <td>I became one with the garden:<a href="#r18" class="a-reference">[18]</a></td>
+            <td>“O Solace! O Shelter!<a href="#r19" class="a-reference">[19]</a></td>
+            <td>His presence swept me away.”</td>
           </tr>
           <tr>
             <td>There rose for me the myrtle</td>
@@ -336,22 +340,22 @@
             <td>in its silken garment<a href="#r20" class="a-reference">[20]</a></td>
           </tr>
           <tr>
-            <td>I am He<a href="#r21" class="a-reference">[21]</a> O human</td>
-            <td>that soothes your passion</td>
-            <td>in his company</td>
+            <td>“I am Him<a href="#r21" class="a-reference">[21]</a>, O human!</td>
+            <td>who lends fragrance to your passion</td>
+            <td>in His gathering!”</td>
           </tr>
         </tbody>
 
         <tbody class="tbody-muwashshahah-qufl">
           <tr>
-            <td>Gardener, O lovers!</td>
-            <td>gather from the garden</td>
-            <td>the jasmine<td>
+            <td>O Gardener! O Lovers!</td>
+            <td>Gather from the garden</td>
+            <td>some jasmine!</td>
           </tr>
           <tr>
             <td>And grant then the myrtle</td>
-            <td>in the shelter of the merciful</td>
-            <td>to the true lovers<a href="#r22" class="a-reference">[22]</a></td>
+            <td>by the sanctity of the Merciful</td>
+            <td>to the lovers!<a href="#r22" class="a-reference">[22]</a></td>
           </tr>
         </tbody>
       </table>
@@ -367,11 +371,14 @@
         </span>
         <br>
         <span id="r3">
-          [3] viz. possessive jealousy; jealous to solely possess or be loved by solely or be possessed by solely.<br>
+          [3] Ġayrah (here in its hyperbolic form Ġayrān) is, as a cultural concept, distinct from jealousy in the sense that it constitutes <em>possessive jealousy</em>: exclusive jurisdiction over both the subject (how a person is conceived, perceived, constituted, etc.) and the object (the person itself,) fueled by and inflaming burning passion.<br>
+          <br>
+          A jealous lover - al-ʕāšiqu l-Ġayrān - in this sense is a contradiction in terms. The contradiction, conflict, and tension as well as its sublation in union from changing perspectives and sets of relations is a crucial to this poem as a whole.<br>
         </span>
         <br>
         <span id="r4">
-          [4] viz. departure of the beloved, abandonment thereby.<br>
+          [4] lit. thereafter, viz. departure of the beloved, abandonment thereby.<br>
+          This set of verses is very rich in temporal structure at a grammatical inasmuch as lexical level, via which the premise is primarily and secondarily expressed. This is only in some part directly carried over into the translation, which instead primarily operates via periphrasis.<br>
         </span>
         <br>
         <span id="r5">
@@ -401,7 +408,7 @@
         </span>
         <br>
         <span id="r8">
-          [8] also: repentance.<br>
+          [8] lit. return.<br>
         </span>
         <br>
         <span id="r9">
@@ -411,13 +418,6 @@
         <span id="r10">
           [10] That is to say: in union there remains separation, for the eye of the one that meets the eye of the beloved turns out to be separate from the other and thus cannot thereby truly perceive the most profound of truthful reality. The eye may see but solely from its perspective whereas the perspective of the eye that is seen is closed and cut off from the eye that is seeing. Only if the seeing eye and the eye that is seen were to meet in true union would the two disappear in perfect unity of being.<br>
           Only in direct experience of transcendent reality whereby all that remains of the self is annihilated and all senses are extinguished is union attained and mysteries are revealed.<br>
-          <br>
-          This brings to mind Parmenídēs of Eleá:<br>
-          <br>
-          Τὼς γένεσις μὲν ἀπέσϐεσται καὶ ἄπυστος ὄλεθρος.<br>
-          Thus is becoming extinguished and passing away not to be heard of.<br>
-          or alternatively:<br>
-          Thus beginning has ended and ending is unknown.<br>
         </span>
         <br>
         <span id="r11">

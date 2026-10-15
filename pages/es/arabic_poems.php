@@ -40,7 +40,7 @@
         <a href="/<?php echo $inc_lang ?>/arabic_poems/yaa_maleeh">O Handsome, O face of full moon rising</a><br>
         <a href="/<?php echo $inc_lang ?>/arabic_poems/in_kaan_wisaalak">If your love should cost me dearly ...</a><br>
         <a href="/<?php echo $inc_lang ?>/arabic_poems/man_malak_3aqlee">You that took my mind hostage</a><br>
-        <a href="/<?php echo $inc_lang ?>/arabic_poems/sara2iru_la3yan">Delights that please the eye</a><br>
+        <a href="/<?php echo $inc_lang ?>/arabic_poems/sara2iru_la3yan">Treasures hide in springs unseen</a><br>
       </div>
 
       <div class="div-box" id="div-content-arabic-poems3">
