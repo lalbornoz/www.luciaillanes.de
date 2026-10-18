@@ -15,7 +15,7 @@
 
       while (1) {
         if (!file_exists(DATA_CACHE_FNAME)
-        ||  (exec("env LC_ALL=C sh -c 'cd " . REPOSITORY_DNAME . " && git fetch && if [ \"\$(git log -n 1 --pretty=format:%H 2>/dev/null)\" != \"\$(git ls-remote . refs/remotes/origin/HEAD 2>/dev/null | awk '\''{print \$1}'\'')\" ]; then git pull; return 0; else return 1; fi'", $_, $git_result_code)
+        ||  (exec("env LC_ALL=C sh -c 'cd " . REPOSITORY_DNAME . " && git fetch && if [ \"\$(git log -n 1 --pretty=format:%H 2>/dev/null)\" != \"\$(git ls-remote . refs/remotes/origin/HEAD 2>/dev/null | awk '\''{print \$1}'\'')\" ]; then git pull --rebase; return 0; else return 1; fi'", $_, $git_result_code)
         &&   ($git_result_code == 0)))
         {
           if (!($list_file = fopen(LIST_FNAME, "r"))) {
